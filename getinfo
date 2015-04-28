@@ -5,6 +5,15 @@ BASE_URL="https://www.google-melange.com/gsoc/projects/list/google/gsoc";
 BASE_YEAR=2009
 THIS_YEAR=$( date +%Y )
 
+while [  $BASE_YEAR -le $THIS_YEAR ]; do
+	if [ -d $BASE_YEAR ]; then
+		rm -rf $BASE_YEAR
+	fi
+	let BASE_YEAR=BASE_YEAR+1
+done
+
+BASE_YEAR=2009
+
 #till google starts accepting more than 2k projects, we shall have it this way
 BASE_PARAMS="?fmt=json&limit=2000&idx=0"
 
@@ -59,3 +68,5 @@ while [  $BASE_YEAR -le $THIS_YEAR ]; do
 	get_file
 	let BASE_YEAR=BASE_YEAR+1
 done
+
+rm info.json
