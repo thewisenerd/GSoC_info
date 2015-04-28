@@ -1,0 +1,47 @@
+#!/bin/bash
+
+BASE_DOMAIN="https://www.google-melange.com"
+BASE_URL="https://www.google-melange.com/gsoc/projects/list/google/gsoc";
+
+BASE_YEAR=2009
+THIS_YEAR=$( date +%Y )
+
+#till google starts accepting more than 2k projects, we shall have it this way
+BASE_PARAMS="?fmt=json&limit=2000&idx=0"
+
+LINK_FILE="url"
+ABSTRACT_FILE="abstract.txt"
+
+get_details() {
+
+	cd $BASE_YEAR
+
+	len=$( ls -l . | grep -c ^d )
+
+	COUNTER=0
+	while [  $COUNTER -lt $len ]; do
+
+		BASE_COUNT=`expr ${COUNTER} + 1`
+
+		foo="$(printf "%04d" $BASE_COUNT)"
+
+		cd $foo
+
+			url_g=$( cat ${LINK_FILE} | sed 's/\"//g' )
+			../../gen.py ${BASE_DOMAIN}${url_g}
+
+			exit;
+
+		cd ..
+
+		let COUNTER=COUNTER+1
+	done
+
+	cd ..
+
+}
+
+while [  $BASE_YEAR -le $THIS_YEAR ]; do
+	get_details
+	let BASE_YEAR=BASE_YEAR+1
+done
