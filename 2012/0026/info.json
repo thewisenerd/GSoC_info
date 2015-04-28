@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck0LEgRVc2VyIglha29yb3Rrb3YMCxIHUHJvZmlsZSIZZ29vZ2xlL2dzb2MyMDEyL2Frb3JvdGtvdgwLEgdQcm9qZWN0GICAgIDA-pMKDA",
+  "organization": "PostgreSQL Project",
+  "mentors": "Heikki Linnakangas",
+  "student": "Alexander Korotkov",
+  "title": "Better indexing for ranges"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck8LEgRVc2VyIgpiZXdpdGhhbWFuDAsSB1Byb2ZpbGUiGmdvb2dsZS9nc29jMjAxNS9iZXdpdGhhbWFuDAsSB1Byb2plY3QYgICAgIDDlQoM",
+  "organization": "Python Software Foundation",
+  "mentors": "Ralf Gommers, Jaime",
+  "student": "bewithaman",
+  "title": "Scikit-Image: rewriting scipy.ndimage to cython"
+}

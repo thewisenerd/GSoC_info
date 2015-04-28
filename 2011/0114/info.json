@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghib2phbnR1ZwwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTEvYm9qYW50dWcMCxIHUHJvamVjdBiAgICAwLWbCgw",
+  "organization": "Oregon State University Open Source Lab (OSUOSL)",
+  "mentors": "Peter Krenesky",
+  "student": "Bojan Suzic",
+  "title": "REST API that other applications and scripts can use for automated deployments to a GWM enabled cluster"
+}

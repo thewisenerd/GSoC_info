@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcn8LEgRVc2VyIiJpZDIzZTQ0ZGNmM2MzMzc3ZmU3YTkyZWY3OWZiMzk0YjA5DAsSB1Byb2ZpbGUiMmdvb2dsZS9nc29jMjAxMS9pZDIzZTQ0ZGNmM2MzMzc3ZmU3YTkyZWY3OWZiMzk0YjA5DAsSB1Byb2plY3QYgICAgIDyiAoM",
+  "organization": "The LLVM Compiler Infrastructure",
+  "mentors": "Tilmann Scheller",
+  "student": "Viktor",
+  "title": "Fast JIT Code Generation for x86-64"
+}

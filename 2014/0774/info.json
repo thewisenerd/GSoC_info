@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdwZWxpa2FuDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxNC9wZWxpa2FuDAsSB1Byb2plY3QYgICAgIC5hAoM",
+  "organization": "The OpenBSD Foundation",
+  "mentors": "krw",
+  "student": "Martin Pelikán",
+  "title": "Modernize dhcpd daemon to OpenBSD standards."
+}

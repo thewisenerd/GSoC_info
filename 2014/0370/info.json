@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghnZHVjaGVuZQwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTQvZ2R1Y2hlbmUMCxIHUHJvamVjdBiAgICAwPqTCgw",
+  "organization": "The OpenBSD Foundation",
+  "mentors": "Matthieu Herrb, krw",
+  "student": "Grégoire Duchêne",
+  "title": "DHCP / Configuration parsing code overhaul"
+}

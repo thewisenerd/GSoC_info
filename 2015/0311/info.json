@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclULEgRVc2VyIg1mYWJyaXppb21lbGxvDAsSB1Byb2ZpbGUiHWdvb2dsZS9nc29jMjAxNS9mYWJyaXppb21lbGxvDAsSB1Byb2plY3QYgICAgODviwoM",
+  "organization": "PostgreSQL Project",
+  "mentors": "Ashutosh Bapat, Stephen",
+  "student": "Fabrízio de Royes Mello",
+  "title": "Improve the performance of “ALTER TABLE .. SET LOGGED / UNLOGGED” statement"
+}

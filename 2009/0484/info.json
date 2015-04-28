@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVscGVuZwwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMDkvbHBlbmcMCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "GCC",
+  "mentors": "Grigori Fursin",
+  "student": "Liang Peng",
+  "title": "Enable generic function cloning and program instrumentation in GCC to be able to create static binaries adaptable to varying program and system behavior or different architectures at run-time"
+}

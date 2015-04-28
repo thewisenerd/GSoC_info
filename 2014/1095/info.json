@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZ2ZXJvY2EMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDE0L3Zlcm9jYQwLEgdQcm9qZWN0GICAgIDghKYKDA",
+  "organization": "Ceph",
+  "mentors": "Kyle, Loic Dachary",
+  "student": "koleosfuscus",
+  "title": "Add erasure coding to the durability modeling"
+}

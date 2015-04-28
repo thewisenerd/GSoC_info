@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclMLEgRVc2VyIgxibGVzc2luZ2F0aWUMCxIHUHJvZmlsZSIcZ29vZ2xlL2dzb2MyMDE1L2JsZXNzaW5nYXRpZQwLEgdQcm9qZWN0GICAgICAuYQKDA",
+  "organization": "MariaDB",
+  "mentors": "Sergei Golubchik",
+  "student": "Blessing Atie",
+  "title": "Table functions (a.k.a UDF returning arrays / result set)"
+}

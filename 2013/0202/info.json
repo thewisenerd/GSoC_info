@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVjczY0OAwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTMvY3M2NDgMCxIHUHJvamVjdBiAgICAgLqHCgw",
+  "organization": "QEMU.org",
+  "mentors": "Gabriel Kerneis, Stefan Hajnoczi",
+  "student": "Charlie Shepherd",
+  "title": "Converting coroutines to Continuation Passing C "
+}

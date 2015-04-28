@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghzdHJpZ2F6aQwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTMvc3RyaWdhemkMCxIHUHJvamVjdBiAgICAgKaTCgw",
+  "organization": "Ganeti",
+  "mentors": "Constantinos Venetsanopoulos, Michele Tartara",
+  "student": "Spyros Trigazis",
+  "title": "Allocate or rebalance VMs based on CPU load metrics"
+}

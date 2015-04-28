@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdzYXJjYXNtDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMy9zYXJjYXNtDAsSB1Byb2plY3QYgICAgIC6hwoM",
+  "organization": "LLVM Compiler Infrastructure",
+  "mentors": "Edwin Vane",
+  "student": "Guillaume Papin",
+  "title": "Improving Clang C++ Modernizer (f.k.a C++11 Migrator)"
+}

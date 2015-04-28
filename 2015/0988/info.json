@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck8LEgRVc2VyIgp2aXNoYWw0NTU2DAsSB1Byb2ZpbGUiGmdvb2dsZS9nc29jMjAxNS92aXNoYWw0NTU2DAsSB1Byb2plY3QYgICAgKCOgQoM",
+  "organization": "haskell.org",
+  "mentors": "Ryan Trinkle, Thomas Tuegel",
+  "student": "Vishal Agrawal",
+  "title": "Implement nix-like package management features in cabal"
+}

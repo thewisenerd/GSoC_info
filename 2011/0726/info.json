@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZyZWZvbGQMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDExL3JlZm9sZAwLEgdQcm9qZWN0GICAgIDA6YQKDA",
+  "organization": "haskell.org",
+  "mentors": "Johan Tibell",
+  "student": "Mikhail Glushenkov",
+  "title": "Build multiple Cabal packages in parallel"
+}

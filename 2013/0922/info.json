@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghzdHJ6YWxlawwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTMvc3RyemFsZWsMCxIHUHJvamVjdBiAgICAgIarCgw",
+  "organization": "Ruby on Rails",
+  "mentors": "Piotr Sarnacki",
+  "student": "Łukasz Strzałkowski",
+  "title": "Split out ActionView from ActionPack and add Support for View classes."
+}

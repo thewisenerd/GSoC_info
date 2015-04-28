@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZndWl3dXUMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDA5L2d1aXd1dQwLEgdQcm9qZWN0GICAgICA8ogKDA",
+  "organization": "Fedora Project & JBoss.org (Red Hat)",
+  "mentors": "Trustin Lee",
+  "student": "Dai Jun",
+  "title": "Bayeux4Netty: A Bayeux(Comet) Protocol Codec On Top Of JBoss Netty"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdzdGVmYW50DAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMS9zdGVmYW50DAsSB1Byb2plY3QYgICAgMDZqAoM",
+  "organization": "coreboot",
+  "mentors": "Carl-Daniel Hailfinger",
+  "student": "stefanct",
+  "title": "flashrom: add support for the EC inside intel&#39;s ICHs"
+}

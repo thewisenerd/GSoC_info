@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVsYXNzaQwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTEvbGFzc2kMCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "FreeBSD",
+  "mentors": "bapt",
+  "student": "Joffrey Lassignardie",
+  "title": "pkgng: Implementation of sub-commands to convert .rpm and .deb to pkgng package format"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclULEgRVc2VyIg1qYWNrdGhlcmlwcGVyDAsSB1Byb2ZpbGUiHWdvb2dsZS9nc29jMjAxMy9qYWNrdGhlcmlwcGVyDAsSB1Byb2plY3QYgICAgIDVjwoM",
+  "organization": "Wine Project",
+  "mentors": "Detlef Riekenberg, André Hentschel",
+  "student": "George Stephanos",
+  "title": "Registry - implement merging between HKCR and HKCU\\Software\\Classes"
+}

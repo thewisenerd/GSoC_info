@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVtYXNzYQwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTQvbWFzc2EMCxIHUHJvamVjdBiAgICAgK6ZCgw",
+  "organization": "The OpenStack Foundation",
+  "mentors": "Arnaud Legendre, Davanum Srinivas",
+  "student": "Masaru Nomura",
+  "title": "Implement a re-usable shared library for VMware(oslo.vmware)"
+}

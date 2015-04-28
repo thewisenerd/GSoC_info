@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdrbWFsa2tpDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMy9rbWFsa2tpDAsSB1Byb2plY3QYgICAgMCSiAoM",
+  "organization": "coreboot",
+  "mentors": "MarcJ, Aaron Durbin",
+  "student": "Kyösti Mälkki",
+  "title": "Prepare for the lack of super-io UARTs and serialports on new mainboards"
+}

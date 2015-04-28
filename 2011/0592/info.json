@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdtcnRhZGlzDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMS9tcnRhZGlzDAsSB1Byb2plY3QYgICAgIC5hAoM",
+  "organization": "coreboot",
+  "mentors": "Stefan Reinauer",
+  "student": "Tadas Slotkus",
+  "title": "Coreboot panic room. Diagnostics (also remote flashing)"
+}

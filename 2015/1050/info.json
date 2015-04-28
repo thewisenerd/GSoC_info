@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgd6dWJhbjMyDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxNS96dWJhbjMyDAsSB1Byb2plY3QYgICAgJDHgAoM",
+  "organization": "QEMU",
+  "mentors": "Hannes Reinecke, John Snow",
+  "student": "Alexander Bezzubikov",
+  "title": "Integrate IDE ATAPI and SCSI CD-ROM emulation"
+}

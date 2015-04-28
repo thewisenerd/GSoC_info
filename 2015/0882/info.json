@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdzdGV3b3JpDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxNS9zdGV3b3JpDAsSB1Byb2plY3QYgICAgIDyiAoM",
+  "organization": "Python Software Foundation",
+  "mentors": "Darjus Loktevic, Jim Baker",
+  "student": "Stefan Richthofer",
+  "title": "Jython: Add full gc support to JyNI (and support ctypes)"
+}

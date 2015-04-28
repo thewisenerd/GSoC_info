@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclULEgRVc2VyIg1sdWJlbm5pa292YWF2DAsSB1Byb2ZpbGUiHWdvb2dsZS9nc29jMjAxNC9sdWJlbm5pa292YWF2DAsSB1Byb2plY3QYgICAgIDXjAoM",
+  "organization": "PostgreSQL Project",
+  "mentors": "Heikki Linnakangas",
+  "student": "Anastasia",
+  "title": "Index-only scans for GIST"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgd2bGFkYjM4DAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMS92bGFkYjM4DAsSB1Byb2plY3QYgICAgMD6kwoM",
+  "organization": "The NetBSD Foundation",
+  "mentors": "Christos Zoulas",
+  "student": "Vlad Balan",
+  "title": "Implementing the algorithms described in RFC 6056 within the NetBSD kernel."
+}

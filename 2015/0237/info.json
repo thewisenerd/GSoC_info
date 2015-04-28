@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclMLEgRVc2VyIgxkZF9taWNyb2JhdW0MCxIHUHJvZmlsZSIcZ29vZ2xlL2dzb2MyMDE1L2RkX21pY3JvYmF1bQwLEgdQcm9qZWN0GICAgICArpkKDA",
+  "organization": "CERN SFT",
+  "mentors": "Vir",
+  "student": "dd_microbaum",
+  "title": "Add GPU support to the Vc vectorization library"
+}

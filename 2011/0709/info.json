@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghyMDI2NTMxMwwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTEvcjAyNjUzMTMMCxIHUHJvamVjdBiAgICAgMOVCgw",
+  "organization": "Point Cloud Library (PCL)",
+  "mentors": "Marius Muja",
+  "student": "Nick Vanbaelen",
+  "title": "Fast Approximate Nearest Neighbours (KDTree) on GPU/multi-core"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgd5amh1YW5nDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAwOS95amh1YW5nDAsSB1Byb2plY3QYgICAgIDyiAoM",
+  "organization": "GCC",
+  "mentors": "Grigori Fursin",
+  "student": "Yuanjie Huang",
+  "title": "Provide fine-grain optimization selection and tuning abilities in GCC to be able to tune default optimization heuristic of the compiler or fine optimizations for a given program on a given architecture entirely automatically using statistical and machine learning techniques from the MILEPOST project."
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVwYXJjcwwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTMvcGFyY3MMCxIHUHJvamVjdBiAgICAgIarCgw",
+  "organization": "haskell.org",
+  "mentors": "Thomas Schilling",
+  "student": "Patrick Palka",
+  "title": "Extending GHC to support building modules in parallel"
+}

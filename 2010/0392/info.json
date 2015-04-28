@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdqYXh4eHh4DAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMC9qYXh4eHh4DAsSB1Byb2plY3QYgICAgIDDlQoM",
+  "organization": "Samba",
+  "mentors": "jlayton",
+  "student": "Igor Druzhinin",
+  "title": "Build infrastructure for storing NTLM creds in kernel keyring"
+}

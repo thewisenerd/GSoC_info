@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdhaWRlY29lDAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMC9haWRlY29lDAsSB1Byb2plY3QYgICAgIC5hAoM",
+  "organization": "Gentoo Foundation",
+  "mentors": "Lance Albertson, Eric Thibodeau",
+  "student": "aidecoe",
+  "title": "Port the new distro-neutral initrd framework, Dracut, to Gentoo "
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghkY2FycmVyYQwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTEvZGNhcnJlcmEMCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "GCC, the GNU Compiler Collection",
+  "mentors": "Tobias Burnus",
+  "student": "Daniel Carrera",
+  "title": "Extend GFortran&#39;s Coarray support with MPI-based paralellization"
+}

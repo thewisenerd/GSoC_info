@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZtcm51a2UMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDEzL21ybnVrZQwLEgdQcm9qZWN0GICAgICAhqsKDA",
+  "organization": "coreboot",
+  "mentors": "Peter Stuge, Josh Roys",
+  "student": "Alex Gagniuc",
+  "title": "A universal USB-based FWH/LPC/SPI programmer"
+}

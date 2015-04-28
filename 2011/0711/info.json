@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclELEgRVc2VyIgtyYWZhZWxhdWxlcgwLEgdQcm9maWxlIhtnb29nbGUvZ3NvYzIwMTEvcmFmYWVsYXVsZXIMCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "The LLVM Compiler Infrastructure",
+  "mentors": "Duncan Sands",
+  "student": "Rafael Auler",
+  "title": "Superoptimization for LLVM IR"
+}

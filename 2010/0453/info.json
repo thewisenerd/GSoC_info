@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVraWJhYgwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTAva2liYWIMCxIHUHJvamVjdBiAgICAgLmECgw",
+  "organization": "The FreeBSD Project",
+  "mentors": "Alexander Leidinger",
+  "student": "Ilya Bakulin",
+  "title": "Make optional kernel subsystems register themselves via sysctl"
+}

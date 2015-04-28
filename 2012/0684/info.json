@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck0LEgRVc2VyIgludGFua292aWMMCxIHUHJvZmlsZSIZZ29vZ2xlL2dzb2MyMDEyL250YW5rb3ZpYwwLEgdQcm9qZWN0GICAgIDA-pMKDA",
+  "organization": "Apache Software Foundation",
+  "mentors": "Uwe Schindler",
+  "student": "Nikola Tanković",
+  "title": "LUCENE-3312 Break out StorableField from IndexableField"
+}

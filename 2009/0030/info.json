@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck8LEgRVc2VyIgphbGVheGFuZGVyDAsSB1Byb2ZpbGUiGmdvb2dsZS9nc29jMjAwOS9hbGVheGFuZGVyDAsSB1Byb2plY3QYgICAgICumQoM",
+  "organization": "The Syslinux Project",
+  "mentors": "H. Peter Anvin",
+  "student": "Yuanhan Liu",
+  "title": "GSoC Proposal for Syslinux:Add EXT4 Support in EXTLINUX and Convert the Filesystem Part Code to C"
+}

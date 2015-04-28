@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlck8LEgRVc2VyIgpjaGllbmxpX21hDAsSB1Byb2ZpbGUiGmdvb2dsZS9nc29jMjAxNS9jaGllbmxpX21hDAsSB1Byb2plY3QYgICAgMCInQoM",
+  "organization": "Python Software Foundation",
+  "mentors": "Frédéric Bastien, Pierre Luc Carrier, Pascal Lamblin",
+  "student": "Chienli Ma",
+  "title": "Theano: Allow re-generating compiled function and improving OpFromGraph"
+}

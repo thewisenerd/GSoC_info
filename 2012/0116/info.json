@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclELEgRVc2VyIgthdnR1dW5haW5lbgwLEgdQcm9maWxlIhtnb29nbGUvZ3NvYzIwMTIvYXZ0dXVuYWluZW4MCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "Digital Mars",
+  "mentors": "David Simcha",
+  "student": "Antti-Ville Tuunainen",
+  "title": "Removing the global gc lock from common allocations in D."
+}

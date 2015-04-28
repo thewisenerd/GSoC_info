@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckMLEgRVc2VyIgR6YWtpDAsSB1Byb2ZpbGUiFGdvb2dsZS9nc29jMjAxMi96YWtpDAsSB1Byb2plY3QYgICAgIC5hAoM",
+  "organization": "Open Bioinformatics Foundation",
+  "mentors": "Pjotr Prins",
+  "student": "Marjan Povolni",
+  "title": "The worlds fastest parallelized GFF3/GTF parser in D, and an interfacing biogem plugin for Ruby"
+}

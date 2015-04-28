@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghqb3Jpc2dpbwwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTUvam9yaXNnaW8MCxIHUHJvamVjdBiAgICAoJqTCgw",
+  "organization": "The OpenBSD Foundation",
+  "mentors": "Joel Sing, Miod Vallat",
+  "student": "joris",
+  "title": "Port HAMMER2 to openbsd"
+}

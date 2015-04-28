@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVvcG50cgwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTQvb3BudHIMCxIHUHJvamVjdBiAgICAwLWbCgw",
+  "organization": "FreeBSD",
+  "mentors": "Gavin Atkinson",
+  "student": "Oliver Pinter",
+  "title": "Implement Intel SMAP and kernel patching framework"
+}

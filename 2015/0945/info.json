@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZ0b290aXMMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDE1L3Rvb3RpcwwLEgdQcm9qZWN0GICAgIDg95cKDA",
+  "organization": "KDE",
+  "mentors": "Marcel Wiesweg, Gilles Caulier",
+  "student": "Mohamed Anwer",
+  "title": "[digiKam] Rewrite database KIO-slaves as pure Qt5 with multithreading"
+}

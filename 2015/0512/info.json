@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghrcmlzdGFiYQwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTUva3Jpc3RhYmEMCxIHUHJvamVjdBiAgICAwIidCgw",
+  "organization": "The OpenBSD Foundation",
+  "mentors": "mherrb",
+  "student": "lgrange",
+  "title": "Implement KMS driver for Cirrus cards"
+}

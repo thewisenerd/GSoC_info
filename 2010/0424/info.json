@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckULEgRVc2VyIgVqcm9zZQwLEgdQcm9maWxlIhVnb29nbGUvZ3NvYzIwMTAvanJvc2UMCxIHUHJvamVjdBiAgICAgK6ZCgw",
+  "organization": "LLVM Compiler Infrastructure",
+  "mentors": "Chandler Carruth",
+  "student": "Jordy Rose",
+  "title": "Buffer Initialization and Bounds Checking"
+}

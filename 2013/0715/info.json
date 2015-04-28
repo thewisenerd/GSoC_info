@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckkLEgRVc2VyIgdwaWFzdHJ5DAsSB1Byb2ZpbGUiF2dvb2dsZS9nc29jMjAxMy9waWFzdHJ5DAsSB1Byb2plY3QYgICAgKChogoM",
+  "organization": "Samba",
+  "mentors": "Linux cifs/smb2/smb3 client",
+  "student": "Pavel Shilovsky",
+  "title": "SMB3 durable handles and leases for CIFS Linux kernel module"
+}

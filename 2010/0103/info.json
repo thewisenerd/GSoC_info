@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghiaWxseW51eAwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTAvYmlsbHludXgMCxIHUHJvamVjdBiAgICAgPKICgw",
+  "organization": "Battle for Wesnoth",
+  "mentors": "Mark de Wever",
+  "student": "Billy Biset",
+  "title": "Rewriting Battle for Wesnoth network stack using boost::asio."
+}

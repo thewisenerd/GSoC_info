@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlckcLEgRVc2VyIgZtYXJrbWIMCxIHUHJvZmlsZSIWZ29vZ2xlL2dzb2MyMDE0L21hcmttYgwLEgdQcm9qZWN0GICAgICA8ogKDA",
+  "organization": "QEMU",
+  "mentors": "Fam Zheng, Paolo Bonzini, Stefan Hajnoczi",
+  "student": "Marc Marí",
+  "title": "Device driver framework for low-level testing"
+}

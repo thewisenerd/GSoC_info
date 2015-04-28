@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlcksLEgRVc2VyIghqbGFmZmF5ZQwLEgdQcm9maWxlIhhnb29nbGUvZ3NvYzIwMTAvamxhZmZheWUMCxIHUHJvamVjdBiAgICAgLmECgw",
+  "organization": "The FreeBSD Project",
+  "mentors": "Ed Maste",
+  "student": "Julien Laffaye",
+  "title": "Complete Package support in the pkg_install tools and cleanup"
+}

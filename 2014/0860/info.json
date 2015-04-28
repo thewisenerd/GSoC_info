@@ -1,0 +1,7 @@
+{
+  "key": "ahBzfmdvb2dsZS1tZWxhbmdlclELEgRVc2VyIgtyaWNoYXJkdHNhaQwLEgdQcm9maWxlIhtnb29nbGUvZ3NvYzIwMTQvcmljaGFyZHRzYWkMCxIHUHJvamVjdBiAgICAgLmECgw",
+  "organization": "Python Software Foundation",
+  "mentors": "Ralf Gommers, Charles Harris",
+  "student": "Richard Tsai",
+  "title": "SciPy: Rewrite and improve cluster package in Cython"
+}
