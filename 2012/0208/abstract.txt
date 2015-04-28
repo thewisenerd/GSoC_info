@@ -1,0 +1,5 @@
+Currently, most primitives in BRLCAD do not have volume, centroid, or surface area functions. My goal is to implement volume and centroid functions for many of these primitives.
+
+As well, I will be refactoring major sections of mged's analyze command so that it makes use of the functions I will be adding. 
+
+I also plan on cleaning up the comments found in the source code that I will be working on throughout my project.

@@ -1,0 +1,1 @@
+Write a new bnx2 driver from scratch. Possibly improve/rewrite other drivers.

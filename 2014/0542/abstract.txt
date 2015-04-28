@@ -1,0 +1,1 @@
+Generic, efficient Localisation Update service. The service would keep track of translation updates in way which allows clients to only request a delta of changes since the last update

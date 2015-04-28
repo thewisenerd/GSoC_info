@@ -1,0 +1,1 @@
+This project aims to provide a generation tool that creating Qt bindings automatically for Haskell and make generation as much automation as possible. It parses Qt header files and generates corresponding Qt-style Haskell interfaces (type classes, data types).

@@ -1,0 +1,4 @@
+The goal of this project is to implement file system flags marking that data blocks are to be
+scrubbed before deletion. This security mechanism could prevent sensitive
+information to be retrieved from data storage media after removing files from
+the file system.

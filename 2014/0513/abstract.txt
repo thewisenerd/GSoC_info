@@ -1,0 +1,2 @@
+Monitoring is a new Drupal application monitoring framework that is already initially ported to Drupal 8.
+Further work is required to port the current sensor info into Drupal 8 config entities. This results in a major rewrite of the code. It will allow users to create instances through the UI. The current sensor settings will need further work to allow more flexibility in sensor creation. As a result, very flexible sensors are easily configured and migrated with the config system

@@ -1,0 +1,4 @@
+digiKam features a graphical interface to access and download pictures from digital cameras.
+Code is rather old, using Qt3Support classes for the icon view, the UI code intermangled deeply with backend code, and has not seen very much care and love for some years.
+
+This project would involve taking the old code apart, rewriting a clean code base backend and front-end, but also adding user interface elements to make the most important everyday task as easy as possible.

@@ -1,0 +1,1 @@
+Build a solid foundation for PDF-manipulation, together with both commandline tools, comparable with psselect, psnup, etc. for selecting pages, n-up printing, scaling, ... and a filter to be included in the printing-pipeline.

@@ -1,0 +1,1 @@
+The goal of this project is to impove the lighting system of pysoy, with support for Point, directional, spot and ambient lights. The project also aims to implement an optimized shadow mapping  mechanism with an option to toggle it. Shadows for room scene is handled separately.

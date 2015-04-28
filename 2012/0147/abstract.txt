@@ -1,0 +1,1 @@
+Basing on idea from PyGame GSoC 2012 list, I would like to propose a creation of easy networking module for PyGame. Basic idea is to write something similar to PodSixNet library, but better integrated with PyGame.

@@ -1,0 +1,3 @@
+1- Make TuxMath,TuxType apps accessible for visually impaired persons using native opensource TTS API's Espeak.
+
+2-Develop braille tutor extenion for TuxType. this will enable visually impaired children to learn brailler.

@@ -1,0 +1,3 @@
+The objective of this project is to develop a tool to visualize bluetooth traffic as sequence diagrams. The BlueZ has a command line tool hcidump, which reads raw HCI data from Bluetooth communication and displays it as commands,
+events and data in a human readable form. It is being developed hcimon, which has additional resources ( and may replace hcidump ). This tool will generate a graphic representation of traffic data coming from the hcidump (possibly also from hcimon). 
+I intend to create graphics for this tool by using the GTK + toolkit, which is used by wireshark, so it would be easier to build the integration of this new tool with wireshark.

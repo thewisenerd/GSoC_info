@@ -1,0 +1,3 @@
+I want to design a game that can be played by children on mobile devices which can be used for educational and entertainment purposes at the same time and currently no store (iTunes or Android) has such an
+application. Such an app will accelerate learning for people who do not have adequate learning tools
+or who cannot afford quality education.

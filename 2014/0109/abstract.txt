@@ -1,0 +1,3 @@
+Objective of this project is to create RTEMS port for mikroprocesor core Cortex R4F.  
+Microprocesor core Cortex R4F is designed for safety enhanced application which make it great choice for automotive and other safety critical application. 
+My task would be to prepare RTEMS for running on the Cortex – R4 Ti Hercules family core. This will highly increase development and production speed of anyone using microprocessor of the mentioned family.

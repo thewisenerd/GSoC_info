@@ -1,0 +1,1 @@
+glusterfsiostat will be used to provide performance statistics similar to those given by nfsiostat about glusterfs mounts on a system through a standard CLI and visualization of data with a graphics processing utility.

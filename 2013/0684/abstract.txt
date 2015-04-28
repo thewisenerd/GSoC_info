@@ -1,0 +1,1 @@
+LSB provides a lot of tests to check compatibility of distributions and applications. The aim of this project is to simplify support of several test suites by implementing multi-version support and eliminating the need to maintain several versions of test suites.

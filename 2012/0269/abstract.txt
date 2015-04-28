@@ -1,0 +1,1 @@
+As stated in problem, the performance of current system depends on some PL/Perl-based PostgreSQL stored procedures. Identify and reimplement these routines will bring a performance improvement to current system.

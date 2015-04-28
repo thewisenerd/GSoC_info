@@ -1,0 +1,1 @@
+This project aims to expose NVIDIA's GPU graphics counters to the userspace through mesa. This idea follows my previous Google Summer of Code which was mainly focused on reverse engineering NVIDIA's performance counters. The main goal of this project is to help Linux developpers in identifying the performance bottleneck of OpenGL applications.

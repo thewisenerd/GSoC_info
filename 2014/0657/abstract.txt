@@ -1,0 +1,1 @@
+Empowering existing application privly-android. Improvement of the application design. Completion and modernization of the GUI. Finalization of graphic design (optimization for different screen resolutions). Adding support for gmail, vk.com.

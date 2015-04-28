@@ -1,0 +1,1 @@
+This task aims to Port the WME-Lite (WinterMute Engine-lite) engine to ScummVM, to allow the current games written for that engine to be played with ScummVM. It will also open up the possibility for users to create their own games that work with ScummVM, as authoring tools exist for WME.

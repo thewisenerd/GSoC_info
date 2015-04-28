@@ -1,0 +1,5 @@
+CinC is a compiler written in clojure that can currently analyze and compile a subset of clojure.
+It is based on the clojurescript compiler but it is not complete and it needs more work in order to be a viable alternative to Compiler.java.
+With this project I'd intend to complete the CinC implementation in order to make it at least as powerful as Compiler.java is, and explore using multiple micro-passes in the analyzer, instead of keeping it a monolythic single-pass one, as the clojurescript one and Compiler.java are, in order to ease debugging and allow selective enabiling/disabling of analysys phases.
+
+Extensive documentation will also be written for every part of the compiler.

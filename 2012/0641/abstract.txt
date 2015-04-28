@@ -1,0 +1,1 @@
+Practical implementation of a new layout module in OGDF for orthogonal hypergraph layout using hypergraph crossing minimization heuristics published by M. Chimani and C. Gutwenger on ISAAC 2007.

@@ -1,0 +1,1 @@
+Nowadays, the HetNets are getting more and more popular topic, so the main main goal of the project is to provide scientists and researchers with powerful tool to test and examine their own ideas in this field. LTE module will be extended to support Fractional Frequency Reuse functionality, moreover couple of FFR algorithms will be developed.

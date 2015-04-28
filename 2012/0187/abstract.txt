@@ -1,0 +1,1 @@
+The aim of the project is to use the PopIt component of MySociety to build Parliamentary Monitoring Websites for more countries. Considering the lack of transparency and accountability in public governance in countries like India, I believe, this is a very useful initiative. It can serve as a one stop solution over the web to find the latest information about any politician.

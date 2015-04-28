@@ -1,0 +1,1 @@
+This project aims to create an automated bug reporting system for TimVideos website. The system performs automated data collection for debugging purposes and this data is transferred to a database. An admin can then view the reported bugs, give them a priority, mark them as resolved etc.

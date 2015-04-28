@@ -1,0 +1,2 @@
+Pattern matches in PureScript are currently not checked for exhaustiveness at compile time, which can lead to unexpected failures at run-time.
+The main goal from this project is to provide an exhaustiveness checker for pattern match errors that allows non-exhaustive patterns to exist, yet ensures that a pattern match error does not occur and thus avoiding unexpected crashes while executing a program.

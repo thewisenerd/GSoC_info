@@ -1,0 +1,1 @@
+Building a standalone application / tool that can perform automatic resizing of file system and logical volumes. This tool can be called by the package manager during installation on encountering low space exception and this tool can also perform automatic resizing  if the free space required by a user for a specific Volume decrease below a certain level.

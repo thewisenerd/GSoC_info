@@ -1,0 +1,3 @@
+Traits are pure units of behavior that can be composed to form classes or other traits. The trait composition mechanism is an alternative to multiple or mixin inheritance in which the composer has full control over the trait composition. The result enables more reuse than single inheritance without introducing the drawbacks of multiple or mixin inheritance.
+The current implementation of traits in Pharo merges the trait methods into the classes that use the trait. This merging of external methods into classes makes the implementation of the development tools harder.
+So, the idea would be improve this implementation.

@@ -1,0 +1,4 @@
+I plan to implement the architecture for Markov Networks including creation and modification of graph, representation of node and edge potentials and conditional independencies in MRFs
+
+I also plan to implement the following algorithms : 
+Exact Inference Algorithms including Triangulation Heuristics, creation of Junction Trees, and Belief Propagation ;  Heuristic Inference Algorithm (alpha-expansion algorithm) and Inference using Sampling (Gibbs Sampling)

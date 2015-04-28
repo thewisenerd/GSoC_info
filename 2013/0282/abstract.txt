@@ -1,0 +1,5 @@
+CCMF is intended to safeguard copyright owner's intellectual properties, by keeping track of the appearance of their content on the web. Eventually, CCMF would notify these owners if their copyright of their content has been violated on the web.
+
+To facilitate this, CCMF would require a signature of author's original content. Subsequently, various search channels would compare with this signature. When the search channels chance upon a significantly similar web content, CCMF would verify that it belongs to the original content and identify it's author.
+
+Another key idea is that the all computations can be accomplished via the client's browser or via the Node.JS environment. There is no centralised server requirement to use this library.

@@ -1,0 +1,3 @@
+This summer I intend to implement one of the proposed works for GNOME Maps, namely, Foursquare and Facebook check-in integration. User will be able to checkin to places and see last known checkin location of their friends. This will require some work in both gnome-maps and gnome-online-accounts components.
+
+Also, if I have time, I'll work in the GtkPopover integration with GNOME Maps marker, to have a more content rich and nice app.

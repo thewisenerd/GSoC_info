@@ -1,0 +1,1 @@
+The current configuration parsing code is quite messy and convoluted and should be updated to a more modern approach using yacc.

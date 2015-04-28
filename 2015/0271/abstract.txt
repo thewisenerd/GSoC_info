@@ -1,0 +1,2 @@
+As a step towards a retargetable decompiler r2's ESIL should get converted to SSA representation. Beyond the naive translation it should also identify local variables and represent them within the SSA graph (where stack deltas are known).
+Constant folding should further remove noise from the output.

@@ -1,0 +1,2 @@
+I have a working version of multipath TCP for ns3.19 that I can't share publicly yet (I can with the ns3 admins). My idea is - during the first 6 weeks - to add more features, refactor a few things so that it can be upstreamed. 
+During the last 4 weeks I would like to implement per node clock to be able to simulate time distribution protocols. This proposition is a follow up of my email: http://network-simulator-ns-2.7690.n7.nabble.com/Addition-of-per-node-clocks-in-ns3-td29301.html

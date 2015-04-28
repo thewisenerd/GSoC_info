@@ -1,0 +1,1 @@
+This project focuses on improving the UI for analyzing code in Xamarin Studio, by adding batch analysis and fixes.

@@ -1,0 +1,3 @@
+Compat-* packages in general gives the freedom of non-invasively switching to more modern and up-to-date drivers without updating the installed kernel at all.
+
+The aim of this project is to provide compat-vga tarballs reflecting the bleeding-edge repositories for being able to offer latest fixes for GPU drivers and to support newer chipsets on all known supported kernel releases listed on kernel.org.

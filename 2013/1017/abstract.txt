@@ -1,0 +1,6 @@
+Animation Library based on Athens framework
+
+The Athens is a new vector-based graphics framework for Pharo.
+Implementing the animation framework on top of it, would make possible to use
+various visual effects in UI for transitions like fading, sliding, zooming/rotation.. or morphing geometrical shapes from one to another.
+Animation framework could also be used to realize better support for importing SVG format which contains animations.

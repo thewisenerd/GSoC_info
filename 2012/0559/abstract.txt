@@ -1,0 +1,1 @@
+My proposal is to add a set of image processing algorithms based on solving Poisson equations to the imageBufAlgo namespace.

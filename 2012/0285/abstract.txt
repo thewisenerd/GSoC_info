@@ -1,0 +1,1 @@
+In this project, I will develop a Cytoscape plugin that explores and links from local RDF data or remote SPARQL-endpoints containing biological pathway information. It visually enables exploring pathway knowledge resources to draw a linked data cloud and facilitates the assembly of federated semantic data sources in given contexts.

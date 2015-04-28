@@ -1,0 +1,1 @@
+The aim of this project is to extend the current puppet-portage module and improve gentoo support on upstream modules.

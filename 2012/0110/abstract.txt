@@ -1,0 +1,1 @@
+The project aims at restructuring the complex and complicated programming codes of phpMyAdmin scripts relating to Table search, Db search, Multi-table query sections into simple and easy-to-understand ones.

@@ -1,0 +1,1 @@
+A SpatialPrefixTree which uses Hilbert curve for ordering multi-dimension points to one dimension, Morton binary coding and variable sized grids to effeciently process geodetic and non-geodetic queries will be introduced in Apache spatial.

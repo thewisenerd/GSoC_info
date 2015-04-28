@@ -1,0 +1,3 @@
+A well-ported BOINC client for Android-powered devices could vastly increase the participating systems.
+
+I am proposing to work on porting the current BOINCclient - written in C++ - to Android using the Android NDK and developing a GUI and variable usage model.

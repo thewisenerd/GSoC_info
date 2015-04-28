@@ -1,0 +1,2 @@
+Create a tool that can improve the usage for standardized medical vocabulary such as ICD-10 and HL7. Since there are various medical standards and vocabularies in use, it would be very valuable to design a system and corresponding protocol that can parse and reformat them to a more formal representation, like XML.
+The goal of the tool is to enable and ease the process of customizing a domain specific vocabulary and help medical professionals with their specific usage of the domain knowledge.

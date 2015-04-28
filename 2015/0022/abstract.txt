@@ -1,0 +1,1 @@
+Adding two language pragmas to GHC, StrictData and Strict, that will enable Haskell developers to default to strict evaluation on a per module basis. This is useful when writing high performance code in Haskell.

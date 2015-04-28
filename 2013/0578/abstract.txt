@@ -1,0 +1,3 @@
+Athens is an open-source vector graphics framework that lets Pharo users programmatically generate diagrams, vectorial drawings and animations. I want to port Athens to Amber, a Smalltalk implementation running in the web browser. It will use the HTML5 Canvas for drawing.
+
+My motivation is to give Smalltalk/web developers a tool for generating high-quality drawings easily. On top of Athens, we can build a framework for drawing user interfaces in Amber.

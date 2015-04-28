@@ -1,0 +1,1 @@
+The project aims at creating an Accessible Cross Platform HTML5 Collaboration Web Application using Fluid Infusion framework to provide a flexible, personalizable user interface. Along with video conversation, the application shall have feature to chat, share websites and take notes collaboratively.

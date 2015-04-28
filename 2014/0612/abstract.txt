@@ -1,0 +1,1 @@
+The main objective of the project is to allow web access to MEG data through static html files created from MNE-Python. The result will be a tool which provides a summary of MEG analysis results and lets scientists explore them with minimal scripting.

@@ -1,0 +1,8 @@
+1. Integrate the two search options available on two different pages .
+
+The user will be able to search on the data indexed in solr( currently accessed through the eol.org/search) as well as the virtuoso data( eol.org/data_search) in just one page.
+
+2. Summarizing the RDF graphs for enhanced query performance.
+
+
+This will result in the query being fired  just in the summarized RDF graph and so instead of querying the whole dataset,the queries are executed on the summarized graphs.

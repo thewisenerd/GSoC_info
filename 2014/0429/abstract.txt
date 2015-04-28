@@ -1,0 +1,3 @@
+Taking care of a lot of instances of the same configuration is boring and can be automated. With plugins for the best known CMS systems, syslog-ng could gain a lot of popularity in the cloud. The goal of this project to write syslog-ng plugins for Salt, Chef and Puppet applications.
+
+With these plugins system administrators wil have new tools to configure their syslog-ng instances. They can create new configurations on thousands of machines in a few seconds by typing a command in the CLI.

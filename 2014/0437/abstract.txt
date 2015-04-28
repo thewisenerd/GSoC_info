@@ -1,0 +1,1 @@
+Through this project I'd like to develop an android app that consumes the MifosX api and provides a field officer with functionalities that could reduce the use of paper, easier task tracking and management. Enable the app to work offline and sync it with the cloud.

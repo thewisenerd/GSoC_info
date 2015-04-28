@@ -1,0 +1,1 @@
+This is a proposal for adding dynamic typing to the Scala language. It is meant to be viewed in a monospace font. See additional info link for a monospaced version.

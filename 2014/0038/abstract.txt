@@ -1,0 +1,3 @@
+Peer evaluation :It will allow the learners and other people involved to grade peers. A fixed number of activities of a particular kind will be assigned to each learner which he/she will have to grade. Others for example, instructors, courses managers can choose any blog which they would want to evaluate.
+
+Course registration and flow improvements. The mediawiki Education  Program extension will be extended to include the features of existing wikieducator widgets and some new features.

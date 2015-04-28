@@ -1,0 +1,1 @@
+There are a number of interesting new solvers available which could be considered for inclusion ASCEND as new external libraries. We'd consider GAlib, BonMin, perhaps CERES and probably others if we can see strong potential for the solver's use for the types of problems we use ASCEND for.

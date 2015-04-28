@@ -1,0 +1,3 @@
+When connecting to a vm that has multiple outputs, show the primary display by default, and offer a 'monitor switcher', which could be similar to the workspace switcher in gnome-shell, or could just be a menubutton with previews.
+
+Allow to 'bind' an external display of the host to a vm in the display configuration. In this case, put up a fullscreen window on the external display showing the secondary output of the vm, while the normal boxes window would continue to show the primary output.

@@ -1,0 +1,1 @@
+Implementation of an android based remote control for Impress, allowing the user to change slides and preview slides and view the notes on their android smartphone (or tablet).

@@ -1,0 +1,3 @@
+Deep neural networks show significant accuracy increase in image classification and many other tasks.
+Modern DNN frameworks deliver efficient training methods, but most of them use different architecture serialization and weights storage scheme. These research frameworks have cross-platform issues and cannot be easily embedded into existing programs.
+OpenCV must have a simple interface for DNN networks with effective cross-platform realization and importers for the most popular DNN frameworks.

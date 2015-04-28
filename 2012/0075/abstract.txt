@@ -1,0 +1,1 @@
+This project involves making a majority of Drizzle plugins dynamic, so that, it would not require restarting Drizzle to change their options/variables. With this addition, once Drizzle is started, it does not have to be restarted to be reconfigured.

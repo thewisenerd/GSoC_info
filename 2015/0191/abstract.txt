@@ -1,0 +1,1 @@
+This project aims at creating an OpenMRS module that integrates the eSaude Data migration tool into OpenMRS so as to ease data migration from SQL-based sources into OpenMRS. Furthermore, this goes to ease data migration for production settings into OpenMRS, making it more user-friendly.

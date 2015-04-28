@@ -1,0 +1,1 @@
+Connectivity estimation is one of the most important problem in EEG/MEG studies. Many estimators work correctly in different applications, so the python tool which allows to have them in one place could be very useful. Main goal of the project is to design and write light and extendable module open for many data formats.

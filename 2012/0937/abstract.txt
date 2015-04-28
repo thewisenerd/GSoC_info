@@ -1,0 +1,1 @@
+Currently ODF is one of the most popular document formats, so it’s support is vital part of AbiWord. There are still some issues that need to be fixed to improve ODF support. The aim of this project is to solve these issues and give to users even better support of ODF features.

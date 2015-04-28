@@ -1,0 +1,4 @@
+The goal of the project is to expand the functionality and to improve the performance of the existing R package 'sdcMicro'.
+A major reduction in computation time can be expected from implementing more of the available methods in C/C++ rather than in the high level programming language R.
+Furthermore, not all available disclosure methods are yet implemented in R, therefore, it would be of importance to add more methods to the R package 'sdcMicro'.
+Thirdly, the methods available in the R package should be easily accessible for subject matter specialists who generally not trained in or used to R or a command line interface.  For this goal, the existing graphical user interface 'sdcMicroGUI' should be expanded to cover most aspects of the process of statistical disclosure control.

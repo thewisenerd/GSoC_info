@@ -1,0 +1,11 @@
+IDEA 8: Understanding Complex Pathways using User Data and Web Services in PathVisio
+
+The goal is to produce a user-friendly mechanism to filter/highlight nodes in PathVisio, a tool to draw biological pathways. Users would be able to upload text data from a variety of external sources (e.g. protein-drug or protein-biological pathway data; PharmGKB or DrugBank) or experimental data and then filter out nodes in a biological pathway based on a combination of this information. In addition to user-uploaded data, the tool might also pull data directly from pre-selected databases using web services; BioCatalogue provides directory of biology-oriented web services.
+
+An example query is that a user might like to know what proteins in a particular biological pathway are involved in cell division, are known targets to the cancer drug doxorubicin, and are also over-expressed in some experiment the user has performed.
+
+One example of a tool that already does this well for textual data is Google Refine (http://www.youtube.com/watch?v=LovigIDl634). This tool would help biologists navigate large, complicated pathways.
+
+Language and Skills: Java
+Potential Mentors: Augustin Luna
+Contact: wikipathways-discuss@googlegroups.com

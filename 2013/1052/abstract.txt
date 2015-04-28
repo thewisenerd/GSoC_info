@@ -1,0 +1,1 @@
+Add a smart file caching layer based on various heuristics specialized for web servers. The service will be based on a virtual filesystem using FUSE completely in userspace.

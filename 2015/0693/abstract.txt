@@ -1,0 +1,3 @@
+Software Carpentry is growing rapidly. All the management for its workshops is currently being done by 1-2 persons and in very rough conditions (via files and text notes). That's why Amy was created: to help Software Carpentry admins schedule workshops, assign instructors to workshops, and even coordinate training for new instructors.
+
+The aim of this project is to continue enhancing Amy. Many people suggested great ideas for Amy, some even implemented them, but not much was actually merged.

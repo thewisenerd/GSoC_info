@@ -1,0 +1,5 @@
+The project extends LTI (Learning Tool Interoperability) implementation so that the content available in AContent can be integrated into any other LTI consumer application. The last year LTI system has been successfully integrated into AContent and ATutor. This year target is to create a LTI link through OAuth to pass information about the user (student or instructor) and let the course content be available outside AContent.
+
+This will allow AContent to authenticate against a LTI consumer and hence make the content available in Acontent based upon the user(student or instructor) to any other LTI consumer application.
+
+Hence the content within Acontent will be more accessible and easily available securely.

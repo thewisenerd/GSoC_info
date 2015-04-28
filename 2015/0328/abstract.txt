@@ -1,0 +1,1 @@
+I will introduce serveral features that make SAS static checker more powerful. These include a test infrastructure with cdash CI support, a user-friendly commandline interface, checkers for thread-safety and overflow, a configuration machanism for hierachy black/white list. In general, I will make SAS a escort for all C/C++ projects in CERN-SFT.

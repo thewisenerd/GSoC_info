@@ -1,0 +1,1 @@
+This projects aims to further improve the PDE as a modern code editor and implement more advanced features – intelligent code completion, basic refactoring, interactive help and a few other features to improve the overall editor experience.

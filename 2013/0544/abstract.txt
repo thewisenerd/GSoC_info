@@ -1,0 +1,1 @@
+Axis2 is  a popular web service framework but it has limited support for Spring framework.This proposal is targeting to write a better Axis2-Spring framework and will support to configure Axis2 framework using Spring ,deploy Axis2 web services including JAX-WS and Axis2 modules.  Further this new module can be used as a standalone application or within a Servlet container.

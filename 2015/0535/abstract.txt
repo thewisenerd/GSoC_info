@@ -1,0 +1,3 @@
+The SOS application’s message data flow is rapid and short in nature and it is necessary to measure some metrics of the incoming/outgoing messages and overall how the users uses the service.
+ 
+My proposal is integrating a working monitoring component which utilize the SOS inner event bus infrastructure for storing the metric logs in ElasticSearch and visualizing it for the users with Kibana frontend.

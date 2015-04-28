@@ -1,0 +1,4 @@
+Current module is implemented in Fortran 77 which is not quite popular these days and has its own limitations.
+It has some limitations like use of too many global variables(whose significance is hard to understand for a new developer), lack of code re-usability etc.
+So Aim of this project is to develop and test a particle tracking API having the power of parallel computing and use standard easy to use and understand naming conventions and refactoring 
+of existing module using this API.

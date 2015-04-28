@@ -1,0 +1,2 @@
+Signaling pathways are sets of directed interactions between biomolecules, initiated by input signals and resulting in realization of target processes. Assessment of pathway activities is crucial for identification of pathways which contribute to disease development.
+This project is aimed at creating a Cytoscape app for calculation of pathway signal flow based on gene expression data and pathway topology. The app should incorporate both existing algorithms and provide framework for new ones.

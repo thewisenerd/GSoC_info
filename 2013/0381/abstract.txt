@@ -1,0 +1,1 @@
+This project aims to add a partial rebuild feature to Btrfs, which, among other things, would allow rebuilding a drive that suffered a transient outage in time proportional only to the amount of changes committed during the outage.

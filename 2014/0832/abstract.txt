@@ -1,0 +1,1 @@
+Implement a framework, via extending the current  one implemented for relational electrophysiology databases, to generate a mobile layout according to data structure defined in a NoSQL electrophysiology database.

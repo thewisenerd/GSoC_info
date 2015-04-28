@@ -1,0 +1,3 @@
+Since most of the modern Cameras support short video recording capabilities,It was decided that video management is under the scope of Digikam just like photo management except video 
+editing possibilities.Currently Digikam manages videos by its metadata for most of the common video formats and preview them as well.Its quite important that Digikam should also have ability to add custom tags to videos and edit the tags so that user will have more possibilities to manage videos by tags.With this project Digikam could edit tag and create custom tags through
+Exiv2 methods.

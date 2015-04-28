@@ -1,0 +1,2 @@
+This blue-sky project is about adding new algorithms for point set processing into CGAL. 
+The new methods can consolidate unorganized raw scans, which are proved to be simple, efficient and robust. Demo video and implementation are available.

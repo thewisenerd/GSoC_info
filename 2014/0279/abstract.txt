@@ -1,0 +1,4 @@
+Syslog-ng is a flexible, reliable, high speed event
+log management system based on a centralized, client-server approach
+implementing the Syslog Protocol standard. It can transmit, collect, store,
+search and filter log messages which may be persisted into different destinations, including a MongoDB database. The goal of this project is to secure log message transmission over the network between MongoDB peers by adding TLS support to the existing MongoDB client library used in syslog-ng.

@@ -1,0 +1,1 @@
+This project is all about redesigning the collaboration framework for javascript environment using implementations of websockets in node.js. Other popular web technologies are to be used to enhance the performance from the existing mechanism and ensure scalability.

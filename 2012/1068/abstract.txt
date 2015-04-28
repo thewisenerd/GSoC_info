@@ -1,0 +1,1 @@
+An LDAP based authorization plugin for Drizzle.

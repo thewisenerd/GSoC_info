@@ -1,0 +1,1 @@
+The goal is to lens-ify the Haskell library ‘diagrams’, in order to make it possible to (efficiently) traverse over diagrams and subdiagrams, modifying them in the process, and to work with other lens abstractions like lenses, prisms or folds where appropriate.

@@ -1,0 +1,1 @@
+Enhance the Debian WebRTC experience, specifically by adding audio/video conference functionality, IM service, and a shared phonebook for the Debian community.

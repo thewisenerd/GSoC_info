@@ -1,0 +1,3 @@
+I’m proposing to implement tracker, described in the reference paper [1], by Kalal and co-authors. This is algorithm is known as TLD (Tracking-Learning-Detection) and also sometimes advertised under the name “Predator”. It is known as one of state-of-art methods.
+
+What further adds to importance is the fact, that TLD can be seen not only as a tracker, but rather as a novel framework, which combines machine learning, tracker and detector.

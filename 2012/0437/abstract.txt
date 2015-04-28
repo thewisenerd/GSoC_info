@@ -1,0 +1,11 @@
+People wish to have a tool to export images as video slideshow.
+This is what tools like man2dvd,imagination, image2mpeg does, or we can use command line tools of imageMagick
+and mjpegtools to export images as video slideshow with required transitions. However 
+the powerfullness of these tools come at a price: complexity. The goal of this project
+is a develop a kipi frontend tool using these tools(imageMagick and mjpegtools) to 
+export images as videoslideshow. This must be able to do authoring with image contents,
+for example to change order of images, slide time pause, add transition effects, add
+audio files as a background. This tool must be able to export to video files, as MPEG, AVI
+DIVX, or to video media, as CD and DVD video. The tool must be portable under Linux, MacOSX
+and windows.
+Bug: https://bugs.kde.org/show_bug.cgi?id=153061

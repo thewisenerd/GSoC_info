@@ -1,0 +1,1 @@
+I would like to implement “List support in Formula Editor”. It would be a very interesting task for me, since I and my colleagues Franz Schreiner and Peter Tielsch, coded large parts of the formula editor. So I know the intern structure of the formula editor and how to extend it, in order to support lists.

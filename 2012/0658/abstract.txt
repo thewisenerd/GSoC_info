@@ -1,0 +1,1 @@
+Stem is a contoller library for Tor. This proposal involves implementing the general controller class to Stem, integrating the safe cookie authentication method and implementing the descriptor parsers for network status and microdescriptor document. It also involves porting Arm, the Anonymous Relay Monitor to use Stem.

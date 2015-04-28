@@ -1,0 +1,1 @@
+Pulseaudio currently uses the same hard-coded latency value for all Bluetooth devices. Assuming that the actual latency stays pretty much constant for any given device, but varies between different devices, it would make sense to make it possible to configure per-device latencies.

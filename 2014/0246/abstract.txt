@@ -1,0 +1,1 @@
+animint is an R package for creating web-based interactive graphics based on ggplot2 syntax.

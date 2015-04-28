@@ -1,0 +1,5 @@
+Eclipse Code Recommenders is a set of tools that make IDEs more intelligent, reducing development costs. Code Recommenders provides
+intelligent code completion, extended javadocs, smart bug detectors,
+stacktrace search engines and other similar features. I will add code
+snippet search, sharing, and autocompletion to the Code Recommenders project. SnipMatch is a code snippet search tool for Eclipse (designed and built by my mentor Doug Wightman and Zi Ye), you can view the video demo and other documentation at http://snipmatch.com/. This GSoC
+project aims to improve and merge SnipMatch into Code Recommenders.

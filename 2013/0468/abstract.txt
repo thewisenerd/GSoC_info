@@ -1,0 +1,1 @@
+The goal of this project is the implementation of faster greatest common divisor and factorization algorithms for univariate and multivariate polynomials over algebraic number fields. This is important for symbolic integration of rational functions and simplification of expressions among other things.

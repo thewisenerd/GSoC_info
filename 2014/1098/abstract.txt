@@ -1,0 +1,1 @@
+To implement Region adjacency graphs and graph based image segmentation algorithms. Initially I will be implementing graph primitives which will be useful for region adjacency graph based and other segmentation algorithms. Later I will implement segmentation algorithms using the primtives defined

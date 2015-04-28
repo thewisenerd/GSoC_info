@@ -1,0 +1,1 @@
+This tool would allow users of App Inventor to create their own components that they could upload to App Inventor and use in their projects or share. This project increases the number of developers that can contribute new features to App Inventor and make the development of App Inventor more sustainable.

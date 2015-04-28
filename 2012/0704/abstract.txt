@@ -1,0 +1,1 @@
+This project is about extension of the Debian infrastructure. The key idea is to have an alternative way to build packages and easily switch between clang and gcc/g++.

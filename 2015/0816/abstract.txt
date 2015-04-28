@@ -1,0 +1,1 @@
+As of now, reporting issues on OSM is cumbersome. To do so, a user needs to externally email an administrator with the concerned issue. This project is aimed at simplifying this procedure by creating a "Report" button and integrating it into the website. It is also aimed at creating a dashboard for the administrators so that they can easily manage the incoming reports.

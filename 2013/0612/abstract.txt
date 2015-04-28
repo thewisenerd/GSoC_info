@@ -1,0 +1,1 @@
+The aim of this project is to allow users from different websites to share their views and opinions on music more broadly. We also help developers to provide users with the most helpful content under free licence. We try to accomplish this by developing a free and open repository of music reviews accesible through a web API and a front-end.

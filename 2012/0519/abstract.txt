@@ -1,0 +1,1 @@
+Replace old graphs in RHQ with GWT with ability to define a formula that translates the graph on the fly and combining multiple metrics via formula.

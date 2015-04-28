@@ -1,0 +1,1 @@
+The only available TUIO to Windows touch bridge application is Multi-Touch Vista This application is difficult to use, does not support multiple monitor setups, and contains bugs and memory leaks. The aim of the project is to build a application that can easily and accurately convert TUIO touch events to windows touch events.

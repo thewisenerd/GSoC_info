@@ -1,0 +1,1 @@
+Rails has a well established DSL for declaring routes which allows you to do all sorts of routing and route generations. The implementation behind this magic unfortunately is not very clean. This project deals with refactoring the routing DSL codebase, making it more efficient, cleaner and testable.

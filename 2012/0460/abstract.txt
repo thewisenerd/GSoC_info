@@ -1,0 +1,7 @@
+My proposal is described in the form I filled out at:
+http://people.csail.mit.edu/hal/summer-of-code.html
+To ensure that I am not disqualified from GSOC, I am filling out this form on Google's site as well. 
+
+In case this information is not automatically included in the form, my name and email address are:
+Vance Turnewitsch
+betweenthehills@gmail.com

@@ -1,0 +1,1 @@
+To get Catroid programs run on various platforms, and especially on mobile devices, the team is currently working on  a HTML5 player. This is implemented by the Google Web Toolkit.

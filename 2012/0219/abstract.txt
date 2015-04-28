@@ -1,0 +1,1 @@
+The proposed project has its focus on building an incrementally learning topical classifier for dbpedia spotlight.

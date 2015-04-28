@@ -1,0 +1,1 @@
+The study of brain injury is an important area in neurological injury, recovery and preventive medicine. Brain injury parameters can be expressed in terms of pressure, shearing stresses or invariants of the strain tensor. However, a careful model of injury types and verification using imaging data still needs to be undertaken.

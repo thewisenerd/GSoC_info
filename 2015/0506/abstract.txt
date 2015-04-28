@@ -1,0 +1,1 @@
+In this project we intend to add some new extensions to XMPP protocol supported by Pidgin (libpurple). Also, we would fix some current issues with the XMPP functionality as well as user-interface problems that are related to it in Pidgin.

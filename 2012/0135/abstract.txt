@@ -1,0 +1,1 @@
+This project aims at optimizing the network IO in Hive queries on HBase StorageHandler by converting non-row-key predicates into corresponding HBase filters and pushing them down in the query tree and using row-key predicates to determine scan ranges.

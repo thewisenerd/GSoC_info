@@ -1,0 +1,1 @@
+BuildmLearn Toolkit is application which allows its users to generate Android applications based on templates. Application was so far developed primarily for Windows platform and is not mature. I would like to rewrite the application, stabilize its code base and port it to Linux, OS2 and Mac OS X.

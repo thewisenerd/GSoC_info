@@ -1,0 +1,1 @@
+Develop a CPC adapter for QEMU that implements the coroutines.h API, in order to explore a portable coroutines version for porting QEMU to new architectures.

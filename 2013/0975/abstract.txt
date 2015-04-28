@@ -1,0 +1,2 @@
+The goal of this project is the publication of an R package for robust statistical methods that are capable of handling large data sets and are highly-parallelized on GPUs. The followng methods for
+robust data analysis will be implemented: the minimum covariance determinant (MCD) estimator of location and scatter, least trimmed squares (LTS) regression, as well as regularized version of MCD and LTS. All four methods are thereby computed with a C-step algorithm.

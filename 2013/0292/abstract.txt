@@ -1,0 +1,7 @@
+CentiScaPe is a Cytoscape App that allows computing network centrality parameters. It calculates Degree, Average Shortest Path, Eccentricity, Closeness, Betweenness, Centroid, Stress and Radiality. It allows the user to analyze existing relationships between experimental data provided by the users and node centrality values computed by the App. While CentiScaPe provides a number of useful capabilities it could be significantly improved with two or more of additions or enhancements. My project will add the following to CentiScaPe:
+1.Add support for directed networks. Current support for only undirected networks limits the sophistication and interpretability of centrality calculations.
+2.Add support for integrating experimental data into the topological analysis to be used as weights in the calculations.
+3.Add an Extra Centrality parameter called Eigenvector Centrality, which is one among the centralities in graph theory.
+4.Allow plugin to pass parameters and network to an existing web service version of the CentiScaPe computation to improve performance for large networks.
+This will enrich experimental data with network topological parameters even for directed, weighted and large networks. 
+project proposal - http://www.google-melange.com/gsoc/proposal/review/google/gsoc2013/faizaan/1

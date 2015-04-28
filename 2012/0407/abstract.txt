@@ -1,0 +1,1 @@
+In this project I attempt to implement the Catrobat language as a standalone application for Android and iOS by using the open-source 2d framework cocos2d-x.

@@ -1,0 +1,1 @@
+Extending Solid to support partition management operations and developing a Dolphin plugin that uses this new API in order to provide an easy partitioning interface to users.

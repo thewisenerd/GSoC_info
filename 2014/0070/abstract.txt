@@ -1,0 +1,5 @@
+A new Plone Message Board
+
+The standard solution to build message boards in Plone is through Products.Ploneboard. It is however based on outdated technology and needs attention.
+
+Plone developed new technologies using dexterity and plone.app.discussion which should help make it easy to re-build the Ploneboard functionality from scratch to write a future-proof, faster and more flexible solution for Plone. A new plone message board is required incorporated with additional features.

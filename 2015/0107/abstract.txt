@@ -1,0 +1,2 @@
+Managing and scheduling Operation Theater (OT) activities are critical tasks in a hospital. The correct management of operating theaters represents an important step towards meeting the urgent need to deliver high quality care with limited resources.
+Current Operation Theater module has already pretty powerful capabilities, but there is still a lot of features, that we should implement.

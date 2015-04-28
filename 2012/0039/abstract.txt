@@ -1,0 +1,1 @@
+This project aims to made OpenGL slightly faster and compatible with OpenGL ES in order to port Blender Player to Android. This would include port of libs, ghost and build infrastructure. At the end Blender Games can be played on Android.

@@ -1,0 +1,8 @@
+Project Description:
+Add ability to restrict search to issue titles. If that is successful in the time period, make other improvements (see additional issues in the resources section).
+
+Project Goal:
+Get a drupal.org development server with issue advanced search that can restrict search to title text. Have a patch on the issue. Optional, do performance analysis.
+
+Project Resources:
+Issue: Add checkbox to limit issue search to title https://www.drupal.org/node/2226335

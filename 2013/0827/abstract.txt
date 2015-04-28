@@ -1,0 +1,2 @@
+I want to implement a Java library which would wrap all the API calls and allow users to develop applications without worrying about network calls, JSON/XML parsing, etc. 
+This library has to take care of implementation differences between different Open311 endpoints. I will document the whole library, upload it to a Maven repository and try to achieve a 95/100% test coverage. If I have time I will develop a simple application and tutorial to show how it should be used in web, desktop and mobile.

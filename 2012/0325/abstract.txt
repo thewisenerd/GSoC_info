@@ -1,0 +1,3 @@
+Logging plays an important role for analyzing problems in monitoring applications. The goal of this project is to distill this high value information out of a massive amount of heterogeneous logging messages.
+
+To reach this goal it's required to handle a massive amount of logging messages even from different systems and normalize them into a generic model. This model is the base for later analyze and efficient storage of logging messages.

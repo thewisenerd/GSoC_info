@@ -1,0 +1,4 @@
+This project will allow changing an “unlogged” table (that doesn’t generate transaction logs) and its dependencies to a “logged” table, in other words, a regular table that log changes in the WAL files, and change from “logged” to “unlogged” too. To make it happen we'll introduce the following SQL syntaxes:
+
+ALTER TABLE name SET LOGGED;
+ALTER TABLE name SET UNLOGGED;

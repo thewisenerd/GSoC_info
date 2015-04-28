@@ -1,0 +1,1 @@
+Currently there is no simple way to tell user that his/her edit is not good enough or that it’s great. The idea is to implement discussion on changesets on main OSM website. It means that users will be able to place comments on each changeset, so that the editing user knows what’s bad or good in his/her edit. Also rating and simple flagging of changesets will be implemented.

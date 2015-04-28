@@ -1,0 +1,1 @@
+Implement the MySQL protocol as a codec within finagle

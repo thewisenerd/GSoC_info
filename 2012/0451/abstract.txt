@@ -1,0 +1,1 @@
+An LGPL-licensed C-based implementation of the Ut Video format's encoder for libavcodec.

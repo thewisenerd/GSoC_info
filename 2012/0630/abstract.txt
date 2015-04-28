@@ -1,0 +1,2 @@
+Main project goal is to provide solution of successful mapping neuronal data, annotated in "open metadata Markup Language" format to document oriented database, such as MongoDB, so it could be queried with existing REST API . It's part of project "NERD" that aims at popularization of sharing data in neuroscience.
+Mentored by members of the German INCF Node (Christian Kellner, Christian Garbers)

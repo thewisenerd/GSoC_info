@@ -1,0 +1,1 @@
+Currently Scilab has a palette browser which lists all Xcos standard blocks grouped by categories. However, it lacks many features which are essential to a good navigation, such as search bar, recent blocks etc. This project aims to sort it out, improving the palette browser and making it more intuitive.

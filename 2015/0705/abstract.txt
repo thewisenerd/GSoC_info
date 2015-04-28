@@ -1,0 +1,1 @@
+Atom needs a better security model! My project idea is to research  if it's  possible to implement  this securit model through process separation and IPC communication. Another research direction is figuring how to do this with NaCl, and the backup plan is to to focus solely on the JavaScript layer and isolating pure JS packages in their own context.

@@ -1,0 +1,1 @@
+I would like to implement some functions of ITextDocument.

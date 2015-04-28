@@ -1,0 +1,1 @@
+SAM/BAM data formats have become ubiquitous in bio-medical research due to wide use of next generation sequencing. The existing tools either don't use parallelism or are hard to bind against commonly used dynamic languages. This project aims to fill this gap.

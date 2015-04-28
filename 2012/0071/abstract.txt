@@ -1,0 +1,1 @@
+This project aims to allow the user to easily switch between controlling multiple paired Bluetooth devices with the Tecla Shield , and provide a client application and UI to allow the Shield to be used with Accessibility software on PC / Mac across multiple OSes

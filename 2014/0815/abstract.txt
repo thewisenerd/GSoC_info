@@ -1,0 +1,1 @@
+This project focuses on WSO2 BPS related statistics such as BPEL related and human task related. The proposal contains the comprehensive mechanism for caturing data that is genarated at BPS, publishing catured data to the WSO2 BAM and BAM toolbox for presenting data.

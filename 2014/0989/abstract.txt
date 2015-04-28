@@ -1,0 +1,1 @@
+Android is one of leading portable OS, and extending its capabilities with wxWidgets is must do. This will be next step in wxWidgets being fully cross platform while capturing important parts of each platform such as screen, touch gestures and low power consumption. I want to make all this possible by working on wxWidgets port to android.

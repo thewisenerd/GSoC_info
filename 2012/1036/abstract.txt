@@ -1,0 +1,3 @@
+The OpenIntents project offers many very useful applications for everyday businesses. To provide a much better user experience, it would be nice if one could access the data from a Laptop or Personal Computer at home or at work. Then you don’t have to use the small phone, but will benefit from a big screen and input devices.
+The easiest way to achieve this would be by using a web browser to connect to an android phone. This way you need no additional software except a server running on the device and it is a platform independent solution.
+Exactly this server is the app I want to design and implement during this year’s GSoC and which I’m going to describe in detail within this proposal.

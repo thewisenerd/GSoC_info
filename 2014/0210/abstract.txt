@@ -1,0 +1,1 @@
+Development of an interactive web-based tool that will allow users to intuitively explore the Bio4j domain model, getting details about both nodes/edges shaping the network as well as precise typing information in order to understanding the Bio4j structure and managing or querying it on an easier and more efficient way.

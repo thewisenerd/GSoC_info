@@ -1,0 +1,1 @@
+PDF.js currently draws graphics onto a HTML Canvas element. SVG, a vector based graphic technology, would be a good alternative to the existing Canvas implementation. This project aims to provide an alternate backend, to PDF.js, using SVG technology. Since any graphics that can be drawn using Canvas, can also be drawn with SVG, it’s a feasible and interesting project.

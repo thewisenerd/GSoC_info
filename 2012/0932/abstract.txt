@@ -1,0 +1,4 @@
+Capture-HPC is a high-interaction client honeypot developed to detect client-side attacks. It consists of two parts: server and client. Server part manages multiple client instances run on virtualized Windows systems.
+Recently a basic Capture-HPC client for Linux machines was developed by Mr Maciej Szawłowski as a part of his BSc thesis at Warsaw University of Technology. The main goal of the project is to further extend functionality of this client software and to better integrate it with Linux operating system architecture
+
+As Linux operating systems gain popularity, it is highly probable that soon a new line of threats targeting Linux users will arise. Extending Capture-HPC with functionality proposed below will greatly contribute to the knowledge of attacks against Linux client software, especially the web browsers.

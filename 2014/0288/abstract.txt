@@ -1,0 +1,1 @@
+OSEM is used by openSUSE and other projects to organize events, but the whole model for users and permissions management have evolved in an undirected way, and now it really needs a major rethinking and refactoring for the two models, "user" and "person". Also there is only a limited number of roles, which are also not clearly defined.

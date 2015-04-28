@@ -1,0 +1,1 @@
+This project is about implementing a 'QuickFix' functionality for Scala development within the Eclipse. The implemented mechanism should be used to provide automatic suggestions for fixing compilation errors, code completion proposals, and refactoring suggestions.

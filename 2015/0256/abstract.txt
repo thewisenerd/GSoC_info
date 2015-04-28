@@ -1,0 +1,1 @@
+The goal of this project is to redesign gnuplot gem from the ground. The old one was developed a long ago and nowadays requires some hacks to use new gnuplot features and avoid bugs. I aim to provide SciRuby with new easy-to-use robust gem for gnuplot.

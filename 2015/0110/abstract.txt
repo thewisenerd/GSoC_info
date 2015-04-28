@@ -1,0 +1,1 @@
+Right now SyncDiff(erent) currently transfers files using a slightly custom protocol over TCP. This project would add an intermediate CGI that would allow a client to communicate with the server running via a web server. The communication protocol involves JSON.

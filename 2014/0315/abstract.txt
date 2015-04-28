@@ -1,0 +1,1 @@
+This project provides the basic building-block to revoke files in the linux kernel. This can be used to implement revoke-like syscalls and file-operations, but focus will be on unifying the helpers of various device-drivers used to implement device-unplugging. Generic revoke() support on any file is not intended, but left for future work.

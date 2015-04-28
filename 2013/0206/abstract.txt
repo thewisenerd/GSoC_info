@@ -1,0 +1,1 @@
+Ceylon compiles to both Java and JavaScript and has great support for the Java Ecosystem. Recently with Node.JS, NPM and mobile JavaScript has been developing its own JS-VM Ecosystem. Improved Ceylon support for this new ecosystem can complement what Ceylon already does well and allow it to go where Java can not.

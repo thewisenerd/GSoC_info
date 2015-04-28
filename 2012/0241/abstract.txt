@@ -1,0 +1,3 @@
+Ryzom has a very powerful and flexible GUI which can be configured from XML files. The XML GUI configuration files define the GUI layout, the widgets, and the data source for the widgets ( in reality it can only use the CDB system as a data source, but nevertheless the location of the data can be specified within the CDB and it's still a lot more flexible than having to fill the data with code ).
+
+This project involves extracting the GUI code from Ryzom and turning it into a reusable library, then building a GUI editor on top of it using the Qt framework. The editor shall be able to load existing GUI XML files and create new ones.

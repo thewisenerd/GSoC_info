@@ -1,0 +1,1 @@
+This proposal is based on the ideas listed on the Plyer enhancements here: http://kivy.org/docs/gsoc.html#enhancements-to-mobile-platforms. I would like to work on providing a more complete set of platform-independent APIs for accessing features commonly found across desktop (Linux, Windows and Mac OS) and mobile devices (Android, iOS).

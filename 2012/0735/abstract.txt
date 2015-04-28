@@ -1,0 +1,1 @@
+This project aims to rewrite the existing web interface of Freenet replacing it using Apache Wicket. The main advantage of this project is the externalization of pages, which are currently hardcoded inside Freenet.

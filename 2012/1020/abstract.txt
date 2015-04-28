@@ -1,0 +1,1 @@
+Ext3 (and Ext4) filesystem introduces HTree directory indexing which allows to speed up operations on directories with large number of entries (thousands and more). NetBSD currently doesn't support this feature and works with Ext3 partitions just like with Ext2. The goal of the project is to implement HTree directory indexing for NetBSD.

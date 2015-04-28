@@ -1,0 +1,1 @@
+For this project, I plan to create a site monitoring platform that is easy to deploy and use and offers a high level of customization.

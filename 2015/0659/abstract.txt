@@ -1,0 +1,9 @@
+The project is about implementing several feature requests. Majority of these feature requests are affecting user interface.
+
+The feature requests planned for the project are listed below.
+
+- rfe#1559 Page-related settings
+- rfe#1541 Disable foreign key checks in some operations
+- rfe#1551 Integrate SQL debugging into the console
+- rfe#1557 Option to remove functions and procedures from navigation tree
+- rfe#1603 Export: per-table structure/data

@@ -1,0 +1,1 @@
+The project is an extension of Pavel’s and my work on water module of Crystal Space. It aims to eliminate all the issues in water plugin of the engine and implement new features in it like interactivity. Plus, lots of documentation.

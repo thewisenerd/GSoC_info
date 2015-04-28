@@ -1,0 +1,1 @@
+I propose to implement features related to the separate checking of templates in the c++-concepts branch of GCC. The goal is to provide an initial level of opt-in support that allow template definitions to be checked against their constraints. This would help provide opportunities to catch type errors in template definitions instead of during template instantiation.

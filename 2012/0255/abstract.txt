@@ -1,0 +1,1 @@
+The goal of this project is to provide robust and fast Haskell backend for K framework, which will make it possible to build efficient interpreters from formal definitions of different programming languages.

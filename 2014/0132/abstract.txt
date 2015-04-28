@@ -1,0 +1,2 @@
+I plan on building a modern, scalable and attractive skin for MediaWiki based on wikiHow's current default skin, which is available under GPLv2.
+The skin, tentatively named BlueSky, will feature elements of modern design, including a fixed personal header with descriptive icons. The target product will be fully functional on less powerful or older devices and browsers, such as mobile browsers and Internet Explorer 8.

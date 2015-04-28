@@ -1,0 +1,1 @@
+The ultimate goal of my proposal is the modernization of GNOME Nibbles. It’s one of the few games that have not been yet revamped as part of the Games Modernization Initiative. The idea is to port as much of the game as possible to Vala, using the same MVC design pattern that stands at the base of the rest of GNOME’s games.

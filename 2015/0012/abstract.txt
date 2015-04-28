@@ -1,0 +1,1 @@
+GNOME started its process to revamp its UX with the 3.x era. Since this process started the GUI and the way it interacts with the user has been improved iteration after iteration. At the time the GNOME HIG guidelines are stable, but some modules need more love to be up-to-date to the new mockups. One of these is gnome-documents with its new collection pattern.

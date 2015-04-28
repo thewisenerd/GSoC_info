@@ -1,0 +1,5 @@
+Expand the OpenMRS FHIR module so that it can consume laboratory information. It also enable OpenMRS to consume laboratory data sent by a third party systems and support Laboratory data such as;
+  * Laboratory (Clinical Chemistry, Hematology, Microbiology, etc.)
+  * Pathology / Histopathology / related disciplines
+  * Imaging Investigations (x-ray, CT, MRI etc.)
+  * Other diagnostics - Cardiology, Gastroenterology etc.

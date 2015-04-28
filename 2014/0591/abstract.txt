@@ -1,0 +1,2 @@
+Index-only scans are a major performance feature added to Postgres 9.2. They allow certain types of queries to be satisfied just by retrieving data from indexes, and not from tables. That allows doing certain types of queries significantly faster by reduction in the amount of I/O necessary to satisfy queries. 
+I think it will be useful to implement this feature for user defined data types that use GiST index.

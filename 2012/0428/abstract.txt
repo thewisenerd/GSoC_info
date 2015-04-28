@@ -1,0 +1,1 @@
+GTG provides great user experience for individuals. I would like to implement sharing tasks between users. GNOME will become the first desktop with built-in task sharing. This would made it the desktop of choice for small to medium businesses.

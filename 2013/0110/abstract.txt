@@ -1,0 +1,6 @@
+A common complaint about OWASP OWTF so far has been that the report is not very shiny. The intention here is to: 
+Move as much of the HTML away from python files into template files: This will facilitate web designer's work in the future. 
+Apply some nice web design to the report so that it is more nice and comfortable to work with: Clear the HTML, CSS, etc 
+Identify and fix areas of improvement in click flow: For example, try to reduce the distance to move the mouse (mouse is sweeping left to right all the time now to rank vulnerabilities and then click on the next plugin) 
+Improve the interactive report load time: The report will be pretty big when you scan 30+ websites, we might have to change things so that each plugin is retrieved via AJAX instead of loading every iframe on load 
+Reduce the interactive report load and improve responsiveness: Big reports can take a few seconds to load and warnings like "this site is not responding" are undesired, we would like to reduce the HTML and JavaScript load to make the report faster to use.

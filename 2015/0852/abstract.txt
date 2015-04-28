@@ -1,0 +1,7 @@
+Abstract
+
+GCompris is about learning while playing . While being interesting to play, every activity should also add to the knowledge of the children. I propose 3 computer science activities and porting the lang activity.
+
+Computer science: In this section there will be some interactive games for kids to that will build their logics and make them familiar to world of computer science. 
+
+Language learning activities will focus on enhancing the vocabulary of children.

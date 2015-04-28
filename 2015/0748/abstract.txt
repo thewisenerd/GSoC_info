@@ -1,0 +1,1 @@
+KDE applications need to install software (extra features) in various places. Most applications don't have an interface wherein one can do so. The task is to implement such an interface for the apps that need it. This has to be done in a way such that it works across all major distributions.

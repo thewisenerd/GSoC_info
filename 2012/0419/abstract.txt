@@ -1,0 +1,1 @@
+The current Creative Commons LibreOffice (OpenOffice) plugin is written in Java. This project is aimed to port the current plugin to Python while rectifying  the problems in the current plugin.

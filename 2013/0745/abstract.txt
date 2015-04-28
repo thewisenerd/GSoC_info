@@ -1,0 +1,1 @@
+This project will enhance the ZAP's capabilities to be able to detect and fuzz various elements and attributes of a SAML Assertion.

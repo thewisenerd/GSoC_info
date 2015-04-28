@@ -1,0 +1,5 @@
+University professors play a very important role in our societies. They teach future generations, give statements in the media and are considered to be generally credible. But where do you find information about university professors like the professor's bio? Normally you would have to go to the website of the university or the professor's homepage. However, often some data is missing or very difficult to find.
+
+"Open does not only mean availability, but also accessibility!"
+
+As my SoC 2012 project I plan to extend PopIt so that one can add not only politicians or judges but also professors. This will help validating the platform itself and help people to better understand what professors say in the media.

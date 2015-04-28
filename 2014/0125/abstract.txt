@@ -1,0 +1,1 @@
+Scala macros have brought previously impossible or prohibitively complex things to the realm of possible, but at the moment their support in IDEs is lagging behind. The main goal of this project is to add support for designing and debugging macros to the Scala IDE plugin for Eclipse.

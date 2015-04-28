@@ -1,0 +1,3 @@
+Systers uses a heavily-customized version of GNU Mailman. A number of additional small features are desired to improve things further.
+
+My proposal aims at accomplishing items on their wishlist by adding new features and fixing various bugs encountered by modifying their existing features so as to improve their functionality.

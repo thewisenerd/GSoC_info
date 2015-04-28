@@ -1,0 +1,1 @@
+Provide a gora-amazondynamodb  module for Gora in order to offer a popular datastore for the community. In this way, the main objective is to embrace the use of Gora within the open source community.

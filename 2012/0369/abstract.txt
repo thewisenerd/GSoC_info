@@ -1,0 +1,1 @@
+This project will provide userland lock profiling and lock order verification functionality, based on the LOCK_PROFILING and WITNESS kernel options. Application developers will be able to build an instrumented application and query statistics via additional library API calls or a gperf-style external data file.

@@ -1,0 +1,1 @@
+True Crypt already has the capability to use smart cards (via PKCS#11) to unlock encrypted volumes. However, this feature is suboptimal (from a security standpoint) and need to be improved

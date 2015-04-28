@@ -1,0 +1,1 @@
+Apache jclouds is an open source library that allows Java and clojure developers to write highly portable code by abstracting cloud specific features through views such as Blobstore, Compute and Loadbalancer. At the same time jclouds allows developers to make full use of vendor-specific features through provider implementation.

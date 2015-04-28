@@ -1,0 +1,2 @@
+Hello, dear gcc developers!
+I want to implement C++11 regex in libstdc++ since it powerfull and most commonly used tool for text processing, but still there isn't support for it in libstdc++.

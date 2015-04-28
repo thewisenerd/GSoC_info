@@ -1,0 +1,5 @@
+This is a proposal for the idea to implement a JIT compiler for MRI, under the Ruby Organization.
+
+Implementing a modern, fast JIT compiler by a single student in 4 months is impossible. However, design and implement a universal interface of JIT compiler is much more achievable. And fortunately, we already have an implemented one called RuJIT, which can be referred to and extremely reduce the work we need to do.
+
+This proposal will introduce this interface and key components in detail.

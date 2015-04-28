@@ -1,0 +1,1 @@
+This is a project to break build dependency cycles in Debian by modifying packages to support staged bootstrap builds.

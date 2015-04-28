@@ -1,0 +1,2 @@
+I propose a lightweight webGL renderer with shader support for P5.js. I will develop it as an
+easy-to-use, quick prototyping tool for artists, designers, educators, programmers and anyone interested in the intersection of art and technology. I will also provide examples with live coding functionality, as an effective way to help people grasp the functionality of webGL, and to learn by experimentation. All in all I want to help P5.js become a more powerful tool and grow its community.

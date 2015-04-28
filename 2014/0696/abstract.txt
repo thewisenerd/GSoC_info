@@ -1,0 +1,1 @@
+I propose to work on an implementation of a JavaScript based web-application to build and view queries for the Freifunk API, additionally I'd like to  implement a new API backend that is able to serve generated queries to other clients.

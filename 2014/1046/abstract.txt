@@ -1,0 +1,3 @@
+I'm planing to extend the functionality of the LibGeoDecompi[1] to handle irregular grids and graphs. Therefor I want to implement a new unstructured grid class derived from the BaseGrid. To save the adjacent information I want to introduce a sparse Matrix container based on the  SELL-C-σ format for efficient access and memory usage on SIMD units.
+
+[1] http://www.libgeodecomp.org

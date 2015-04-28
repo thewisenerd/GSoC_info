@@ -1,0 +1,1 @@
+KPeople is a contact aggregation library for KDE. This project aims in building a wigdet apps to use the functionality provided by kpeople. The application emphasis on showing available details of person like recents emails, recent chats, shared notes, files, events.

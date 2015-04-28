@@ -1,0 +1,1 @@
+The project is about improving/developing the current implementation of ASCEND's GUI, which is in PyGTK, by referring to the older, more stable Tcl/Tk implementation. There is also some amount of bug fixing that needs to be done to the PyGTK implementation.

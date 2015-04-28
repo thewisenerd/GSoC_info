@@ -1,0 +1,1 @@
+GeoWave is a geospatial index on top of Accumulo. Purpose of this project to display and present map based data on the map based interface. Also it will translate statics information on the map.

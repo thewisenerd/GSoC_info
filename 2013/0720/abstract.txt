@@ -1,0 +1,2 @@
+This project will involve extending Impendulo, a teaching system which records snapshots of code and performs analysis on them, by adding JPF 
+to the existing toolchain. This will enable us to drastically improve analysis of concurrent programs and thereby determine where inexperienced programmers typically struggle when writing concurrent programs. Furthermore we can use our results to determine how well JPF compares to the current Impendulo toolchain with regards to finding concurrency bugs.

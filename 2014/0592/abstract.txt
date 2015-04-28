@@ -1,0 +1,2 @@
+Pitivi lacks a rotation transformation needed amongs others for the Ken Burn effect. I propose implementing a new OpenGL based transformation effect. 
+Furthermore I want to complete the current work on the transformation user interface, and extend it for rotation and plugin ability, so that Pitivi plugins can create UIs for effects in an abstract way. Since this work is related to the viewer, I want to implement a color picker user interface and use the alpha plugin for chroma keying.

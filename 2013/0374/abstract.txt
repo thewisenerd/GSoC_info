@@ -1,0 +1,4 @@
+My project proposal consists of three main areas of development:
+1) finish the OpenGL 3+ rendering system,
+2) create and update sample applications to serve as visual tests for OpenGL 3+ features,
+3) create and update functional and visual unit tests for the OpenGL 3+ rendering system

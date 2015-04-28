@@ -1,0 +1,5 @@
+A template system for code creation in KDevelop. Such a system currently exists for starting a new project, but I would add similar functionality for individual files, most notably for classes. 
+
+I would also add an interface for creating and editing these templates. 
+
+Additionally, users will be able to download and/or share these templates via GHNS.

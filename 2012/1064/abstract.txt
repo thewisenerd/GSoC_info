@@ -1,0 +1,1 @@
+The goal of this project is to analyze sanitization libraries in seek of vulnerabilities. More specifically, we want to find inputs that reveal vulnerabilities in existing sanitization functions. Our contribution is twofold: (1) we want to find spec-violating inputs for the sanitization function and (2) report vulnerabilities not covered by the current library.

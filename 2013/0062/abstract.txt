@@ -1,0 +1,1 @@
+MoinMoin2.0 is the bright future of MoinMoin wiki engine and since there is a lot of work to be done in order to deliver a stable release, I would like to help and be a part of the team. I am particularly interested in Mail/Notification related functionality. Making improvements and porting some features from MoinMoin1.9 will enhance greatly user and administrator experience.

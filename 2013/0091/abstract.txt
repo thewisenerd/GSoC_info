@@ -1,0 +1,2 @@
+The mesh editing is generally done with affine transformations, Blender3D offers some tools to transform the vertices as “proportional editing object mode” with which the transformation of some vertices is interpolated to the other vertices connected with the use of simple distance functions.  
+This project proposes to implement a method for mesh editing based on sketching lines defines by user and preserving the geometric details of the surface.

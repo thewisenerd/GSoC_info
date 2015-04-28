@@ -1,0 +1,1 @@
+The goal of this project is to research and implement in GNUNet an ALG-based NAT traversal method such a FTP/SIP-based hole punching and STUN support.

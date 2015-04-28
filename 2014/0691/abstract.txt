@@ -1,0 +1,3 @@
+This project consists of two parts:
+First, implementation of the paper [Stein et al. accepted for CVPR 2014]. The focus of this segmentation is getting parts of objects for robot actions (e.g. get the handle of a hammer to pick it up). 
+Second, automated generation of artificial scenes  to create a unit-test/benchmarking functionality for 3D segmentation. I will implement a shape generator to dynamically assemble these scenes.

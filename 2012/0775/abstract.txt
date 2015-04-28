@@ -1,0 +1,1 @@
+The Chrome and firefox extension for Pandora Event Viewer. Which will show notifications, show alets as desktop notifications and sounds and show some data.

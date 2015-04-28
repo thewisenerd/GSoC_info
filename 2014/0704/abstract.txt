@@ -1,0 +1,1 @@
+This Project which is named as SQL Optimization is mainly focused on the area of improving the speed of Joomla CMS, when a site is deployed at the real time. Slowness which occurs due to the interaction with the database are addressed in the scope of this project

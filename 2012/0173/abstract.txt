@@ -1,0 +1,1 @@
+Swift has currently no means for storing conversation logs. This project aims at adding support for conversation history through both local and remote message archiving, as well as providing the necessary user interface for browsing chat conversations.

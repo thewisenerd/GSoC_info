@@ -1,0 +1,1 @@
+This project will use browser APIs, like HTML5 Canvas, to implement the native APIs upon which the Java GUI library Swing depends. These include Java 2D and the AWT Peer library. This will allow Swing to run in the Doppio JVM, which in turn will allow support for running graphical Java applications that use Swing, bringing a new class of software to the browser.

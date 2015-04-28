@@ -1,0 +1,1 @@
+Genomic variants are small alterations in DNA sequences which often have important biological significance. A Biopython toolkit facilitating the use of genomic variant files will broaden the availability of these datasets to the biology and bioinformatics communities.

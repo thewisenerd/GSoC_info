@@ -1,0 +1,3 @@
+Currently, the SciRuby project is extending its library of core functions. This work aims to assist in those efforts, by interfacing with FFTW3 to aid in discrete signal processing, synthesis and analysis and ultimately create a gem which allows FFTW3 operations to be applied to NMatrix data types in Ruby.
+
+It is hoped that the proposed contribution could enhance the usability of SciRuby and allow Sciruby to become more a widely used product.

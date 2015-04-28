@@ -1,0 +1,1 @@
+During the GSOC 2011, I have started this project under the supervision of Dr.Levine. Now, the idea is to firstly write a program to evaluate the Allan variance of a computer clock that is compared to a remote reference using NTP. Second, to integrate the Kalman Filter based on the model from the Dr. Levine's Review of Scientific Instruments.

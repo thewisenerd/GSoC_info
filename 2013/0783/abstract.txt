@@ -1,0 +1,1 @@
+The idea of this project is a functionality for Catroid that allows children to program their own gamepades and  control with them other devices like a pc or a SmartTv.

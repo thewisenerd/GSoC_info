@@ -1,0 +1,5 @@
+The mzR R/Bioconductor package provides a unified application programming interface to the common open and community-driven file formats and parsers available for mass spectrometry data, namely mzXML, mzML and mzData.
+
+Currently, mzR provides two back-ends to read mass spectrometry raw data: netCDF and RAMP.
+
+The goal is to extend current useful, yet limited capabilities of mzR by adding support for the state-of-the-art proteowizard project.

@@ -1,0 +1,1 @@
+Finalising the basic implementation of MBS-799 by adding an event entity to MusicBrainz.

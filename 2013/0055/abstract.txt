@@ -1,0 +1,4 @@
+The objective of this project is to enable the automated bootstrap of new debian ports. We can summarize all the project in two items:
+
+1) Make a tool to manage bootstrap process (including instructions of how to use it)
+2) Write patches and file bugs for all the multiarch, cross-build and profile patches needed for the bootstrap process.

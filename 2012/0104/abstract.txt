@@ -1,0 +1,1 @@
+The goal of this project is to expand on Pulkit Goyal’s HTML5 Image Editor to include image editing functionalities that can be used in the context of image correction for optical character recognition.

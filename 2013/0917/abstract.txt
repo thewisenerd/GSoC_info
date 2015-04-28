@@ -1,0 +1,3 @@
+The back-end for Java Platform Debugger Architecture based on JPF. It will allow using JPF instead of a common JVM for the purpose of debugging Java applications in any modern Java IDE.
+The aim is to provide users with all the features they are used to while debugging Java applications.
+The key task is to implement the Java Debug Wire Protocol specification on top of JPF that will make JPF more complete as a Java Virtual Machine.

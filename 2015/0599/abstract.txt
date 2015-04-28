@@ -1,0 +1,1 @@
+Using OpenGL, the drawing speed of the JOSM map view could be increased significantly. Smooth zooming and scrolling would then be possible at lower zoom levels.

@@ -1,0 +1,10 @@
+Project involves computation of hypervolume in higher dimensional spaces for a set of
+hypercubes sharing one common point (reference point that strictly dominates the whole
+set). It is a geometrical interpretation of quality measure for a Pareto set. It can be used
+as a comparison between two population of individuals, and as a fitness function during
+the evolution phase in the genetic algorithm. First scenario allows for exact computation,
+since time is not as crucial of a factor, as it is in second case (executing hypervolume
+computation during the algorithm). This requires implementation of both exact and
+approximated methods. Additionally, few methods have been proposed that
+use hypervolume as a input for the fitness measure. I intend to implement at least one of
+them during the GSoC as well.

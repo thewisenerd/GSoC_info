@@ -1,0 +1,1 @@
+Enable the app developer to define a system-wide hotkey that invokes his app. These seem to be popular with screenshot apps, IM clients, etc.

@@ -1,0 +1,5 @@
+My name is Gonzalo Abella. I am a Spanish student/researcher in the Robotics Group at the Universidad Rey Juan Carlos, Madrid. I am very interested in working with you as a student on the GSoC2013 program. I love programming robots and I would like to participate or collaborate in any project related to robotics.
+
+The project I like the most is "Develop new Parameter API for C++ ROS client". What attracts me the most from this project is the possibility to design and then do the code, it is not just the code.
+
+In my application I suggest a possible design. I think I will succeed in providing a clean and easy to use new Parameter Server.

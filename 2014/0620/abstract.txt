@@ -1,0 +1,18 @@
+My project aims at improving the linear modelling in scikit-learn, by implementing the following goals.
+
+1. Random / Cyclic co-ordinate descent
+
+
+2. Finishing Gael's Logistic Regression CV PR
+
+
+3. Finishing Larsman's Multiomial Regression PR + MultinomialRegressionCV
+
+
+4. Strong Rules for (ElasticNet + Lasso) and (ElasticNetCV + LassoCV)
+
+
+5. (L1 + L2) regression using CDN
+
+
+6. Fixing all issues that I might face while dealing with the above goals.

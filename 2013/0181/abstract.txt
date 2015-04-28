@@ -1,0 +1,3 @@
+The current LTTng-UST tracer relies on static tracepoint probes manually inserted in the traced application’s source code. This project aims at providing dynamic instrumentation capabilities in arbitrary applications. In this way, users can dynamically insert tracepoints into applications by attaching to running processes and hot patching without recompiling or interrupting current process.
+
+The Dyninst project provides a great API to dynamically modify running code. This project will explore and utilize Dyninst or other possible way to implement dynamic instrumentation.

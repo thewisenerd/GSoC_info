@@ -1,0 +1,1 @@
+Vectorization is imperative for writing highly efficient numerical kernels. The goal this project is to extend the already existing SIMD wrappers in LibFlatArray ( https://github.com/STEllAR-GROUP/libflatarray/blob/master/src/short_vec.hpp ) to further architectures (e.g. ARM NEON, Intel AVX512, Intel IMCI, CUDA etc.) and/or to extend the capabilities of these wrappers.

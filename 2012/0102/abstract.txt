@@ -1,0 +1,1 @@
+This project is about creating a standard application that will be having various statistical utilities  of resampling, randomization and probabilistic simulation using modern Web based Technologies.This application should be consistent over the most popular browsing platforms, the user interface should be simple to use, and lightweight.

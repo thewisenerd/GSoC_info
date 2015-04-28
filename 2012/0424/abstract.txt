@@ -1,0 +1,1 @@
+At the moment Moodle lacks sending reminders to the users informing the upcoming events from calendar. So, a teacher or any other authority has to send e-mails manually to students. The main objective on this project is to remove that difficulty and automate sending those event reminders to the messaging interface.

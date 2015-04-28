@@ -1,0 +1,1 @@
+There is a new requirement to compare the metadata objects in OpenMRS in order to make easy the metadata sharing process by comparing upcoming metadata objects with existing metadata objects. Data Comparison Module satisfies this requirement by allowing the end user to compare the same types of two objects and highlighting the differences between those objects.

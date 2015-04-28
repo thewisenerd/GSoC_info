@@ -1,0 +1,1 @@
+The project is about creating an Web Service RESTful API for applications that follow the structure of a directory, the main goal of it being to build a basis for the Joomla Application Directory.

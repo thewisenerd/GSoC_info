@@ -1,0 +1,1 @@
+Write automated dogtail and behave tests for Gnome-logs functionalities, and add more unit tests to test the code coverage, and to find out more tests that can be added in future. All the UI tests, and possibly the unit tests, would eventually be made into installed tests.

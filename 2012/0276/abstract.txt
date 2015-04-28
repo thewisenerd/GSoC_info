@@ -1,0 +1,1 @@
+create an overlay that contains automatically generated ebuilds for R packages from CRAN and BOIC.

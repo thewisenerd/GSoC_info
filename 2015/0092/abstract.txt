@@ -1,0 +1,1 @@
+To develop Datapicker for Labplot, it is a tool which converts an image file showing a graph or map, into numbers.

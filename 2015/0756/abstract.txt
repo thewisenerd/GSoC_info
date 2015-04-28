@@ -1,0 +1,2 @@
+The project aims to provide a practical decentralisation distribution mechanism for binary packages, using GNUnet’s networking layers. In that model, users would be able to automatically share binaries they have built locally, and to install binaries built by other users.
+Source: http://www.gnu.org/software/soc-projects/ideas-2015.html#guix

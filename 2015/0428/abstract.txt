@@ -1,0 +1,4 @@
+This is project that aims to improve the being shortcomings of libaboss by
+removing this layer of abstraction, migrating the library to the big integers of
+libgcrypt to allow for useful field sizes and implementing the necessary number
+theoretic functions directly in C.

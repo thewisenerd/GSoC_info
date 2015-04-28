@@ -1,0 +1,1 @@
+Implement a new drive and network management dialog that replaces the current "Browse Network" and "Connect to Server" items, as well as update GtkPlacesSidebar interface and behavior to fit the proposed mockups.

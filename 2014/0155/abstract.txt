@@ -1,0 +1,1 @@
+Although a nifty application, Gnome Boxes currently lacks some 'advanced' features like creating snapshots of VMs and cloning VMs. This is a proposal to add both of these features to Gnome Boxes, possibly extending libvirt-glib along the way.

@@ -1,0 +1,10 @@
+The main goal of this project is to extend the functionality of  the current android app, to support “Smooth Word-Level Highlighting Synchronized with TTS” using open source “Flite” TTS engine .This would really help the dyslexic users to read and study text documents in more understandable format.
+It mainly includes the following :
+1) To modify the internal C code of flite, to support word level callbacks to the java app.
+
+2) Porting the flite TTS to the android app
+
+3) Modify the java code accordingly, to handle the highlighting “smoothly”, maintaining the current code structure.
+
+The user will be given a choice between using Android TTS or the Flite TTS.
+If the Flite TTS is selected, word level highlighting should be supported by the app.

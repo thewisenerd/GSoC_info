@@ -1,0 +1,1 @@
+Extend the mathematical functonality of VisualEditor. This will allow users, unfamiliar with wiki-text, to insert and edit content including mathematical symbols and equations.

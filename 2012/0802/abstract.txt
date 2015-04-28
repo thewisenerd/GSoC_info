@@ -1,0 +1,1 @@
+InfoMaps is a document visualization tool designed for personal information management. It has been implemented using Weave which is an open source framework for data visualization and analysis. Over the summer, I plan to extend its support for local file systems and for linking documents with other structured data sets for visual analysis.

@@ -1,0 +1,1 @@
+The project aims to implement a number of code actions and code issue inspections for C# to improve the code assistance in MonoDevelop.

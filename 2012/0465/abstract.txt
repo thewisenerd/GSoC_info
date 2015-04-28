@@ -1,0 +1,1 @@
+The aim of the project is to create a UI tool which shows internal of networking of Mozilla. This data can be helpful when debugging performance or connectivity problems. This tool will be useful mainly to developers.

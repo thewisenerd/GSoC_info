@@ -1,0 +1,8 @@
+The proposal is about adding some enchantments to  the bodega content system.
+
+My proposal contains(in short) the below tasks
+ 
+* implement the ratings functionality for the assets in the bodega-server (1)
+* implement a comment system for the bodega system (2)
+* add support in our clients(bodega-client and bodega-webapp-client) for the
+collections. (3)

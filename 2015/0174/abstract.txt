@@ -1,0 +1,2 @@
+In the context of libraries of graph algorithms, the graph module of Sagemath stands out for its simple and well-commented code; however, our preliminary testing outlined that some of its algorithms are not as efficient as other implementations, like Boost graph library or igraph.
+This project will try to address this issue: the main goal is to wrap more efficient graph libraries (a ticket about Boost is already present), but we might also improve existing algorithms, if time allows.

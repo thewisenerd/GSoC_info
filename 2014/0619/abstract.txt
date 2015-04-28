@@ -1,0 +1,1 @@
+Currently, Servo has no AJAX support exposed to JavaScript. AJAX is an integral part of the web these days, so the lack of this feature makes Servo much less useful as a browser. The goal of this project is to have a partial implementation of the XMLHttpRequestobject -- one which is self-consistent and covers most use cases that are found today.

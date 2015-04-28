@@ -1,0 +1,1 @@
+This proposal desribes the motivation for integrating Facebook into Choqok, the KDE microblogging client. It also outline the implementation details and the tentative schedule

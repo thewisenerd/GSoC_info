@@ -1,0 +1,1 @@
+This is a proposal to create an autosuggest DBpedia plugin, an embeddable widget for DBpedia entities, and an application to showcase the autosuggest plugin and the widgets. The widgets will display DBpedia resources in an easy to understand and visually appealing format.

@@ -1,0 +1,1 @@
+Establish an eQTL pipeline in Galaxy for various tools, pack them in a workflow for comparison and implement visualisation heatmaps and scatter plots using d3.js.

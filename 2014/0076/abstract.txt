@@ -1,0 +1,4 @@
+The aim of this project is to :
+a) Improve the existing algorithm benchmarking system of mlpack by implementing new performance metrics and comparing various classifiers on their performance over the implemented metrics.
+
+b) Implement a new classifier based on the backpropagation algorithm.

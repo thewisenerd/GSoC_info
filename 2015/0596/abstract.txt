@@ -1,0 +1,5 @@
+WITCH On A Board is a Google Summer Of Code 2015 project which aims to use the MinnowBoard Max as the base for creating a unique replica of the WITCH as an educational tool to understand early computing techniques.
+WITCH On A Board has three specific goals,
+1. Create a core software implementation of the WITCH
+2. Replicate Input and Output systems
+3. Create educational material to be used for understanding the WITCH

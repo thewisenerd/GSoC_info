@@ -1,0 +1,1 @@
+The goal of this project is to write a software that uses an EEG neuroheadset to control rovers (and possibly other devices).

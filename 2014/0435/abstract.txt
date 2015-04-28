@@ -1,0 +1,3 @@
+Configurable Governance Artifacts are one of many well-defined extension points supported by the WSO2 Governance Registry. Using the RXT model, users can model an asset to suit their requirements.
+
+This project focuses on improving the RXT model to use JSON and provide enhanced usability to users when creating a new asset.

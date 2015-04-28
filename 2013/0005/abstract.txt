@@ -1,0 +1,7 @@
+The idea consists in creating a brand new POIProxy client based on gvSIG Mini that will provide access to a set of geo-location services.
+
+	Technically this project pretends to provide gvSIG Mini with a simple API to support POIProxy services. The API will offer transparent support to load a geo-located service, make requests as the user navigates the map, cache data (into memory and disk in standard GeoJSON) to speed up the data-load, and build the user interfaces to show extra data, such as additional info, media (images, video), etc.
+
+	The user will have the chance to load one or more POIProxy layers that will make requests to geo-location services as the user navigates the map. That functionality will offer social and contextual information related to the location of the user.
+
+	On the other hand, gvSIG Mini don’t provide any geocoding nor reverse-geocoding service. POIProxy is a good candidate to provide those services.

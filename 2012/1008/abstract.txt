@@ -1,0 +1,9 @@
+This idea wants to solve these two problems in Abiword:
+1.	Users can set table attributions(width, height, rotate-angle) preciously in table-setting dialog
+2.	Make Frame expandable when users enter extra line of text
+
+I would like to split this idea to two part：
+1. Table Setting Dialog: including dimensions setting and 'rotate-angle' setting
+2. Frame expandable, making Frame expandable when users enter extra line of text
+
+for the 'rotate-angle' setting issue,  it is another GSOC topic, but if none deal with that, I can do this two topic together.

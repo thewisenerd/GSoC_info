@@ -1,0 +1,2 @@
+This project proposal introduces improvements to make the OWASP Hackademic Challenges project more complete.
+It includes new challenges to cover the OWASP Top 10 and more, as well as enhancements to the existing challenges such as a clue plugin and new congratulation pages.

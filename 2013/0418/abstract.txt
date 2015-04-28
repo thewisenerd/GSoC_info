@@ -1,0 +1,1 @@
+The proposal on IDLE improvements project listed in Core Python. Describes the two parts of works which will be covered throughout the project, the Initiation of unit test framework for IDLE and integration of Pep8 style checker tool for IDLE editor.

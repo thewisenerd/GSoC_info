@@ -1,0 +1,20 @@
+The kernel uses hash tables for several crucial subsystems;
+    most notable, in IPC and the global page hash table. The
+    current hash table implementation does not scale with a
+    growing number of elements (because the table never resizes)
+    nor does it exploit concurrency.
+    
+    I would like to implement a resizable, concurrent hash table
+    based on state-of-the-art algorithms. The kernel's requirements
+    align well with properties provided by relativistic hash tables
+    utilizing the read-copy-update (RCU) primitive.
+    
+    HelenOS would benefit from this work in the following ways:
+    1) Improved (memory as well as cpu) scalability of core
+        kernel functions.
+    2) RCU may be used as the building block of very interesting
+        functionality (e.g. nonintrusive kernel tracing).
+    3) Possibility of transferring the RCU functionality
+        into user space as one of the first OSes to provide
+        RCU as a first-class citizen synchronization primitive
+        to userspace drivers and applications.

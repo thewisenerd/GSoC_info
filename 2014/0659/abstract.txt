@@ -1,0 +1,2 @@
+The goal of this project is to add new functionalities to PCL. Specifically, I would like to add a new class to PCL.
+This class has a base into the new automatic object discovery approach which is able to recognize known objects in an unknown environment. This automatic object discovery will be useful for robotics or autonomous vehicles and it will be able to find different class of objects. This new approach compares different parameters of an object to classify it into a type of object.

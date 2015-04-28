@@ -1,0 +1,1 @@
+The main goal of this proposal is to port the Plasma Active Shell to the libplasma2 and to QML2. Right now the Plasma Active Shell is using some of the old api of kactivities which needs to be ported. Also libplasma and QML must be ported to libplasma2 and QML2.

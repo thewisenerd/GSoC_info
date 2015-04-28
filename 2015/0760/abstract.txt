@@ -1,0 +1,1 @@
+In this project, we will develop an Interactive Javascript Shell, a tool that a user, typically a student can open in his browser through Browse Activity on Sugar and can type in his javascript, HTML and CSS code and then immediately run it. This open source tool can be run from an offline host (e.g. school server) or on the XO to support user learning of Javascript.

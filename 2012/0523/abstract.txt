@@ -1,0 +1,1 @@
+As there are many "copy-pastes", the main aim of this project is removing of duplications and decreasing in the count of lines of the BRL-CAD project. Such refactoring is necessary for reduced maintenance cost . The reduction must be very careful in order not to disrupt the project, so different unit tests will be necessary after reduction.

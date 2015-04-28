@@ -1,0 +1,2 @@
+Currently Scribus uses a variant of homebrewed XML. Although there exists some documentation, it's usually outdated and of limited use.
+So, a new file format for Scribus can be introduced using the relax NG Compact specifications. This is advantageous because it relax Ng is well documented, and is readable unlike the present xml.

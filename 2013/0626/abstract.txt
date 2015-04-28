@@ -1,0 +1,1 @@
+I propose working on a series of improvements to VisualEditor concentrating on support for RTL languages like Hebrew, Arabic, Persian and Pashto.

@@ -1,0 +1,1 @@
+Making it possible for a user to access all of Concord consortium's portals with a single account (or link an existing Facebook/Google+/twitter accounts). Once he sign in with a portal he gains access to other portals also.

@@ -1,0 +1,3 @@
+The goal of this project it to help the packaging effort of JBoss software in Fedora, specifically JBoss AS7, JBoss Tools, and JBoss Forge.
+
+As a final deliverable, a custom spin will be created, which contains all of the packaged JBoss applications installed, and with Eclipse configured in a way that compliments them.

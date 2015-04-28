@@ -1,0 +1,2 @@
+Improve the Formula Shape for Calligra in the areas of drawn formula components, basic math utilities, inline editing, general layout of formulas and fonts and provide support in MathML for 'XML entities'.
+Formula shape would definitely need these features to be complete. Many of the users would love to have formula shapes improved and I feel these are great enhancements.

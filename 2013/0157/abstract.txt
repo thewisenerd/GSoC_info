@@ -1,0 +1,1 @@
+Implement PortAudio based audio playback and recording functionality corresponding to audiodevinfo, audiorecorder and audioplayer in MATLAB. Fix legacy functions so that they use this new framework. Implement other audio related functionality in Octave within this scope.

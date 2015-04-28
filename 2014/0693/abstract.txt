@@ -1,0 +1,1 @@
+Mock is an utility used for building RPM packages in Fedora and other RPM-based distributions. This project is aimed at enhancing the current mock implementation to be more flexible and speed up the packagers workflow.

@@ -1,0 +1,1 @@
+Develop a modified Clojure runtime for the JVM that is leaner than the original Clojure for JVM (that is, takes less time to load and consumes less memory) and create a compiler toolchain to be able to compile most Clojure libraries to be used with this runtime.

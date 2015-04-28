@@ -1,0 +1,3 @@
+Currently Ganeti Web Manager lacks proper packaging. If a sysadmin decides to install GWM, he/she should be able to simply issue `sudo dpkg -i ganeti_web_manager.deb` and be done.
+
+This project intends to build tools (or leverage existing ones) to automate creation of .deb and .rpm Ganeti Web Manager packages for Linux distributions. The actual work will also include further modularization of GWM, workflow automation and packages for opt-in GWM features, like VMs metric system (GSoC 2012).

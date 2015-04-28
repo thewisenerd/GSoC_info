@@ -1,0 +1,5 @@
+GRASS GIS provides various modules for vector network analysis. It is difficult to use these powerful modules for beginners in GRASS because these modules can be used only in command line.
+
+Main goal of the project is to make user-friendly WxGUi front end for vector network analyses.
+
+Additional goal is to improve functionality of Attribute Table Manager.

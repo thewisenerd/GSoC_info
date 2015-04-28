@@ -1,0 +1,3 @@
+FLINT is a highly optimized library for performing computations in number theory, written in C. Most importantly for this project, it implements basic arithmetic on a number of arbitrary precision data types, including integers, rationals, and polynomials.
+
+The aim of this project is to write a C++ wrapper for flint which, using expression templates, compiles down to code which achieves performance as close to native C as possible.

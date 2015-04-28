@@ -1,0 +1,2 @@
+This project targets to provide interfaces to access File systems through the Wiselib.
+The next part of the project involves implementing FAT File system on the Wiselib. The implemented File system will reduce overhead of complex File systems and only possess features necessary in embedded devices. This will tremendously improve performance of embedded devices and enable the File system to run with a very low memory foot-print.

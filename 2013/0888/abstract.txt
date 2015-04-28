@@ -1,0 +1,1 @@
+Being able to select parts of the existing changes, with hunk or greater granularity, in an interactive way, can improve the use of commands and extensions that take changes, such as commit, amend and import.

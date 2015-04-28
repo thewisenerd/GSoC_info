@@ -1,0 +1,1 @@
+This proposal expounds the personal data about me asked by the CGAL organization as well as the methodology I provide for the CGAL project “Support for Qt5”, what I have imagined for the porting of CGAL and all its demonstrations to Qt5 technology.

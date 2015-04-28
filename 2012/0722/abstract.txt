@@ -1,0 +1,1 @@
+The project includes improving SMB2 protocol support for CIFS Linux module as well as SMB2.1 multi-credit requests implementation.

@@ -1,0 +1,1 @@
+Setting up a replication slave involves copying of initial data from the master to the slave. This currently needs to be done manually. Goal of this project is, to create build-in method for automatic provisioning of slave without restricting master or reducing his performance. After such copy, slave is fully up to date even with changes done during provisioning process.

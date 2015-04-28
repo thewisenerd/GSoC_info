@@ -1,0 +1,1 @@
+The project aims at delivering a Usage Module for ATutor which generates a variety of usage statistics. The tools and paths followed of users will be monitored and statistical data will be collected. It also require presenting of detailed analytics through visualization. The project will result in better understanding of system to users (students, instructors and administrator).

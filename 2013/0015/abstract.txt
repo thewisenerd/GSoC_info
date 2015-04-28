@@ -1,0 +1,1 @@
+This project will significantly improve Abiword's math plugin. The project will replace the mathml rendering library Gmathview with lasem, to display equations. Further enhancements include improving the mathml to itex conversion, and building a better math editor.

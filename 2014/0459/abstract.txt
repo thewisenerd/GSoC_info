@@ -1,0 +1,1 @@
+This project aims to implement evdev protocol support in FreeBSD kernel, thus allowing to use xorg unmodified evdev input driver (xf86-input-evdev) and adding generic support for touchscreen devices.

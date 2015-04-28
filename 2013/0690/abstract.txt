@@ -1,0 +1,1 @@
+There is already a support for guest copy/paste in Spice if a userspace Spice agent is running in the guest OS. The aim of the project is to add guest copy/paste support to QEMU Graphical User Interfaces like the recently written GTK+ or the long time default SDL.

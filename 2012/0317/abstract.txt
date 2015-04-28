@@ -1,0 +1,1 @@
+This project involve improving new libosinfo API for automated installations, porting Boxes to use that and implementing support for Debian, Ubuntu and openSUSE (at least).

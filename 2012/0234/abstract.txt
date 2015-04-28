@@ -1,0 +1,1 @@
+This project aims to contribute to the invitation and request modules for Melange to improve flexibility and reliability of these subsystems of GSoC and GCI. It also provides a potential solution for the feature permitting students to upload code directly to Melange in the event that the invitation and request modules are completed with time to spare by the end of the program.

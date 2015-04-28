@@ -1,0 +1,2 @@
+Apache Phoenix is a SQL skin over HBase delivered as a client-embedded JDBC driver targeting low latency queries over HBase data.
+The idea of this project will be to add missing math build-in functions for Phoenix. Firstly, check the typical math functions that are implemented in relational database systems for reference. Secondly, go though the code, and summary all the missing math build-in functions. Finally, implement them for Phoenix according to the guide, and finish related testcases.

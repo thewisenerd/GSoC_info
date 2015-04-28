@@ -1,0 +1,1 @@
+The idea of the project is to port all the web import/export kipi tools to KF5/Qt5 framework and then these tools need to be factored so that we can remove the redundancy in the codes of these tools. These tools will also be grouped into different categories so as to decrease the loading time of digiKam.

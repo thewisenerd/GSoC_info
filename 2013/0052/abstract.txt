@@ -1,0 +1,1 @@
+OpenPixi: Parallelization of the Simulation Using the IBIS Framework and OpenCL

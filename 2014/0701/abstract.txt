@@ -1,0 +1,1 @@
+I would like to work on implementing consensus diffs for Tor, an increasingly important issue as consensus files (even when compressed) are starting to get too big to be used regularly. As described in proposal 140, I will be using an ed-like format to describe differences between consensus.

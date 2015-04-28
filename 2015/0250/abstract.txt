@@ -1,0 +1,4 @@
+In the following proposal I lay out a plan to implement the checker framework idea, from the ideas page.
+
+In this particular version this means:
+Refactoring, breaking up the current problem reporter plugin's code and moving it into the shell. Reusing the problem model in error checker plugins, and integrating their views on a unified widget. Implementing new error checker plugins with the new framework.

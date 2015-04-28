@@ -1,0 +1,1 @@
+HoneyProxy started as a GSoC project last year. Based on the great feedback of the security community, the project's goal for this year is to enhance HoneyProxy with new analysis options, enhanced filtering capability and integration of other security tools.

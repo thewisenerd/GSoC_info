@@ -1,0 +1,1 @@
+I want to work on the suggested project 'Block Editing for HTML and CSS' this summer. The aim is simple, to implement a good parser and an adapter for both the languages and modify droplet to add any feature that goes well with the concept and enhances productivity. This will be a great way for kids to start learning Web Development.

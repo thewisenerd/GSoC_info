@@ -1,0 +1,1 @@
+HLAPI is designed to be an mediator between the network interface (ToxCore/ToxAV) and the user application interface. Its main duty is to parse/pass requests and messages between these two heavily I/O interfaces, to keep the business logic purely logical and independent of I/O for improved testability.

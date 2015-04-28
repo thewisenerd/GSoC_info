@@ -1,0 +1,1 @@
+Implement an operational transformation backend for change tracking purposes and integrate the Text Shape with it.

@@ -1,0 +1,2 @@
+It is a continuation of my work by making error handling during files copying (or moving) asynchronous. I’ve implemented this functionality in KIO and created a dialog to represent process to user. 
+But since many users considered dialog to be too overloaded, I started to work on completely new design together with Björn Balazs. Now mock-up is almost ready. Also I will re-implement directories creating phase (which is a bit tricky) and create a lot of tests to cover all possible use-cases.

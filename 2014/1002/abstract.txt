@@ -1,0 +1,1 @@
+KDevelop has a plugin providing language support for QML and Javascript, with small tools helping the user to modify QML files. This project is about improving the language support (fixing bugs, handling imports and providing auto-completion for the possible components and their properties) and adding a property editor and a QML previewer in KDevelop.

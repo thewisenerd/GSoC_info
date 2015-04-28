@@ -1,0 +1,3 @@
+"[...] this project targets the implementation of a software based sound card for the Wiselib. [...] Since sensor nodes are resource constrained devices, this soundcard is not supposed to implement Dolby Surround or THX Sound, but rather a limited version of Midi and/or Wave Audio (e.g. 8-bit 11 kHz Mono). The sound should be generated using PWM on digital output pins or using analog output pins on the node. [...]"
+
+http://www.wiselib.org/gsoc/project_ideas.html

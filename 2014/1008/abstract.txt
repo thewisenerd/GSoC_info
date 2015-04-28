@@ -1,0 +1,3 @@
+Radar is a highly diverse radio technology for object detection, ranging and velocimetry.
+The purpose of this project is to develop an out-of-tree module for the GNU Radio project that provides a generic environment to experiment with various radar types. Some of the most commonly used radar processing algorithms shall be implemented.
+Universal Software Radio Peripherals from Ettus Research and adequate daughterboards are intended to be used for transmission and reception of real signals.

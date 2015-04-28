@@ -1,0 +1,2 @@
+MFI’s typically generate client-facing documents (whose format varies from MFI to MFI) from their MIS. These documents mostly include simple Client (Client registration documents) and Loan (Loan Contracts, Passbooks etc.) documents.
+This project aims to enable non technical end users to create well formatted reports.

@@ -1,0 +1,1 @@
+My proposal is to develop a mode in the Processing IDE that will automate the creation of real-time controllers over numerical constants in a sketch. The controllers will be presented to the user when he runs the sketch and will enable him to change numerical values in real-time while the sketch is running.

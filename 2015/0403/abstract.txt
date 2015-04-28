@@ -1,0 +1,1 @@
+Hi everyone. My name is Petr and I want to work on issue SLING-1437 within the framework of a Google Summer of Code 2015.

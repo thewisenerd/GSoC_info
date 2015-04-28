@@ -1,0 +1,2 @@
+Implementation of OpenFlow 1.3 and 1.4 specification in OCaml in order to work with Frenetic.
+It will use a full OCaml approach in an iterative way.

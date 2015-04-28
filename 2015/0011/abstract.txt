@@ -1,0 +1,1 @@
+CSymPy is a fast C++ library for symbolic manipulation, it has optional Python bindings (that provide seamless interoperation with SymPy. The goal of this project would be to provide Ruby bindings, thus providing a very fast computer algebra system for Ruby.

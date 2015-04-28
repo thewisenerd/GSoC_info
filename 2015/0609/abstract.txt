@@ -1,0 +1,1 @@
+This is a proposal for the "Interconnection with ROS " project for the JdeRobot organization.

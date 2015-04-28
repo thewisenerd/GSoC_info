@@ -1,0 +1,3 @@
+Last year MetaBrainz Foundation and Music Technology Group at the UPF started AcousticBrainz project. Its main goal is to collect acoustic information about recordings from MusicBrainz and make it available to the public.
+
+After low-level information about recordings is submitted to the server, high-level descriptors (genre, mood, etc.) are computed based on existing classifier models. What we need is a way to create new datasets that will be used to train these models.

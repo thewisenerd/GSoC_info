@@ -1,0 +1,9 @@
+Open Source Event Manager is a platform for foss event planning. 
+OSEM being a new project, has several things that need to be done. 
+My GSOC project aims to focus on 3 categories:
+
+A. Implement features to make use easier
+
+B. Implement features that help reduce workload of event organizers
+
+C.Introduce new features that aim to concentrate more elements of a larger-scale conference organization into a single platform

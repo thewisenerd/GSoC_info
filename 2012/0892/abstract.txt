@@ -1,0 +1,3 @@
+Gluon is a project that aims to deliver a complete framework for creating and playing videogames.
+In order to give the player a great gaming experience we need to give him also an awesome distribution and feedback service. 
+What's really missing is a cutting-edge website that satisfies players' desires like sharing statistics and games, discuss games with friends and much more. This can also help development allowing developers to receive feedback quickly and respond to it.

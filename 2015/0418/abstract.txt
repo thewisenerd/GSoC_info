@@ -1,0 +1,2 @@
+My project is aimed at re-designing the GTG app in order to deliver the most modern features such as Header bar, App menu or Stack Switcher by using GTK+.
+Moreover, while working on the design features, I will do a thorough code review and refactor some parts of code in order to release an enhanced version of GTG at the end of the summer.

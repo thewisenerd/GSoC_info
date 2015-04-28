@@ -1,0 +1,1 @@
+Extend the current Front-end Editor feature plugin with content blocks, using TinyMCE.

@@ -1,0 +1,1 @@
+The idea is refresh the UI of Gnome-tweak-tool, create a very specialised UI for certain tasks, take advantage of modern gnome technologies such as the application menu and add some new features, for example the feature "reset to default".

@@ -1,0 +1,2 @@
+This project want to make the Lucane classification module more usable and speed it up. This module is approx. one year old, and have some minor issues and some deficiency.
+I want to resolve some optimalization problem, with an online and a cashing classification model, make more configureable result sets, and make the whole product testable. I want to implement least one new classification algorithm and do integration in solr.

@@ -1,0 +1,3 @@
+The first part of the project is a web interface for users to share their mininet modules. Users should be able to submit his own mininet modules, see what others submitted, download a module and run it easily. A tutorial on how to use the website will also be written.
+
+The second part of the project is a website for users to share their full experiments by uploading VM image.

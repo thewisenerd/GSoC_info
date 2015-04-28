@@ -1,0 +1,2 @@
+Work on tasks required to get AppStream into a usable state on as many distributions as possible, focusing on openSUSE.
+This includes fixing the Software Center and updating parts of PackageKit.

@@ -1,0 +1,1 @@
+Expand the current Media Transfer Protocol device emulation code (which presents a view of the host machine's filesystem as an MTP device to the guest) to run portably and perform writes as well as reads, and ensure the code is robust and properly integrated into the upstream QEMU codebase.

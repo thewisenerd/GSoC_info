@@ -1,0 +1,2 @@
+This proposal is focused about the growth of the Google at Home project, the goal is to develop some useful features that can make it ready to reach the production status and usability. 
+This requires writing: the RPC interface to the master node using JSON::RPC and JSON::RPC::Server, the web interface structure using the Mojolicious framework, the SQLite parser backend using DBIx::Class and the nodes network autoconfiguration (that leverage the SQLite backend).

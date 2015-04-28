@@ -1,0 +1,2 @@
+Full WebGL-based version of OpenPixi using threejs and offering a simpler fallback to ensure usability across different browsers and devices. Additionally I want to use GPU's computing power where possible.
+A visually appealing UI will also be included.

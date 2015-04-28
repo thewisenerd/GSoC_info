@@ -1,0 +1,1 @@
+The goal of this project is to create a working Wireshark dissector that parses the Ceph protocol. It will be written with a focus on being of sufficient quality to be accepted into the Wireshark project including following their coding standards and best practices.

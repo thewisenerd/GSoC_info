@@ -1,0 +1,4 @@
+Goal of this project is to improve CGAL's minkowski_sum_2 package regarding run time and memory consumption. This will be achived by implementing the "Reduced Convolution Algorithm" as described by Behar's and Lienc, which is robust and handles low dimensional boundary features.
+
+The package's documentation and examples will be improved. A new Qt demo application will be designed to provide an interactive
+demonstratation of the package's capabilities.

@@ -1,0 +1,1 @@
+I want to participate in this project to build OODSS services based on NFC and develop NFC based API for various languages used in the SIMPL. Meanwhile, I will also extend the applications of Metadata to the smart phones to support trans-surface interaction.

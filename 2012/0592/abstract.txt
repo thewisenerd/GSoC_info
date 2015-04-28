@@ -1,0 +1,1 @@
+I propose to develop a data tile service which will provide fast, up-to-date, customizable map data, served as static files. It will enable new uses of map data, such as client-side interactivity, rendering, and editors, and provide a speedier alternative for some uses of the current OpenStreetMap API.

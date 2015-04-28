@@ -1,0 +1,1 @@
+Extend Code for America's Brigade platform to include a step-by-step process and one-click solution for deploying apps.

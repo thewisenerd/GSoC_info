@@ -1,0 +1,1 @@
+This project will cover the Github repository integration under the main implementation of empowering MonoDevelop IDE user with Github interaction capability from within the IDE which can help them to work closely with their favorite version control-Github.

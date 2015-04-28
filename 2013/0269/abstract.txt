@@ -1,0 +1,15 @@
+This is a proposal for the Apertium organization in GSoC 2013. The goal of the project is to implement a new Part-of-Speech tagger, the Sliding-Window Part-of-Speech Tagger (SWPoST), to serve as a drop-in replacement for the current HMM Part-of-Speech Tagger in Apertium. The new tagger can achieve higher quality performance and is easier to understand and modify.
+
+The proposal mainly consists of the following parts:
+
+ 1) Title and contact information.
+
+ 2) My general interests on machine translation and the Apertium project.
+
+ 3) Explanations of the tagger's math model in my own words. Firstly, mathematical descriptions and a simple example are used together to show the mechanism of the training and tagging procedure of the new tagger. Secondly, two solutions are proposed for implementing the FORBID and ENFORCE restrictions in the tagger, using a more complex model, the Light SWPoST (LSWPoST).
+
+ 4) The descriptions on the work plan, including: Coding Challenge, Community bonding period, and the detailed week plan.
+
+ 5) List my skills and qualifications that help to implement the tagger.
+
+An online version of the proposal is provided in "Additional info", which provides a better display, using wiki and LaTex.

@@ -1,0 +1,4 @@
+Provide customer the services of Apertium on their mobile with more added features like
+•Different keypad for different language 
+•Translation of SMS and other text content like contact, address, memo
+•Basic form for translation of text.

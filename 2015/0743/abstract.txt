@@ -1,0 +1,1 @@
+Understanding the codebase, error documentation and writing tutorials using robocomp is what will be done in the first few weeks. So that users can right away start using robocomp for their projects. Later will be working on computer vision components and Deployment Generator.

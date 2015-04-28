@@ -1,0 +1,1 @@
+My proposal consists on improving Indico abstract editor to be able to accept LaTeX and Markdown/MathJax formulas to generate HTML and PDF compiled outputs. Using PageDown editor to translate the plain text from input to LaTeX documents ("book of abstracts") and HTML while live previewing the edition on a canvas.

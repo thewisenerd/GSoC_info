@@ -1,0 +1,1 @@
+Currently Taps (similar to 'sources' in other package management systems) are symlinked to regular Formula directory and behave just like standard core formulas. We do not have ‘meta-data’ for taps so we cannot mange them efficiently. The outcome of this project will mainly be a more effective structure for taps.

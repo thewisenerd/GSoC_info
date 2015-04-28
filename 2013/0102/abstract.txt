@@ -1,0 +1,5 @@
+Inkscape has a variety of tools that suffice for most graphic designers’ work. Having worked with Adobe Illustrator (and related products like CorelDraw, Photoshop etc) since middle school before making the switch to Inkscape, places me in a position where I can judge what is missing as a designer and what is possible as a developer ( owing to my undergraduate studies ).
+I propose to create a revamped tool for editing solid-colored objects selected on the Canvas and forming Color Themes. The tool shall provide interactive color- editing which is very useful for professional designers and novice alike. Elements of basic Color Theory will be integrated in the tool to aid scheme based color grouping. For a clearer picture please visit:  
+https://kuler.adobe.com/#create/fromacolor
+http://colorschemedesigner.com/
+The tool will be an improvement over the 'Wheel' widget in the 'Fill and Stroke' Dialog Box.

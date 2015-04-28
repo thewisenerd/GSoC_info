@@ -1,0 +1,1 @@
+Create a mentorship tracker app where new contributors in an open source project are in a state between least to most experienced. Notes are kept on the new contributors and they can be promoted to the next stage by mentors. This allows coordination between different mentors.

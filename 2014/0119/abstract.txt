@@ -1,0 +1,3 @@
+Pathway Commons (PC) aggregates biological pathway information from several pathway databases; the data are stored primarily in the format known as BioPAX. The PC database currently includes data from resources that already provide data in BioPAX format, such as Reactome and HumanCyc.
+
+The aim of this project is to extend Pathway Commons framework by implementing importers/converters for other data resources that do not provide their data in BioPAX but are of high interest to biologists.

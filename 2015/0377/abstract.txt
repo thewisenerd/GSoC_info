@@ -1,0 +1,1 @@
+Enhance PureScript's Pursuit tool to provide better searching by names, searching by types, and a centralized documentation store - the three of these together should make it significantly easier to discover and use PureScript libraries.

@@ -1,0 +1,2 @@
+Developer Horizon or Developer Dashboard will be an Online Task and Event management system for Developers/Users that can be used along with FB,Google,Github etc to keep track of everything in one place with some beautiful User Interface written in Flask-Python
+With Support for iCalendar format.

@@ -1,0 +1,1 @@
+Mailman doesn't have any built-in statistical capabilities. The idea is to build list metrics and report them via a pluggable dashboard.

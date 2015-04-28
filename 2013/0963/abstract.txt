@@ -1,0 +1,2 @@
+The Wintermute Engine in ScummVM has a number of issues and areas for optimization and it has not yet reached "supported" status.
+Improve it.

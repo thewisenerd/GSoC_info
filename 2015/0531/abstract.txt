@@ -1,0 +1,1 @@
+The goal of this project is to improve the compile-time associative data structures present in the Hana C++14 metaprogramming library. I aim to provide a richer interface than what is currently available and also to improve the compile-time performance of those data structures, while keeping the runtime performance on-par with non-naive hand-written code.

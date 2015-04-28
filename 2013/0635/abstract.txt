@@ -1,0 +1,6 @@
+The aim of the project is to develop a rigorously tested, well documented collaborative 
+filtering framework for mlpack with a flexible API. The project involves defining the 
+input/output model, implementing collaborative filtering algorithms and deriving various 
+recommendations from the data. The project aims to give maximum user control 
+and freedom to the user to work with the algorithms. 
+The algorithms proposed in this proposal include QUIC-SVD and ALS-WR

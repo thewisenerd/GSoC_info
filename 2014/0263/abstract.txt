@@ -1,0 +1,7 @@
+Gnome Maps is an on going development maps application for the Gnome Desktop Environment.
+
+In the latest release has been added the routing feature but a must have feature is missing: people can’t add intermediate points.
+
+The main goal of my proposal is to add support to via points in Gnome Maps.
+
+Mattias Bengtsson (Gnome Maps) and  Peter Karich (GraphHopper) are the mentors for this project.

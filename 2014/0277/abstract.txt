@@ -1,0 +1,1 @@
+Based on the input of the Nmap community, I will develop a variety of scripts to detect and exploit vulnerabilities in widely used software products.

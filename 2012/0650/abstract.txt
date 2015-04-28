@@ -1,0 +1,7 @@
+I would be improving the support for water bodies which includes
+<br>
+1). Complete Ocean support. Fix the bugs in Level of Details.
+<br>
+2). Simulating wave hitting a shoreline as desired.
+<br>
+3). Reflection and Refraction in water

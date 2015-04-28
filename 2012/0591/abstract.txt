@@ -1,0 +1,3 @@
+The most obvious reason for the Hurd feeling slow compared to mainstream systems like GNU/Linux, is a low I/O system performance, in particular very slow hard disk access.
+
+The reason for this slowness is lack and/or bad implementation of common optimization techniques. One of them is clustered page reading. This technique is base on idea that usually not only one page in file is read. That's why to minimize moving of disk head several pages which stand one by one are read at once, although only one page was asked.

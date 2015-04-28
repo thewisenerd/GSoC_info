@@ -1,0 +1,3 @@
+The primary goal of this project is to change the layout of phpMyAdmin from a frame-based layout to an AJAX-driven layout.
+
+A secondary goal of this project is to replace the old "flat" navigation system with a new AJAX-driven navigation system that displays elements in a tree structure.

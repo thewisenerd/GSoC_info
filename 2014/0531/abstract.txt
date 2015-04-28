@@ -1,0 +1,1 @@
+This project is focused at removing some issues from the student side of Melange and implementation of features which would enhance student experience at Melange. The project will include the implementation of proposal ranking and proposal diff features.

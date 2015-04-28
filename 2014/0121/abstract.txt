@@ -1,0 +1,1 @@
+Creating an automated testing suite using  Robot Framework which is configurable, easy to write, easy to maintain and provides in depth logs and reports.

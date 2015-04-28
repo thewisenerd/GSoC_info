@@ -1,0 +1,1 @@
+My ultimate goal is to implement a new database engine for Graphite real-time graphing system that interfaces with Shoal database architecture (SQLAlchemy as ORM and MySQL as DBMS). Also as extension I can update the main web inferface.

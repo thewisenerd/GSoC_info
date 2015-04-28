@@ -1,0 +1,4 @@
+Git uses remote helper to connect to remote repositories to retrieve (fetch) and upload (push) changesets. 
+The goal is to create a remote helper that allows those operations on remote subversion (svn) repositories.
+To keep the scope adequate I concentrate on importing (fetching) svn revisions. 
+The major challenge is mapping svn branches (which are weird to detect) to git branches.

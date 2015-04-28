@@ -1,0 +1,1 @@
+The purpose of this project is firstly to improve the graphical appearance and audio of the PC version of "Escape from Monkey Island" running in the ResidualVM 3D game interpreter to better match the original game. Secondly, ResidualVM's compatibility with the PlayStation 2 version of the game will be improved.

@@ -1,0 +1,3 @@
+For a wide range of scientific applications algorithms that analize texture, pixel distribution or shape are key components.
+
+I propose providing VIGRA an implementation, documentation and testing of this key components using as reference libraries shuch as the CellCognition project.

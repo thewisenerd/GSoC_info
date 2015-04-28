@@ -1,0 +1,1 @@
+The goal of this project is to implement the machine learning methods in C/C++ to model the clonal evolution of cancer tumors, based on the research prototype written in Python. The main focus will be on writing highly optimized code in C/C++ using graph data structures and algorithms, and Markov chain Monte Carlo methods.

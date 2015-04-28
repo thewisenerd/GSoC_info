@@ -1,0 +1,1 @@
+I will implement a user-friendly interface for important Git functionality in Gitg - the GNOME repository viewer. I will start with "Format Patch" and "Interactive Rebase" - two Git functions which are a part of the GNOME development workflow. This will make the process of contributing to GNOME simpler for new Git users, and productive for seasoned Git users.

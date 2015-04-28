@@ -1,0 +1,1 @@
+MASTodon is a Java application that looks for common subtrees in large sets of phylogenetic trees. It provides a user-friendly graphical interface, automatic pruning algorithms as well as powerful manual pruning options.

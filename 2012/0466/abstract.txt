@@ -1,0 +1,1 @@
+The OpenPrinting web site should be extended to allow submissions from users for new printers and drivers. In addition to the submission process a backend for moderators should be added.

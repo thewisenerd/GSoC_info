@@ -1,0 +1,1 @@
+Varnam is a transliterator for indic languages. This project aims to improve varnam's learning capabilities by improving tokenization. The main objective is to develop a stemming algorithm for indic languages that can be configured from a scheme file.

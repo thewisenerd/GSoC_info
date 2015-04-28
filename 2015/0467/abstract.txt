@@ -1,0 +1,3 @@
+The Cyme library provides wrapper functions for math operations, while performing vectorization to maximize hardware utilization. It is  currently only supported on the PowerPC A2 processor.
+
+My main goal is to extend the back-end support for the Cyme library, so that it can be run on Power7, Power8, and ARM processors.

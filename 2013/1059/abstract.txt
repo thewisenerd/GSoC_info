@@ -1,0 +1,1 @@
+The project will be a Ruby wrapper that generates Vega plot specs, and allows users to write Ruby programs to generate professional interactive visualization that can be embedded in web applications.

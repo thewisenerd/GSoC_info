@@ -1,0 +1,7 @@
+PerformanceAnalytics is an R package that provides a collection of econometric functions for performance and risk analysis. It applies current research on return-based analysis of strategy or fund returns for risk, autocorrelation and illiquidity, persistence, style analysis and drift, clustering, quantile regression, and other topics.
+
+PerformanceAnalytics has long enjoyed contributions from users who would like to see specific functionality included. In particular, Diethelm Wuertz of ETHZ (and the well-known R/Metrics packages) has very generously contributed a very large set of functions based on Bacon (2008). It is a great starting point, but many of these functions need to be finished and converted such that the functions and interfaces are consistent with other PerformanceAnalytics functions, and are appropriately documented. 
+
+In addition the functionality proposed in Bacon is incomplete in the contributed functions.  That will require writing or re-writing the function with reference to Bacon (2008) and other underlying references
+
+Lastly all the functions must be well documentet thanks to the roxygen2  package

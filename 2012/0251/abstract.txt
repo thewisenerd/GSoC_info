@@ -1,0 +1,1 @@
+This is the proposal for LTE Scheduling with the FemtoForum MAC Scheduler API project.  Than main technical plan is introduced in approach part.

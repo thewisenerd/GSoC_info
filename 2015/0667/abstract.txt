@@ -1,0 +1,3 @@
+The main goal is to implement the new solver for nonlinear least squares minimization based on modified dogleg approach. The solver will be able to work with large sparse Jacobian matrices and efficiently handle bound constraints on some of the variables.
+
+The second goal is to implement separable nonlinear least squares algorithm. This algorithm is applicable when an approximating function is sought as a linear combination of basis functions and it usually enjoys much faster convergence.

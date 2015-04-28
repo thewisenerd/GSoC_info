@@ -1,0 +1,3 @@
+Spot volatility is a measure of the 
+uctuation in returns on financial assets. The optimal estimation of spot volatility is important in high-frequency trading signal generation and risk management. Several spot volatility estimators have been proposed in academic literature over
+the last few years. This project aims to implement them in the R package highfrequency.

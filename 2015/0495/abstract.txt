@@ -1,0 +1,7 @@
+For this proposal I picked up five ideas from the ideas list (http://ccextractor.sourceforge.net/gsoc2015.html):
+
+1. Real time translation with Google Translate API
+2. Support of multiprogram streams
+3. Finalizing CEA-708 support
+4. Linux GUI Interface
+5. Mac OS X GUI Interface

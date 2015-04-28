@@ -1,0 +1,1 @@
+CloudCV API is important because it allows users to incorporate CloudCV functionality without having to worry about learning a new framework. This project intends to add more features to the API without compromising its simplicity of use. Currently, the API lacks a few functionality which is essential for the success of the API.

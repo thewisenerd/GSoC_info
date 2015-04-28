@@ -1,0 +1,2 @@
+Currently, Mixxx lacks a couple of effects such as Phaser, Brake Gater or Vocal Cut whereas other major DJ Mixing products already provide similar effects.
+This project aims at implementing some effects and also change the back end to support a new class of effects. These new features are going to boost Mixxx's visibility.

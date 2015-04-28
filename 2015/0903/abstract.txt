@@ -1,0 +1,3 @@
+Fast image preprocessing algorithms are attractive for mobile development. This is made possible via NEON intrinsics which allows for vector operations, with great performance improvements.
+
+This project aims to implement 3 image preprocessing algorithms taking advantage of NEON intrinsics. The proposed algorithms are for automatic white balancing (AWB), automatic colour enhancement (ACE), and denoising via adaptive guided filtering (AGF). All proposed algorithms are recent and perform well.

@@ -1,0 +1,2 @@
+Parallel Tracking and Mapping creates a sparse 3D map of hundreds of features of the environment, it gives the camera position and orientation. 
+It is based on the Structure from Motion principle, where the translation and rotation of the camera, given enough distinct points, produces enough information to calculate the location of the points and the camera.

@@ -1,0 +1,1 @@
+This project will transition the bootloader from using Ficl 3 to Ficl 4 in an attempt to keep synchronized with Ficl as well as see speed and memory improvements. If time is available it will also try and utilize the new API more efficiently.

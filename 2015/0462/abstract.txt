@@ -1,0 +1,1 @@
+HBLAS is an important submodule in Haskell Numerical. It helps matrix computation efficient, and it probably will have a greate impact on scientific computing in the future of Haskell. HBLAS now has some basic BLAS API bindings. I will provide the rest of the BLAS bindings and docs. And then work on the bindings with LAPACK.

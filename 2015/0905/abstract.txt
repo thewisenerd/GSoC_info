@@ -1,0 +1,1 @@
+Enhancing libvirt-designer to generate domain XML in an intelligent fashion.

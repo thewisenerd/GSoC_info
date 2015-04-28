@@ -1,0 +1,9 @@
+My proposal is to develop a plugin to migrate all features of route calculation from the 1.* gvSIG version to the latest one. 
+These are the main tasks to do:
+
+     Route management to get the shortest path 
+     Optimizing the order of stops on a route 
+     Calculation of service areas 
+     Location of the nearest event 
+     Calculate matrices Origin - Destination 
+     Calculation of minimum spanning tree

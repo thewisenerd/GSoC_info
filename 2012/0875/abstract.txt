@@ -1,0 +1,1 @@
+The support of third-party layouts in the new version of Cytoscape Web enables programmers to implement their layout algorithms to be used with different interactive networks. Cytoscape Web desires more layouts, besides their already implemented force-directed layout, to include within the program. This project involves implementing several layout algorithms for Cytoscape Web.

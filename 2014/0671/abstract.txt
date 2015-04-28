@@ -1,0 +1,1 @@
+The goal of this project is to move the MusicBrainz Search server to use SOLR for faster and in-place index updates.

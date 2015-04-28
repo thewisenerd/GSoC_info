@@ -1,0 +1,1 @@
+WebHelp is a new addition to the DocBook output format list. It provides a modern CSS-based WebHelp format.The outcome of the project will be WebHelp with a improved feature set and enhanced usability.

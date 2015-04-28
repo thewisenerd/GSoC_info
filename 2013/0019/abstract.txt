@@ -1,0 +1,1 @@
+Introducing HTML 5 into form fields by adding new attributes & removing deprecated ones and by adding new form elements as JFormFields.

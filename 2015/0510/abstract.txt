@@ -1,0 +1,1 @@
+The project is about designing and implementing a system for object detection and recognition in 3D point clouds and 2D images.

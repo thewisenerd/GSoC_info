@@ -1,0 +1,1 @@
+Many programs are dependent on mshtml.dll, but till now, many functions in it are unimplemented. So adding implemention would benefit wine's behavior on many applications. My job would contain two parts: implement IHTMLTable*, and implement frequently needed functions.

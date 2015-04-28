@@ -1,0 +1,3 @@
+Kopete is a multi-protocol, free software instant messaging client of KDE. The goal of Kopete is to provide users with a single easy-to-use way to access all of their instant messaging systems. 
+
+Kopete KDE3 version had plugin for IRC protocol. Porting that IRC plugin to new KDE versions was never finished and Kopete does not have working support for IRC yet. This project aims to provide a full-fledged IRC Plugin support to Kopete.

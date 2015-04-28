@@ -1,0 +1,5 @@
+To implement a caret and focus tracking device within GNOME Shell and allow the magnifier to use this device to display current keyboard focus. 
+
+This work would contribute a focus and caret tracking "device" within GNOME Shell to the benefit of the GNOME community. 
+
+The work also allows the magnifier to use this device in order to display current keyboard focus which enable users with low vision to use GNOME more easily.

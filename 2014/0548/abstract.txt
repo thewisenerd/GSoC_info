@@ -1,0 +1,1 @@
+I am writing four DBus daemons that accept systemd calls and emulate their behavior correctly. My project covers systemd-hostnamed, systemd-localed, systemd-timedated, and systemd-logind (ongoing). It is intended for unix and unix-like systems that are not running systemd but need to support software (GNOME, others) that depends on such interfaces existing on the system bus.

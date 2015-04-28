@@ -1,0 +1,1 @@
+This project aims to implement, as a library, an algorithm designed by Johannes Kopf and Dani Lischinski. The paper can be found at http://research.microsoft.com/en-us/um/people/kopf/pixelart/ . After implement the library, the second step of the project would be integrate it within Inkscape.

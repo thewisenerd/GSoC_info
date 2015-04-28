@@ -1,0 +1,1 @@
+Doctor’s medical prescriptions are difficult to understand for not only semi literate people but also sometimes for the learned ones. The proposed system would automatically convert the complex cryptic prescription to layman text for quick understanding with added functionalities of preferred language and more information about the drug and the diagnosis.

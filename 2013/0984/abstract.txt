@@ -1,0 +1,1 @@
+Extend the existing Neko library to cover all necessary UI widgets and Android 4.0+ concepts. Implement a way to work with UI elements like with Clojure data using destructuring and pattern-matching. Provide Clojure/Android runtime with the ability to auto-complete symbols and jump to symbol definition.

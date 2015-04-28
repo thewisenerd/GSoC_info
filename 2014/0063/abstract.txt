@@ -1,0 +1,1 @@
+I will implement highly efficient algorithms to compute the Hermite normal form of a matrix of integers within the FLINT library.

@@ -1,0 +1,1 @@
+In one of my previous open source project SADIT, I implemented an abnormal traffic generator based on two simple models. For the GSoC project, I would like to extend the ideas of SADIT, making it more similar to the real world malware network behavior.

@@ -1,0 +1,1 @@
+This project aims at adding support for microdata to some of the most used field types in contrib. To accomplish this, each appropriate field will be modified to support microdata configuration, and the field formatter will be modified to generate microdata output.

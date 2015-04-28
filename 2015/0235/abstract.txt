@@ -1,0 +1,2 @@
+Currently the reporting module lacks of an easy way to share reports between implementations of the OpenMRS software and adding this feature is what this project aims to.
+The goal of the XML Reports project is to design and add to the module a new markup-like descriptor that uses the features of the XML language to describe reports in a textual data format, along with a new set of user-friendly interfaces that supports the new descriptor and its elements.

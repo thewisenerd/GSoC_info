@@ -1,0 +1,4 @@
+Goal of project — implement cascade pedestrian detector based on integral channel features. Such detector must meet three following requirements:
+1. High quality of detection.
+2. High speed of detection.
+3. It must be well tested, documented and easy to use.

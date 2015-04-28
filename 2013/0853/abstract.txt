@@ -1,0 +1,4 @@
+Since version 2.66 blender has a rigid body simulation integrated with the animation system.
+While it works well for simple cases, there are several limitations that make more complicated setups difficult or even impossible.
+
+This projects aims at improving this system.

@@ -1,0 +1,1 @@
+PeaceTrack is a mobile application to collect and record data by volunteers. It replaces the long process of manually entering and submitting the Volunteer Report Forms. Peace Corps can get insights to the data and measure performences on cohorts and volunteers very effectively.

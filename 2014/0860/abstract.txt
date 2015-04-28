@@ -1,0 +1,1 @@
+According to the roadmap to SciPy 1.0, the `cluster` package needs a Cython rewrite to make it more maintainable and efficient. Besides, there's room for improvement in this package. Some useful features can be added and the performance can be improved with better algorithms and optimized BLAS library when dealing with large datasets.

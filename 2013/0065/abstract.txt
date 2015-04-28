@@ -1,0 +1,1 @@
+To upgrade ModemManagerQt to use the newer SMS sending API in ModemManager and to implement a GUI for sending/receiving SMSs and managing SIM card contacts using Telepathy.

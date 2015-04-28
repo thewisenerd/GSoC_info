@@ -1,0 +1,3 @@
+On their ideas page for possible Google Summer of Code projects, the Git community proposes the addition of option arguments to the commands available on git-rebase-interactive todo lists, such as `squash --signoff f1a5c00`, which adds a ``Signed-off-by'' line to the commit message.
+
+During GSoC, I would like to refactor the git-rebase-interactive shell script such that it admits todo list commands with argument lists of varying length instead of solely nullary commands.

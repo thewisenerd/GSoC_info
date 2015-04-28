@@ -1,0 +1,1 @@
+RESTful API is a simple way to provide communication for the web services, which are used widely across the Internet. Our project aims to implement the RESTful API for Roundup, thus enable the opportunities for developers to create and develop new services and features, which can easily keep track of the data for users.

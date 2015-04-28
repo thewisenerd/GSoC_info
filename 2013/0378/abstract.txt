@@ -1,0 +1,3 @@
+CacioTTA enables the possibility of executing GUI tests on a headless Continuous Integration server like Jenkins. 
+This project aims to create a Jenkins plugin which enables you to watch the activity of Jenkins during GUI tests with CacioTTA, by means of a realtime video stream. 
+As a bonus goal this project will try to make an effort to merge Caciocavallo into mainline OpenJDK.

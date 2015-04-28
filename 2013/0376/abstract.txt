@@ -1,0 +1,2 @@
+With the increasing popularity of Gtk3 and Python3, it doesn't leave too much time for applications still stick to PyGTK and Python2. For example,Desktop version of Ubuntu 13.04intend to ship only Python3, rather than Python2
+(https://wiki.ubuntu.com/RaringRingtail/TechnicalOverview#Python_3.3). It will be my honor to finish porting Getting Things GNOME!, a.k.a GTG, which is the best GTD application on Linux Platform, to Gtk3 and Python3 during this summer.

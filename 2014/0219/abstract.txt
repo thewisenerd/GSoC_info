@@ -1,0 +1,1 @@
+Apache Stanbol currently equipped with data-sets such as DBpedia and FreeBase. This project will integrate YAGO2 data set, witch has more cleaner thematic domains and efficient representation of temporal and spatial dimension. This will also integrate AIDA named entity disambiguation framework with Stanbol

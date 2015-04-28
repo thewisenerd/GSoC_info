@@ -1,0 +1,1 @@
+The main goal of this project is to improve the look of build farm and redesign it to provide better support to the users. The project also aims at improving the page loading speed.

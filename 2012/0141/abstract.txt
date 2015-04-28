@@ -1,0 +1,1 @@
+This project is to re-propose proposal module to allow it to be be coupled and decoupled from the core module. The proposal module is also loaded with few additional features.

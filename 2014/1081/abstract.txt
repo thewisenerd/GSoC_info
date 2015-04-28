@@ -1,0 +1,2 @@
+The contributors in Mozilla spend a large amount of time investigating tests and managing known failures that occur occasionally. In many cases, we probe test failures and cannot reproduce them while running the test by itself. It has been found that some tests alter the state of Firefox which cause future tests to behave differently. 
+The aim of this project is to build a tool which will take a given test failure and work backwards to find its failure point.

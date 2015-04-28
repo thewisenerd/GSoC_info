@@ -1,0 +1,5 @@
+This proposal outlines my goals for the FPROPS package for GSOC 2012.
+I hope to add new functionality, as well as finish implementation of the EOS
+in the pipeline. I will place a strong emphasis on testing and evaluation of
+the code to produce a robust, trustworthy product. My educational pursuits
+and endeavors are discussed as well as goals and the time line for deliverables.

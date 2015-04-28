@@ -1,0 +1,2 @@
+Bertault Layout is a force-directed layout which aims at achieving uniform edge lengths without producing any more cross-edges  than in the original graph.
+Important for preserving the planar embedding in the graph while getting an aesthetically pleasing layout.

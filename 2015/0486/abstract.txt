@@ -1,0 +1,1 @@
+The project consists in setting up a framework for automated tests for all the projects that are undertaken by the Systers on the project list. The objective of this project will be to create, maintain, and execute automated tests for desktop, web, mobile, and client server software applications. The project aims to have reusable and automated scripts for regression testing.

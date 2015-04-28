@@ -1,0 +1,1 @@
+Currently, the Start Center (the start screen you get when you start LibreOffice) is only a static bitmap, with few buttons and links. It would be useful to present few recently used documents there (as thumbnails), and do more fancy stuff.

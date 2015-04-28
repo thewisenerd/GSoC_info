@@ -1,0 +1,1 @@
+Working with the LLVMLinux project to enable the use of static code analysis using LLVM/Clang’s extensible checker framework on the Linux kernel to find lingering bugs and catch potential issues during the development process making Linux kernel coding easier and less error prone.

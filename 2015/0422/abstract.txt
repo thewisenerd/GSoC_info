@@ -1,0 +1,2 @@
+BLE (Bluetooth Low Energy) is a very useful element of Internet of Things devices. BLE allows devices to quickly and easily communicate with phones, tablets, computers, etc while using a minimal amount of power. 
+The aim of this project is to implement a well documented, hardware independent and easily extensible BLE stack that will be able to connect to a smartphone using supported hardware such as the NRF51822 board.

@@ -1,0 +1,1 @@
+Implement tiled rendering for impress and calc, which would be needed for mobile and online versions of LibreOffice, on the basis of the current implementation in Writer.

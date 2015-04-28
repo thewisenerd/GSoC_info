@@ -1,0 +1,3 @@
+AppSensor is an open source project; a conceptual framework to provide a guidance to implement intrusion detection into an existing application. The project implements an engine that analyses, detects and creates automated response to the application.
+
+This project aims to introduce a service based model to the AppSensor project. The service based model shall consist of SOAP/REST based web service. This will separate the client and server code and make it scalable and flexible for a better functionality.

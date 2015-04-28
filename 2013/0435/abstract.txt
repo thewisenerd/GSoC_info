@@ -1,0 +1,1 @@
+This project intends to develop statistical and visualization methods for trajectory analysis in the R programming language based on the classes from the spacetime package.

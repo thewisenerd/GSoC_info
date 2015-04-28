@@ -1,0 +1,2 @@
+The whole idea of storing bookmarks and displaying it to the user  in an interactive manner when they wish to view it, is a great one. It saves a lot of work for the users and helps productivity.
+Currently, there exists no private bookmark support for Bookie. Private bookmarking is an important feature for a utility such as Bookie. Users can bookmark a url but mark that as a private bookmark that other users do not see on the website.

@@ -1,0 +1,1 @@
+This is an idea from the The Document Foundation GSoC Ideas page. The goal of this project is to implement and test digital signatures in PDF export feature. As stated in the ideas page, encryption of signed pdf files is a nice-to-have target.

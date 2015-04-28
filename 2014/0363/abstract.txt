@@ -1,0 +1,1 @@
+Develop a command-line interface for performing various tasks on Akonadi’s data like adding / deleting and searching for items like notes, contacts etc. and which would provide a replacement for existing non-Akonadi command-line applications that provide similar functionality.

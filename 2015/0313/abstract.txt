@@ -1,0 +1,1 @@
+When using theano, a function will be converted to a c version code and then compiled by c compiler in order to improve the performance. But there are overhead when calling the compiled functions, which is slow, especially when the code is working on a small graph. I’ll try to solve this problem, make overhead lower down.

@@ -1,0 +1,1 @@
+The project aims at providing an easy way to enable navigation between different GUI items and their activation, besides using the mouse (e.g.: using the keyboard).

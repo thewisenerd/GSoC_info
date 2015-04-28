@@ -1,0 +1,1 @@
+My proposal aims to improve the “Personalization” dialog in LibreOffice. The current implementation requires the user to open a browser and find the theme they want to apply to the suite. This certainly is not the right way to go on about applying a theme. The correct way should be to display the themes in the dialog itself, and applying one when the user selects it.

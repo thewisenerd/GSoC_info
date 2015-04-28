@@ -1,0 +1,1 @@
+For my GSoC task I'd like to extend current AI to handle ship combat AI, simple diplomacy and personalities feature. Also keeping in mind to prepare ground for future extension to ground units and more complex diplomacy.

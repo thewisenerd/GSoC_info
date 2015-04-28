@@ -1,0 +1,1 @@
+In digikam found that it takes too much time and too much steps to find and collect items with specific labels like “Rating, Color, and Picks”, So this motivated us to make it easier for the user to collect all this from the database through a tree-view by selecting his/her wanted labels and clicking a single button.

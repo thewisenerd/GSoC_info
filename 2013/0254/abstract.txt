@@ -1,0 +1,1 @@
+Dr. Memory's performance overhead for instrumentation is not trivial. It would be beneficial to be able to instrument only a portion of the code, and natively execute the rest resulting in greater performance and start up time.

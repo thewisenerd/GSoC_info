@@ -1,0 +1,5 @@
+This project aims to remove the old assumptions system, replacing it with the new one. I've to pick up the work that has already been done by Aaron on the assumptions. Here's a brief overview of both assumption systems:
+
+Old Assumptions: Here attributes are bound to variables. The expression and the attributes are tied into the same object.
+
+New Assumptions: Here the variables and attributes are maintained separately. The separation of facts from expressions enables rich logical inference.

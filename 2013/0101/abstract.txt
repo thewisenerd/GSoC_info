@@ -1,0 +1,2 @@
+The primary goal of this project is to develop a framework in which the functionalities taken from different sources (e.g. Weka, Apache.Commons.Math) will be made available to the Ruby language through some ad-hoc APIs designed with Jruby.
+The rationale of this project is to complement the existing SciRuby data mining softwares with some other well-established Java softwares (Weka predominantly). These would cover aspects of scientific computing which don't have full Ruby support yet.

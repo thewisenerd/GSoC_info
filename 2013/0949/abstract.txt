@@ -1,0 +1,1 @@
+This project would basically aim to develop a plugin which would help users to connect and upload the required content to their Evernote accounts, which has some really nice features where the users can organize their things in a really nice fashion. This plugin would indeed help users to stay in sync with their Moodle profiles.

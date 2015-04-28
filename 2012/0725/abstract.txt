@@ -1,0 +1,1 @@
+This project will investigate how the computational fluid-dynamics algorithms in can be effectively parallelized and how to implement these new or modified algoriithms using WebGL-based resources.

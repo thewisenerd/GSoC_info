@@ -1,0 +1,1 @@
+All platforms have different Bluetooth stacks but with similar working principle, an umbrella API unifying all these stacks providing simple User Interface will make cross platform developer's work considerably easier. This API will be supporting Linux using Bluez, Android using both Bluez and Bluedroid, Windows and OS X using their integrated Bluetooth stack.

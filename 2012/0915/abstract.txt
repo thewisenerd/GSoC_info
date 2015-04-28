@@ -1,0 +1,1 @@
+The idea is to add to Hedgewars ability to export demos to standard video format. This will make it easier to share replays with other players.

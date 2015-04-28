@@ -1,0 +1,5 @@
+As proposed by Eclipse my project will extend the existing EASE functionality with
+auto-completion features. The focus will be on JavaScript since it currently is the most
+widely used EASE scripting language. The project will try to implement a generic
+solution to enable future ports to other scripting languages as well. Auto-completion
+will be implemented for both the interactive shell as well as the JavaScript editor.

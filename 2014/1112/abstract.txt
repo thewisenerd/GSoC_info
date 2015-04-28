@@ -1,0 +1,1 @@
+I would like to build a parser library for SPDX in Go, based on the Java implementation already available.

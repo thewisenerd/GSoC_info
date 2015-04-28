@@ -1,0 +1,2 @@
+It is important to load images or other files (such as Excel spreadsheets generated during EBRT - External Beam radiation Therapy or Brachytherapy based Oncology treatments) with patients clinical record.
+ We are proposing this project so that, the implementers while developing the HTML Forms using the HTMLForm entry module can provide a file upload button to the data entry user. Consequently, when the user load a file/image while doing data entry for an encounter, those files should be stored in the server so that they are available to be viewed/downloaded by other users.

@@ -1,0 +1,2 @@
+This project will implement an automated ranking system for the OWASP Offensive Web Testing Framework (OWTF).
+An initial automated severity ranking will significantly assist OWASP OWTF users to focus the analysis on seemingly weaker hosts/websites, especially on large security assessments.

@@ -1,0 +1,1 @@
+This proposal is to add a test suite for various components of XBMC.

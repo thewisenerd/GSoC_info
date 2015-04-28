@@ -1,0 +1,1 @@
+Currently, object names in libvirt (e.g. domain, network, nwfilter, etc.) are immutable. So are UUIDs. The aim of this project is to introduce set of APIs to allow renaming of the objects. Within libvirt code, many things are derived from object name, e.g. paths to domain monitor, to domain log file. These have to be taken special care about.

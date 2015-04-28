@@ -1,0 +1,1 @@
+This proposal is about continuing the bindinator project which was substantially improved under last year’s gsoc. Though bindinator can already create bindings for most libraries almost automatically, it will likely hit some corner cases in bigger libraries. Therefore this project aims at further improving the binding process.

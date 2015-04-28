@@ -1,0 +1,2 @@
+In all the BSD kernels, timers are provided using the callout(9) facility, which allows a function to be registered in order to be called at a future time. Right now, FreeBSD can't handle timeouts less then 2/HZ and precision less then 1/HZ. According to some recent tests, other OSes can do it much better.
+Some consumers may need better resolution, and this is important in lots of applications, e.g. allow faster TCP recovery in case of error or package loss, or real-time applications.

@@ -1,0 +1,1 @@
+The main goal of the project is to reduce memory fragmentation caused by the current memory allocation algorithms as well as properly implement allocation of objects with arbitrary alignment. In order to achieve that new way of determining type of an object will be introduced.

@@ -1,0 +1,1 @@
+Android app that shoots aerial images continuously or instantaneously using smartphone camera as well as Canon camera to produce low cost maps by stitching aerial images together and putting them on maps using gps coordinates, heading information obtained from various sensors.

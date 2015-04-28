@@ -1,0 +1,1 @@
+I'd like to create more readable, flexible and clear textual representation of Catroid programs. It should exclude unnecessary information, be easy for understanding and creating programs in text form.

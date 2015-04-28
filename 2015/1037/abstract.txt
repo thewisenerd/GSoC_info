@@ -1,0 +1,3 @@
+Implementation of a game state recording and playback module that can be used by players to record and share gameplay video.
+
+This includes an engine module for recording the game state, playing back the game state, rendering saved sessions, a microphone audio recording API, and an external program that can be used to manage saved sessions.

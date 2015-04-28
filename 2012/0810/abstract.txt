@@ -1,0 +1,1 @@
+My name is Samuel Painter. I am a student at the University of North Carolina at Chapel Hill. I would love to work this summer updating APIs within Code for America's Civic APIs project, as well as creating new wrappers upon those APIs. The goal is to improve access to information for developers made available by governments.

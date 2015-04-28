@@ -1,0 +1,5 @@
+FreeBSD currently includes several tools that work with file system hierarchy descriptions and each contains its own routines to parse and/or manipulate these descriptions.
+
+This project attempts to improve this by designing a library to include all the common code, removing duplications from application code and allowing simple future extensions.
+
+It is based on the FreeBSD project idea "mtree parsing and manipulation library."

@@ -1,0 +1,5 @@
+Recognizing actions is crucial for intuitive human-computer-interaction. 
+
+In a setting where a robot and a human and a robot are intended to communicate, natural body gestures is a much efficient and time-saving commnication interface. 
+
+The core of this project is to apply machine learning algorithms on skeletal data obtained from an RGB-D sensor to automatically detect current activity of the user and to develope a program that would recognize human activities in real-time.

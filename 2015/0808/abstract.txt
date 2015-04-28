@@ -1,0 +1,3 @@
+I would like to create a p5.js library for interacting with hardware input streams via node.js. I anticipate focusing on streams from Tessel and Arduino in particular but generalizing enough to work with other inputs.
+
+This project would include not just the library itself, but also creating tutorials, examples and other documentation. Should this project not take the entire summer, I would spend the rest of my time working to help augment existing tutorials and examples.

@@ -1,0 +1,1 @@
+Currently, lttoolbox-java is only usable from the command line, and it relies on external resources of the language pair to be translated (which must be downloaded and compiled by the user separately). The aim of this task would be to overcome this so that we could have self-contained JAR files to translate a language pair that could easily be integrated in larger Java projects.

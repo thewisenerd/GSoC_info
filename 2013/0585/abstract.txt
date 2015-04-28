@@ -1,0 +1,1 @@
+I would like to add asynchronous DNS capability (so as to avoid blocking calls using the java built-in API).

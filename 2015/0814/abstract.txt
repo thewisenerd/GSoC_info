@@ -1,0 +1,1 @@
+This project aims to create FTP server Test suite for GNU Wget in Python. FTP server will implement all Wget tests relevant to RFC 959 and other features supported by Wget as an FTP client. This testing environment will allow fellow developers to thoroughly test their changes and understand how they affect the working of Wget.

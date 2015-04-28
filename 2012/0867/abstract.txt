@@ -1,0 +1,1 @@
+The aim is to add support for rfc6520 - the heartbeat protocol. This will allow to implement both liveness check and MTU path dicovery.

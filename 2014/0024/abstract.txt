@@ -1,0 +1,3 @@
+My project GLSpace is a 3D website that can be dynamically edited. It utilizes WebGL and works only on Firefox for now. My aim is to extend its compatibility on all the browsers and integrate ViewSync feature into it so you can render 3D websites on multiple screens.
+
+I think future "websites" should be like "halls", "webpages" should be like "walls of the hall" and "links" should be like "rooms in the hall". It'll replace the way you surf the internet today with a more convenient manner.

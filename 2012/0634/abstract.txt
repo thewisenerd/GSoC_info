@@ -1,0 +1,1 @@
+In this project I work on two modules that enable additional functionalities in Drupal to offer photo uploads from mobile devices.

@@ -1,0 +1,1 @@
+I propose working on recreating legacy GIMP features that are missing from GEGL. The aim is to help replace the existing GIMP image processing core with GEGL to bring better precision, more colour formats and better programmer flexibility to GIMP while keeping all the familiar GIMP features working as they are.

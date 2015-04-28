@@ -1,0 +1,3 @@
+I propose a project to build a native Android GUI for apps built on the Libre-Office core.
+
+A port of Libre-Office to Android is in progress, however, the UI presented is designed for desktop use. For Libre-Office to be successful on the Android platform it needs an interface that is optimised for smaller mobile touch interfaces and which blends in with Android’s own look and feel.

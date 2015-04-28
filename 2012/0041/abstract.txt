@@ -1,0 +1,3 @@
+My project presents two approaches of creating an object-oriented plugin system. This will contain all the current plugins functionalities, which will be improved and refactored to the fullest, as well as new possible plugin implementations. 
+
+A well-structured object-oriented properties system, which will be easier and safer to use is also presented. They will both fit nicely in the growing object-oriented structure of phpMyAdmin.

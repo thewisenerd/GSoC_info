@@ -1,0 +1,1 @@
+Port Splash to run on both Python 2.7 and Python 3.x, PyQt5 and Qt 5.x. Make it run on a more recent OS (ubuntu 14.04).

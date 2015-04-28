@@ -1,0 +1,1 @@
+I want to introduce layers in Paintroid. It shall work like the layers in well known application and its use shall work intuitively.

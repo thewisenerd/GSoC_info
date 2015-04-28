@@ -1,0 +1,1 @@
+Application for Bioconductor Project 3: "BiocParallel / BatchJobs integration" as proposed on the Bioconductor web site (http://www.bioconductor.org/developers/gsoc2013/)

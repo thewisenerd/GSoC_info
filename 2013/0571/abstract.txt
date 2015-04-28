@@ -1,0 +1,7 @@
+A new Campaign Mission that will teach the game play through a funny way to the players.
+
+The Campaign story will be about the travels of a spaceman through the outer space.
+
+Players will be able to play certain stages of the campaign in a not specified order and regarding their accomplishments new stages will be unlocked. Coop stages is likely to be added.
+
+In order to implement the above, some changes may be required in the underlying layers(LuaAPI,Animate.lua etc.).

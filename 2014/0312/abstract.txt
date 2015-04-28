@@ -1,0 +1,1 @@
+Features extracted from DeSTIN for natural objects are not enough to provide a good basis for further AI applications. By doing appropriate image preprocessing and other parameter tuning, DeSTIN is capable to extract high quality features for observations.

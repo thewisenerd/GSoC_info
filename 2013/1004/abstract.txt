@@ -1,0 +1,16 @@
+I am interested in  "Project 11 -
+HpfeedsHoneyGraph for visualizing" GSoC-2013.My aims as follow :
+1.Making malicious intention  can easily be used in understanding in HpfeedsHoneyGraph
+2.Design Friendly web interface.
+
+My proposal is divided into two parts and its children.
+The back-end part:
+ (1)Index and Searches
+ (2)Events formalization  
+ (3)D3.js Graph Generator
+ (4)Graph Basic Functions
+ (5)Malicious Intent Match (Optional)
+The front-end part:
+ (1)Motif Simplification Graph
+ (2)2-dimension Activities Analysis graph
+ (3)Time-series snapshot graph

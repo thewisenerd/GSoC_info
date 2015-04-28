@@ -1,0 +1,1 @@
+In the current state of the game, only karts are accessible to drive with, and those karts all have the same properties. Having karts with different properties will make the selection of which kart to race with a lot more interesting. Not only the addition of different karts, but also different types of vehicles will increase the end-user experience a lot.

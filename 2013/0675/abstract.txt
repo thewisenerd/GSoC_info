@@ -1,0 +1,9 @@
+A P2P platform like freenet should definitely have an Android version. Since it is a resource intensive application, it might consume a lot of battery/data. My objective is to utilize the technologies, pre-built into android (Wi-Fi direct and QR), to save upon battery/data and to make it user friendly where ever possible. 
+
+The power problem is overcome by making two versions of the application, a resource intensive and a light weight. The resource intensive application runs on laptops,homeservers etc. while light weight application on android mobiles. These two applications communicate with each other over Wi-Fi direct (i.e. no data/internet connectivity is required).
+
+We plan to use QR code as a means to establish darknet connections. Two nodes connect when they scan each other's QR codes. This provides a very user friendly and secure alternative to run darknet in a censored environment.
+
+Finally, we plan to utilize Wi-Fi direct for exchanging popular content on the data stores when two nodes meet. This lessens the burden on actual internet connectivity
+
+With smart phones, smart cameras and smart TV sets evolving. this project appears rewarding.

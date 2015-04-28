@@ -1,0 +1,1 @@
+This proposal suggests the implementation of a toolbox that integrates a set of Design of experiments techniques (DoE) in Scilab, a free open source software used for numerical computation in engineering and scientific applications. This toolbox will contain various functions to produce combinations of variables that affect the operating conditions of a system.

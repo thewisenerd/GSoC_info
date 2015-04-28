@@ -1,0 +1,1 @@
+This project aims to provide insight about KDE projects from one place instead of having to go through 4 different sources. The web service should be able to fetch data from these sources and show them in one place, with the ability to view statistics and graphical reports. It should also contain API to provide the same functions as the graphical interface.

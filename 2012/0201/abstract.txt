@@ -1,0 +1,1 @@
+Currently the essays are a single large box, I will work on letting administrators change this by allowing multiple boxes and different types of boxes: large boxes, small boxes, check boxes.

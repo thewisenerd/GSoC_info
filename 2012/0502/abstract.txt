@@ -1,0 +1,7 @@
+Stellarium OpenGL code is all over the place
+and not very maintainable.
+
+The goal of this project is to isolate the OpenGL code
+into a separate subsystem that will be usable through
+a backend-independent API, so in future, backends for
+other OpenGL versions or even non-OpenGL backends could be created.

@@ -1,0 +1,1 @@
+Clang is a compiler front-end for the LLVM compiler. It helps to analyse C, C++, Objective C and Objective C++ code and find mistakes just in time. I want bring Clang magic to anjuta.

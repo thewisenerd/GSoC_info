@@ -1,0 +1,4 @@
+Similar to how Lets encrypt already works for Apache make it configure IceCast for SSL without much manual user interaction.
+Implement this via a letsencrypt plugin.
+
+As a second goal update the libshout python bindings.

@@ -1,0 +1,3 @@
+The aim of this project is to completely rewrite two legacy etherboot
+drivers present in iPXE: for VIA Rhine (VT6105M) and VIA Velocity (VT6122/VT6130)
+chipsets.

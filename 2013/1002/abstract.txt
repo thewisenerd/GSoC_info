@@ -1,0 +1,11 @@
+Linked Data describes a method of publishing structured which
+   can be interlinked and makes data more useful.These are not
+   intended to serve web pages rather they are used to share information between
+   computers so that they can read and interpret easily. RDF,
+   designed as meta data model is and has been used for Linking
+   Data. One of the profound examples of its use can be seen in Facebook's
+   Open Graph. The aim of my project is to conclude the final stages
+   of JSON-LD [JSON - Linked - Data] [based upon JSON, as the name
+   suggests] by making Schema's, Context, Applications that show
+   JSON to JSON-LD conversions etc. JSON-LD is a light weight JSON-Linked
+   Data that provides context to a data.

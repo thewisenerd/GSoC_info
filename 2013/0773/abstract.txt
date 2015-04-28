@@ -1,0 +1,1 @@
+Volume Rendering can be divided in texturing and in shading - this project aims to implement part of the texturing required: creation of the 3D texture Voxel Data and integration of the OpenVDB library to use its grid representation for the volume data, all in the new rendering engine, Cycles.

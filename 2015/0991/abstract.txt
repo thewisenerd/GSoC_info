@@ -1,0 +1,2 @@
+Pgmpy is a python library for creation,Manipulation and implementation of Probabilistic graph models.There are various standard file formats for representing PGM data.
+Pgmpy needs functionality to read networks from and write networks to these standard file formats.The project aims to improve the existing implementation of the file formats and implement a uai file format during the course of GSoC.

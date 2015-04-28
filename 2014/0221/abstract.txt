@@ -1,0 +1,1 @@
+This project will aim to improve the current implementation of Ganglia-Nagios-Bridge by separating the function of writing checkresults for Nagios by the Ganglia-Nagios-bridge into a different class, providing means for generating dynamic and adaptive thresholds, providing advanced way to configure the alerting thresholds.

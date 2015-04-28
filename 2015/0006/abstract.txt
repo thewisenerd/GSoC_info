@@ -1,0 +1,9 @@
+1.Implementation of Different Layouts. 
+--Spectral Layout
+--Force Layout optimized for biological networks
+--Hierarchical layout
+
+2. Interactivity:
+--Add/Remove Node/edge
+--Selection/styles
+--panel to do all the above functions

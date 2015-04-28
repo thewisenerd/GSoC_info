@@ -1,0 +1,1 @@
+This goal of this project is to create a custom data type in Complex Obs just like how we have ImageHandler. When this handler is rendered at the UI it would open up an editor which can help the physician draw different parts of the body , annotate it with remarks , upload the image of patient , etc

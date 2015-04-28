@@ -1,0 +1,6 @@
+BRL-CAD uses CSG in order to perform operations (e.g. union, intersection,
+subtraction) with primitives. I propose to design a new, higher performance,
+implementation of the boolean weaver component which is used to implement
+CSG. The idea is to minimize branch divergence and perform static and runtime
+expression optimizations in order to further reduce the time required to perform
+the CSG operations and thus render scenes more quickly.

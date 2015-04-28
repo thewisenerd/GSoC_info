@@ -1,0 +1,4 @@
+Introduction
+OODT is a framework that allows distributed storage and cataloging of objects. To achieve its scalability OODT uses the concept of grid computing.
+Idea
+Currently OODT uses XMLRPC to enable communication between computers is the grid. "Our version of this library currently sits at 2.0.1, which was released on 28th December 2005." Apache Avro is a more moders data serialization system which also has a RPC implementation.

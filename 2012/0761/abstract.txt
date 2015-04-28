@@ -1,0 +1,12 @@
+Logs are emitted by network devices, operating systems, applications and all manner of intelligent or programmable device. A stream of messages in time-sequence often comprises a log. Logs may be directed to files, stored on disk, or directed as a network stream to a log collector.
+Logs are often created by the software developers to aid in the debugging of the operation of the application. Hence, log analysis must interpret messages within the context of an application, system or configuration in order to make useful comparisons to messages from different log sources.
+
+The goals of the project are to:
+•	Redesign/Change NTP's logging/debugging system. 
+•	Write a common debugging/logging interface for NTP. 
+	
+	Benefits to Community
+The redesigning of the NTP's logging/debugging system is aimed at giving better control for logging and debugging and shall also be instrumental in improvement of ntpd's logging and diagnostic capabilities.
+
+A consistent logging interface for NTP and its projects would simplify its codebase and would make it more consistent. It also would be beneficial for other NTP projects, like on NTP's less complex implementation Simple Network Time Protocol (SNTP) by giving it access to its logging/debugging interface. 
+The aimed-for improved system and the unification of logging/debugging interfaces shall in beneficial for both developers and users.

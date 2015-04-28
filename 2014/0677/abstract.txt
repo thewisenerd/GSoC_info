@@ -1,0 +1,2 @@
+The idea is about adding to gvSIG Desktop support of XLS file format (Microsoft Excel Spreadsheet) by implementing a new data provider in order to facilitate the data transfer between Microsoft Excel and gvSIG.
+The provider will support multiple spreadsheets files reading and mono-spreadsheet files writing.

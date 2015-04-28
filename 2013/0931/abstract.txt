@@ -1,0 +1,1 @@
+It will be a nice feature, if users could design a custom survey online and it could be pushed dynamically to the Android devices. Moreover, the user should be able to define the time at which the survey needs to be launched on the devices. The survey should allow multiple question types and be highly customizable.

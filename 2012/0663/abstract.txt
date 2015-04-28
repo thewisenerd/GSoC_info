@@ -1,0 +1,1 @@
+This project aims to add shadows to all solar system bodies that can receive shadows.

@@ -1,0 +1,1 @@
+Implementation of proposed project will allow user to enter equation of implicit surfaces, the framework will automatically detect them and will invoke implicit curves and surfaces drawing algorithm for plotting.

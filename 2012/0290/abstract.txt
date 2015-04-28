@@ -1,0 +1,1 @@
+Rewrite Konversation IRC's protocol handling to be plugin-based for greater extensibility and intelligent runtime adaptation to different server implementations.

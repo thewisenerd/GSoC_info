@@ -1,0 +1,1 @@
+If successfully completed, the proposed changes would allow users of pandas access to advanced plotting techniques and nice graphical output through matplotlib.

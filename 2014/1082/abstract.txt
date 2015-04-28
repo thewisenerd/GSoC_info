@@ -1,0 +1,1 @@
+Aim is to generate CDA documents based on the user's requests.

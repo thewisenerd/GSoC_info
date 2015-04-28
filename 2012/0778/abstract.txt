@@ -1,0 +1,1 @@
+The goal for my project is to successfully develop a method for the Tecla Shield to communicate  with game consoles (Play Station 3 in this particular project), so as to be able to properly navigate the UI of each console. It will involve the emulation of a controller that is connected to the console.

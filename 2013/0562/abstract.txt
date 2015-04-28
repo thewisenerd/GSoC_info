@@ -1,0 +1,1 @@
+The aim of this project is to develop a server-side library in Haskell for sending push notifications to devices running different OS, such as Android, iOS, Windows Phone, BlackBerry, and so on. And, once we have this libraries, investigate the possibility of mainting a "back and forth" communication between a server and mobile devices and develop a library to handle this.

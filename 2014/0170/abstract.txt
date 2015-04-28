@@ -1,0 +1,1 @@
+The present GNU Dr. Geo software contains the code that is quite old and the libraries it is using are also outdated. This project aims to upgrade the software to support latest libraries while removing the deprecated code, along with adding some notable features to the software.

@@ -1,0 +1,1 @@
+This project aims to develop a plugin API for the OWASP Hackademic Challenges CMS. The API will allow third party developers to use Actions, Filters and Themes to customise the system.

@@ -1,0 +1,1 @@
+Painting is central to Krita. So This project focuses on three key new features : Dirty Presets ( Saving tweaked settings temporarily  for presets so that they don't have to be changed ), Cumulative Undo/Redo ( Similar actions are grouped together for undoing/redoing), Master Brush Engine(A new brush combining various capabilities of various brushes in one master brush)

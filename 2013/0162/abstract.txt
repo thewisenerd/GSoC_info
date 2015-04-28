@@ -1,0 +1,1 @@
+Navigation Panel is a great improvement for Cytoscape.js usability. It also solves the problems of bird’s eye view of the graph and easier navigation through the graph.

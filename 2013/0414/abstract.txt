@@ -1,0 +1,5 @@
+The axis-aligned bounding box  (AABB) is one of the most common bounding volumes. Given a set of geometric primitives, we can arrange the individual AABBs into a tree hierarchy which will significantly increase the performance to logarithmic complexity.
+ 
+This performance enhancement together with simplicity and less memory requirement compared to hierarchies like OBB Tree has shown great practical usage of AABB in different application areas. 
+
+In this regard, CGAL has an optimized AABB Tree implementation in 3D. So, we will devote this work to implement the 2D AABB Tree for CGAL understanding the dimentional changes and sharing the existing code, but deducing a different component.

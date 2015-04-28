@@ -1,0 +1,3 @@
+Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
+
+I'd like to analyse and optimize the memory used by Theano functions during their execution. Current code only does dumb greedy approach to memory allocation coupled with a garbage collector to deallocate memory once unneeded. This project would to do better by possibly lowering the maximum memory allocated at once and avoiding reallocations.

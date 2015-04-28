@@ -1,0 +1,1 @@
+This is a proposal to add new functionality such as the Fundamental and Hybrid factor models, improve the usability by providing concise risk and performance reports and enhance the capabilities of existing functions in the factorAnalytics R package.

@@ -1,0 +1,1 @@
+socialConnect is multi instance publishing tool for Neos,It will solve the issue of posting similar data on different sites and networks,specific content types can be created to automatically create update and mirror the same data on the target social network.

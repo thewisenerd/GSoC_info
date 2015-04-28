@@ -1,0 +1,1 @@
+This project is about to introduce a new application to KDEEdu suite. My application born as a fork from KAlgebra and I've been working on it for almost 2 years. Actually it has many features for drawing math functions (those features doesn't exists in KAlgebra nor KmPlot)

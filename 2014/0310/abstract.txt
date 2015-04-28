@@ -1,0 +1,1 @@
+The idea is to use new Hadoop API to avoid unnecessary bytes copy in the reading path of Parquet. The idea will bring a performance gain in the client when scanning the file. To work on older version of hadoop, an abstract layer will implemented.

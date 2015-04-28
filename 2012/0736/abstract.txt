@@ -1,0 +1,1 @@
+The idea to convert Hackademic into a CMS more or less combines the two ideas (Hackademic Challenges Standardization and Hackademic Challenges Frontend).

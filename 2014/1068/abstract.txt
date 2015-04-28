@@ -1,0 +1,1 @@
+Isn't it a bummer that Melange's pages don't fit on your phone's screen? Modern web sites are written with the entire ecosystem of web-enabled devices in mind and cooperate with the user's device toward the goal of best displaying themselves on the screen available to them. Melange should too.

@@ -1,0 +1,1 @@
+CJK Internationalisation of Text Processing CJK stands for “Chinese, Japanese, Korean”. The goal of the FFII project for Internationalisation of Text Processing is to embed Asian text into texts document using the Latin alphabet.

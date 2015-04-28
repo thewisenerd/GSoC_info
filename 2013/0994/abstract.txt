@@ -1,0 +1,1 @@
+The project aims to provide a way to easily manage database credentials and permissions with a large number of users and databases present. The way the project aims to achieve this is by implementing, according to the SQL standard of 2003, the ROLES feature.

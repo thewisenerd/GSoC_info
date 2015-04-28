@@ -1,0 +1,2 @@
+My project proposal is divided into two sections: 
+(1) creating a Hadoop indexing system for DBpedia Spotlight and (2) implementing three novel approaches to disambiguation: Latent Semantic Analysis (LSA), Explicit Semantic Analysis (ESA), and Salient Semantic Analysis (SSA). These concept-space disambiguation modules will be used to rank the possible URIs for spotted entities based on context.

@@ -1,0 +1,4 @@
+Description: create an extension in C++ for the cross-platform imaging framework 3D Slicer that enables viewing and editing of large two-dimensional images.
+This proyect will utilize QT for its GUI, VTK for displaying and visualizing the images, and libraries such as openSlide and bigTiff to read and write the images from and to files.
+
+An initial prototype for reading and interacting with these large scale images was made using QT Creator. Available at the provided URL.

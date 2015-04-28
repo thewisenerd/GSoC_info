@@ -1,0 +1,2 @@
+Gnome-Calculator is a default application in a Desktop Environment that solves mathematical
+Equations.This projects aims at revamping the User Interface of the Calculator and allowing the user to customize the User Interface .We also aim at  improving the functionality of undo button which as of now does not function as expected on repeating previous calculations and also porting the History View code into the vala code of the Calculator.

@@ -1,0 +1,1 @@
+Automated Rendering Testing system for Indic languages. At present, there is no automated mechanism to determine if Harfbuzz is rendering complex Indic text correctly or not - someone expert in relevant language has to manually inspect the output from hb-view. The project aim is to identify and implement an automated method to test the rendering.

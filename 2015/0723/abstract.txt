@@ -1,0 +1,1 @@
+The idea is to have a 'heroku' kind of service for CloudCV. On the web portal, a user can input his input data and code, which may be in the form of links to cloud storage such as Dropbox and Google Drive. The CloudCV engine will run the code and user will be notified upon completion.

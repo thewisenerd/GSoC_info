@@ -1,0 +1,1 @@
+Fix various bugs in the vi mode, improve the integration between selections, folded code and ex commands, and revamp the repeat system.

@@ -1,0 +1,1 @@
+The BeagleBoard and BeagleBone are ARM based single-board computers. These boards are widely used by hobbyists. RTEMS does support the ARM architecture but lacks a board support package for the BeagleBoard and BeagleBone. I propose to write a board support package for the board which is more needed.

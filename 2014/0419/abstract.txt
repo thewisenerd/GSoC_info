@@ -1,0 +1,1 @@
+The aim of the project is to provide a new webview in wxWidgets(wxWedViewChromium) based on Chromium Embedded Framework(CEF3) to developers. The project involves integrating and extending the existing webViewChromium backend for wxWebView on three major platforms(Windows, Mac and Linux).

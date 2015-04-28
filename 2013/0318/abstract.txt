@@ -1,0 +1,1 @@
+This project aims to make LibreDWG library easily usable for developers. This will facilitate integrating library into other CAD Programs. Right now there is no proper support for AutoCAD based DWG files in any opesource CAD program for GNU. So functions and API will be created in High level C for easy usage of LibreDWG.

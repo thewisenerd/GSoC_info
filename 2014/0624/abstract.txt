@@ -1,0 +1,2 @@
+I will use Speech Recognition to interact with the differents Controllers on a IS system and display the information on Liquid Galaxy over Google Earth or new web-browser software peruse-a-rue.
+The project will include a workbench activities to be tested by other developers and their appropiate documentation. I will do this work using the following technologies: Google Interactive Spaces, Liquid Galaxy, Speech Recognition API (to be determined), Java, Android, HTML5, CSS, JSON, Python, etc.

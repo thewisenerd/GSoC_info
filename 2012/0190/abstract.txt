@@ -1,0 +1,5 @@
+This project will explore the City of Macon's 311 system and its fitness for Open311 GeoReport v2 implementation. When the system has been explored and its data categorized for further use, the project will then implement the GeoReport v2 Server for the city. This Server will provide an API for other applications to be implemented for the city, such as Open311 Dashboard, that will bring the city and its citizens together in new and innovative ways.
+
+<p>
+UPDATE: Project has been redirected. Please see below.
+</p>

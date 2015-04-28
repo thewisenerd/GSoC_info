@@ -1,0 +1,6 @@
+Currently, mechanics module from SymPy(sympy.physics.mechanics) is used for generating Equations of Motions(EoM's) of multibody systems using other python tools, in a workflow(PyDy).
+
+The aim of this project is to provide a module for visualizing the motion of 3-Dimensional Multibody systems using output data from the mechanics module, after introducing some relevant code-refractoring for allowing mechanics package to interact with the above said module.
+
+The plugin would be able to render the animations in a WebGL compatible browser.
+Will also require patching as well as some fresh code on sympy.physics.mechanics side to complete the visualization workflow..

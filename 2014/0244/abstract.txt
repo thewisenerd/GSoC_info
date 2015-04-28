@@ -1,0 +1,1 @@
+OWASP ZAP already has the capability to allow users to configure authentication methods, session management methods and Users for a web-application in order to automate the authentication/re-authentication process during scans. This project aims to enhance ZAP’s capabilities by adding a set of access control testing features and tools.

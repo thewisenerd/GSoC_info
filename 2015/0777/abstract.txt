@@ -1,0 +1,2 @@
+A visual diff tool created for JBPM Web Designer. The tool will provide Change Tracking Graphs that will give to the users an immediate idea about the changes made on the business process. 
+The tool will have different options to help the users understand the changes made on the process such as a comparison of the whole graph, as well as comparison between two sub parts of the process.

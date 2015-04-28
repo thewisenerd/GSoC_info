@@ -1,0 +1,1 @@
+Apache PDFBox is widely used as a text extraction tool from PDF files. But in current approach text can not be extracted from image contents and corrupted character encodings. In this project a new approach to extract text from PDF is introduced using Optical Character Recognition.

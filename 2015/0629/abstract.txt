@@ -1,0 +1,1 @@
+Provide FFmpeg with methods for browsing files and directories on remote locations.

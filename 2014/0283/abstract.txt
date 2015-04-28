@@ -1,0 +1,1 @@
+This project aims at implementing a new acceptance test framework for phpBB from grounds up using Mink. The new test framework will be permit us to test every bit of phpBB functionality exposed to users including Javascript/AJAX.

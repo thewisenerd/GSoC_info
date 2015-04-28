@@ -1,0 +1,1 @@
+This idea is to develop machine translation system using Apertium framework for the Urdu-Hindi langauge pair writing linguistic data, including morphological rules and transfer rules — which are specified in a declarative language.

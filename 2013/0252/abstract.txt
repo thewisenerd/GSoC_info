@@ -1,0 +1,1 @@
+One of the most useful aspects of an electronic medical record system is data retrieval. OpenMRS need fast, simple tool for viewing patient’s data. Good example – Regenstrief Chart Search that uses SOLR server. First version of OpenMRS Chart Search module should be simple, encapsulate both indexing and searching with embedded SOLR or Lucene.

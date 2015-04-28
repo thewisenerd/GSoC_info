@@ -1,0 +1,3 @@
+The Open Lighting Architecture provides a framework for routing and converting lighting control data between various protocols and devices. While the software is available for Linux, BSD, and Mac OS, it is currently not compatible with Windows.
+
+In this project, I propose a roadmap to port OLA to Windows. This will enable third-party software like QLC+ to use OLA directly on all platforms and enable Windows-based lighting control products to get access to a wide range of protocols.

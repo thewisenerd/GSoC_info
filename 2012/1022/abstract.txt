@@ -1,0 +1,2 @@
+I'm a last grade student in Saint-Petersburg State University.
+I have some knowledge and experience in super-resolution that can use in OpenCV project. Also it relates to my diploma work.

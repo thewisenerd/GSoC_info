@@ -1,0 +1,1 @@
+My proposal is to introduce a new module designed for Metric Learning. This is an established area of research whose methods would be nice to have implemented in scikit-learn. Those metrics could be used to facilitate distance-based classifiers (like KNN) and clustering.

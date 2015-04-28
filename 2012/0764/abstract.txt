@@ -1,0 +1,7 @@
+Apache Axis2 is an open source framework which acts as an engine for Web Services, SOAP and WSDL. It supports automatic generation and publishing of both WSDL 1.1 and WSDL 2.0 documents at runtime. As it stands, currently Axis2 does not provide any API to customize and control the behavior of WSDL generation. The main objective of this proposal is to provide an easy to use WSDL customization framework for both WSDL 1.1 and WSDL 2.0. 
+
+As of yet, Axis2 is the only known web service implementation that supports for WSDL 2.0.  But Axis2’s WSDL 2.0 features are not up-to-date as WSDL 1.1 features. Some of the issues identified are,
+Not supporting the use of “useOriginalWsdl” parameter
+Not supporting the WSDLSupplier interface and 
+Not supporting WS-Policy publishing etc.  
+Addressing the above mentioned limitations is another significant goal of this proposal. Other than these two goals, GSOC project idea pages have mentioned number of issues as optional tasks. Addressing some of those issues is also included in the scope of this proposal.

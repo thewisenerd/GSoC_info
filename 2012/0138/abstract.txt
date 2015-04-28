@@ -1,0 +1,1 @@
+My project aims to improve search performance by integrating a new postings format with a search engine library (Lucene). The work includes implementation of encoder/decoder, modifications on previous postings format interface, and performance comparisons. I'll also compare the performance among the new postings format and current approaches.

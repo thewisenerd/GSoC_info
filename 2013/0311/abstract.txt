@@ -1,0 +1,1 @@
+It is a common desire for a user using XMPP for IM to want to store their messages in a central archive on their server. This feature allows them to record conversations that take place on clients that do not support local history storage, and also to synchronise their conversation history seamlessly between multiple clients.

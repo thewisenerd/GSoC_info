@@ -1,0 +1,1 @@
+The Multiscale Object-Oriented Simulation Environment (MOOSE) has recently implemented a new MPI-based parallelization scheme that supports automatic setup-time load balancing and transparent object access across nodes. This project aims to improve parallelization in MOOSE using CUDA in order for better performance on GPGPUs.

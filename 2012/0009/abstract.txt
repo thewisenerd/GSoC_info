@@ -1,0 +1,3 @@
+The goal of the project is to develop a tree routing algorithm that supports reliable message routing to multiple sinks within a network that may appear or disappear dynamically. To achieve this, the Collection Tree Protocol (CTP) will be ported onto the Wiselib. This will ensure best effort data collection with improved reliability in the context of relatively low traffic networks, where link integrity or quality change in time. 
+
+After the integration within the Wiselib, the algorithm will be validated on testbeds based on the TinyOS and Contiki platforms.

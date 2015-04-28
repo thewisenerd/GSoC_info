@@ -1,0 +1,3 @@
+INCF has a web portal and Andoid client app to gather experimental data. Mobile app connects with the server to sync data.Currently mobile app cannot work offline.Inconvenient in environments without internet connection 
+Task1: Implement an embedded database into the mobile client allowing the users to work offline and store experimental data in the local db, app syncs data with server when online
+Task2: enable client app to work with different templates where user can edit them to store data

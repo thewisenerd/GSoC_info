@@ -1,0 +1,1 @@
+This project would add support for several of the most popular non-linear time series models (SETAR, STAR, and Markov Switching models) to the statsmodels project, as well as statistical tests for nonlinearity including especially the BDS portmanteau test, and some support for forecasting. Particular attention will be paid to Markov Switching models.

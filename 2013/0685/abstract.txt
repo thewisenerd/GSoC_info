@@ -1,0 +1,1 @@
+An app for making translations in a MediaWiki site with the Translate extension, such as translatewiki.net or meta.wikimedia.org.

@@ -1,0 +1,1 @@
+Add support for WSDL generation to LuaSOAP by implementing an automatic generator of WSDL documents.

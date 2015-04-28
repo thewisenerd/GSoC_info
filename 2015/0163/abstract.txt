@@ -1,0 +1,1 @@
+This project aims to upgrade the animation capabilities to allow much simpler, smoother and more general animations than the traditional keyframes technology and also intend to provide new widgets to edit these properties, and eventually evolve on-monitor interactions.

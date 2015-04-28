@@ -1,0 +1,1 @@
+The creation of an SDK will allow for more rapid development in regards to the creation of modules for OpenMRS because it will make the creation process more friendly for beginners and experienced developers.

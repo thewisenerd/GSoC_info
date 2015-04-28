@@ -1,0 +1,1 @@
+Complete the newly identified and all the remaining tasks of Sahana Vesuvius Instalelr module which will help user to set Vesuvius without bothering of manually editing configurations files and creating initial databases from the back end.

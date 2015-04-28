@@ -1,0 +1,1 @@
+This project aims to provide an open source alternative to the the proprietary graphics drivers and library implementations used with Qualcomm's Adreno GPUs on Android with the help of Freedreno/Mesa.

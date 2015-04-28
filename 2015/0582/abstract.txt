@@ -1,0 +1,4 @@
+The aim of this project is to add features to text boxes in Draw, allowing in particular:
+- flow of content from one frame to another logically linked to it;
+- hyphenation.
+This project is based on the GSoC idea “Improve Text Boxes in Draw” in LibreOffice wiki.

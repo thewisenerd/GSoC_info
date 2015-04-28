@@ -1,0 +1,5 @@
+Astropy is a Python library for astronomy and astrophysics. One of its
+affiliated packages is astroquery. Astroquery offers APIs to web services
+to query astronomical data.
+
+The major plan is to add support for more services to the astroquery package. I will also fix astroquery issues to improve the stability and to extend existing web service interfaces.

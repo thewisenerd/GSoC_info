@@ -1,0 +1,5 @@
+Mumble is an open source VoIP system that provides a free, high quality, voice communication alternative to proprietary software such as Teamspeak and Ventrilo.
+
+Mumble allows server-side scripting using a proprietary RPC library. The library allows programs such as chat filters and custom user authentication schemes to be written for a Mumble server.
+
+This project will add RPC support to the Mumble server using Google's new grpc library; an RPC library based on Google's protocol buffers.

@@ -1,0 +1,1 @@
+In this proposal I discuss an approach that will allow developers to implement custom algorithms to decide by which event loop an incoming connection should be handled as well as how existing connections can be migrated to another event loop in cases where an event loop gets too busy.

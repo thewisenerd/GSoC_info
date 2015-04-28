@@ -1,0 +1,1 @@
+Last October Stephen Shaw and some F-Spot contributors started the work to port F-Spot from using deprecated GTK+ 2 to GTK+ 3. This represent a huge amount of work in the case of F-Spot but it would be a great step to maintain F-Spot codebase up to date. So this proyect is mostly about finishing that work to have F-Spot running only GTK+ 3 code.

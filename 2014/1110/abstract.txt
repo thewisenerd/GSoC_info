@@ -1,0 +1,5 @@
+Marconi has support for two different storage engines, MongoDB and SQLAlchemy. While these are great storage options, we just cannot settle with only that.
+
+Different user needs would require different storage solutions, and being one step ahead by providing support for them is an expected feature from a software solution like Marconi.
+
+The main goal of this proposal is to identify a storage engine that fits Marconi's interests and to implement a driver for it.

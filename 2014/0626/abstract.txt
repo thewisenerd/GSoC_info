@@ -1,0 +1,3 @@
+Last year I started a translation application that should substitute GTranslator as the official GNOME Computer-Assisted-Translation tool. The application is not finished and some parts that are implemented need a revision.
+
+This year I want to finish the application implementing a redesign of certain parts of the application, writing the parts that are not implemented yet and fixing the bugs that the application has.

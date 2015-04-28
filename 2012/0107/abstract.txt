@@ -1,0 +1,1 @@
+PostgreSQL has numerous FDWs (Foreign Data Wrapper), which connect to different databases. My project aims at creating a FDW that shall wrap JDBC and can be used to access any database that can be accessed through a JDBC URL.

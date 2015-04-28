@@ -1,0 +1,1 @@
+I'd like to work on allowing the automatic sync of keys to servers, and adding support for revocation certificates. I believe these features go a long way in enhancing the security and functionality offered by Openkeychain to its users, besides establishing good practices with respect to key revocation and deletion.

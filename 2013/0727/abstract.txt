@@ -1,0 +1,1 @@
+A proxy which can be used instead of the main API, but which will answer read-only queries locally when possible, taking load off of the main API servers and improving response times while allowing for horizontal scaling.

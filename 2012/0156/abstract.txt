@@ -1,0 +1,1 @@
+Mod_parrot was a module for running the parrot virtual machine inside the apache httpd web server. Unfortunately, it does not work anymore. This is a proposal to implement a new and improved version, so we can run our parrot-compatible programs in the worlds' most popular webserver.

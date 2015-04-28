@@ -1,0 +1,2 @@
+Currently Tor browser bundle is one of the most used approach to bypass censorship, be anonymous etc, which is not a seamless user experience. 
+In this project the tor's core will be ported to nacl platform, which can allow the end user to gain the benefits of tor network in much more seamless and dynamic manner.

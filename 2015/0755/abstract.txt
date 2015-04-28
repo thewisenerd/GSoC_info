@@ -1,0 +1,3 @@
+Pioneer is the chosen game to receive support with the use of Lightmelody,it was chosen because it is an old open source game still in development. Its online multiplayer doesn´t include any social functionality that could easily be included with XMPP.
+
+It is built in C, and it implements the Glib bundle with Gio. making it an excelent choise for for the project due to the fact that Lightmelody is a Gio library, making  it easy to replace or port over the network code.

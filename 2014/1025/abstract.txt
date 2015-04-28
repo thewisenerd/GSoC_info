@@ -1,0 +1,1 @@
+An analysis of various measures of wikipedia pages graph. Including: nodes centralities, clustering coefficients, triangles count, nodes similarities. Development of Cassovary library to allow this functionality. Using Wikipedia graph and Cassovary for entity extraction of texts.

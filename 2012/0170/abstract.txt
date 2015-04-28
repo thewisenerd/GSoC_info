@@ -1,0 +1,1 @@
+Imagine how nice it would be if the Scilab users could explore the graphics data of an interactive way, ie, and edition interface wich enables viewing and even modify data only clicking over a curve. This is the main aim of the project: to facilitate the obtaining of such data in an effective way for 2D and 3D graphics.

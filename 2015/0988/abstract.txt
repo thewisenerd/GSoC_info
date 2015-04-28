@@ -1,0 +1,1 @@
+Cabal dependency hell has been a source of trouble to many haskell developers. One of the main reason behind this is the breaking re-installation problem in which one package can be unusable after installing another. An elegant solution to this problem has already been implemented in nix package manager 10 years ago. I want to borrow some ideas from nix and implement it in cabal.

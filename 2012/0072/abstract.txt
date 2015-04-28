@@ -1,0 +1,1 @@
+I wish to implement the Audio/Video Capture repository plug-in which enables users to directly capture and upload their audio/video files to the server.

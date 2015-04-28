@@ -1,0 +1,1 @@
+The idea for this project comes from the ns-3 GSoC 2014 Project Idea page.  The goal is to study and visualize the bufferbloat problem by developing models and examples in ns-3 and analyze the performance of different queue types that are developed as solutions to bufferbloat, including CoDel, FQ_CoDel, and SFQRED.

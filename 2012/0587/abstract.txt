@@ -1,0 +1,3 @@
+Create a xapian-core API for dynamically extracting query-relevant snippets.
+
+Integrate the API with Omega

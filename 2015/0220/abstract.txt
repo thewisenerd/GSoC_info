@@ -1,0 +1,1 @@
+News feed aggregator which presents news in the IDE. It will allow projects to inform its users (and only it's users) about new releases or anything related (e.g. security issues) as well as polls and more. The purpose is to provide better communication and feedback between projects and it's users.

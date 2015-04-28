@@ -1,0 +1,1 @@
+Convert mediagoblin's current authentication system to a plugin authentication system and provide plugins for basic auth, OpenID, Persona, and LDAP support

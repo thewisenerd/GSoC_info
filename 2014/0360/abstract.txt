@@ -1,0 +1,1 @@
+IEEE 802.1ad is the natural evolution of IEEE 802.1q that is extenisvely used by community network. OpenWRT UCI still doesn't support creation and configuration of 802.1ad VLAN interfaces, the idea is to extend netifd to support also this kind of "device" in a way as macvlan "devices" are supported.

@@ -1,0 +1,1 @@
+Linbox currently possesses an implementation of the Block-Wiedemann algorithm for solving black box matrices. I propose extending this capability so that users can compute the invariant factors of a matrix, using OpenMP to allow for parallel computing on multicore machines.

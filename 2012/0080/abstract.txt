@@ -1,0 +1,3 @@
+The project aims to redesign the AChecker interface from scratch. The new design will be much more user-appealing, providing dynamic access to the various functionalities of the AChecker.
+The new interface will be compliant with W3C WAI ARIA specification which will guarantee system accessibility.
+Once the design is finalised, it will be developed using PHP and AJAX technologies with JQuery and XML.

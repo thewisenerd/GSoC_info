@@ -1,0 +1,1 @@
+FWN is one of the important teams in the Fedora project. It archives and publishes what is happening within the Fedora project. Therefore issuing the FWN weekly is very important. The proposed tool will make the process smoother and requires less man power to make the issue happen.

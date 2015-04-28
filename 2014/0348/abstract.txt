@@ -1,0 +1,1 @@
+An exploration of Texas Instrument’s PRU cores and RTLinux in automotive engine management

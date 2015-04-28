@@ -1,0 +1,5 @@
+Scribe is a tool making the edition of large mapfiles easier by helping with the management of zoom levels and letting you define and use variables, two features that greatly simplify mapfile management
+
+A GUI currently exists to interact with Scribe, but it is not finished, it still has bugs and does not fully support basemaps or regular mapfiles.
+
+This project is to finish the UI for Scribe, by fully supporting mapfile and basemaps filetypes, refining the GUI, test and fix bugs, clean the code behind and then package and publish the project as an open source utility accessible to all MapServer users, and user-friendly enough to appeal to both newbies and experienced mapfile developers looking for a productivity tool.

@@ -1,0 +1,1 @@
+Coming up with a yesod devel server based on the package yesod-devel-beta. One that is more general, more powerful and is able to work with all haskell web applications.

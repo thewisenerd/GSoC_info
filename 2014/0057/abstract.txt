@@ -1,0 +1,5 @@
+After trying CodeCombat for the first time I was impressed and became a big fan of it. I 
+find the idea of learning programming while playing and having fun in the same time great
+and think that more should embrace this concept of teaching through games , making
+the learning process fun and stimulating for the students.  
+That's why for GSoC I intend to create basic and advanced campaigns for players which will teach them the basic algorithms all programmers should know.

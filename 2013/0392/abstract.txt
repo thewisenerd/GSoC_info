@@ -1,0 +1,11 @@
+Monthly reports are executed at the first of the month for prior month. Details in the report include, total number of members, subscription requests, digest members, and unsubscribes.
+
+Desired Solution: Add additional stats for the following: 1) number of unsubscribes for :
+
+    via the members option page
+    web confirmation
+    email confirmation
+    disabled address
+    member mgt page
+
+2) number of total unique subject lines 3) number of subscribers that posted

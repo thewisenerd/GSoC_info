@@ -1,0 +1,5 @@
+Extend the Mylyn task editor by new functionality, which allowed more traceability for Mylyn tasks. 
+
+This new feature aggregates additional task informations like commits, builds and review. 
+
+This additional informations will be presented in the task editor.

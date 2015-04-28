@@ -1,0 +1,1 @@
+Started as a GSoC 2010 project, the ARM port of Haiku has been largely broken and does not build successfully. The goal of this project is to get the ARM port running on one of the newer ARM boards.

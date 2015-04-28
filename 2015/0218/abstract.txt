@@ -1,0 +1,1 @@
+This is a proposal on the expanding the audio and video capabilities for Tox iOS Antidote.  I believe we can increase the adoption of Tox if users were able to access Tox on iPhone. My proposal below will outline the ways I will achieve that.

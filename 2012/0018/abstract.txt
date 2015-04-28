@@ -1,0 +1,1 @@
+Currently Apertium does not have a release-quality for the translation system of the Slovenian and Serbo-Croatian language pair. The goal of this project is to make a release-quality of the apertium-sl-sh language pair.

@@ -1,0 +1,1 @@
+The upcoming version 0.6 of Retroshare offers a advanced backend to store, transfer and verify messages. A rsa public key makes a identity. It is possible to rate identities to avoid spam. With Wt from webtoolit.eu one can create a webinterface in C++ similar to Qt. Let's use this to create a social network plugin for Retroshare.

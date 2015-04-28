@@ -1,0 +1,1 @@
+This project is about adding two performance enhancements to wget: conditional GET requests and TCP Fast Open.

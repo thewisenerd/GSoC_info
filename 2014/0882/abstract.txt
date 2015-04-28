@@ -1,0 +1,5 @@
+Sugar Listens seeks to provide an easy-to-use speech recognition API to educational content developers, within the Sugar Learning Platform.
+
+This will allow developers to integrate speech-enabled interfaces to their Sugar Activities, letting users interact with Sugar through voice commands.
+
+This goal will be achieved by exposing the open-source speech recognition engine Pocketsphinx as a D-Bus service.

@@ -1,0 +1,3 @@
+ResK is a proof compression library. Currently some compression algorithms for propositional resolution proofs are implemented. They use a dedicated data structure that should be soon obsoleted.
+
+The goal of this proposal is to port those algorithms to the new sequent calculus data structure and to implement some more similar algorithms.

@@ -1,0 +1,4 @@
+This project will be detecting the presence and location of the commercials using two fold classifiers to provide better confidence. The input to the system will be a video and the output will be a table reporting the location and duration of commercials.
+The project will also make the entire classification process that of reinforcement, this would allow the user to aid the system and make the classifier all the more better with time. The two classifiers are:
+1) Audio based
+2) Video based

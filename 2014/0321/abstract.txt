@@ -1,0 +1,3 @@
+Template manager is implemented as a part of previous GSoC. It is not a mature part of LibreOffice. There are some inconsistencies, bugs and performance issues. Also there are some features missing.
+
+So the idea is taking Template manager from its "It works." state and making it to "It works great!".

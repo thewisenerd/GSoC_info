@@ -1,0 +1,2 @@
+Sfinx is a Polish game based on the CGE engine. This engine is written in C and ASM and is an evolution of another game already supported by ScummVM, Soltys.
+The important parts of this task would be to fix the extraction/compacting tools, to define how similar the engine is compared to CGE1, then to rework and refactor the sources heavily, and to integrate it into ScummVM as a new engine.

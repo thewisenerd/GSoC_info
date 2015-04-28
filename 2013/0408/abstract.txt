@@ -1,0 +1,1 @@
+Certain keys from HKCU and HKLM should be merged and put into HKCR according to rules available on MSDN.

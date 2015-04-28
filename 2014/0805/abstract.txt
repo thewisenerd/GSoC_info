@@ -1,0 +1,1 @@
+A social discussion platform for sugar and related components that can be accessed from within sugar. The user is launched into a discussion topic based on the context of the launch.

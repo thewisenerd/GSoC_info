@@ -1,0 +1,3 @@
+In current code base of PMA, the code for displaying query results is not much reusable. To improve the ability of re usability of the code, I have suggestions to refactor the code with better approaches. The code is going to be improved by applying Object Oriented Programming concepts.
+
+         Along with that, new features like support for displaying results for multiple queries at once, introducing some more built-in transformations where it is applicable will be considered.

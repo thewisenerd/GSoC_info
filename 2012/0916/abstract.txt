@@ -1,0 +1,1 @@
+I will port ASan (a memory debugging tool for LLVM+Clang) to NetBSD so that it can be used to find memory-related bugs (use after free, buffer overflows) in the userland and kernel.

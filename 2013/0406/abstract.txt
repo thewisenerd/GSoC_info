@@ -1,0 +1,3 @@
+GNUstep currently offers a number of rendering backends inside gnustep-back for its AppKit implementation, gnustep-gui, such as xlib and cairo. 
+
+This proposal primarily involves adding a new rendering backend based on GNUstep's own graphics library, Opal. This will benefit platform compatibility, and various integration efforts.

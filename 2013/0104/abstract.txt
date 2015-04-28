@@ -1,0 +1,2 @@
+Pocket Code is a visual programming language for smartphones, tablets and mobile browsers.
+At this GSoC Project I will develop camera access for the Android part of Pocket Code ("Catroid").

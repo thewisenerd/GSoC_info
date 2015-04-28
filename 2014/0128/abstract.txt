@@ -1,0 +1,2 @@
+This proposal states the ideas of the improvement of the current nova-scheduler with additional features.
+In the project part of the prosoal I try to state the description of new features, the need of their introducing and the ideas of implementing their support in the nova-scheduler.

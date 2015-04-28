@@ -1,0 +1,1 @@
+This project will be to Improve the COLLADA im/export functions of constrained animations, including Baked IK animations and IK chain animations. Also the project will attempt to implement Morph constraint animations in COLLADA.

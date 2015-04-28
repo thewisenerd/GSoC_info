@@ -1,0 +1,1 @@
+The goal of this project is the creation of a solid framework that will allow an integration of 3rd party software providers (like pypi, octave-forge, ELPA) with Gentoo in a unified way.

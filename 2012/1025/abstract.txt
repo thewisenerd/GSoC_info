@@ -1,0 +1,1 @@
+This project focuses on implementing Gaussian Process Regression with hyperparameter learning in Shogun. The goal is to make the implementation easily extendable and able to handle large datasets through sparse approximation.

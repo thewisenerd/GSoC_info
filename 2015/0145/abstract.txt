@@ -1,0 +1,1 @@
+Every project over a period of time has to come up with new features that may help its users as well as its own performance to get better. In this regard, phpMyAdmin, since its start has always responded to the needs and requests of its users and this project aims to continue that by implementing a few of the selected RFEs over the summer.

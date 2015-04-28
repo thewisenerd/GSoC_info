@@ -1,0 +1,1 @@
+I will add the infrastructure necessary to fully automate port creation and update for module ecosystems. Complete support for one ecosystem will be provided by the end of GSoC. The infrastructure will be extensible so that more ecosystems could easily be added.

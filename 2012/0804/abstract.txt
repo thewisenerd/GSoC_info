@@ -1,0 +1,1 @@
+The idea is to create a package that allows use capabilities Computer Algebra System Maxima which is much more powerful than the symbolic algebra system available for R right now.

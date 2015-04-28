@@ -1,0 +1,5 @@
+GNOME Keyring GnuPG Agent is currently incompatible with newer versions of GnuPG, it is not  capable of providing all the functionality expected by GnuPG and ends up degrading some functionalities. 
+
+This project is about making them compatible, so that GNOME Keyring can manage GnuPG passphrases again. 
+
+The proposal is to implement a pinentry, a dialog that allow GnuPG to prompt for passphrases,  that can search and store passphrases in keyrings, and prompt for it if not found.

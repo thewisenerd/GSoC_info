@@ -1,0 +1,1 @@
+I propose adding multi-language support to Media Cloud in such a way that the new languages (French, German, ...) could be added as plug-ins (adding a new language would not involve further modifications to the core code). Additionally, the process of adding a language would also be made simpler by providing automatic (experimental) stopword list and stemmer generators.

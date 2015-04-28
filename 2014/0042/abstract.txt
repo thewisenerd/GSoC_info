@@ -1,0 +1,1 @@
+The goal of this project is to improve the current geometry module such that it can include some important 3-D and 2-D classes and improve its current classes so that the geometry module works better as a whole.

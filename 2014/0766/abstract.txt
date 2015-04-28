@@ -1,0 +1,1 @@
+GNOME's Sudoku game has too many complicated features, and it doesn't follow modern GNOME design principles. This proposal is aimed to completing the port to Vala, implementing the redesign mockups proposed, modernizing and simplifying the game.

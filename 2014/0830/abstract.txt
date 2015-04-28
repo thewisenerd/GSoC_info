@@ -1,0 +1,1 @@
+The Calendar application is one of the most used apps ownCloud has. The project proposes to rewrite the calendar application in angularJS in order to achieve a much better extensibility and maintainability. Combined with the JSON API currently on the rework branch, it will provide an rich and full-featured easy-to-use interface for the users.

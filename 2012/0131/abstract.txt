@@ -1,0 +1,17 @@
+The project is to build an Google Apps Script as part Spreadsheets. The NY iSchool will upload their data to a Google Spreadsheet from which the script needs to get data and create: 
+
+1) A roster for every period every day. 
+2)Personal schedule for every student
+3)Personal schedule for every professor
+
+Extensive documentation would of course provide other interested parties to implement this solution.
+
+
+Reservations
+Reservations is a light app for automating the process of making reservations via the users website.
+The app uses a GUI to get information about the visitor and saves the information to a spreadsheet.
+
+pushData
+pushData is a app that will mainly be used as a backbone for other apps or system. It has also some potential as a standalone application.
+pushData allows for an easy way to map copy relationships between spreadsheets. It uses time triggers to push data between spreadsheets.
+This version of pushData uses ScriptDb as a huge part of the process.

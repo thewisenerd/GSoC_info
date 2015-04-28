@@ -1,0 +1,1 @@
+“Once upon a time, there lived a lonely interface who didn’t have any method implementations…” I also used once a module, called FAQ module. It knows what it is supposed to and it is really comfortable for an initial period, but when the number of questions grow, it will be a problem how to display, for example, more than 100 questions. I will try to solve these problems.

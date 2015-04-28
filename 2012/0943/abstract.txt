@@ -1,0 +1,1 @@
+I will implement the “Help Topic” module that will - according to the plans of the Drupal Documentation Team - serve as the foundation of the “curated documentation” system and will be part of a better help system for Drupal 8.

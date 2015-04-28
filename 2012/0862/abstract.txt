@@ -1,0 +1,1 @@
+My main aim is improving the Front end for improved User Interaction. What the project demands is an "Interactive jQuery based canvas" part of the site, people have more places to contribute, and engage people when they are benefiting from the site. The following application is an abstract of what I want to implement and hence propose the same.

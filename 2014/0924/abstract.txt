@@ -1,0 +1,1 @@
+This project involves creating a public API for ATutor. This would enable developers to create their own applications which use ATutor services, and then use the services for various purposes- from creating tools to their own mobile applications.

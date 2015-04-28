@@ -1,0 +1,1 @@
+According to the ideas page, the GNU Octave project can be enriched by implementing methods for Incomplete Sparse - and LU-Factorization, that are part of MATLAB for example.

@@ -1,0 +1,9 @@
+My goal is to implement full JACK (JACK Audio Connection Kit) support in MuseScore 2.0. MuseScore already has a Jack Audio support, but doesn't have a support of Jack MIDI In/Out and Jack Transport.
+
+Features to be implemented:
+1. Jack MIDI Out: outputs midi messages.
+2. Jack Transport: start, stop and seek.
+3. Jack MIDI In: handles incoming midi messages.
+4. Jack Audio: outputs an audio.
+
+These features will give an ability to connect with lots of synthesizers and DAWs.

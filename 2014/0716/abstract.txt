@@ -1,0 +1,5 @@
+This project will implement the following features in OWASP OWTF:
+1. Improved Tool and Plugin proxification
+At the moment not all tools or plugins are proxified in OWTF. This feature will ensure that the maximum number of plugins and tools send their HTTP requests through the OWTF MiTM proxy.
+2. Improved Plug-n-Hack Phase 1/2/3 support
+OWASP OWTF will cover as much as possible from the Plug-n-Hack standard, with especial focus in improving OWTF report interactivity, browser integration.

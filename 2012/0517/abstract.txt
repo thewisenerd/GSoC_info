@@ -1,0 +1,7 @@
+I would like to work on Entity disambiguation in Stanbol. Suppose I have "George Bush" in a sentence or document.
+
+ There are may be two matches.
+ 1. George H. W. Bush - 41st US President
+ 2. George W. Bush – 43rd US President. 
+
+The idea is to provide support to Stanbol enhancer to be able to disambiguate between 1 and 2 on the basis of context from the document and data associated with 1 and 2.

@@ -1,0 +1,1 @@
+Rearchitect the release editor as a single-page form, so that sessions no longer need to store form data on the server.

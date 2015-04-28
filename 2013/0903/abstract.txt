@@ -1,0 +1,1 @@
+This project enhances Cling's execution engine with pre-run verification, including the detection of a dereference of a null pointer. The expected results is that the execution of a NULL pointer dereference does not causes a crash.

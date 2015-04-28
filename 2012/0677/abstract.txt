@@ -1,0 +1,1 @@
+Tahrir will be a distributed, decentralized, scalable, and anonymous micro-blogging platform. This projects involves completing a working Tahrir prototype.

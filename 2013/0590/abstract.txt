@@ -1,0 +1,3 @@
+Genome sequencing is now possible at almost no cost. However, obtaining accurate gene predictions remains a target hard to achieve with the existing technology. 
+
+GeneValidator is a tool that identifies problems with gene predictions, based on similarities with data from public databases. We apply a set of validation tests that provide useful information about the problems that appear in the predictions, in order to make evidence about how the gene curation can be made or whether a certain predicted gene may not be considered in other analysis.

@@ -1,0 +1,9 @@
+Landmarks are signatures of our surroundings as perceived by the sensors on mobile devices,
+which help us to uniquely identify a location. I have implemented an unsupervised indoor 
+localization scheme to help prune these landmarks.The scheme explores the possibility of landmarks 
+from sensor features like Accelerometer, Gyroscope, Magnetometer, Light,
+Sound, WiFi, GSM signal strength. 
+Moreover, it also includes
+an adaptive clustering algorithm to help us get stable landmarks
+depending on the varying characteristics of different sensors, day, time and person.
+Using these landmarks it is possible to identify locations easily. So with the help of these landmarks, an analytics app can be developed in malls which will have the option of annotating these landmarks with comments, pictures and other data

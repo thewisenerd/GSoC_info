@@ -1,0 +1,1 @@
+The project I would like to work on is “HTTPS Everywhere mixed content detection and handling” which is listed on the Tor projects page. For this, I aim to help find a solution to Firefox 23’s blocking of “some insecure HTTP scripts and CSS in HTTPS pages”, which creates a mixed content situation.

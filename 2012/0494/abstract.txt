@@ -1,0 +1,1 @@
+Mixxx saves a lot of meta-data for tracks in it's library like filename, artist, waveform, etc. Unfortunately there is no way to transport that data from one PC to the other. This project aims to change that and add a  option for a portable library.

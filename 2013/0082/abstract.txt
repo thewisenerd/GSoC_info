@@ -1,0 +1,1 @@
+foomatic-rip presently supports a number of printing spooler softwares which are no longer maintained or used. Only CUPS is being used presently. The aim of this project is to scrap the useless support for the obsolete spoolers and optimise foomatic-rip for CUPS, in a simplified and most easily maintainable way.

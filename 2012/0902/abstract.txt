@@ -1,0 +1,1 @@
+Baggy Bounds Checking (BBC) is an efficient bounds checking technique that pad and align objects to powers of two and enable allocation bounds. It uses a contiguous array as bounds table to enable efficient bounds lookup and thus has low overhead at runtime. This project is aims to integrate BBC into SAFECode.

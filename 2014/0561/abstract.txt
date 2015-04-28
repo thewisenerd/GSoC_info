@@ -1,0 +1,4 @@
+Waartaa is an open source communication tool for teams and groups. It is built on top of IRC. Currently, Waartaa is an IRC client as a service and it supports centralized logging, 24x7 idling, notifications and unique identity to a user on IRC across multiple clients/devices, and also a rich UI for awesome user experience.
+
+
+I plan to implement a central hub for searching/reading channel logs, bookmarking channel logs, video/audio conferencing faclity and admin console panel in Waartaa.

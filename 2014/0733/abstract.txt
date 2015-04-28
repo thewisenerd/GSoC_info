@@ -1,0 +1,1 @@
+GNU Bison currently has a C++ GLR parser that is just a wrapping around the C parser, and thus lacks variants (unions for objects). The support of objects in parsing is thus lacking. I propose a complete re-implementation of the C++ GLR parser to allow for variants.

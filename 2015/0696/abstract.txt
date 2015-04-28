@@ -1,0 +1,1 @@
+The main goal of my project is to add support for EXI to MongooseIM. This will also require extending the Escalus XMPP library with the ability to communicate with MongooseIM using EXI.

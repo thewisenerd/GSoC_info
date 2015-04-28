@@ -1,0 +1,1 @@
+GNOME is currently lacking of a good graphical profiler. My proposal is to extend nemiver by adding a new perspective to add the ability to profile an application with the help of callgrind or perf.

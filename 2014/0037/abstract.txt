@@ -1,0 +1,5 @@
+Segway aims to find patterns in genomic data by segmenting the data, and assigning
+a small number of labels to each segment, and then using an unsupervised learning
+algorithm to discover patterns in the data. I aim to improve Segway’s ability to describe
+genome patterns by implementing features of a Dynamic Bayesian Network, specifically
+its ability to further segment into hierarchical labels, to reveal patterns at different scales.

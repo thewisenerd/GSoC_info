@@ -1,0 +1,3 @@
+Port all of MediaGoblin's code to python 3: https://issues.mediagoblin.org/ticket/813
+    Currently MediaGoblin uses sqlalchemy-migrate, but it's fairly outdated and unmaintained.
+    Port the migration infrastructure to using Alembic instead. Which is also python3-compatible.

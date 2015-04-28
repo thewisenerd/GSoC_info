@@ -1,0 +1,1 @@
+This project focus on creating brand new tooling support for simplifying the creation and registration of OSGi Remote Services with specific distribution providers and specifications. And the related documentation to the project.

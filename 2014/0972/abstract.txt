@@ -1,0 +1,1 @@
+Implement Chen and Han's single-source shortest paths on a polyhedron algorithm, possibly augmented with the improvements given by Xin and Wang (2009), and also augmented to give shortest paths from a geodesic curve on the surface, rather than just a single point.

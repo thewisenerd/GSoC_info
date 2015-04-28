@@ -1,0 +1,1 @@
+Today’s competing operating systems  (OS X, Linux, Android, Windows) already implement many security features, both in kernel and userland. This project aims to reduce the gap in the critical parts of the userland by implementing compile-time boundary checking and security extensions in FreeBSD’s libc.

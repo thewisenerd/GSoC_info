@@ -1,0 +1,3 @@
+enviroCar application helps in keeping a check on the volume of co2 emissions produced in a city  and also a check on the fuel consumption for an individual. 
+
+Therefore,  in this project i have proposed some features which will help the users in using the app more frequently and contributing towards the lowering of co2 emissions. Also i have proposed some UI/UX changes in the app which will improve the overall experience while using the app.

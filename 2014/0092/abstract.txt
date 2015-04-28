@@ -1,0 +1,5 @@
+Pocket Code is missing the popular show/hide variable as well as Userbricks(self-defined functions) from scratch. Show and hide variable bricks are necessary to display, e.g., game statistics. Userbricks are used to create self-defined functions.
+
+
+http://wiki.scratch.mit.edu/wiki/Show_Variable_()_(block)
+http://wiki.scratch.mit.edu/wiki/Define_()_(block)

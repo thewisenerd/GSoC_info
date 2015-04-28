@@ -1,0 +1,1 @@
+Goal of the project is the implementation of full  Oculus Rift support for the Blender Game Engine using either the official Oculus SDK or the OpenHMD library. Further a demo application will be created to demonstrate the implementation and will directly be useful for the ERAS project for research and also demonstration purposes.

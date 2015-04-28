@@ -1,0 +1,1 @@
+There are many high-priority bug-fixes and features that need to be implemented for Bundler 2.0, and several desired features break Bundler's backwards compatibility and thus need to be carefully added. My goal is to implement, document, and test at least three of these features.

@@ -1,0 +1,1 @@
+The goal would be to enhance flashrom by, without limitation, resurrecting the build server, refinement and integration of outstanding patches, merging back chromium OS patches (e.g. bay trail support), refactorings, and a number of dedicated new features.

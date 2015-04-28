@@ -1,0 +1,1 @@
+The goal of this project is to send out Patient Administration Management (PAM) profiles, each time a patient is created in OpenMRS. This would help OpenMRS to easily connect to a Health Information Exchange (HIE).

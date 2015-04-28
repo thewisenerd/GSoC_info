@@ -1,0 +1,1 @@
+Main goal of this project is to re-implement AudioCd support in Amarok, since current implementation suffers from bunch of drawbacks.

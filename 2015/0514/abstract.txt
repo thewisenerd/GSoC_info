@@ -1,0 +1,2 @@
+The main goal of the project is to provide robotics research environment with succinct report of manipulation activities performed by a robot. To this end, an automated Report Card generation tool will be developed as an extension of widely used CRAM system.
+Such Report Card will consist of basic robot performance measures that are easy to view, read and interpret, therefore, time-consuming raw data analysis that needed additional statistical knowledge won’t be necessary.

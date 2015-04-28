@@ -1,0 +1,5 @@
+The Nepomuk query parser is responsible for parsing a user-entered query into a query tree that can be translated to a SPARQL query.
+
+The current version of this parser uses regular expressions and doesn't allow the implementation of an auto-completed input box. It is not able to parse human date and times.
+
+This proposal is about implementing a real parser, having a syntax tree that enables auto-completion. It will be able to parse human date-times.

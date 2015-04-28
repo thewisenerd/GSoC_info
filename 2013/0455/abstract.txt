@@ -1,0 +1,1 @@
+In this project, I will develop an extension to Apache Jena ARQ, called jena-spatial, which combines SPARQL and simple spatial query. It gives applications the ability to perform simple spatial searches within SPARQL queries. Lucene spatial can be used for the spatial data indexing and searching.

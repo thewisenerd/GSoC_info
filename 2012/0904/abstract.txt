@@ -1,0 +1,3 @@
+This project is a follow-up to my ongoing work as a volunteer to improve the language support in MediaWiki and to improve the usability of the Wikimedia Incubator.
+
+I would like to include a default list of languages names in English, which is currently in Babel but can be useful in MediaWiki in general, and also for WikimediaIncubator specifically because the automatic info pages otherwise do not recognise language codes. I'd also improve the current automatic info page on Incubator and extend it to be used as a replacement for the test wiki template. This will include a special page that guides contributors in their first steps to start on Incubator and start a test wiki.

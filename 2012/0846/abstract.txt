@@ -1,0 +1,1 @@
+In this project, Abiword's docx format support will be developed. Both importing and exporting docx files will be done better after fixing bugs and providing some additional features to docx support.

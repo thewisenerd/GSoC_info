@@ -1,0 +1,3 @@
+ExpEYES ( Experiments for Young Engineers and Scientists) is an Open Hardware and Free Software framework for developing science experiments and classroom demonstrations. 
+This project will work on developing a  set of plug-ins  for ExpEYES.  These plug-ins with GUI's will enhance the scope of ExpEYES for using it to perform several experiments in mechanics, sound  and waves.   
+Project will also focus on adding features for using acoustic and motion sensors for various science experiments.

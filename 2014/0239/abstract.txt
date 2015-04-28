@@ -1,0 +1,1 @@
+Enhancing the Sahana-Eden CAP broker for multi-agency situational awareness. Fixing previous issues and adding several other important features.

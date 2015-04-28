@@ -1,0 +1,1 @@
+grImport is currently able to import some PostScript graphics, but the implementation is not yet capable of importing more complicated PostScript images. Additionally, other types of vector graphics (particularly SVG) are not yet supported directly. This project aims to improve grImport's capacity to import vector images for use within R graphics.

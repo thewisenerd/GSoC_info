@@ -1,0 +1,7 @@
+The core code for Apache Rat has difficulties which lead to a high bar for contributions:
+
+* based on an experimental streaming architecture 
+* hard to understand 
+* poorly covered by edge-to-edge tests
+
+Replace this by a conventional object-oriented design with clear model based on the domain.

@@ -1,0 +1,1 @@
+Apache Taverna Language is a set of Java APIs for managing and converting Taverna workflow definitions and workflow run data bundles. It is a part of the Apache Taverna workflow system. This project is to develop a command line tool to use with Taverna language for managing and converting workflows and databundles.

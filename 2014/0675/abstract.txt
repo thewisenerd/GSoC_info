@@ -1,0 +1,1 @@
+I'm last year student, I've successfully completed GSoC 2013 with similar project. I have experience in model-base testing (including design-by-contract principles), have experience in OLVER. I like work with OLVER, and I would like to extend it.

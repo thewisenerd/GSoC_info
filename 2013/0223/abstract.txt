@@ -1,0 +1,2 @@
+The interrupt balancer intrd will be rewritten in C to remove Perl as build and run dependency.  Besides a compatibility mode that preserves the original intrd algorithm, new placement functions for core, power and cache affinity are evaluated and
+implemented.

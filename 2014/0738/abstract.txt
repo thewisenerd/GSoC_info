@@ -1,0 +1,1 @@
+This project aims to write driver for Realtek RTL8169 Gigabit Ethernet controller for HelenOS. RTL8169 is popular GigE controller, which can be found in many consumer mainboards.

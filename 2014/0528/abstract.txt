@@ -1,0 +1,1 @@
+Deep learning is an exciting new area in machine learning. It is specially important now as it has the capability to leverage the massive amounts of unlabeled data becoming available through the internet. It would be a great addition to the shogun toolbox.

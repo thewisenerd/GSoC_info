@@ -1,0 +1,1 @@
+The proposed project takes OI Shopping List, and converts it to a Native mobile application that can runs on iOS devices, with similar UI design and functionality.

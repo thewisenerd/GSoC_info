@@ -1,0 +1,7 @@
+Scientific works, like studies are usually accompanied with some slides presented on conferences, and the latest version of DocBook Slides is quite outdated. The outcome of this work shall help people to create not just articles and books but also presentations using modern DocBook tools.
+
+This application proposes porting the DocBook Slides schema to RELAX NG (currently, RELAX NG schema is provided but it is only generated from DTD) and adapting the new concepts introduced in DocBook 5.0, like simplified tags or XLink capabilities. Porting the stylesheets is also included among the objectives. The main goal for this summer is to provide full support for the S5 format and cover the rest of important formats as much as possible. The output shall be modern and highly customizable.
+
+Nowadays, presentations can have fancy features like visual or sound effects, embedded videos, etc. However, this work aims to implement only text-based presentations just like the old DocBook Slides schema did. Fancy extensions and effects do not fit into the scope and the time available.
+
+The result of this work would be an easy to learn schema for presentations and would reduce the gap between DocBook 5.0 and the current Slides version. In some cases, it would even be possible to include some common fragments into both type of documents.

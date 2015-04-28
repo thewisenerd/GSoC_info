@@ -1,0 +1,4 @@
+Malaria Prevention Application by Systers Community is both Android and iOS Application. The current facilities, which this application provides are-
+1) Info hub  2) Medicine Reminder system
+The additional features which  can be added are:-
+1) Health Diary 2) Prescription Platform 3) Trip Indicator 4) Global Malaria Tracker 5) Malaria Quiz

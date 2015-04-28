@@ -1,0 +1,1 @@
+This project’ goal is to define and implement the atomic primitives for RTEMS which completely support multiprocessor systems. The atomic operations on the multiprocessor systems also involve memory barriers. So in addition to the implementation of the atomic primitives API, the development of memory barriers will also be part of tasks.

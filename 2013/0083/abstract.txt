@@ -1,0 +1,1 @@
+OpenPrinting web site aims to administer and get access to a growing list of printers and their drivers, PPD (Postscript Printer Description). Now it has only a basic functionality and has to be improved in many ways: simplify submission process, enhance usability, improve notifications, automate lots of manual work, etc.

@@ -1,0 +1,1 @@
+Project focus on ActionView. First part of it would be to finish up extraction ActionView from ActionPack. Next, adding support for view classes to it.

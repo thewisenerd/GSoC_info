@@ -1,0 +1,9 @@
+The satellite 'IRIS' and other telescopes use a 4D cube data structure to save data. Currently, SunPy does not have support for this structure which this project aims to remedy.
+
+Proposed plan -
+
+1) Tweak and merge the Cube module.
+
+2) Create a GUI plugin to view and perform basic operations on 3D/4D data for Ginga using CRISPEX as a reference.
+
+The primary goal will be to merge the Cube module which will bring the support for IRIS, SST, EIS and every other 3D+ data format to SunPy.

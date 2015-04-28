@@ -1,0 +1,1 @@
+PacketFence currently integrates with the Nessus vulnerability scanner to verify the compliance of clients who requested network access. Nessus is no longer an open source and free tool so it cannot be bundled with PacketFence. Nmap would be a good candidate to replace Nessus thanks to its scripting engine and the availability of perl bindings.

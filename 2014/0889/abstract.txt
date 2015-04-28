@@ -1,0 +1,1 @@
+Propose tool will support to wso2 product for generate Test suit and Test scenario document. This tool take test scenario documents written in natural language as an input and produce appropriate test suite.

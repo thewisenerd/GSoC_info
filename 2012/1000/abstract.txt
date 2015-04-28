@@ -1,0 +1,1 @@
+The idea of my project is to work on SimpleCV's mobile applications and web interface, improving them to the point that using the power and versatility of SimpleCV to perform various tasks is just plain simple.

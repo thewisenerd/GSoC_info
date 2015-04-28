@@ -1,0 +1,1 @@
+A Linear Algebra Module for CSymPy will be implemented with special emphasize on Symbolic calculations. The module will thoroughly focus on Matrix Decomposition, Matrix inverse and Solving linear systems.

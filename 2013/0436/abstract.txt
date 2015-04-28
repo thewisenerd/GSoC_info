@@ -1,0 +1,1 @@
+CAN bus has widely used in some safty-critical industrial fields where a real-time embedded system like RTEMS is also widely used. So it's useful to support CAN stack for RTEMS. This project’s purpose is to build a simulation environment for CAN driver, port the CAN driver LinCAN to RTEMS then write the CAN test-suites for this driver.

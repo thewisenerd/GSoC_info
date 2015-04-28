@@ -1,0 +1,1 @@
+The project aims at porting the KDE Games module and KBounce, Naval Battle and KMines completely to the newly released Frameworks 5.

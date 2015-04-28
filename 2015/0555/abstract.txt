@@ -1,0 +1,4 @@
+The H8S is a 16bit MCU which is used in several Laptop as Embedded Controller.
+The EC makes the difference between a Computer and Notebook.
+It controls several component including voltage regulators, battery management.
+Writing an Open Source firmware for EC allow coreboot more control over hardware. Beside from the security improvements through Open Source firmware it will improve hardware support of the device. Another side effect is a good concentrated documentation of the hardware.

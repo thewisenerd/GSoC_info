@@ -1,0 +1,1 @@
+Enhance the performance of the asset compilation process of Ruby on Rails. At first, some benchmarks of the current state of some well-known rails-based projects will be needed. Then contrast different alternatives to the current options, maybe integrate them too. If the results are not satisfactory, propose substitutes and even implementing them.

@@ -1,0 +1,5 @@
+Scientific lab images are huge and take a long time to completely upload to the server for backup. During upload if there is any network failure, the entire process has to restart.
+
+I have proposed a way to overcome this problem by overriding default behaviour of CherryPy HTTP request class. On a network failure, the uploaded chunk of image is saved. User can resume the upload whenever the network is back.
+
+This is done using CherryPy, JQuery and PostgreSQL.

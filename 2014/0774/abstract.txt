@@ -1,0 +1,1 @@
+Enhance the current dhcpd daemon to bring it up to current OpenBSD standards, by adding things like socket support for remote clients and a separate control program to enable live database and configuration reloads. A survey of other dhcpd products to identify and then implement missing functionality would be part of the work.

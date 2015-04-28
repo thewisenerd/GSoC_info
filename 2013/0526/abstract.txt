@@ -1,0 +1,1 @@
+The aim of this project is to implement an Impress Remote Control for iOS. This application should work with both iPhone and iPad and communicate over WiFi, using a TCP/IP protocol based on current server-end implementation for Android.

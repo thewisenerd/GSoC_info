@@ -1,0 +1,1 @@
+The project deals with making DBpedia framework easily accessible via different distributed computing frameworks. Scripts will be used to preconfigure the setup part for accessing the DBpedia project. Distributing the workload is expected to provide performance enhancements over the current approach.

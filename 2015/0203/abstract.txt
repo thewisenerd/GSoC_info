@@ -1,0 +1,3 @@
+Currently Subsurface and libdivecomputer uses the RFCOMM emulation to communicate with Bluetooth dive computers. The scope of the project is to replace this communication with a native one or with one which uses the Bluetooth module offered by Qt framework. 
+
+In the end the user will no longer have to setup the virtual serial ports and will be able to discover and connect to dive computers which have support for Bluetooth.

@@ -1,0 +1,1 @@
+The aim of this project is to improve SHIVA on various fronts (better spam distinction, hpfeeds/hpfriends integration, better database implementation, documentation, and if time permits then a web-based UI), and moreover making it easy to deploy and configure.

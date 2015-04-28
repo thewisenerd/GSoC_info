@@ -1,0 +1,1 @@
+The project allows tailors and artisans to easily utilize, manage and troubleshoot knitting machines, to manage their patterns, and to help them connect their knitting devices to computers.

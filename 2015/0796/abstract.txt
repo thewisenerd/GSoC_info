@@ -1,0 +1,3 @@
+I've been around the Hibernate-Search project for around 1-1.5 years now, starting with "dumb" questions and now I want to contribute actual source code and pay back for the nice help I got :).
+
+Basically, my proposal is to implement support for any JPA provider into Hibernate Search, to remove the neccessity of Hibernate-ORM when using it.

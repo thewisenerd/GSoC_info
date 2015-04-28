@@ -1,0 +1,1 @@
+Currently B.A.T.M.A.N. lacks any form of backwards compatibility. This project aims to create a generic framework for construction and parsing of type length value information elements so as the future versions are backwards compatible.

@@ -1,0 +1,1 @@
+Implementation of acquisition, tracking and demodulation algorithms for a Galileo software receiver, following the example already implemented for GPS in the GNSS-SDR project.

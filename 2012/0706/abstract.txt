@@ -1,0 +1,1 @@
+Implementing a proper way to manage photos by structurally maintaining the meta information of the photos in Photark

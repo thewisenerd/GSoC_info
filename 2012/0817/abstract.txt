@@ -1,0 +1,1 @@
+This project aims at developing tests around existing HR module, making it more suitable for distributed development, and developing it further to add remaining functionality.

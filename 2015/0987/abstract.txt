@@ -1,0 +1,1 @@
+MoinMoin 2.0 has an existing implementation of a simple issue tracker. The aim of this project is to add more features to the issue tracker and improve its UI/UX.

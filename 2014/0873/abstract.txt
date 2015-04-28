@@ -1,0 +1,3 @@
+Wikisources all around the world use heavily Google-Books digitizations for transcription and proofreading. Currently the users have to manually download a book from GB, then upload them to IA(if they want to preserve) or directly upload to Wikimedia-Commons(again manual task) with appropriate meta-data. 
+
+->This project focuses on automating all of it! The user will just have to give appropriate url(or identifier) for the book(s) they wish to upload, and all other task is just automated.

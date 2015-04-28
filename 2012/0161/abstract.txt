@@ -1,0 +1,1 @@
+This project is aimed at developing XSL's for DocBook to Word XML roundtripping. It is expected to extend  rountripping for later versions of Microsoft Word and implementing for Open Office.

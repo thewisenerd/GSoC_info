@@ -1,0 +1,2 @@
+Testing software is hugely underlooked in many projects and it is a huge mistake. While writing tests indeed takes some time and effort, it pays off really quickly. Once you write a good test, it stays there and protects your project from regression. Testing is essential to produce quality code.
+I aim to create tests that will cover not only every day cases, but also corner cases to help other developers be more productive.

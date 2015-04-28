@@ -1,0 +1,5 @@
+This is a proposal for the implementation of a real world Vision Application using OpenCV. Scene text detection and recognition in uncontrolled environments is still an open computer vision problem. Reading text in natural scenes will enable new and exciting applications such as automatic
+ translation, way-finding and navigation aid, support tools for elderly and visually impaired persons,
+ or contextual image indexing and search among many others.
+ 
+More info, my resume, and sample code can be obtained here: http://158.109.8.43/textlocation/GSoC2013/

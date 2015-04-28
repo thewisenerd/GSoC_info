@@ -1,0 +1,3 @@
+Workflow debugging framework is a new feature for Apache Airavata, which is proposed by the Airavata community. XBaya GUI of Airvata has a debugging feature, but that is limited only to executing the workflow at the XBaya GUI. Therefore new debugging module will implement at the backend of the Airavata, so Xbaya GUI should be able to connect with it and debug the executions at server.
+
+With this proposal I’m proposing a plan to develop the identified initial requirements of this feature.

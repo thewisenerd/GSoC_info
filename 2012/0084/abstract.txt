@@ -1,0 +1,2 @@
+Computer graphics objects reconstructed from real world contain undesirable noise. A Mesh smoothing removes undesirable noise while still preserving desirable geometric and shape of the original model.
+This project improving the mesh smoothing tools in blender, based on curvature flow operator in a diffusion equation.

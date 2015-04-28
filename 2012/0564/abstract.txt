@@ -1,0 +1,3 @@
+Processing’s simplistic design is targeted towards beginners. Presently, the PDE lacks a feature which is essential for beginners getting started with programming, as well as experienced programmers – real time checking and reporting of errors and warnings. These could be syntax or compilation errors/warnings. This is a standard feature of Eclipse and one of the reasons why it’s loved a lot.
+
+This project aims to bring this functionality, and some additional features to the PDE as a tool.

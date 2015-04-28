@@ -1,0 +1,3 @@
+Fedora Insight is a Drupal-based website that serves as a place to publish and share news, articles related to Fedora for  keep up with recent highlights without following a dozen different blogs and mailing lists.
+
+The benefits are limitless for manage   scheduling, meetings, events and other activities held within and without the Fedora Project . The Insight Use Cases for Calendar project will be a  tool for accomplish those management purposes.

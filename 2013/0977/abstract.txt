@@ -1,0 +1,1 @@
+The project will result in an Android app that makes the usage of many debian tools easier by blending it with the everyday usage of a smartphone.

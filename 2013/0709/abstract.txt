@@ -1,0 +1,2 @@
+Several people spotted during the last Netfilter Workshop in Copenhague that it would be interesting to support JSON in this library.
+Currently, only XML support is almost complete

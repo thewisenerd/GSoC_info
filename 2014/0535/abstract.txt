@@ -1,0 +1,4 @@
+As proposed by Eclipse the idea would be to extend the EASE script interpreter for
+Python with debugging functionality using parts of the existing JavaScript debugger as
+well as the Jython debugging package. The main goal is to provide a full Eclipse
+plugin that offers all necessary Python/Jython debugging functionality.

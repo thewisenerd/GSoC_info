@@ -1,0 +1,1 @@
+This proposal covers implementing a flexible animation API compatible with a certain popular existing desktop and mobile platform, as well as adding APIs compatible with a popular mobile platform. This will allow extremely user-friendly interfaces, as well as allow development or porting of applications that use CoreAnimation or UIKit API on platforms that don't yet support it.

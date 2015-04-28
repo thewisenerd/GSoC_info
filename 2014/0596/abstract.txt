@@ -1,0 +1,13 @@
+Flexible Plugin Mapping: 
+
+Plugins will be mapped to the following standards:
+       - OWASP Testing Guide v4
+       - NIST 800-53. 
+
+Dynamic Templating Engine:
+
+A component in charge of assembling vulnerability descriptions, penetration tester notes and fix recommendations, with the intention to expedite report writing via copy-paste.
+
+Passive Online Scanner:
+
+A modified interactive OWTF report that allows people to try OWTF without installing, simply visiting a URL.

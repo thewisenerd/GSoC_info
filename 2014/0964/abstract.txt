@@ -1,0 +1,1 @@
+Collaborative Filtering is a popular technique used in Recommender Systems. The current CF framework in MLPACK uses only NMF as a decomposition method. Many alternatives to NMF are available which perform better in terms of efficiency and accuracy, that can be included in the package.

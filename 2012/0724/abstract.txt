@@ -1,0 +1,4 @@
+Provide:
+* software sending VM/node metrics and optional alerts to the Ganeti Web Manager application
+* graphs of VM/node resources usage via GWM interface
+* (optional) puppet manifests for installing and setting up metrics daemon

@@ -1,0 +1,1 @@
+NVIDIA GPU metrics can be collected via NVIDIA gmond plugin, but they are currently not very well visualized via Gweb. This project aims to improve the overall visualization and also support the new metrics supported by NVIDIA management library

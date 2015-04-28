@@ -1,0 +1,7 @@
+Kontact Touch was originally designed to offer Kontacts features on an N900(-like) phone. This makes it look and feel like it does not belong when using it on Plasma Active. I want to polish “Mail” of Kontact Touch by giving it a UI/UX rework to make it  a true PA Application.
+
+This means:
+
+1.) Port Mail  of Kontact Touch to Plasma Components
+
+2.) Rework the interaction design of Mail in the process

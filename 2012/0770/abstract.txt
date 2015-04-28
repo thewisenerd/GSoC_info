@@ -1,0 +1,1 @@
+Building a suitable GUI for devices with small touch-screen and adapting existing features to the new GUI.

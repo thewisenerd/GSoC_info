@@ -1,0 +1,5 @@
+This project is about improving Ruby on Rails compatibility with other Ruby implementations (i.e. JRuby and Rubinius).
+
+This will allow users of these rubies to get all the features out of Rails and also to make it more aware of other widespread tools (e.g JDBC).
+
+The main goal is to make the test suite green on each of these implementations so it will be handier to fix specific bugs but this can also be easier for them to find bugs and disparities since Rails involves a lot of magic.

@@ -1,0 +1,4 @@
+This proposal intends to be open-ended in the details.
+I want to help to implement new features (from Ruby 2.0 and 2.1)
+and to consolidate existing ones as well as analyzing performance bottlenecks
+in libraries and in JRuby itself.

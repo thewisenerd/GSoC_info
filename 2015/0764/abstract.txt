@@ -1,0 +1,4 @@
+In modern sciences and technologies, Image processing has gained much broader scope due to the ever growing importance of scientific visualization.
+Scilab provides excellent support in engineering sciences calculations but in the field of image processing it restricts the user to a small domain of functions and algorithms.
+
+My aim is broadening this domain and providing users with an efficient and easily configurable  toolbox and hence making Scilab a preferable choice of tool for development

@@ -1,0 +1,4 @@
+" Filtering Forms on Dashboard " project looks in point of user who is looking for patient details. There can be cases where the unnecessary  forms are seen on patient dashboard , this can be acceptable till forms a limited but when the forms count increase to ten's and more starts challenge to user.
+
+So to filter these forms is the main aim of this project.
+Example:- A user who has selected a 40 year-old patient, they don't want to be bothered with pediatric forms designed for children in the list that are obviously inappropriate for that patient.

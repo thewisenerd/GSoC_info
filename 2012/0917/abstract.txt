@@ -1,0 +1,7 @@
+Amarok can maintain useful per-track play statistics and meta-data such as: 
+play count, first/last played date, rating and labels; these are tracked for 
+each collection separately. This project will implement statistics 
+synchronization between all collections that support them (local, iPod) in its 
+first part. Second part is to implement synchronization of the statistics from 
+scrobbling services such as Last.fm to Amarok. (other way around already 
+partially works)

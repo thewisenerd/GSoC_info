@@ -1,0 +1,1 @@
+The goal of this project is to increase the functionality of Darcsden. Darcsden is an open source repository hosting platform for darcs, written in Haskell. The main features are authentication from Github/OpenID, Password Recovery, Editing repository files online, and comparison between a repository and its forks.

@@ -1,0 +1,1 @@
+A VXQuery ticket outlines the desire to build a XQuery process that supports a parallel runtime environment. In a recent conversation with committers from VXQuery, they have several pieces ready (Algebricks operators) and just need the first-order functions that actually deal with XQuery processing.

@@ -1,0 +1,1 @@
+Wine has a limited implementation in Text Object Model. This project plan to implement some feature of it. Software which depend on TOM will benefit from this project.

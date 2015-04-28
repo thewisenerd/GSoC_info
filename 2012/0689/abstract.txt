@@ -1,0 +1,3 @@
+Web based packet analyzer that will aim an automated analyzer for the uploaded pcap files. The aim will be the open alternative for http://netwitness.com/products-services/investigator. 
+
+The first fulfillments will include visualization of the analyzed traffic, application level information information display and the plugin support for the malware and anomalies.

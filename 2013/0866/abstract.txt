@@ -1,0 +1,1 @@
+This year’s kde’s Gsoc theme is “KDE++  ie to improve the ui and polish everything” and I like to work on the an efficient keyboard layout preview dialog box. The aim is to write a parser for geometry files which parses geometry and layout files and display the keyboard preview in efficient manner.

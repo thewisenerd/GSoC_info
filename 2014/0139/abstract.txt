@@ -1,0 +1,1 @@
+I intend to complete, maintain and expand last year’s “Dis Interpreter” project.  Some important features (channels, multiplexing) need to work properly before there can be decent support for modules, which are essential to run decent Limbo programs. The main targets are System, followed by Dial and Draw.

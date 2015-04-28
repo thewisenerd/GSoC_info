@@ -1,0 +1,1 @@
+The purpose of this project is to devise a set of meaningful, reliable, reproducible and automated profiling methodologies acting upon the Geant4 toolkit, and subsequently make changes to the code in order to increase its throughput and decrease its execution times, without compromising its correctness or generating regressions and 2nd-order effects.

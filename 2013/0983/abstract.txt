@@ -1,0 +1,1 @@
+This project intends to simulate flood inundation using WebGL on Google maps. The project will feature interactive tools like zoom, navigation etc. The project will also analyze data and display obtained statistics. The simulation will be in real-time and realistic.

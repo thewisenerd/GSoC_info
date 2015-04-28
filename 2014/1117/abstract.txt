@@ -1,0 +1,1 @@
+Scala macros are functions that work with abstract syntax trees during compile time. Mars project (macros at runtime for Scala) is aimed at introducing runtime expansion for macros in Scala.

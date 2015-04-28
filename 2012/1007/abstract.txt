@@ -1,0 +1,1 @@
+The task at hand is to implement a system to enable saving and loading of game-states in games created using Gluon. Additionally, speeding up of the same process is to be implemented.

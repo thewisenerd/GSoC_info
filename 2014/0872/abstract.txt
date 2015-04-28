@@ -1,0 +1,1 @@
+The aim of this project is to improve Relex2logic semantic relation extractor. Currently the extractor is not handling the basic type of sentence in English grammar.  In this project Adjective clause rule, conjunction rule and wh-question rule will be added and there helper functions will be written.

@@ -1,0 +1,1 @@
+Eclipse Java Development Tools (JDT) project needs to support the new language features and provide tools for easier adoption of Java 8, which is planned for release early next year. This project aims to implement source code migration and generation tools to make use of Java 8 features.

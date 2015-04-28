@@ -1,0 +1,1 @@
+Publisher is the desktop publishing component of Microsoft Office. Import of Publisher files is completely unsupported by any free office suite that I know of, substantially hindering migration of end users to Free software. I intend to change that by writing a Publisher import filter for LibreOffice that is as complete, correct, and bug-free as possible.

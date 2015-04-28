@@ -1,0 +1,1 @@
+Fluid,the template engine used by TYPO3, uses Flow as its framework. The aim of the project is to make Fluid independent of Flow,so that it can be integrated with other frameworks as well,or can work even without a framework. So,the project aims at making Fluid fully functional and standalone template engine.

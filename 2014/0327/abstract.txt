@@ -1,0 +1,2 @@
+Some community networks run different Routing Protocols together. Guifi.net and QMP are an example where this scenario takes place. Most of these communities are using Quagga for the BGP routing instead of a lightweight solution as Bird.
+This project will add integration for Bird software in OpenWRT, the next stage will adapt the Bird configuration to work in the QMP network and finally develop a intermediate system to exchange metrics and routes between Guifi (BGP) and the QMP network (BMX6).

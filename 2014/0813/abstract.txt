@@ -1,0 +1,2 @@
+The status quo of GTG heavily depends on generic backend & local file for third party services. Class generic backend is inherited by backends for services. This makes it quite difficult to add new services & maintain the core modules.
+My project aims to introduce several features that will make GTG, developer & user friendly. These include detaching backend services from generic backend so new & customized services can be added easily & also improvements in sync providing flexibility to users.

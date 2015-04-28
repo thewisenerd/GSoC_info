@@ -1,0 +1,1 @@
+At the heart of syslog-ng stands the configuration file, which controls how syslog-ng manages log messages. This project aims to deliver an easy to use, but powerful standalone graphical tool for creating log files, which can offer a simpler learning curve for new users, but also reduce the time required for administrators and power users to enable new devices with syslog-ng.

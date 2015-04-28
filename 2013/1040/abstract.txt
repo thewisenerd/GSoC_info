@@ -1,0 +1,1 @@
+Further development of Nemo project towards ability to build Amber applications from Pharo, including tools like Browser, Inspector, Debugger, etc.

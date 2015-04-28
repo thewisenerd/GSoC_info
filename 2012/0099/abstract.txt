@@ -1,0 +1,7 @@
+Realtime collaboration on Visual Editor would allow Visual Editor to be used much like Etherpad, Google Wave, and similar other collaborative editors.
+
+This project aims at implementing Phase 1 of the Realtime Collaboration project whose features would be - 
+
+(1) Allow single editor in an editing session, others can spectate changes made in realtime.
+(2) The editing control can be passed over to another client by the current editor.
+(3) Provide codebase for extending with Phase 2 features; Multiple editors, and concurrency control.

@@ -1,0 +1,1 @@
+The proposal, based on an idea suggested by DBpedia, aims to enhance DBpedia's Information Extraction Framework to extract metadata from the Wikimedia Commons and incorporate it into the RDF data from Wikipedia currently being exported by the project.

@@ -1,0 +1,1 @@
+The aim of this project is to port existing Gameduino 2 demos into the Céu programming language. The demos are such that they cover most aspects required for games in Gameduino 2. This project would enable new developers to easily develop new games on Gameduino 2 using the Céu programming language. This would also show the power of Céu to power games.

@@ -1,0 +1,1 @@
+Stroke is a Java port of the Swiften(C++) XMPP library. However many functionalities are missing from the library. The aim of this project will be to port those missing functionalities from Swiften Library to Stroke, update those functionalities which have changed in Swiften since initial port, improve test coverage and thereby ensure that Stroke has feature parity with Swiften.

@@ -1,0 +1,1 @@
+Aim of this project is to implement a volume rendering approach with LOD with the primary purpose of rendering terrain. This would evolve in a full fledged terrain implementation over time.

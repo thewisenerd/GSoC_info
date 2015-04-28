@@ -1,0 +1,1 @@
+There has been a push in recent years to standardize a successor to the HTTP protocol in the form of httpbis, which is based on SPDY, an open transport level networking protocol developed at Google. The project aims to develop a suite of tests to validate that a SPDY client or server conforms to the specification.

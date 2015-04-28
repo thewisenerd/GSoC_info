@@ -1,0 +1,1 @@
+The project Improve GTI is about improving the visual design of the Game Theory Explorer of the GAMBIT project and adding new features to enhance usability.

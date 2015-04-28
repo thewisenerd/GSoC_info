@@ -1,0 +1,1 @@
+The goal of this proposal is to implement a subset of the NFS protocol (v3 and v4) in iPXE in order to allow one to chainload an image exported via NFS.

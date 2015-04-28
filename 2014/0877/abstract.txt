@@ -1,0 +1,4 @@
+This is a proposal for improving the Pander package for markdown rendering of R objects. During this GSoC session I want to focus on 3 things: 
+1. create new pander methods for not yet supported R classes
+2. extend Pandoc.table to support configurable width.
+3. refactor existing code base in particular brew function, improve performance of pandoc.table and  extend existing test suite.

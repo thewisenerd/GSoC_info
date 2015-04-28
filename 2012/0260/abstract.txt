@@ -1,0 +1,1 @@
+I am proposing to work on the physics2 plugin to better support physics simulation in CS, using the bullet physics library.

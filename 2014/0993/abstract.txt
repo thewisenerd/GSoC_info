@@ -1,0 +1,4 @@
+TieDIE algo. finds "SUBNETWORKS" connecting genomic perturbations to transcriptional changes in large gene interaction networks.This algorithm is useful in optimizing cancer treatment by viewing cancer from a gene network perspective thus enhancing our understanding of disease initiation,progression and therapy. This project deploys TieDIE algorithm into CYTOSCAPE as an app. 
+
+Input->(Gene network file)&(n tables of heats)
+PrimaryOutput->(SubNetwork created programatically in control panel)

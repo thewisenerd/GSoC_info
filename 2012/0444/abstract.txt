@@ -1,0 +1,1 @@
+A mediawiki extension to help convert any wiki into a conference like website such as Wikimania.It would support features like submission, registration and event management.

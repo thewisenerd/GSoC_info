@@ -1,0 +1,3 @@
+Evergreen is stuck using an end of life version of Dojo, meaning many of the vast advances in technology and/or interfaces over the past few years aren't supported by it.
+
+This project proposes upgrading dojo to the most recent version, and building some tools able to search for, and automatically replace all deprecated elements possible.

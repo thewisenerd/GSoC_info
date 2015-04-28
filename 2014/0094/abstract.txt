@@ -1,0 +1,1 @@
+A previous GSoC project successfully integrated RegaDB with OpenMRS, but the module has not been maintained. RegaDB is a database with software tools, which may be installed and managed locally, to store clinical data related to HIV and HCV treatment. It aims to support both clinicians and researchers in their work by delivering a free and open source software solution.

@@ -1,0 +1,1 @@
+Kivy Designer is a GUI Designer for designing Kivy Applications. It is written in Python using Kivy. This will help users create GUI easily and dynamically. Low resources would then be required to create GUI. Moreover, with this the processes of Creating UI and Writing code for an application could be done separately.

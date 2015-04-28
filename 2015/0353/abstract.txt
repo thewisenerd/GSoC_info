@@ -1,0 +1,1 @@
+The idea behind the project is to revitalize the Official MacPorts GUI, Pallet, to a workable state (according to https://trac.macports.org/ticket/45835#comment:9 as of 14 days it still has errors on compilation), and then to improve it through a variety of means.

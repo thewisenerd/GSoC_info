@@ -1,0 +1,3 @@
+A derivation from an acknowledged high priority project; to allow for the creation of profiles by the students. Additional features underscore the main goal of this project (provision for instructors to keep a record of their past and current students) as well as the user experience. 
+
+In terms of the basic features, a student can create and maintain a profile which the instructors can view, collate and use for their own official work.

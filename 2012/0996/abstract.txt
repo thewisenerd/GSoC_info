@@ -1,0 +1,1 @@
+Refactoring and design a new dialog for managing templates that can be picked from local or remote repositories using the CMIS protocol.

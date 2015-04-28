@@ -1,0 +1,1 @@
+It’s divided into two parts, independent of each other. The first part involves the migration of the coreInterface into a geometry kernel, with the second one consisting of adding the primitives agreed upon into the kernel.

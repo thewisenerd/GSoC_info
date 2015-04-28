@@ -1,0 +1,1 @@
+Apache Velocity is a well known java based template engine. It’s a powerful development tool that allows to easily create and render documents that format and present the data. For a such widely used product, it will be a great value addition if Velocity have JSR 223 API support.

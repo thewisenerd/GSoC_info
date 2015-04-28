@@ -1,0 +1,3 @@
+3GPP standardizes, in release R10, the Carrier Aggregation (CA) technology.
+This consists of the possibility, for a single user equipment (UE), to aggregate Radio Resources belonging to different carriers, in order to have more bandwidth available, and a higher potential throughput. 
+The idea is to improve the current LENA implementation, with CA functionalities, by implementing a sort of “proxy” between the RLC/RRC layer and MAC/Scheduler layers, associated to the multiple carriers.

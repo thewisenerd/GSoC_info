@@ -1,0 +1,2 @@
+When a user records his/her own voice through a microphone invariably there is noise in the recorded audio and it becomes harder to analyze how well the user is faring with regards to improving pronunciation.
+So the aim of this project is to have a noise filter implemented within Artikulate and also a way of visually representing user's performance.

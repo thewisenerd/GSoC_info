@@ -1,0 +1,2 @@
+One of the reasons of bad query plans is inadequate cost estimation of individual operations. The optimizer sometimes uses hard-coded constants for cost estimation. One problem with the calibration procedure of these constants is that they depend on the actual hardware where MariaDB is run.
+The aim of this project is to provide a framework to use self-tuning cost coefficients, which would help in user specific optimal cost estimation.

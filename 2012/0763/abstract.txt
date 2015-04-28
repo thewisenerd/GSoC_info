@@ -1,0 +1,1 @@
+The goal of this project is to redesign, transform and upgrade SOCR Motion Charts from Java to platform- and browser-independent HTML5 and JavaScript framework (D3).

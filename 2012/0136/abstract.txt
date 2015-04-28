@@ -1,0 +1,2 @@
+There is no Hybrid mobile app for a user to view all his photos stored in various online social networking sites and storage sites at one place. The goal of this project is to solve the aforementioned problem.
+Through this project, I intend to develop a hybrid app that will stream all photos a user has uploaded on various sites like Facebook, Picasa, and Flickr etc. by making use of APIs of these sites. This app will be developed using Phonegap.

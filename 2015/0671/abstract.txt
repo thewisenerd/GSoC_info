@@ -1,0 +1,5 @@
+This Proposal concerns Peruse-A-Rue; Street View for Liquid Galaxy application. The project contains two parts:
+
+1. Addition of a new random panorama feature to Peruse-a-Rue that allows random panoramas within certain limits, similar to www.geoguessr.com and www.mapcrunch.com.
+
+2. Migrating the master display code to run on the touchscreen client, hiding the delay currently seen between the visible master and slave displays. This will also allow a current heading to be shown easily.

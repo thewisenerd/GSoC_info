@@ -1,0 +1,3 @@
+The securesite module gives the facility to authenticate users using http basic auth/ digest auth. Admin can restrict access to pages based on user role. This means the site will be inaccessible to search engines and crawlers, but you can still allow access to certain users. It is especially helpful when the site is under construction or maintenance.
+
+The goal of this project is to port this module to drupal 8.

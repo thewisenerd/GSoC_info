@@ -1,0 +1,1 @@
+This project aims at improving the phpMyAdmin's error reporting server in terms of performance and functionality.

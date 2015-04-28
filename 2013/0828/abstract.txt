@@ -1,0 +1,5 @@
+Currently KDE doesn't have any built-in tools to configure touchpad. It's strange when even lightweight desktops like XFCE can at least configure touchpad without any third-party applications.
+I want to implement:
+1) System Settings module for touchpad configuration
+2) Plasmoid that will allow enabling/disabling touchpad
+3) Daemon that automatically disables touchpad when external mouse is plugged in

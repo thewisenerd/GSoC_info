@@ -1,0 +1,1 @@
+This project aims at continuing the work done by Joshua Leung for the Google Summer of Code 2010, integrating the bullet physics library natively into blender so users don't have to go through the clumsy process of running their simulations inside blenders game engine.

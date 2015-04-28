@@ -1,0 +1,1 @@
+The objective of the project is implementation of a client that would send management messages to a computer running PTP daemon. These management messages are then used to control the server. The client then receives response or error messages from server which are handled at client computer and results of query/command is displayed on client console.

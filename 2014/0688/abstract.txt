@@ -1,0 +1,1 @@
+The goal of this project is clearly separate abstract data types (like priority queues and dictionaries) from implementing data structures, and identifying and providing various implementing data structures (some are already in OGDF and just need to be adapted, others like different kinds of balanced search trees and heaps have to be implemented from scratch).

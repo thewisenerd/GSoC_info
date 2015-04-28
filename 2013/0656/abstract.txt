@@ -1,0 +1,3 @@
+OBIX is an open standard for information exchange in building automation. OBIX defines a standard for messages and end points representation so that enables interoperability between automated devices in smart buildings. The current OBIX standard currently lacks a service discovery mechanism that allows client applications to access OBIX servers without knowing the server addresses in advanced. 
+
+This project contributes to the IoTSyS project, which uses OBIX as the underlying standard, by designing an appropriate service discovery (SD) method for the IoTSyS gateway. Furthermore, this project also participates in redesigning the IoTSyS OBIX object container to improve the way objects are addressed, stored and retrieved.

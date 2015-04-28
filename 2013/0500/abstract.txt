@@ -1,0 +1,6 @@
+The biggest challenge for hadoop provisioning is automatically configuring each instance
+at launch time based on what it is supposed to do, a process known as contextualization.On
+EC2 contextualization is done via passing variables through the EC2_USER_DATA entry.
+Apache Whirr and Provisionr embrace this feature to provision hadoop instances on EC2. This project aims  to extend Whirr and Provisionr’s one-click solution on EC2 to CloudStack and also improve
+CloudStack’s support for Whirr and Provisionr to enable hadoop provisioning on CloudStack
+based clouds. In addition I will build a Query API that is compatible with Amazon Elastic MapReduce (EMR) to expose this functionality so that users can reuse clients that are written for EMR  to create and manage hadoop clusters on CloudStack.

@@ -1,0 +1,1 @@
+We want a DHCP client written purely in Guile Scheme, that will be bundled as a Guix package, runnable as a GNU dmd service and integrated into dmd's proposed event loop.

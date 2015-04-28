@@ -1,0 +1,1 @@
+The project aims at creating Debian packages for entire Android Toolchain and SDK as well as update existing packages to latest upstream source. This will help Debian users to do Android development using easy-to-use packages.

@@ -1,0 +1,3 @@
+My proposed project is to add online play to Hedgeroid, the Android port of Hedgewars. In order to avoid duplication of work, the network connection and protocol implementation will be written as a C/C++ library that can be used on all platforms relevant for the game.
+
+Additionally, the editors for game and weapon schemes will be added to the Android port to bring it closer to feature parity with the PC version.

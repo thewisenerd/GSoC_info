@@ -1,0 +1,2 @@
+Ability to easily perform source code refactorings influences approach to software development. We know advantages of IDEs for Java or C# which gives possibility to postpone some decisions and change them later.
+My proposal is to write refactoring tools based on Clang and integrate them with the KDevelop - probably the most complete open source C++ IDE. With these new features many programmers may choose C++ language for their projects knowing that C++ world competes well with other languages.

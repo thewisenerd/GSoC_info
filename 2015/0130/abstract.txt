@@ -1,0 +1,1 @@
+Extend the AST and binding backend layers on CppSharp to better accommodate Clang's Expr and Statement nodes in order to support default arguments and a significant subset of inlined code.

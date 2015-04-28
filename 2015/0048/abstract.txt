@@ -1,0 +1,1 @@
+Developer Statistics is an incubator project of Eclipse Code Recommenders that tracks how developers use their Eclipse IDE. The goal of this project is to visualize some interesting facts from the developer workspace.

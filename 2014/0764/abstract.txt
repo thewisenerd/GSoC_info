@@ -1,0 +1,1 @@
+The idea is to design and implement a PostGIS module with views integration for Cartaro. This should be able perform potentially complex spatial queries for nodes based on any combination of the fields in a content type. The available fields should of course include geometry fields, allowing for spatial operations like intersects or contains.

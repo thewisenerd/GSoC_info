@@ -1,0 +1,1 @@
+Last GSoC I started a new feature to Shotwell called "Faces tool", which consist in the ability to mark that a certain person is in a certain photo, and where is her/his face —i.e. the same you can do, for example, in Facebook. And even my GSoC project was successful, the tool isn't included in Shotwell stable because it lacks some interesting functionality.

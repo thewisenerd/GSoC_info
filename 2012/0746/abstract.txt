@@ -1,0 +1,1 @@
+The Nash Equilibrium of a bi-matrix game can be computed by using the Lemke-Howson algorithm. The aim of the project is to add the functionality of finding all of the possible equilibrium points which which can be reached by this algorithm.

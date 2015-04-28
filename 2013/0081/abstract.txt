@@ -1,0 +1,1 @@
+I would like to impelement some unit testing functionality for statistics package to test existing statistical measures, such as average shortest path, betweenness centrality, page rank and so on.

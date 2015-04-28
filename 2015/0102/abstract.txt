@@ -1,0 +1,1 @@
+The goal is to implement a import filter for the Apple Numbers('09) format. The new filter will be added to libetonyek, which is an existing library for parsing Apple Keynote format, rather than being in a separate library, as there is a large overlap between the two format's capabilities, which makes it possible to reuse a lot of basic stuff.

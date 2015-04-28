@@ -1,0 +1,1 @@
+I would like to add PXE support for FreeBSD guests to the bhyve hypervisor. It will help bhyve users to easily manage their kernel builds, and in some cases eliminate the need for a virtual hard disk altogether.

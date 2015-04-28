@@ -1,0 +1,3 @@
+LANDIS-II is a forest landscape model simulating forest succession, disturbance, climate change, and seed dispersal across large landscapes. LANDIS-II is used by scientists worldwide to evaluate and predict forest landscape dynamics in our changing world. 
+
+LANDIS-II can only be used for one scenario at a time through a command prompt. Adding Scenario Launcher, Scenario Replicator, and Scenario Builder UI widgets to the tool will increase the approachability and usability of the application..

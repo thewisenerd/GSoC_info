@@ -1,0 +1,4 @@
+Typed Clojure is an optional type system for Clojure. It helps Clojure programmers write correct and idiomatic Clojure code by providing a type system a la carte, as a library.
+
+To be useful, Typed Clojure requires annotations for all top level vars, protocols and datatypes. 
+Those are added through this project.

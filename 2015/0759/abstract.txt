@@ -1,0 +1,1 @@
+Reformat the bundler website, keep documentation up-to-date, triage bug reports and in general help keep the bundler project in good shape.

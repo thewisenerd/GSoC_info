@@ -1,0 +1,3 @@
+Elasticsearch is very good and scalable search engine. It provides a REST API accessed though JSON format. There have been many clients written in different languages(php, js, python, ruby, etc.) to wrap around the REST API.
+There has been no client for lua.
+My project aims to create an elastic-search client in Lua.

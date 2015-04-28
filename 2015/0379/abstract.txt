@@ -1,0 +1,4 @@
+View Your Data is a project ideated jointly by me and Andreu Ibáñez, mentor at GSOC Google Liquid Galaxy project, a project with 4 years in the GSOC.
+
+The aim of the project is to create a tool that imports data of BigData platforms, and based on them create any presentation data layer to display in the Liquid Galaxy. 
+We want to choose for the GSoC as a pilot the  FiWare platform, the most used in Europe, and with many different data, that we pretend to add as layers on Liquid Galaxy.

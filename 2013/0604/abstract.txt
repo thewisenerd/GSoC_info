@@ -1,0 +1,1 @@
+My aim in this project is to build jpf-ltl, a tool to perform verification of LTL properties of Java code that builds on top of Java Pathfinder and implements the nested depth-first search required for the verification of full LTL

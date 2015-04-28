@@ -1,0 +1,1 @@
+This project will focus on adding color-managed printing for Krita, KDE's draw & paint application. By using the newly-developed libCmpx (Color-Managed Printing eXtension) interface, this project will extend Krita's print dialog to allow for "smart" ICC profile selection, as well as providing the means to attach profile data into the Linux print chain.

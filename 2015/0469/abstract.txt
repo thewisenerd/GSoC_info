@@ -1,0 +1,3 @@
+Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores and RDBMSs, and analyzing the data with extensive Apache Hadoop MapReduce support.  Apache Spark is a fast and general engine for large-scale data processing.
+
+It runs programs up to 100x faster than Hadoop MapReduce in memory, or 10x faster on disk. Apache Gora should support a backend for Apache Spark.

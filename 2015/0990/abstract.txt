@@ -1,0 +1,6 @@
+The available virtual reality simulation of the ERAS Station allows users to interact with a simulated Martian environment using Aldebran Motivity, Oculus Rift and MS Kinect. However the integration of the latter technology is still not complete, and this project aims to enhance it in order to:
+-increase manageability of multiple Kinects
+-improve user navigation
+-reproduce users’ movements in real time
+-reduce data transfer latency by enhancing Tango integration
+-support touchless gestures

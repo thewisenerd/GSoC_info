@@ -1,0 +1,6 @@
+FFmpeg Integration
+CCExtractor has built in parser (demuxer and decoder) to separates out the Subtitle Streams.  Currently CCExtractor have few parser. 
+The project Idea aims to integrate ffmpeg with ccextractor , so that subtitle streams from all the ffmpeg supported file formats are available to ccextractor for processing.
+
+Support for DVB:
+CCExtractor does not have support for DVB subtitle, after adding DVB support CCExtractor would be able to extract Subtitle even in DVB format.

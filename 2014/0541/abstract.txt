@@ -1,0 +1,1 @@
+EXT:coreapi is a TYPO3 extension which provides several helper/services and a CLI Api for some common tasks in TYPO3, like clearing the caches or running the "database compare tool".

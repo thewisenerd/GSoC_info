@@ -1,0 +1,5 @@
+I propose to improve the HTML5 drawterm I worked on last summer to
+make it a production-quality terminal for Plan 9, and to separate out
+its 9p library to make it available to other applications.  This will
+involve cleaning up the existing code to fix display and input issues,
+and implementing cpu(1)'s protocol to allow for authentication.

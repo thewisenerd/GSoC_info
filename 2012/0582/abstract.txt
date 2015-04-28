@@ -1,0 +1,2 @@
+My name is Maximilian Ludvigsson.
+This project is a web interface for letting users annotate information on the various plugins in BioGPS.

@@ -1,0 +1,3 @@
+Both libev and Java NIO2 have APIs for evented filesystem monitoring. However, nio4r does not presently expose these APIs into Ruby.
+
+This project would involve creating an abstract filesystem monitoring API that interacts with NIO::Selectors in a generic way and exposes the some API on both CRuby and JRuby. This would allow filesystem monitoring within the same event loop as other nio4r events

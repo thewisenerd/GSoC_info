@@ -1,0 +1,2 @@
+The plugin would allow users to call functions of PathVisio from within their scripting language of choice(such as C, Python, Perl, PHP, Ruby, R etc.) to create new pathways, modify existing pathways and visualize their data on the pathways.
+All the function calls are done through XML-RPC therefore the programming language chosen for making the function calls is irrelevant as long as it has an XML-RPC client implementation. Most major programming languages (Java, C, Python, Perl, PHP, Ruby, R etc.) have such an implementation.

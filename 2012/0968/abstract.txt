@@ -1,0 +1,1 @@
+GSoC is a chance to make Pidgin the best Gadu-Gadu protocol client. There is a lot of work to do, in example: implementation of file transfer, contact list synchronization, SSL support for Windows. Also, there is a need for code refactoring.

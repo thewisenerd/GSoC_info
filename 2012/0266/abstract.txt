@@ -1,0 +1,1 @@
+ownCloud is an open source PHP based software which allows cloud based storage service when installed. It's being actively developed and has come a long way in very short period of time. One feature it lacks is sharing files between different installations of ownClouds on different servers. My idea is to allow two different ownCloud instances to connect and collaborate.

@@ -1,0 +1,1 @@
+A javascript client side that provides error reports for the javascript code. And a server side which aggregates the errors and displays them visually

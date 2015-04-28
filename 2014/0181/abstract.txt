@@ -1,0 +1,5 @@
+This proposal includes those information:
+1. Personal information
+2. Background information
+3. Project proposal
+4. Schedule and milestones

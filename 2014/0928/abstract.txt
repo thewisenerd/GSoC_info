@@ -1,0 +1,2 @@
+Both KIG and Geogebra are popular applications for Geometry learning. Despite the fact, that both have been designed to serve the same purpose and are very similar in features/functionality, currently Geogebra worksheets cannot be opened in  KIG.
+My project aims at providing support for Geogebra native format in KIG enabling users to open Geogebra worksheets in KIG.

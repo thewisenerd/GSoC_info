@@ -1,0 +1,1 @@
+The goal of this project is to bring the entire Android SDK toolchain into Debian's software repository, allowing Android developers work more conveniently on Debian or Debian-derived Linux distros. Currently only a few tools of Android SDK are in Debian's software repository, I will update them to the latest upstream version as well.

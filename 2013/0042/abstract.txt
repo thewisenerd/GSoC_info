@@ -1,0 +1,6 @@
+Plasma Media Center is an innovative step in redefining the user experience where media - such as photos, videos, songs etc. are combined in one KDE application.
+
+
+Users can view pictures, watch movies and listen to their favourite sound tracks all at one common place. No more hassle of choosing different apps to enjoy the multimedia files.
+Recently Plasma Media Center’s very first version was released. Built on Plasma and KDE technologies it is designed to offer a rich experience to media enthusiasts.
+This project offers to make Plasma Media Center even better with improvements in the existing features as well as enhancements to this powerful application. One such major proposed addition is to layout a keyboard navigation scheme so that each part of PMC can be usable by the keyboard alone. Features such as addition of Dropbox plugin and polishing of existing online services are also proposed.

@@ -1,0 +1,1 @@
+I'll be working to improve the music keyboard activity. Making it more user friendly, adding ability to record notes and play them back and allowing a user to record his/her compositions and export it to a audio file.

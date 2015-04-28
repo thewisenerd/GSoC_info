@@ -1,0 +1,1 @@
+Aim of this project includes 1) Extension of OpenCV-Python bindings to new modules in OpenCV, 2) Add more OpenCV-Python tutorials, 3) Make the OpenCV-Python bindings development more automated and 4) Fix any bugs, missing docs etc.

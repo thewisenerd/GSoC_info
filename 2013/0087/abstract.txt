@@ -1,0 +1,1 @@
+A token(word) based bayesian spam classifier for comabting wiki spam problmes.Besides words it takes into account a lot of other factors like capital letters, punctuation marks etc. Also adding support for large wiki for concurret edits.

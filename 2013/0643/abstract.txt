@@ -1,0 +1,7 @@
+I propose to implement a set of generic algorithms for global optimization, that would find the global minima (maxima) of a given function over some region in high-dimensional space.
+
+This project suits both my interests and experience, as I enjoy implementing complicated mathematical algorithms (and have experience, see "Experience" section). This project is rare, as it allows me to alleviate my passion. Unfortunately, most numerical libraries would never accept just a student.
+
+Furthermore, I believe that having such a package, written from scratch with openCV design guidelines in mind and free of copyright issues, would provide a firm foundation for the stem of potential applications, that now either cannot be implemented, or suffer from inadequacies of presently available algorithms (e.g. calibration uses LM-optimization to minimize reprojection error, but there are issues)
+
+Finally, numerical coding is one of the most challenging things, I believe, and I would like to try it seriously. This is not just idle curiosity - I have some experience with both C++ (my biggest projects were written on it), C (I like it more, my latter projects are on it, so I greatly appreciate OpenCV’s idea of “restricted subset of C++”) and numerical programming.

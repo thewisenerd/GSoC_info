@@ -1,0 +1,2 @@
+This project aims at enhancing Processing for Android.
+The specific goals include implementing the video library; adding sensors, location and networking APIs; and fixing/implementing some specific issues listed on Github.

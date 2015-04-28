@@ -1,0 +1,2 @@
+This proposal is about supporting Muon on more platforms, which means writing backend plugins for it using PackageKit and akabei. While it will give basic support for a lot of distributions, we will discuss, review and improve the current backend abstraction.
+I will also develop another abstraction layer for creating simple notifiers on whether a system needs to be updated, which can be used e.g. in a plasmoid.

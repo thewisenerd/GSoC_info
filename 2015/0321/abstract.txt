@@ -1,0 +1,1 @@
+This project aims to develop an extension for MediaWiki VisualEditor which will allow users to edit Vega-ready JSON strings from a tailored UI, without having to open up the page source, thus reducing user-error risk when creating and editing graphs.

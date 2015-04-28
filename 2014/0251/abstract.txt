@@ -1,0 +1,1 @@
+Implement a animation for launching the app picker and an animation when a application is launched, so the user receive feedback of what is happening and improve the overall look of gnome-shell.

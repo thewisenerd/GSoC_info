@@ -1,0 +1,1 @@
+My proposal for the PaGMO project is to implement an asynchronous communication layer using ZeroMQ upon which several abstractions can be implemented, like a ZeroMQ Island that would migrate solutions between similar islands in a network using a brokerless approach with dynamic discovery.

@@ -1,0 +1,5 @@
+BioStars is a QnA software adaptable to any audience. Such a software should ideally have a one-step installation with easy maintenance. 
+This project aims to ease the deployment of BioStars in 3 steps:
+1.	Using Ansible scripts to automate the installation and configuration of BioStars on web servers in Docker containers.
+2.     Writing ansible package to host BioStar on GCE 
+3.	Making BioStars into a standalone executable to run locally on Windows with a simple and intuitive installation.

@@ -1,0 +1,2 @@
+Our goal is to build a generic data explorer that allows visualization designers to author visualization dashboards. One of the biggest challenges is to pool data from different remote archives, integratively. We propose a client server architecture, using mongo for filtering to handle big datasets. We’ll be using d3.js/dc.js on the client side with brushing-and-linking-like features to perform interactive visual analysis. 
+Subsequently we use the data explorer to author a dashboard for TCIA.

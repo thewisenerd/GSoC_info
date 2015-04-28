@@ -1,0 +1,3 @@
+Hello, my name is Vangelis and this is my proposal for the Google Summer of Code 2013 concerning the 
+""Large Scale Learning: loglinear time kernel expansion (aka Fast Food)" project from your ideas page. 
+I hope you will find that I am well equipped to deal with this project and we will spend the summer coding together!

@@ -1,0 +1,1 @@
+My proposal is a combination of two ideas, "Generalize input formats and add support for Google mention corpus" and "Efficient graph-based disambiguation and general performance improvements". This project will contribute to architecture flexibility and general performance improvement of DBpedia Spotlight.

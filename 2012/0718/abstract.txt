@@ -1,0 +1,1 @@
+Data (information) flow plays an important part in software security. Many security properties rely on the possibility to follow data flow throughout the program. The most popular security policy for information flow is non-interference, which consists in assigning secrecy levels to the data and forbids flows from high secrecy level data to the low secrecy level data.

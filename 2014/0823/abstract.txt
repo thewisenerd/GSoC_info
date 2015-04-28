@@ -1,0 +1,1 @@
+In this project, we propose to redesign stepper and equation classes in Geant4 to achieve a better performance. By applying template techniques and vectorization, we are going to write the completely abstract steppers and equations and get rid of virtual functions. The functionality and performance of our project will also be evaluated and compared with existed version.

@@ -1,0 +1,3 @@
+My proposal consists on implementing two different modules for the OMPL: a parallel framework for simple-query sampling-based path planners and a new planner, the Bi-directional Fast Marching Tree.
+
+In the third and last step of the project, I plan to combine the two previous part into a single optimal planner which will, most probably, outperform the current approaches significantly.

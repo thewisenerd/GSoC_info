@@ -1,0 +1,2 @@
+This project aims to build up on the existing Minimization and Integration gems. I will be implementing new functions in both modules in pure Ruby and will also add support for using Ruby GSL whenever available, to speed up the computations.
+JRuby based symbolic integration support will also be added using the JScience library.

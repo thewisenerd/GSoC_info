@@ -1,0 +1,1 @@
+Create a new shiny plasmoid for Plasma NM using QML technology. The backends will remain in C++, just the user interface will be ported to QML. This new plasmoid will make the code simpler and improve its readability and maintainability. Also, QML can support more graphical artifacts than the C++ one.

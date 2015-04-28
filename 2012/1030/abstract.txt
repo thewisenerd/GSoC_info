@@ -1,0 +1,1 @@
+Creating an Android app that will automatically generate and display flash cards based on the glossary of a collection/module. The app would use up-to-date Android elements (ActionBar, Fragments, etc.) and may interface with the existing Connexions app in some way.

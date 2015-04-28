@@ -1,0 +1,1 @@
+SILPA (Swathanthra Indian Language Processing Applications) comprises of a set of applications for processing Indian Languages. The project aims at the development of Android SDK for Silpa modules which can aid developers in developing their Indic applications.

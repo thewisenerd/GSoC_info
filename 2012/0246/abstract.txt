@@ -1,0 +1,1 @@
+The project aims at implementing a proper redesigned structure for search backend that allows search backend to modify the search user interface and proper abstraction to remove code duplication. It also involves integration of Sphinx and PostgreSQL Fulltext search into the PHPBB core.

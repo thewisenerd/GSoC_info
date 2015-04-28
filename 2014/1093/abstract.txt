@@ -1,0 +1,2 @@
+My project is to develop a framework for download of dive logs to android device directly from the dive computer.
+This would help in porting of the Subsurface application to android platform.

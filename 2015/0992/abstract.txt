@@ -1,0 +1,2 @@
+MBDyn has neither a contact-detection library, nor a robust, general-purpose element able to deal with contacts, possibly including friction.
+Thus, it is wished to integrate an efficient contact detection library into MBDyn, and develop a contact element. This feature should be capable of dealing not only with contact with friction, but also with multiple contacts for the same body.

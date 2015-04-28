@@ -1,0 +1,3 @@
+SUMMARY
+- Create a MediaGoblin Android application similar to Instagram using the pump.io API
+- Ensure application is F-Droid approved

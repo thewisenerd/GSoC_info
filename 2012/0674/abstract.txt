@@ -1,0 +1,1 @@
+The project aims at implementing a lightweight data race and concurrency-related errors detector for Linux kernel. It should rely on sampling techniques and use hardware breakpoints to detect potentially conflicting memory accesses and therefore reveal data races.

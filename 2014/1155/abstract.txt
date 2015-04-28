@@ -1,0 +1,1 @@
+I propose to implement recently discovered matting Laplacian which is usefull for many image editing tasks like segmentation or colorization and can be considered as a general energy optimization for specific pairwise term and arbitrary data term.

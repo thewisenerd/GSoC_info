@@ -1,0 +1,1 @@
+Implement audio drivers for the BCM2835 SoC, specifically for the Raspberry Pi, for Plan 9. Implement PCM for the 3.5mm audio jack, HDMI, and optionally I²S.

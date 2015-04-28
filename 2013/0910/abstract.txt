@@ -1,0 +1,1 @@
+Implement versions of ggplot2's scales, transformations, and stats for the animint package, which facilitates creation of interactive, animated javascript graphs using R.

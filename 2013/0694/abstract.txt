@@ -1,0 +1,1 @@
+Users have come to expect copy-paste between host and guest to work. This is also called clipboard sharing and makes it easier to work with graphical guests.

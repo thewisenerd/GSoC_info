@@ -1,0 +1,1 @@
+The goal of this project is to create a web-application, which allows to manage Apache Nutch without any effort.

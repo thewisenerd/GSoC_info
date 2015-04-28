@@ -1,0 +1,1 @@
+In all LibreOffice applications, the colors can be picked from a color palette defined in the global options. This is particularly annoying when the user wants to use several palettes, reuse palettes from other applications like Gimp or Inkscape or simply choose a color that is not in one of the palettes.

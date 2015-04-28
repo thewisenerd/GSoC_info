@@ -1,0 +1,1 @@
+This is a Google Summer of Code 2015 proposal submission. I'm interested in participating in Nitrokey's ideas for open source software development.

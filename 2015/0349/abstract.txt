@@ -1,0 +1,8 @@
+This project aim to make the OpenBSD USB userland more consistent, simpler to
+use and deliver a unified tool to view attached usb device, usbdump(8).
+
+Currently, OpenBSD USB userland interface are opaque system call. We don't know
+what happen without reading the code, especially if they generate I/O. This
+cause problem with library like libusb which shouldn't cause I/O. Caching
+static data should fix this problem and suppress the need of system call for
+reading static data.

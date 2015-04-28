@@ -1,0 +1,1 @@
+There are many types of addresses that devices can have in libvirt's XML description. Not all address types are properly assigned and checked for duplicates. The goal of this is to have an abstract data structure that would handle assigning all kinds of addresses, handle duplicates, etc.

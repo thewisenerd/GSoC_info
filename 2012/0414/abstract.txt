@@ -1,0 +1,1 @@
+The project consists of adding metalink (RFC 5854) download description format support to wget, with the fundamental features like single file downloads from single source, hash verification, and more.

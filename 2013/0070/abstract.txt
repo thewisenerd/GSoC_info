@@ -1,0 +1,3 @@
+I’m choosing to add TeX/LaTeX markup to text objects in OpenGL plots as my project for this year of GSoC. I would like to build my solution based on the approach used by a similar effort in the matplotlib community: http://matplotlib.org/users/usetex.html
+
+The solution will first extract the LaTeX formatting from the code, create a TEX file, which will be then converted to a DVI file using the LaTeX system. Then using dvipng the DVI file will be converted to a PNG file, and ‘pasted’ onto the OpenGL rendered graph.

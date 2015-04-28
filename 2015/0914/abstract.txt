@@ -1,0 +1,3 @@
+The Cancer Imaging Archive (TCIA) currently uses a Java WebStart solution which is to be replaced by  a web based version. This solution should have functionalities like parallel streaming, tracking download, data consistency validation and has to be able to recover from failure and interruptions.
+
+Link to the Google Doc Proposal version is mentioned in the "Additional Info URL" field.

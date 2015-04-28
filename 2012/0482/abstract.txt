@@ -1,0 +1,1 @@
+This project is intended to perform Unit tests on Jikes RVM. It won't be an easy task since we're dealing with a large and complex amount of Java code, some of it will probably refactored for better testing and if there are bugs, they will be fixed.

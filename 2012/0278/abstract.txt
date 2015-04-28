@@ -1,0 +1,3 @@
+MIAPA is a proposed minimum information standard for phylogenetic data sharing and reuse.  Barriers to its adoption include lack of detail and definition in the standard itself (a draft standard has only recently been produced) and lack of tools supporting it.  My project will focus on the latter.
+
+This project will identify data elements within NeXML that are MIAPA compliant and seek to extract them via XSL and then transform them into the ISAtab format via Java and XSLT.  This will facilitate MIAPA use within ISAtools, a software system for collection, sharing, and repository submission with built-in support for minimum information standards.  I also propose extensions for the project if I am ahead of schedule.

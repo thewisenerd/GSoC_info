@@ -1,0 +1,1 @@
+PTAM (Parallel Tracking and Mapping) is a camera tracking system, which requires no markers, pre-made maps, known templates, or inertial sensors. It has been widely applied in SLAM (Simultaneous localization and mapping) and Augmented Reality.

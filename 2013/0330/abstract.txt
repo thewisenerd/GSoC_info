@@ -1,0 +1,3 @@
+Image Editor is one of the many reasons making digiKam such a cool application. Its core components for previewing images, ImageRegionWidget and Canvas, depend on Q3ScrollView, which is based on Qt3Support class. In the next Qt5, Qt3Support class will disappear. So it is necessary to port these classes to Qt4 model/view.
+
+Besides, this project can bring some new features of Qt4 model/view which will make Image Editor new features implementation a lot easier.

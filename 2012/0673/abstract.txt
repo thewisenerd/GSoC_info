@@ -1,0 +1,1 @@
+Two or more remote servers of GNOWSYS exchange messages between them, subscribe to parts of the database and establish sync relationships (subscription). Automatic agent based synchronization should happen between the servers.

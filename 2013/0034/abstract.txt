@@ -1,0 +1,1 @@
+Improving the Eclipse JDT UI code folding of Java code blocks.  Expands code folding beyond just functions into while, if, and try blocks and more.

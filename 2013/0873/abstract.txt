@@ -1,0 +1,1 @@
+To finalize the transition to the OpenJDK 7 for all debian packages, and to attempt to build with OpenJDK 8

@@ -1,0 +1,5 @@
+User Interfaces in today's world now want to depending more on everyday gestures, say double-clicks.
+More interactive with the user.
+Making the UI more dynamic, currently its more like static HTML.
+Make a well usable and good looking UI.
+The UI we have in picture is basic, but powerful as matches with the release goal of moin2.

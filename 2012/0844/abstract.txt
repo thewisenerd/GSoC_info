@@ -1,0 +1,1 @@
+The Thunderbird ISPDB is an online configuration storage service for email providers. There are a few bugs remaining that the Thunderbird team hasn't had time to fix. The goal is to get ISPDB up and running and in use. (If this task was too easy, we could also add in the task of changing Thunderbird to submit working configs).

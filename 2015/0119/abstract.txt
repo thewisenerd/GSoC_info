@@ -1,0 +1,1 @@
+I want to add WebM support in the Apache OpenMeetings software. It would provide ability to use modern video streaming technologies in Apache OpenMeetings, such as WebRTC.

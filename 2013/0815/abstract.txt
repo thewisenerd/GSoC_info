@@ -1,0 +1,1 @@
+Using Emscripten to convert present C++ OGDF code to Javascipt and make it available on the Web. Prepare good examples and demos for getting new users and contributors. In short, to make an easy to use Graph Drawing Library for the Web.

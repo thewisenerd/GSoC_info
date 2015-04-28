@@ -1,0 +1,1 @@
+The current implementation of MOST database is in MySQL which includes processing of large amount of data. The data processing is done through the stored procedures. The aim of this project is to implement a java based framework which will support database independent data processing.

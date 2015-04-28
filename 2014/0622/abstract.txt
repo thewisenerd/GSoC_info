@@ -1,0 +1,3 @@
+Currently, GNSS-SDR is completely operational with GPS L1-C/A and Galileo E1 signals. 
+To go towards an effective multi-constellation software defined receiver, GNSS-SDR extension to the Chinese Navigation Satellite System (BeiDou) is proposed.
+Hence, the aim of this project is to implement additional blocks to acquire, track, decode and produce PVT solution starting from the B1 signal of MEO (Medium Earth Orbit) and IGSO (Inclined Geosynchronous Satellite Orbits) BeiDou Satellites.

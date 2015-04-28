@@ -1,0 +1,5 @@
+Experimental Tangent Normal Map Brush Engine for Krita.
+
+A surface normal is a type of vector used to determine how light bounces off a surface. 3d graphics have has a way to encode these in normal-maps. To the human eye, this encoding looks like a colour. This brush engine takes the tilt sensors of a tablet stylus, and treats it like a surface normal, having it output the correct colour.
+
+I think this would be a worthwhile asset to Krita because of the interest in hand-painted textures.

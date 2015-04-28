@@ -1,0 +1,1 @@
+The Kawa project has a small subset of Common Lisp (CL) syntax implemented. It supports a much larger subset of CL concepts, however. The aim of this project is to further enhance the CL support by providing more syntactical forms and gluing the current CL concepts togheter. I also plan to support CL docstrings and time-permitting an automatic Javadoc generation facility.

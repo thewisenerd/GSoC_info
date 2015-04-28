@@ -1,0 +1,1 @@
+I will finish the two plug-ins, to make them production ready and polish their UI features. These plug-ins use REST Services (SongKick and FanArt.TV). And before going to release, they should be supplemented by important features: caching, geolocation, and better visualization for the FanArt grid.

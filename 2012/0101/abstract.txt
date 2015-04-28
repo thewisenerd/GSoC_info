@@ -1,0 +1,1 @@
+Develop a UEFI driver for USB to Serial adapters.  Since most PC's produced today have USB ports but not serial ports.  This will enable USB to serial adapters to be used early in the boot process.

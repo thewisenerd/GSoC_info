@@ -1,0 +1,1 @@
+The aim of the project is to increase the code coverage of phpMyAdmin by setting up more unit tests. This project would also involve setting up Selenium Tests to write automated user-interface tests that run in real browser instances.

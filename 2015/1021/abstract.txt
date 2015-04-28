@@ -1,0 +1,1 @@
+Google's Physical Web is a new approach to make things easily discoverable and usable based on proximity information. As Eclipse SmartHome deals with many "Things", it would be nice to smoothly integrate with the Physical Web, i.e. an Eclipse SmartHome instance can announce itself and could potentially make subsets of things available based on the user's location.

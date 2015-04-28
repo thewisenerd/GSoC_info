@@ -1,0 +1,1 @@
+Currently Zest is implemented in java only and is being used in OWASP ZAP. This proposal is about a javascript implementation of Zest runtime based on Firefox Add-on SDK which would also provide recording and editing zest scripts graphically as a Firefox add-on.

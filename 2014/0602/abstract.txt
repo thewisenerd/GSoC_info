@@ -1,0 +1,1 @@
+The project aims at improving the SMTP layer by rewriting the classes to better integrate with Trojita's lower classes' capabilities and give features that accommodate more use-cases. A second goal is to improve UI of the desktop application, and write many missing features essential for the application to be more usable and a step closer to version 1.0

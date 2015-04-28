@@ -1,0 +1,1 @@
+This project aims to integrate cantor (a front-end to powerful mathematics and statistics packages) with LabPlot (a scientific data plotter application). The expected result is a to use cantor's session data as to plot graphs inside labplot

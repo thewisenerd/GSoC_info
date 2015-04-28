@@ -1,0 +1,3 @@
+Because of the long history of patches and different authors the GNU/Linux fdisk tool has had, it is nowadays, an ungly mix of hacks, coding styles and concepts. This, added to the complete lack of internal documentation, and program complexity, makes it difficult to read the source code, error prone and tedious. 
+
+This project aims at redesigning the logical layout of the GNU/Linux fdisk disk partitioner, unifying its code and logical layers (like lower block devices, interaction with libblkid and interfaces, among others). Later, its goal is to enhance the tool with GPT support, this is important because it is a very used partition table for modern computers.

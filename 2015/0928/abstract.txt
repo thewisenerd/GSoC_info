@@ -1,0 +1,1 @@
+GeoGebra already supports intersecting many objects. But still there are significant no. of missing combinations. The notion of this project will be to add algorithms for intersecting remaining 2D object combinations and 3D object combinations.

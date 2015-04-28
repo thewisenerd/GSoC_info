@@ -1,0 +1,1 @@
+Improve Neurostars.org website in order to benefit the Neuroinformatics community. Make any new feature compatible with the original Biostar.org codebase so the 2 repositories could be easily merged and also the Bioinformatics community can benefit.

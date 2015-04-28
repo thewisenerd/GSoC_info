@@ -1,0 +1,1 @@
+The identity.gentoo.org webapp is an early front-end to the LDAP infrastructure used by Gentoo to authenticate the developers. The project aims to built a complete OpenID provider on top of it, to provide a common authentication and identity exchange mechanism for all Gentoo sites.

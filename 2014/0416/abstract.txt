@@ -1,0 +1,1 @@
+This proposed project will extend the pbdPROF package developed in last year’s GSoC for profiling MPI in R. This year, both the general purpose profiler, PAPI, as well as a useful portion of one of the largest profilers, TAU, will be added to pbdPROF. Each of these are state of the art performance analysis tools and will make profiling in R better than ever.

@@ -1,0 +1,11 @@
+The goal of this project is to improve the infrastructure in staging and enhance the testing process, by implementing automation, genetic algorithms and unit testing of sub-components. 
+
+This would have the following advantages:
+
+Automation reduces human intervention in the testing process.
+
+Genetic algorithms facilitates the generation of queries which are not only syntactically right, but also logically correct and produces result.
+
+Storage of the test results can be used in execution feedback.
+
+Unit testing eases the testing of individual components and sub-components

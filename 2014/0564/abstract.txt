@@ -1,0 +1,5 @@
+I'd like to have OpenKeychain better integrated within the android system and external apps as well has having itself easy to use. This makes me interested in the following proposal ideas:
+- Automatic contact discovery
+- Integration of OpenKeychain into Android's contact app
+- Improvements to file encryption/decryption
+as well as fixing bugs and todos in the OpenKeychain api.

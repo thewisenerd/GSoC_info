@@ -1,0 +1,7 @@
+This project aims at adding a few extensions to the VTK library to support Geospatial and Climate based visualizations in the VTK library. 
+
+The proposed work can be divided into 4 tasks as described below:
+1) Add new features to existing filters such as neat labelling of the contours
+2) New readers to read LIDAR dataset and GeoJSON geometry data into VTK
+3) Improve handling of time in VTK
+4) Implement tile rendering in VTK (optional - time permitting)

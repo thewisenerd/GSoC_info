@@ -1,0 +1,5 @@
+Calligra Suite is a set of applications developed by KDE community. Within this suite there are office applications, as well as Graphic applications. Calligra Stage is the presentation application, aimed to be an easy to use yet still flexible application. 
+At present, Calligra Stage can only show shape animations it loads from the file. It is not possible to add, edit or remove shape animations using Calligra Stage user interface. 
+Animations are an important feature of all presentation suite. Users expect to use animations in order to enhance how their slides look and enforce the message of a presentation. 
+Taking into account the importance of providing future users of Calligra Stage with this feature, the goal of this project is to provide a user interface which let the user to easily add, edit or remove shape animations, manage animation trigger events and change animation parameters. 
+At the end of the project I expect to deliver to the community, an  interface to add shape animations to Calligra Stage presentations, taking into account usability and flexibility to future improvements of the animation framework.

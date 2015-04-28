@@ -1,0 +1,3 @@
+This project aims at delivering comprehensive details of output of profile text through visualization and hassle free compling and linking profiling libraries available eg.fpmpi,mpiP,tau,ipm.
+
+The key to the project is that we want to make profiling MPI codes for R users hassle-free.

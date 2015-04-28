@@ -1,0 +1,4 @@
+The testsprite2 test in the SDL test suite accepts a large number of parameters (26) and based on the values of those parameters it launches a window and moves some sprites on the screen. Other than ensuring that the rendering is happening correctly, this test is also used to check if the mouse is being handled 
+correctly and the window looks as it should look (with correct title, icon, position, etc).
+
+This makes it an important test in the SDL test suite. Unfortunately, since there are many parameters with many valid combinations, it is impossible to manually test all of them. This project attempts to automate running and validating the output of testsprite2.

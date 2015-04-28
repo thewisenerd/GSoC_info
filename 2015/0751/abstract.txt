@@ -1,0 +1,1 @@
+Stuttering is a speech disorder that we find among people which makes them and listeners feel very uncomfortable while having conversations. Some special devices exist to overcome this disorder and smartphones can be also used to do the same thing. This proposal is on building a mechanism to overcome stuttering from your Android smartphone.

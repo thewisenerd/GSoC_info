@@ -1,0 +1,2 @@
+Redesign/Change NTP's logging/debugging system.
+Write a common debugging/logging interface for NTP.

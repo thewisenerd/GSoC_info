@@ -1,0 +1,2 @@
+Merge concept tool for altering concepts through the entire database: As the OCC and MCL are improving to manage concepts from various sources, it is time for a super admininstrative tool for changing concept_ids through-out the database. The application would search obs, drug, program/ workflow/ state, all varieties of forms, etc. for tables which use the concept_id (including answer_concept/
+discontinued_reason/ etc) and replace with a different concept. This would be helpful when cleaning duplicate concepts and merging with other concept dictionaries.

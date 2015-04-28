@@ -1,0 +1,1 @@
+The project aims in adding voice and video support to the Instantbird chat keeping in mind the existing user interface of the application and have a seamless integration. This involves integrating the WebRTC API with XMPP protocol to allow voice/video communication to a contact. WebRTC makes it easy for us to have real-time communication without the use of additional plugins.

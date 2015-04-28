@@ -1,0 +1,6 @@
+This project aims to improve support of rtl text in CodeMirror editor.
+
+It involves:
+-> fixing cursor motion in line-wrapped right-to-left text,
+-> adding support for setting direction: rtl on some lines in the editor,
+-> some other tasks.

@@ -1,0 +1,5 @@
+I’m applying for the ‘Backend Connectors for Ensemble’ Thunderbird address book extension project for Mozilla. 
+
+After discussing the task with the project’s mentor, I plan on researching, then implementing possible options to connect the Thunderbird address book extension to external contact storages, specifically LDAP and/or CardDAV. 
+
+The overall project goal would be to implement both types of connections; although after doing some initial research as well as from gathering the mentor’s opinion, it has been found that a LDAP connection implementation might be a sizeable task in its own right, as its advanced nature alongside the lack of previous LDAP implementations in the JavaScript ecosystem might produce a more difficult task.

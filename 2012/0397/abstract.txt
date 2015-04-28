@@ -1,0 +1,1 @@
+To improve the energy efficiency, some modern SoCs adopt AMPs (Asymmetric Multiprocessors) which consists big and small cores. For example, OMAP4, has two powerful Cortex A9 cores and two tiny Cortex M3 cores. This project is porting RTEMS to M3 cores running in SMP configuration and enable RTEMS to communicate with Linux on A9 cores by using AMP/IPC framwork.

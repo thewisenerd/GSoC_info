@@ -1,0 +1,5 @@
+The 'Strategic Fundraising and Campaigning' project focuses on
+extending the functionality of CiviContribute module with hierarchical
+campaigns, more detailed metrics, reports and statistics in order to
+enhance the capabilities of CiviCRM for strategic fundraising and
+campaigning.

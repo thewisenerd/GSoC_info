@@ -1,0 +1,2 @@
+Fedora project organizes number of event around the world. Fedora ambassadors are using several different kind of project management tools for several different tasks in a event management process. Most of the time, those utilities do not satisfy the project management requirements 100%.
+The proposed project would be utilized to handle major project management tasks in Fedora event organizing process by ambassadors. This application would facilitate manage event related tasks from the scratch.

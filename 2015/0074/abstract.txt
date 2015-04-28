@@ -1,0 +1,1 @@
+The project is to build a cross platform GUI to configure RTEMS, which will provide the frontend support to the already existing backend libraries. The values entered in the GUI would be checked for the right type and ensured to be within the bounds for that type. It also aims at developing new types and limits for the configuration values.

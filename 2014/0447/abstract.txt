@@ -1,0 +1,1 @@
+A user can upload their Anki deck and Tatoeba can use that data to generate a list of cards to add based on i+1 and other requirements.

@@ -1,0 +1,2 @@
+Social Media websites are one of the most powerful engagement platforms in today’s world. CiviCRM currently is not making full use of these websites, and has a lot of possibilities for allowing non-profits to have a better engagement and reach.
+The project aims to provide non-profits with features like Social Connect, One click signup, Events Share etc to improve reach and make CiviCRM easier to use.

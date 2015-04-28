@@ -1,0 +1,2 @@
+My name is Thomas Kuntz, I'm a first year master's degree student of the University of Strasbourg in Computer Science, majoring in Network and Embedded Systems.
+I want to work on the Audio/Video Hammer for Jitsi Videobridge project, because I like how well defined it is, and because I would like to contribute to a FOSS project.

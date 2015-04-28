@@ -1,0 +1,1 @@
+Polly provides primary infrastructure of automatic parallelization for LLVM. In this project, I propose to extend Polly to support GPGPU code generation. The generated LLVM IR can be compiled or jitted to execute on modern heterogeneous platform, composed of CPU and GPU.

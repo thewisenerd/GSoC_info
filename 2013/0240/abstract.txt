@@ -1,0 +1,3 @@
+I want to build an active-diagrams library for compiling diagrams code into active HTML + JS widgets. The diagrams are active in the sense that user can interact with them: for example, a result of type (Bool -> Diagram) should be compiled to a widget that renders a diagram depending on the state of the checkbox.
+
+In addition, a pastebin site should be built, that can be used as an interactive scratchpad, where diagrams code can be automatically compiled and the graphical output shown along. This is useful for sharing graphical experiments, teaching beginners and so on. The rendered diagram, together with its interactive capabilities, should be easily embedded in third-party blogs, websites.

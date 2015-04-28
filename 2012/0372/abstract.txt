@@ -1,0 +1,1 @@
+Throughout this project, a plugin for the OWASP Zed Attack Proxy will be developed to improve its integration with the OWASP AJAX Crawling Tool. This will facilitate users performing penetration tests to web sites that use AJAX technologies, whose popularity has increased since the growth of the web 2.0.

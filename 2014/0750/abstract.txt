@@ -1,0 +1,1 @@
+Develop an interface in ROOT to call R function using the R C++ interface (Rcpp, see http://dirk.eddelbuettel.com/code/rcpp.html). As a proof of concept implement the Minimizer interface of ROOT to use a R package for minimization. Developing this interface opens the possibility in ROOT to use the very large set of mathematical and statistical tools provided by R.

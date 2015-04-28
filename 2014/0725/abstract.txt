@@ -1,0 +1,1 @@
+Plasma Media Center is a shell for multimedia support in plasma desktop. It already has many features including audio reproduction, image viewing, etc, but is missing TV streaming! libVLC supports DVB playback, so goal of this project is to implement libVLC's DVB support to Plasma Media Center to enable DVB streaming.

@@ -1,0 +1,3 @@
+Cap'n Proto is a zero-overhead serialization format and fancy RPC protocol with promise pipelining and neat capability-based security features.
+
+There's a nascent Ruby binding to Cap'n Proto implemented as an MRI C extension:

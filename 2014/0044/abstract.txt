@@ -1,0 +1,2 @@
+In the current trend non-standard language usage is more common on platforms like IRC, Twitter, Youtube, forums, etc. We want to translate this data to our desired language, hence spreading the message. Sadly even a little inconsistency in the data can make the Machine translation go wrong in various ways. 
+This project aims to convert data into a standard text which can be accurately translated using the MT systems of Apertium.

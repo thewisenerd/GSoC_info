@@ -1,0 +1,1 @@
+The ultimate goal of this proposal is to build a standard function lib that can conduct type and variable reverse analyses. We use existing analyses method but encapsulate the analysis procedure and design a set of user friendly APIs, then people could easily get the type and variable information from the binary code and can integrate it into his own program or existing tools.

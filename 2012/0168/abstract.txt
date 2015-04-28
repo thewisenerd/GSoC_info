@@ -1,0 +1,3 @@
+The main part of the project is to define the API for the library.
+
+The changes in monkey that I see would be to implement the library context handling: start, configuring, callbacks, stop, restart, logging.

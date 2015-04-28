@@ -1,0 +1,5 @@
+The fact that financial data is not independent and identically distributed (IID)  exhibiting extraordinary levels of autocorrelation is a well-known and an accepted fact. The effect of this autocorrelation on investment returns diminishes the apparent risk of such asset classes as the true returns/risk  is easily camouflaged within a haze of illiquidity, stale prices, averaged price quotes and smoothed return reporting.
+
+ 
+
+Such discrepancies lead to  misleading performance statistics such as volatility, Sharpe ratio, correlation,market-beta and other investment indicators based on the Assumptions of Normality/IID of data.Our aim is to develop the different approaches for addressing autocorrelation observed in financial data that have recently been discussed in research journals and include the functions in PerformanceAnalytics, an R package that provides a collection of econometric functions for performance and risk analysis.

@@ -1,0 +1,1 @@
+This is the proposal for PeaceTrack application. I have specifically mentioned about Android version as I wish to contribute to the development of the Android version of the application.

@@ -1,0 +1,1 @@
+This proposal is to enable asynchronous control, bulk, interrupt, and isochronous transfers from userland via the libusb interface in OpenBSD.

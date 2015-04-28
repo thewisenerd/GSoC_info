@@ -1,0 +1,1 @@
+Rust is a systems programming language designed to be safe, low-level, and fast. Rust’s compiler is built on top of LLVM, and therefore presents a ”fairly” straightforward path to PNaCl/NaCl cross support to the Rust toolchain. I propose adding such cross support for PNaCl, and, in turn, NaCl to the Rust toolchain.

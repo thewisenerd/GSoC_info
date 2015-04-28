@@ -1,0 +1,1 @@
+Lie algebras are an integral part of mathematics.  This project would create a Lie algebra module for SymPy.

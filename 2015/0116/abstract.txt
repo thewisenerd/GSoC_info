@@ -1,0 +1,8 @@
+Currently, kdelibs is distributed as a single set of interconnected libraries
+which makes it bulky. Under the KDE Frameworks 5 efforts, these libraries are
+being remodelled into a set of independent modules enabling the developers
+to use only the specific parts which they need and avoid pulling unwanted
+dependencies.
+Amarok currently uses Qt 4, kdelibs and Plasma 4. This project aims to port
+amarok to Qt 5 while using KDE Frameworks 5 enabling amarok to derive
+their benefits.

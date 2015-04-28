@@ -1,0 +1,2 @@
+The NIMBLE R package implements statistical algorithms that can be used with models
+written in the BUGS language.  We plan to expand the inferential capabilities of the NIMBLE package by implementing a variety of important algorithms that are not yet featured in NIMBLE.  Specifically, we plan on implementing various flavors of sequential Monte Carlo, as well as Laplace approximation and integrated nested Laplace approximation.

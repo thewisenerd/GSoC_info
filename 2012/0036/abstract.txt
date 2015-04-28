@@ -1,0 +1,1 @@
+This project devoted to developing and improving of some modeling tools for Blender.

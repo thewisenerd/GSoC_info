@@ -1,0 +1,2 @@
+For now there is no tool for viewing objects with particular characteristics or types (for example all comets) inside Stellarium. My goal is to introduce a convenient interface for viewing and filtrating celestial objects, and advanced search not only by name or location, but by object's type and characteristics. Also I want to make the possibility to look through lists of most frequently used objects (planets, satellites, etc), and select by clicking.
+Furthermore, almost all keybindings are in use for now. I want to introduce multi-key keybindings in emacs/vim style.

@@ -1,0 +1,1 @@
+The aim of this project is to design and implement a infrastructure, including developing simple test applications using multiqueue tap(4)/tun(4), and instrumentation points to validate that a number of multiqueue behaviours are as expected.

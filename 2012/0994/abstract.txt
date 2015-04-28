@@ -1,0 +1,5 @@
+The aim of this project is to decouple guichan/pychan from FIFE. 
+
+F stands for Flexible and FIFE clients should be able to use any gui subsystem they wish. Two more subsystems will be offered by the Engine that will be available out-of-box, CE::GUI and Rocket. 
+
+Another goal of the project is to fix as many guichan/pychan bugs as possible  and to migrate some useful pychan features to C++, since some clients prefer to use FIFE with C++ rather than python.

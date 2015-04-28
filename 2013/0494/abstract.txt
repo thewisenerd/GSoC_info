@@ -1,0 +1,3 @@
+This proposal aims at changing the plugin api to be less protocol
+dependent, add support for compression and also serve encrypted and
+non-encrypted content in the same process.

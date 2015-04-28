@@ -1,0 +1,2 @@
+This is a proposal for porting the NRefactory 5 library to 6 using Roslyn.
+I created a doc of the content, this was copy pasted here. For more readability, please send me an email on kevin.o.avignon@gmail.com and I'll be glad to send you the real version.

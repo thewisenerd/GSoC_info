@@ -1,0 +1,1 @@
+After the release of Plasma Media Center 0.9 recently, this project aims at adding advanced features to it, such as tagging, online services etc.

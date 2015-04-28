@@ -1,0 +1,3 @@
+Bi-gram Language modeling approach to information retrieval have proved to outperform the three traditional IR approaches .
+Bi-gram Language model apart from better retrieval performance renders a rich resource Bi-gram from collection which can be used for phrase searching, Diversifying search results, and query reformulation suggestion to user.
+ Bi-gram Language model would make Xapian a more powerful library for research in information retrieval.

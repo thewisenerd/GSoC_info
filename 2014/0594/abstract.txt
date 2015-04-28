@@ -1,0 +1,1 @@
+The goal of this project will be to write a Ceylon module that can be used to construct a Ceylon Abstract Syntax Tree (AST) using Ceylon’s named arguments syntax. This AST can then be fed directly into the compiler or into my ceylon.formatter to write the AST as regular Ceylon code (nicely formatted) to a file. This can be used to avoid writing repetitive code.

@@ -1,0 +1,1 @@
+This proposed project intends to be mostly a bug fixing and polishing project for the BGE, similar to some past Blender GSoC projects. However this project also contains a level of detail system to allow Game Engine artists to make more efficient use of system resources.

@@ -1,0 +1,1 @@
+A AI opponent have to decide in a separate phase which units to recruit. Right now the default recruitment algorithm is very simple and can be improved in many ways. I want to make the AI recruiting better, more fun to play against and more configurable by a scenario editor.

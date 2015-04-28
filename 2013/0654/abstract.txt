@@ -1,0 +1,1 @@
+This project aims to enhance the current native SDN controller in supporting Xen/XCP and integrate successfully the open source SDN controller (FloodLight) driving Open vSwitch through its interfaces.

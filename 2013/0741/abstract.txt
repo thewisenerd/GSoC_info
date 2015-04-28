@@ -1,0 +1,1 @@
+Mailman 3 distinguishes between the concepts of a user, email address and list member. This proposal aims towards better management of the user's settings and their preferences of the various mailing lists in a manner that provides the user with absolute control and clarity via a user-friendly interface.

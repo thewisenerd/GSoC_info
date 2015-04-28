@@ -1,0 +1,1 @@
+Using automatic metadata extraction from packages and learning algorithms, this project aims to match prospective maintainers with potential sponsors more easily and quickly. An efficient Web interface will be developed, so that maintainers and sponsors can access and improve the semantic data.

@@ -1,0 +1,1 @@
+Developing new  NSE scripts for detecting remotely exploitable high impact vulnerabilities and widespread malware to leverage Nmap's scanning capabilities.

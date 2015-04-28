@@ -1,0 +1,1 @@
+Create a completely asynchronous modular and extensible system that enriches messages before they're dispalyed to the user. These includes embedding images and videos from links, Translating messages, (re)-formatting them nicely, reading out loud etc.

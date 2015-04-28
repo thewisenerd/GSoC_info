@@ -1,0 +1,1 @@
+Automatic identification of voice features is generally a complex task as computers have no concepts of features such as emotions, tones or genders of the speakers. Here I propose a generic method to characterize and identify these features using Conceptors.

@@ -1,0 +1,6 @@
+PRISM generates an optimal strategy in model checking some properties of MDPs, i.e. the one which corresponds to either the minimum or maximum values of the probabilities or rewards computed during verification. Currently the main version of PRISM just exports optimal strategies  (sometimes called adversaries in PRISM) for two classes of properties- maximum or minimum probabilities. They are exported in a simple flat text file, from PRISM's "sparse" engine.  It would be good to (in increasing order of complexity)
+
+       - Optimize the strategies, e.g. by restricting to reachable states
+        -Add alternative file formats, e.g. GraphViz dot files
+        -Add strategy generation for other engines
+        -Expand to other property types, e.g. bounded reachability and LTL formulae

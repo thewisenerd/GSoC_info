@@ -1,0 +1,4 @@
+  Enhance Francisco Garau's implementation of Concrete Type Inference to analize complex expressions.
+
+    Make a full queriable call graph from a given expression, with several categories of data per method such as: 
+           Entry and output types, related bytecode, variables that potentialy change if you run the expression, etc.

@@ -1,0 +1,1 @@
+I propose that it's time to bring all the beauty of voxel technology to the jMonkeyEngine. Specifically I want to give jMonkey developers the tools necessary to develop games that use voxel technology for more immersive gameplay experiences.

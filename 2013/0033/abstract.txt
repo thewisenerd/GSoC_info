@@ -1,0 +1,1 @@
+Project to add WordPress native revisions to the theme and plugin code editors. The idea is to make use of WordPress core functionality and not adding new complexity.

@@ -1,0 +1,1 @@
+Standard-ML is a well defined functional programming language with several mature implementations that emit C as their target language. This makes it well suited to porting to embedded systems.

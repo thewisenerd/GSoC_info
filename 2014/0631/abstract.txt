@@ -1,0 +1,1 @@
+QEMU is introducing the testing of emulated hardware devices in its code base. In this project, the testing interface for I2C protocol for both i440fx and q35 machines will be developed. Also, a virtio testing interface will be built, with a specific driver for virtio-pci.

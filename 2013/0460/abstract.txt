@@ -1,0 +1,1 @@
+This project is intended to allow java apps to almost natively run in Inferno environment. It was already done long time ago in Vita Nuova, but lots of things has changed since then and I want to make the whole thing work with modern Java and Inferno.

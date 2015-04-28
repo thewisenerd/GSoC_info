@@ -1,0 +1,1 @@
+The purpose of this project is to improve Pickle for Python3 by adding 64bit compatibility, hard-coding the pickling and unpickling of sets et. al, a more compact pickling of small strings etc. This has been proposed on PEP 3154.

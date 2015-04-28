@@ -1,0 +1,1 @@
+KDE Workspaces still miss strong integration of popular social networks and services like Facebook, Twitter and others. This project aims at bringing the social experience right to the desktop (and tablets, too).

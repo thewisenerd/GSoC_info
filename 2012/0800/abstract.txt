@@ -1,0 +1,4 @@
+Application - From CernVM-FS Technical Report: "The CernVM File System is a client-server filesystem developed to deliver software stacks onto virtual machines in a fast, scalable and reliable way. (...) CernVM-FS uses outgoing HTTP connections only."
+
+
+​​By design, it needs networks services like HTTP and DNS and it needs stability. Under the direction of Jakob Blomer, I want to create a testing environment to check how the CernVM-FS react  to some specific errors in network services.

@@ -1,0 +1,1 @@
+Create interactive activities focusing on the science and the miscellaneous sections of GCompris. The project would  include two activities theming space, a food related activity and one environment related activity.

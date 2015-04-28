@@ -1,0 +1,3 @@
+WikiData is a new knowledge base that is going to be the source for Wikipedia Structured data like infoboxes, language links and external links, it should be for structured data what Wikimedia Commons is for media files.
+
+This project in a glance mainly aims for Wikidata published data to be utilized inside DBpedia , in other words to be converted into triples and saved inside DBpedia servers as well as providing another Live version which propagates all the wikidata changes in the runtime to DBpedia.

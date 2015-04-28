@@ -1,0 +1,1 @@
+I will be implementing a parallelized bitmap compression system system that supports three of the most widely used compression algorithms: WAH, PLWAH, and VAL-WAH.  I will use performance profiling tools such as Valgrind and OProfile to analyze caching patterns and memory performance in order to ensure high-performance when it comes to this compression.

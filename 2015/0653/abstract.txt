@@ -1,0 +1,1 @@
+Purpose of this project is to fix or create a new PGP encryption plugin for kopete. Up until now, kopete uses obsolete encryption plugin so it needs polishing or a new encryption plugin from scratch!

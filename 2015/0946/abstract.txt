@@ -1,0 +1,1 @@
+My chosen idea is that over the summer I will optimize the communication between backend and frontend. This project includes the re-implementation of the client side data service as a standalone module and the elaboration of various data flow optimization.

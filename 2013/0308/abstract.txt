@@ -1,0 +1,5 @@
+I want to implement user defined bricks in Catroid. This would be like allowing the user to write functions that they can call later.
+
+After I do that, I would be interested in enhancing the social/sharing features of Catroid by allowing users to share their custom bricks.
+
+Finally, I would hope to make Catrobat more powerful so that much of the Stage and the built-in blocks can be implemented in Catrobat itself.

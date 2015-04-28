@@ -1,0 +1,1 @@
+This project will entail adding support for the voicing of MathML in DAISY3 files according to the MathSpeak standard to the FBReaderJ Android application. MathML will be processed using an XML parser, converted into valid MathSpeak text, and spoken using Android's native TTS service.

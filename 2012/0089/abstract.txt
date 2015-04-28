@@ -1,0 +1,2 @@
+The goal of this project is to implement a system that adjusts the graphics level of the Ember client automatically to get a smooth FPS.
+As an additional goal, I aim to implement new options in the Graphics Settings menu.

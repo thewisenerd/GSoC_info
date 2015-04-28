@@ -1,0 +1,3 @@
+Many functions have been implemented in PostGIS Raster for raster storage, access, editing, and processing. It would be useful to have some raster analysis tools available in PostGIS Raster for users to solve practical problems. Distance analysis is one of the basic spatial analysis tools.
+
+The idea for this proposed project is to add two spatial analysis functions to PostGIS Raster that implement two main ways of performing distance analysis: Euclidean distance calculation and cost-weighted distance calculation.

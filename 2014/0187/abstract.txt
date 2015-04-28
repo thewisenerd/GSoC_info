@@ -1,0 +1,1 @@
+ofSketch is a browser-based custom IDE for openFrameworks. Targeted towards new users, ofSketch decreases the openFrameworks barrier to entry by providing a distraction free and barebones text-editor with powerful autocomplete, reference, and API discovery features. ofSketch allows users to spend more time coding and less time with configuration.

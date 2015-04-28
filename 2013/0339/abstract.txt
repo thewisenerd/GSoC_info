@@ -1,0 +1,1 @@
+This proposal has five sections. The first is the algorithms and the project result I expect. The second part is my schedule of this project. The third part is some personal information. The fourth part is my commitment of full time involvement on the GSoC project. The last part is a short cv.

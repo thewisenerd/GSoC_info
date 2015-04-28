@@ -1,0 +1,1 @@
+Human tasks can be an important part of a business process, when human actors need to participate.  jBPM5 uses a human task service (based on the WS-HumanTask specification) to manage the life cycle of these task. The idea is to manage this life cycle using jBPM5 itself, so that a human task is represented as a process.

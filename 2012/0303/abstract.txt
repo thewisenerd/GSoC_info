@@ -1,0 +1,1 @@
+HSSF is the Apache POI Project’s implementation of the Excel binary file format (.xls). One of drawbacks of the current implementation is limited support for Excel drawing layer

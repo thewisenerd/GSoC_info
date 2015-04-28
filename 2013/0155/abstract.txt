@@ -1,0 +1,3 @@
+Right now sgen uses a non-replacing write barrier, we want to switch to a replacing one and have fast paths to do so.
+
+Deliverable: Implement replacing barriers with IL then add JIT support for them and implement those for x86, amd64 and arm.

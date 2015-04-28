@@ -1,0 +1,1 @@
+A port of the SWT widget toolkit to work with the Wayland display server on Linux machines. Additional optimization work will focus on the performance of the Eclipse IDE on such a system.

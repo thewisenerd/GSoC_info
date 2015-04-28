@@ -1,0 +1,1 @@
+The idea of this project is to develop a performance benchmarking solution that will help diagnose bottlenecks and make decisions for a better performance of web-based applications in Liquid Galaxy

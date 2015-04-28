@@ -1,0 +1,2 @@
+The current sunpy.wcs has methods defined for transformation of different solar coordinate frames. But they do not support transformation between different coordinate representations. 
+This project aim to re-implement the sunpy.wcs as sunpy.coordinates, basing the implementation on the idea described in APE5. Doing so, it hopes to achieve a much more user-friendly interface with the coordinate systems, as well as adding more functionality to the existing SunPy.

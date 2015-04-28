@@ -1,0 +1,3 @@
+In this project, we intend to improve John the Ripper's SIMD support. We want to enhance the use of AVX2 intrinsics, and add support for  AVX-512 instructions. As AVX-512 is not available yet, we'll use MIC as our experiment target.
+We'll also add SIMD support for non-x86 architectures, which should be straightforward since the pattern is similar.
+Another goal is to improve the SIMD implementation of the SHA family hashes. We may try bitslice and other low-level optimizing techniques.

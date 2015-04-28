@@ -1,0 +1,1 @@
+Libbash will enable programs to use Abstract Syntax Trees to parse bash commands directly instead of using regular expressions. This will be a great benefit to programs both outside and inside Gentoo, including Portage and repoman.

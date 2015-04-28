@@ -1,0 +1,1 @@
+I will research vulnerabilities and devising (and implementing) scripts to detect and/or exploit them. I'd like to follow the vulnerability announcement forums and decide which ones merit detection and/or exploitation in Nmap.

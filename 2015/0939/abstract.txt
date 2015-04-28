@@ -1,0 +1,7 @@
+The idea is to show that a game of a considerable size (30,000-50,000 lines of C/C++ code) could be written using reactive programming language Céu in a few months.
+
+The most possible game candidate is Supertux yet.
+
+Game would be written on Céu from scratch. There also would be a report about Céu game development experience and the final game would be compared with the original.
+
+I've already worked with SDL2 using C/C++ and built the development environment on my Windows machine.

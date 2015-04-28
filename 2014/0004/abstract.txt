@@ -1,0 +1,1 @@
+This project aims at creating a new program to display output waveform which can be used interactively with GNUCAP and replace currently used output waveform displayer Gwave . This program is constructed in such a way that it can be extended very easily according to future needs. It uses GTK libraries for GUI development and Python/C++  for writing different plugins and commands.

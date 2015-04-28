@@ -1,0 +1,6 @@
+jQuery Input Method Editor is a collection of more than 150 input methods across several languages. It is the jQuery version of the input method tool, Narayam, which is used across several Wikimedia projects. Currently jQuery.IME is provided from the Wikimedia servers.
+This project mainly aims at:
+(1) Porting jQuery.IME to Firefox and Chrome extensions.
+(2) Providing on demand loading of input methods for different languages rather than injecting all 150+ input methods on a web page.
+(3) Working out a solution to update the extension from the upstream project with minimal manual effort.
+As these extensions would allow the user to use the input methods on any website and not just on MediaWiki enabled websites, these would be of immense help to the users.

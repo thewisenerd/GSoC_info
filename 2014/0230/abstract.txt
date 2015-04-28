@@ -1,0 +1,3 @@
+Breeze is a great numerical processing library. However, it lacks some high-level functions that you can find in other libraries like [SciPy](http://www.scipy.org/). The second issue is that Breeze lacks documentation. This makes the entry barrier higher for new contributors.
+
+My proposal is to revamp documentation and to introduce interpolation and integration facilities.

@@ -1,0 +1,4 @@
+The aim of this project is to enhance the functionality and usage of sprites thereby improving game creation in Scala using Kojo.
+1)Sprite Collision Detection: A feature to detect collision among sprites to improve game and animation development in Kojo. This makes use of Image edge detection.
+3)Physics Integration: Using JBox2D to integrate physics realism into game development.
+2)Developing a 2D platform game based in Kojo to showcase and thoroughly try and test the functionality.

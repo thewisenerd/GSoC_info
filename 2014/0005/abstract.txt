@@ -1,0 +1,1 @@
+EasyTAG is a Music TAG Editor. It currently uses CDDB to get TAGs of songs. CDDB is old, closed and fragile. MusicBrainz is a much better alternative. It is open source and is constantly being updated. This project includes adding support of MusicBrainz to EasyTAG using libmusicbrainz5 and other libraries.

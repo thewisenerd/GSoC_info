@@ -1,0 +1,1 @@
+This project would involve extending the Java Path Finder (JPF) software model checker to handle Android service applications. More at: https://gitorious.org/jpf-android-services

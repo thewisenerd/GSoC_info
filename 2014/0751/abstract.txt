@@ -1,0 +1,1 @@
+This project involves integrating Julia with Light Table's functionality in order to provide a Julia IDE.

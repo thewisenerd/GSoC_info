@@ -1,0 +1,5 @@
+«Amarok + QML = Love».
+
+Amarok's context view has always been, for historical reasons, an half-baked technology.
+
+However, after 2008 new technologies have arisen which could make the user experience in Amarok much smoother.

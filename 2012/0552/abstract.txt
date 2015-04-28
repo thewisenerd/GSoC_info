@@ -1,0 +1,1 @@
+First, to add functionality to the Google FLOSS project Leptonica and interface most of this C library with Scilab. Second, to thoroughly document this library. Google projects that will most benefit from this effort include Google Book search and Google Image Search.

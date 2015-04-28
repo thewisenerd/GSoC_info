@@ -1,0 +1,2 @@
+Shumgrepper is a web app built on the top of Summershum. Summershum is a project that collects md5sum, sha1sum and sha521sum of every file present in every package. 
+It will bring up lot of new possibilities to developers, system administers and commiters by allowing them to verify the integrity and authenticity of a tarball, package or a individual source file.

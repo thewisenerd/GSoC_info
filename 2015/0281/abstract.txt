@@ -1,0 +1,1 @@
+Hawk is an HTTP authentication scheme using a message authentication code (MAC) algorithm to provide partial HTTP request cryptographic verification. This project is to build a module to support this authentication method in Drupal 8.

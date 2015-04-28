@@ -1,0 +1,1 @@
+This project focuses mainly on improving user experience for BookManager extension. It will provide an easy-to-use tool to edit, view and manage books.

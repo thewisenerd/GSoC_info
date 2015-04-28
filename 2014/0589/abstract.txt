@@ -1,0 +1,7 @@
+A rewrite
+of the codebase to use a higher level language and framework will make
+it more maintainable, cut down on development time, and attract more
+developers. Also, a move towards a graph database or the use of graph
+algorithms on top of a relational database will greatly reduce server
+load and enhance page response time. Finally, an API will greatly reduce
+the complexity of interacting with the website.

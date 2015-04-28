@@ -1,0 +1,1 @@
+Improve Ruby on Rails HTML sanitization by switching to Loofah and give developers more control via new API.

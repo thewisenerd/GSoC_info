@@ -1,0 +1,1 @@
+The aim of this project is to integrate the Linux kernel's Kconfig configuration system to Qemu's build process, making the configuration easier and better for the end-users.

@@ -1,0 +1,2 @@
+The idea is to create an Android application, designed specifically for gathering OSM-related data. It will be something like
+modern Field Papers map, without the need to print and scan anything and with ability to draw anything by hand, place markers, photos, and to upload the data to remote server for further incorporation into osm database. Also an ability to work without GPS is proposed, just saving notes with high-precision timestamps.

@@ -1,0 +1,1 @@
+A Matlab module for auto-generating Matlab bindings to the OpenCV library.

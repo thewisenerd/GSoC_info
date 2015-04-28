@@ -1,0 +1,5 @@
+VM save/restore functionality is one of the most commonly used in Clouds and
+Virtualization platforms. The current implementation of VM save/restore in Xen
+results in loading the entire memory image of the VM from the save file which in
+turns slows down the entire process. I plan to improve this process by introducing
+the concept of Lazy restore and using memory paging.

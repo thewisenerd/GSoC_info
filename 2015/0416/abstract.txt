@@ -1,0 +1,1 @@
+As the title of the project may suggest, the idea is to provide a more integrated experience of CiviCRM through the gadget one might be using all the time - the mobile phone. Civi Mobile will act more like a digital assistant which will help perform tasks set on the web version of CiviCRM.

@@ -1,0 +1,3 @@
+Incorporate the most used remote sensing, classification & filtering OTB alogrithms into the Sextante framework, using its python bindings.
+Algorithm descriptions will be generated semi-automatically.
+Also incorporate multithreading to sextante to enable algorithm interruption.

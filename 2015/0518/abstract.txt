@@ -1,0 +1,1 @@
+The goal of this project is to make a native iPad App of GeoGebra. Although there is an iPad app of GeoGebra now, it is created with Cordova framework , which therefore limits the performance. To improve performance, this project is going to translate the kernel part of GeoGebra, i.e. the computation function, from java to Objective-C and create native UI.

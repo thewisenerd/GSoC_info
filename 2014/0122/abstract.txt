@@ -1,0 +1,3 @@
+Currently GNOME Music has a simple search where it just compares the search string with the song's title and artist, and it could only play songs that are saved locally.
+
+This project aims to modify GNOME Music to make it follow the planned mockups for advanced search, make search more complex and precise, and add capability to play music that are located in remote sources.

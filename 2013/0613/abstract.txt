@@ -1,0 +1,1 @@
+The SunPy project includes a toolkit that is used to query a web service and download appropriate solar data. This summer I would like to help expand this service by adding more complex queries for the web service, add methods to augment the efficiency of handling the results and meta-data, and to utilize the resulting meta-data to form further queries.

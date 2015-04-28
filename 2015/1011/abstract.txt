@@ -1,0 +1,5 @@
+I'd like to do two things:
+
+I would like to make Homebrew's installation system fully independent of XCode/Development Toolkit. I believe that this can be done by building a generic kit of key utilities and libraries and distributing it as a bottle.
+
+I would also like to accomplish compartmentalization with respect to how Homebrew handles bottle dependencies.

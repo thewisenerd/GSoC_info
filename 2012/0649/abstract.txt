@@ -1,0 +1,4 @@
+This project aims to implement a tool for converting data in DICOM to XML files and vice versa.
+To achieve the conversion to XML files we will have to make a DTD(Document Type Definition) or an XSD (XML Scheme Definition).After some deliberation I have decided upon using an XSD as it can capture the varied DICOM datatypes and provides a more effective solution than DTD's.
+The tool will also have a properly defined interface that will allow users to specify various options, set parameters, define output layout etc.
+This tool will thus add a new facet to GDCM's functionality and allow users to view DICOM data in XML files, as well as execute XQueries on them.

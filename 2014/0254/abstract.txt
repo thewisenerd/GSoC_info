@@ -1,0 +1,1 @@
+I would like to make FUI (Fully Automatic Installer) which is known from Linux systems like kickstart from Red Hat or Jumpstart in Solaris. I want to make modified diskless FreeBSD system. After boot will run automatic installer using pressed configuration file.

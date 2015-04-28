@@ -1,0 +1,1 @@
+Right now, we have a "try" client linked to the try scheduler via ssh and pb methods. I am proposing to replace this "try" client with a new HTTP REST based "try" client that will communicate with force scheduler via HTTP rest calls, have force scheduler create SourceStamp instead of creating them by itself, test the patches and return the results back to the web client.

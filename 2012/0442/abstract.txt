@@ -1,0 +1,3 @@
+OSGi Remote Services Testing framework is a eclipse plugin for Eclipse Communication Framework
+Using the framework user will be able to test the ecf osgi remote service inside the eclipse.
+Also this is based on the annotations therefore  it is very easy to use

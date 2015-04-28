@@ -1,0 +1,1 @@
+BRL-CAD Benchmark Suite has been used over the years to analyse and compare a system's performance based on certain parameters. The goal of this project is to deploy a database and visualization website that provides multiple mechanisms to add new benchmark logs into the database and provide various forms of visualizations for the aggregate data.

@@ -1,0 +1,1 @@
+The ocr graphics and string extraction module will be implemented under this module. The module is  pluggable and can be intergrated to the system once enough testing has been done. The project includes a image pre processing module and the processed images will be used for ocr.

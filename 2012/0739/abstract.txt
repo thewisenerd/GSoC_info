@@ -1,0 +1,1 @@
+The new module allows running multiple instances of CCV over the network and the combining all the tracked data as well as calibration data. It will also help in projecting multiple screens over a large projection surface without the need of a multi-head video cards to project the screen using multiple projectors.

@@ -1,0 +1,6 @@
+I am interested in the Photo Language Translation project. I believe that it is a service that is crucially needed by the people who the service is targeted to, and it would absolutely be a great opportunity to join and help improve on the project to make it more complete. Summary of my suggestions:
+Build administrator's page and tools.
+Improve UI/UX.
+Reform application for mobile development.
+Build a central server/database and a way to sync local&server.
+Open partially to public.

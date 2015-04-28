@@ -1,0 +1,3 @@
+Chromium SystemInfo API is a set of web interfaces for Chrome Packaged App to query the hardware devices information and monitor the change events. 
+The development of SystemInfo storage API is now in process. 
+This project will implement new "watch" API for systemInfo.storage, including addWatch(), getAllWatch(), removeWatch(), removeAllWatch() functions. The new "watch" API will provide a more powful way for chrome packaged app to monitor storage devices change events.

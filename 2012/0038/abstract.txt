@@ -1,0 +1,1 @@
+This project implies taking segments of video and performing semantic analysis on them. The main goal of the project is to identify topics in these segments on one hand, by only taking into consideration the video lectures and, on the other, by matching segments with topics from other classroom artifacts such as a course syllabus.

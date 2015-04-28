@@ -1,0 +1,1 @@
+CommonMark is a standard, unambiguous syntax specification for Markdown, which is being developed by a committee of Markdown fans; its goal is to obviate some of the technical shortcomings of the original Markdown specs and remedy the painful lack of Markdown standardisation. This summer, I intend to write a standalone, extensible, pure-Haskell library for parsing CommonMark.

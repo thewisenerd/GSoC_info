@@ -1,0 +1,3 @@
+Light Table leverages the BOT architecture to create a platform designed around extensibility.
+In BOT, working components are defined by several elements. How these elements are combined, how they interact, and how they affect the application state is a source of complexity that makes BOT opaque.
+Aleph aims to make BOT accessible by providing a uniform interface for querying and recording state at runtime.

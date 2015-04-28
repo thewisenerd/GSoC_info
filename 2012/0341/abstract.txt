@@ -1,0 +1,7 @@
+Addins that will improve the MonoDevelop IDE
+
+-.NET Resource Editor primarily aimed at supporting ASP.NET applications
+
+-Monodoc Documentation workflow built into the IDE.
+
+I have left plenty of room for manoeuvre in the editor implementation.

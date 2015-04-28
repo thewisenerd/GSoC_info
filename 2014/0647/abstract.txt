@@ -1,0 +1,1 @@
+During disaster events, data is managed in many different formats. Spreadsheets are predominantly used to store data in these situations. This project aims to create an import wizard for Vesuvius that will be able to import missing-person structured data from such sources.

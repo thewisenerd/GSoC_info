@@ -1,0 +1,1 @@
+Proposal to render wikivoyage article banners using an extension

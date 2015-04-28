@@ -1,0 +1,1 @@
+The module provides OpenID feature to the ATutor. Which enables users to register and log in to the ATutor without much pain. They can manage their content without keeping a separate username password combo. This module can work with OAuth based Google app module to import Google services to the ATutor.

@@ -1,0 +1,2 @@
+The idea of this project is to provide a package with functions that make it easy for R package developers to track quantitative performance metrics of their code, over time.
+It focuses on providing changes brought over in the package's performance metrics over subsequent development versions, most importantly relating to time and memory. It integrates with the git version control system and Travis CI service to provide and visualize the aforementioned metrics, among other related functions.

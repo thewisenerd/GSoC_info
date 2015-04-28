@@ -1,0 +1,6 @@
+`git branch -l`, `git tag -l` and `git for-each-ref` are all about selecting a set
+of refs and printing the result. Currently, each has their own implementation 
+and options. This results in some of them having selection options and others
+having formatting options. 
+I propose to build a common library so that all three commands have common options
+and use the library extensively throughout their code.

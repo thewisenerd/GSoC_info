@@ -1,0 +1,1 @@
+Implement a feature in Pitivi to allow to the user generate a image sequence clip from a list of images and manage the image sequence clip as if it was a regular video clip. This feature would allow the user to generate a stop-motion video, for example.

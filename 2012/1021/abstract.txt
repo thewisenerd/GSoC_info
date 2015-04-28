@@ -1,0 +1,1 @@
+Aim of this project is implementing audio mixing and video compositing in GES library so it can be used by PiTiVi and other applications.

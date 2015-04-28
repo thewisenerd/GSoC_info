@@ -1,0 +1,1 @@
+Stellarium users should be able to easily view comets rendered according to their actual appearance: comas with directed tails, of the correct color and length.

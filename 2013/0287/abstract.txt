@@ -1,0 +1,1 @@
+While matrix structure of the xts objects gives great performance, it limits the flexibility of time series objects. The main goal of this project is to implement a class which can contain columns of multiple types, while keeping the performance of the xts objects.

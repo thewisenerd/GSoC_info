@@ -1,0 +1,1 @@
+I will port the core "libmscore" module of MuseScore into the browser (using Emscripten). I will also write an html5 application that will use this library as a proof of concept. The goal of this application will be to display and transpose an MSCZ file in the browser.

@@ -1,0 +1,1 @@
+Currently JRuby has two fiber implementations. The default one uses Java threads and the oter uses MLVM coroutines. This is a proposal for a third implementation using Kilim's fibers.

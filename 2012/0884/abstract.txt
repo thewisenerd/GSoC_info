@@ -1,0 +1,1 @@
+I propose to update the existing behaviour tree and recast&detour code in CEL to the latest methods available then use them to complete the Life-Sim demo. The key result will be a working demonstration of and tutorial on these additions to CEL.

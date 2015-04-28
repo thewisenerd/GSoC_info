@@ -1,0 +1,2 @@
+We propose multidimensional profiling as a automatic way to repeatedly profile a software execution by varying some variables of the execution context, essentially software versions and benchmarks. The goal of this project is to help to detect and understand the reason of a slow or fast execution, caused by the software evolution. 
+Rizel will answer questions like “How the performance has evolved over the time?” and “Which software version is the cause of a drop of performance? Why?”

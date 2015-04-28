@@ -1,0 +1,1 @@
+Hupa is an Rich IMAP-based Webmail application written in GWT, but there is no release delivered yet. This proposal's aim is to make it fully functional adding many features which are missing and removing out-of-dated dependencies in favor of the new stuff in the latest GWT version.

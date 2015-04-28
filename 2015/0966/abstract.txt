@@ -1,0 +1,1 @@
+WinTox is a Tox client written in C# and XAML, using SharpTox that follows all Modern UI best practices and conforms to the modern feel and styling of Windows 8+ applications. It implements modern UI features like proper snapping, on-screen keyboard support, etc., and all functionality from the Tox core like one-to-one/group/audio/video chats and file transmission.

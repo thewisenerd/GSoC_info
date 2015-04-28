@@ -1,0 +1,1 @@
+Apache Nuvem is an open application programming interface for common cloud application services,  allowing applications to be easily ported across the most popular cloud platforms. The eventual goal of this project is to develop a standard vendor independent message queue API for Nuvem.

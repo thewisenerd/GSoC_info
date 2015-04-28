@@ -1,0 +1,1 @@
+The goal of the proposal is to write a miner for PicasaWeb and add it to GNOME Online Miners. The Picasa support in libgdata will be used to write the Miner. The Miner will add PicasaWeb to the list of cloud services a user has access to in GNOME Photos and other apps using GNOME Online Miners.

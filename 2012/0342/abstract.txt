@@ -1,0 +1,2 @@
+The idea is to develop a web client for OpenIntent applications to manage their data from a desktop web browser over a WLAN network.
+A server application will be developed that will be installed on the Android device and will act as an interface between the installed OI apps data and the web browser.

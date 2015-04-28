@@ -1,0 +1,5 @@
+Proposal to work on Insight Uses Cases
+1. Microblogging/Status
+2. Events
+3. Integrating Twitter/Identi.ca into the main website
+4. Porting FAS authentication module to D7

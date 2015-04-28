@@ -1,0 +1,1 @@
+The aim of the project is to reimplement the Matlab code of the Berkeley Earth Surface Temperature software using Open Source Tools to make it available for the open source community research climate change. In the work I would use R or C++ with GNU GSL.

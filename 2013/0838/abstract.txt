@@ -1,0 +1,1 @@
+Darkserver is a set of tools and service written in Python to help userspace developers to debug their applications & libraries. People will be able query the service based on build-id(s) or rpm package names. The service will provide output in JSON format as it will be easier for other tools to parse the output.

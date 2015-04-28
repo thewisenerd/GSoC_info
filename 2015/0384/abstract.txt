@@ -1,0 +1,3 @@
+BRL-CAD has more than a million words of documentation (thousands of pages) in a variety of formats. Their long-term goal is to consolidate as much as possible into the Docbook format so that it can be more directly managed by our revision control system and integrated with the source code.
+
+One of the main challenges is how to retain the more expressive Docbook markup within Mediawiki so that edits via the wiki are not "dumbed down" to the more simple Mediawiki syntax.

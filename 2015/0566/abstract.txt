@@ -1,0 +1,1 @@
+The main aim of this project is to control peers and their configuration ,control player,control peer and player communication . Hence  interacting with peers and player and coordinating with them through designing, implementing and integrating a graphical user interface for the Peer in the P2PSP python implementation.

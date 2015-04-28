@@ -1,0 +1,1 @@
+A module for solving Diophantine Equations(DE) will be implemented. As a start I hope to solve five classical DEs which are found most frequently. Module will be implemented very similar to the ODE module so that adding solutions to the new types of equations and updating/ improving solutions will be easy.

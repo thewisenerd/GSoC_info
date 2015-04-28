@@ -1,0 +1,5 @@
+The aim of this project is to implement features of text frames in Draw, specifically:
+- text background color;
+- flow of content from one frame to another;
+- hyphenation.
+This project is based on the GSoC idea “Improve Text Boxes in Draw” in Libreoffice wiki.

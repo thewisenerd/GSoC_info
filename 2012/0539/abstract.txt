@@ -1,0 +1,5 @@
+Tomahawk is a cross platform, open source social media player that allows users to share music seamlessly and listen to it anytime, anywhere. Specifically, one of the key features of Tomahawk is the ability to connect to other's music collections.
+
+Providing that Tomahawk has gracefully demonstrated how wonderful could be if people were socially connected by their music, it would be a great idea to follow their path.
+
+Unfortunately, Amarok doesn’t have this ability yet, but this could be solved by making the use of some Tomahawk code in order to support the creation of a new Amarok service. This service would make possible to share user’s music files with online friends, thereby allowing them to listen to one another’s tracks. All that with the necessary precautions to maintain compatibility with Tomahawk network protocol.

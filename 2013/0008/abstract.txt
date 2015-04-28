@@ -1,0 +1,23 @@
+This project aims to improve the compiler back end by enhancing the
+ register allocation procedure.  To realize this goal, we propose to
+ implement 
+
+(i) a new heuristic optimization based on coloring the global
+   interference graph, 
+
+(ii) live ranges and live range splitting,
+
+(iii) spill code insertion.
+
+
+The task of the register allocator is to assign an unconstrained
+number of temporary names (TNs) in the intermediate representation
+(IR) to a finite number of registers.  A naive approach yields too
+many memory operations resulting in a reduced execution speed. The
+currently implemented SBCL register allocator performs only graph
+coloring, essentially treating spills by coloring with stack slots. In
+order to improve the allocator, we propose to integrate a new
+heuristic graph coloring method inspired by the concepts introduced by
+Briggs et al. (1994) in the SBCL compiler.  According to Briggs'
+results of the optimistic coloring, the proposed enhancements can be
+expected to increase performance of produced code by up to 15\%.

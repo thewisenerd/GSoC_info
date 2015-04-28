@@ -1,0 +1,5 @@
+I would like to work on GTG software to integrate him to Gnome-Shell.
+
+My idea is to improve the user experience by using an extension, notification system, and add some features to GTG.
+
+Read my proposal for more details.

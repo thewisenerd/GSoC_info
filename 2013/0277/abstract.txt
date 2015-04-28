@@ -1,0 +1,1 @@
+I'm Erik, a computer science student from the Netherlands, I'm applying for a spot in Google summer of code to develop the Event admin specification of OSGi in Apache Celix, an incubator project. I want to help Celix grow in terms of functionality as well as in community.

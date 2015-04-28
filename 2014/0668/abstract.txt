@@ -1,0 +1,1 @@
+This project proposal contains an overview of Meshing, Mesh Quality and Mesh Optimization. In this proposal I basically describe the algorithms that I hope to use in ViennaMesh Optimization Project. Most of the algorithms in this document consider on optimization of Tetrahedral Meshes because Tetrahedral is the most popular mesh element in three dimensional meshing.

@@ -1,0 +1,1 @@
+Currently Apache Stratos has a CLI written in Java. This proposal is to implement a similar CLI in Python to make it much more light-weight. The CLI implements commands for all the REST API methods available in 4.1.0 release.

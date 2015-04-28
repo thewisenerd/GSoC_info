@@ -1,0 +1,4 @@
+Cytoscape is useful for the representation of networks such as genes, proteins and metabolites (nodes of the graph), and through the indices of centrality can obtain information about how important is a node in the network.
+
+However, these indices would be inaccurate, this is because the node is an element, a component of a biological system, and is not considered the number of its repetitions in the system. 
+(multiplication of nodes)

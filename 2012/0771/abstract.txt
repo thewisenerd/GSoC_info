@@ -1,0 +1,1 @@
+Cython uses pxd files like headers for declarations of types and functions so cython can generate the necessary c-wrapper code such that we can call into other libraries. Creating pxd files for large libraries is very time consuming and is all manual work. Having a tool to parse over the necessary headers to find declarations aromatically would be a great help to the community.

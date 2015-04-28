@@ -1,0 +1,3 @@
+Implementation of an eBook application for listing, searching and reading eBooks, called gnome-books. The idea is to integrate gnome-books with an existing online eBook store.
+gnome-books will be implemented upon the application gnome-documents, and it is going to
+live in the same git repository.

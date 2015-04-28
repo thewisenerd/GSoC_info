@@ -1,0 +1,1 @@
+Slick is a database access library for Scala. I'm going to provide MongoDB support for Slick (currently it supports relational databases only).

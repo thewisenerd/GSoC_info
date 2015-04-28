@@ -1,0 +1,12 @@
+The objective would be to extend the thematic maps support already available to allow to design and play tests and educational games, to be used in geography and maps learning. 
+
+
+The main tasks to perform would be:
+
+- Extend the thematic maps editor plugin to allow to create tests and educational games.
+
+- Extend the thematic maps viewer plugin to play tests and educational games created through the previous plugin.
+
+- Add support for some types of tests and games like:
+  - Localization of place names through the selection of geographic shapes.
+  - Localization of geographic shapes through the selection of place names.

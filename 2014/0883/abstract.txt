@@ -1,0 +1,1 @@
+Developing the PyBBIO library to include an SPI Library, Library for interfacing a camera and various sensors such as pressure sensor etc. Adding C extension to Python system calls to make the code run faster. Interfacing a BLE module and an example code to log sensor values on Xively's feed.

@@ -1,0 +1,1 @@
+The goal of the project is to add one-time-password generation capabilities (based on OATH) and other functions to the Crypto Stick, inspired by the functionality of YubiKey.

@@ -1,0 +1,2 @@
+My project proposal is the development of a privacy testing tool for mobile applications. The aim of this tool is to identify common network based privacy threats in mobile applications, with the target audience being Android mobile developers. 
+Privacy tools exist for users of mobile applications to detect privacy threats and some provide options to prevent personal data disclosure. However, there is a lack of tools available for mobile application developers to detect privacy issues.

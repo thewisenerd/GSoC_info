@@ -1,0 +1,5 @@
+The objective of the project is to implement additional features to the main library
+of the IGN Transport library. This includes implementing the ability to send/receive
+compressed messages, adding authentication and encrypted data and enabling latching.
+The long term goal is for IGN Transport to become a powerful, yet lightweight, library
+for the communication layer of robotics applications.

@@ -1,0 +1,4 @@
+IoTSyS uses oBIX (Open Building Information Exchange), an open standard for information exchange in building automation.
+It provides a generic object model and defines ways to read, write and invoke operations on objects. oBIX also provides certain services, like watch, history and alarm services.
+The current implementation is incomplete and only implements parts of the watch and history services.
+In this project, I am going to fully implement the latest oBIX 1.1 Specification Working Draft.

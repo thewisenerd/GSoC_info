@@ -1,0 +1,2 @@
+As part of this project I will be implementing a
+ Monkey Plugin capable to interpret Lua scripts for dynamic content generation and performing administrative tasks,

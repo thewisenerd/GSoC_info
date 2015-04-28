@@ -1,0 +1,1 @@
+Using Microsoft Kinect, the gesture and voice recognition features will be used to control the Liquid Galaxy navigation around the Google Earth Map to create a more interactive user experience. This will involve using voice to search for locations and get directions to them and using gestures to move the map around and zoom.

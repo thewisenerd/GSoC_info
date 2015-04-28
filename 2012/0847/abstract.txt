@@ -1,0 +1,1 @@
+It is propossed a developing project extending  gvSIG Desktop version 2.0 (software for managing geographic information with cartographic accuracy, distributed under the GNU GPL v2) that enables the automatic calculation from a multi-temporal sequence of Landsat images, the changes by applying the Principal Components Analisis.

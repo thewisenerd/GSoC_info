@@ -1,0 +1,3 @@
+This is a proposal to implement user-defined grouping in watchlists and consolidate the watchlist modification and watched changes pages.
+
+My full proposal is available here: https://www.mediawiki.org/wiki/User:Blackjack48/GSOC_proposal_for_watchlist_improvements

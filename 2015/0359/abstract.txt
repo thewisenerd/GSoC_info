@@ -1,0 +1,3 @@
+Around 2010, Jan Urbański proposed SAIO - extension using Simulated Annealing approach as a possible replacement for Genetic Query Optimizer (GEQO). It proved to generate valid query plans, often comparable or better than GEQO plans. SAIO was not yet merged into source tree because it did not meet Postgres code quality and portability standards.
+
+The aim of this project is to start from where Jan left off, verify SAIO approach and push it forward to become Postgres-quality module.

@@ -1,0 +1,4 @@
+Ganeti is a cluster management software using virtualization technologies such as Xen or KVM and other open source software.
+Currently LXC(Linux Containers) is a one of hypervisor supported by Ganeti, but it is still experimental feature.
+While managing limited hardware resources as a server cluster environment, using LXC as a hypervisor can be a great choice.
+This project aims to improve LXC support on Ganeti to make it practical feature in production.

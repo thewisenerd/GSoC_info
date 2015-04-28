@@ -1,0 +1,1 @@
+The aim of the project is to implement a javascript library which can input and output common system biology file formats, such as SBGN-ML, jSBGN, SBML and BioPAX. The library will have clean APIs, comprehensive documents and a reasonable coverage of unit testing to ensure code quality.

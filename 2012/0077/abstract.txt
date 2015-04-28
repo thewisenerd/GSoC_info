@@ -1,0 +1,2 @@
+This projects aims to revitalize the TODO list GTK# application Tasque. This application has not been maintained for a while and needs major refactoring as well as additional functionality to make it more attractive to users.
+To add even more value to the application a dedicated Cocoa-UI for the Mac platform will be created using monomac.

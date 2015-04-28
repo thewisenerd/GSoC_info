@@ -1,0 +1,1 @@
+The aim of this project is to port Guix to GNU/Hurd, so it would allow Guix to cross-build the bootstrap binaries needed to bootstrap itself in a Hurd System, allow the cross-building and native building of packages for the Hurd, and make the required modifications in Guix so it can produce a virtual machine image that boots into such a system.

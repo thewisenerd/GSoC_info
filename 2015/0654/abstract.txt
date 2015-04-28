@@ -1,0 +1,2 @@
+Magnetic field measurements play an important role in Earth-orbiting satellites, such as attitude determination and scientific instrument pointing. Unless built specifically for high accuracy measurements, satellites usually come with significant magnetic sources of errors that severely degrade measurement accuracy.
+This GSoC project aims to implement algorithms that enable low-cost high quality magnetic field measurements on smaller spacecraft without booms using the BeagleBone platform.

@@ -1,0 +1,1 @@
+Make Impress layout templates easily extendible .Currently, the slide layouts in Impress (e.g. "Title page", "Outline page") are a hard-coded set; it would be really nice to have them extendible or even user-editable.

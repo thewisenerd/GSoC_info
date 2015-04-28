@@ -1,0 +1,7 @@
+A major obstacle for command and control speech recognition systems is to differentiate commands from background noise. Many systems solve this by using physical buttons or certain key phrases to activate/deactivate the speech recognition.
+
+This project explores the use of computer vision to determine when to activate / deactivate the sound recognition using visual cues. For a media centre or robot applications, it would make a lot more sense to only activate the recognition when the user is actively looking at the screen/robot and is speaking something. This is strikingly similar to the day-to-day communication between humans!
+
+Face recognition can also be employed to provide different speech models for different people. In this way the media centre could adapt to different people in one household.
+
+Furthermore, In the current version of simon, users have to activate/deactivate the simon manually or using voice commands. In addition to that we can perform the gestures to control the on/off states of Simon by itself.

@@ -1,0 +1,2 @@
+ESIL (Radare's Intermediate Language) is currently not in SSA form, which means that variables get assigned more than once.
+A goal for the radare2 project is to include a retargetable decompiler, and having SSA form output of ESIL is a first step towards this.

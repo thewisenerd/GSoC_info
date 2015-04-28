@@ -1,0 +1,3 @@
+Objective: implement the most successful background modeling methods largely in use by the gamma-ray community in the Astropy/Gammapy framework in two steps:
+ 1 Implement tools to create background model templates from observations with no or only a few gamma-ray sources in the field of view.
+ 2 Develop algorithms to estimate the background in observations containing gamma-ray sources using the model templates from the first step.

@@ -1,0 +1,1 @@
+Make Nmap's scanning engine use Nsock library, enabling future transistion to the "scanning pipeline" design.

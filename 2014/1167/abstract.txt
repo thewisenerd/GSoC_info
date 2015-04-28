@@ -1,0 +1,3 @@
+OTR is a cryptographic protocol with focus on instant messaging conversations, which provides strong encryption, peer authentication, deniability and perfect forward secrecy.
+Therefore it is a perfect solution to guarantee privacy, what nowadays is a crucial issue not only for political reasons.
+Despite being added to many communicators, Telepathy still lacks support for it.

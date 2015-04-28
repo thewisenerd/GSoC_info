@@ -1,0 +1,1 @@
+Patient matching module has been developed for OpenMRS to identify and merge the duplication data of the patients. As a student, I will be improving the usability of module by improving the validation, suggestions to avoid potential errors, and adding advanced features to the module's web interface.

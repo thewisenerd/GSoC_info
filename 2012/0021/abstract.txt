@@ -1,0 +1,1 @@
+Implement a game play system where one can build and construct fortifications for the mason game system.  The system would use a hierarchy to gather and construct this base, and the interface would be very apparent and intuitive.

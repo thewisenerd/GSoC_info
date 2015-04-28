@@ -1,0 +1,1 @@
+With introspection working we can improve our tests (that can be written in another languages than C) and make the calendar backend usable for another projects again.

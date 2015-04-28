@@ -1,0 +1,1 @@
+Marble, the Virtual Globe, currently lacks the ability to synchronize content between devices or share resources. This project intends to enhance Marble with syncing capabilities by integrating it with ownCloud, the personal cloud platform.

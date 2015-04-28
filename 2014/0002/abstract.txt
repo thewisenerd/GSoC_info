@@ -1,0 +1,1 @@
+The project aims at enabling the display of subsurface features, in addition to just the regular surface features. It would make the visualisation of subsurface data easier. Initially in the project, we would focus on only one or two datasets of different scales and regional extents that have negative elevation and plot them in the subsurface.

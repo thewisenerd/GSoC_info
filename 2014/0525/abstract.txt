@@ -1,0 +1,1 @@
+The existing package CItools have included necessary tools/functions to construct composite index CIP. More functions related to multivariate analysis, visualization can be included. Also facility to perform action on user's data and construct different other index and devepoment of GUI for non-R users needs to be done.

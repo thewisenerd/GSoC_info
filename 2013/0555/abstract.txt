@@ -1,0 +1,4 @@
+The current ODE solver in sympy was the work started by Aaron Meurer as his GSoC Project in 2009. The ODE solver though robust, has a good number of possible features that can be added. My project proposal would be dealing with the implementation of two of these features.
+
+1. Solving non classifiable first order ODE using Lie Groups
+2. Series Solutions to Second Order Homogeneous Differential Equations:

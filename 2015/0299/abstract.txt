@@ -1,0 +1,1 @@
+This project aims to improve the performance of the current Convolutional Neural Network being used in the prototype, by basically using three approaches: testing different possible features other than the current ones, implementing a new model to include the unlabeled data, fine tuning and optimising the new model.

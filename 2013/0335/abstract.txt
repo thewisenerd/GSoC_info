@@ -1,0 +1,1 @@
+The refactoring browser is based on a powerful rewrite engine which transforms AST. However it is quite cumbersome to write rewrite rules. There is a need to build a tool to help programmers defining their own transformation.

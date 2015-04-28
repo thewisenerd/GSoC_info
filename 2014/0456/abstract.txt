@@ -1,0 +1,1 @@
+This project aims to create a system which helps ABI admins manage their volunteers by generating reports and maintaining tasks assigned to volunteers.

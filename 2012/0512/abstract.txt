@@ -1,0 +1,1 @@
+The old (2.0) version of nodewatcher is not very modular and contains a lot of hard-coded things for the wlan slovenia network. The aim of this project is to make 3.0 more modular and inter-operable with other community wireless mesh networks.

@@ -1,0 +1,1 @@
+IgProf is a performance and memory usage profiling tool, originally developed for measuring and analysing performance and memory usage of applications related to the CMS project at CERN. Currently IgProf supports Linux applications on Intel 32-bit x86, 64-bit x86-64 and 32-bit ARM. The proposal is to extend IgProf to support also the 64-bit ARM architecture.

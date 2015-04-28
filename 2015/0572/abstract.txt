@@ -1,0 +1,2 @@
+The aim of this project it to develop Haskell bindings for the main interface of the OpenCog software.
+Existing bindings for Python an Scheme are in use. It is possible to write Cognitive processes in these languages, and interact with the efficient C++ OpenCog core. So, we aim to have comparable Haskell bindings.

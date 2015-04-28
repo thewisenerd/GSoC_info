@@ -1,0 +1,3 @@
+The RichFaces project offers various components for the JSF framework; moreover it contains the Component Development Kit, which eases the developing process of new components. There are currently no chart plotting component in the RichFaces component library.
+
+The aim of the project is to create a chart component supporting multiple chart types, user interaction and event handling. The component will expose a javascript library with a smooth API completed by examples of usage, documentation and an Arquillian based test suite.

@@ -1,0 +1,1 @@
+Preparing the polkit agent and wrapper libraries in KDE/Qt for future Qt5 usage and making it fit better in the KDE Plasma Workspaces

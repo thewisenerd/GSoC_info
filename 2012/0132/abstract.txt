@@ -1,0 +1,1 @@
+The primary goal of this GSOC project is to port Plasma calendar and some other of the existing plasmoids to QML. The primary goal is also to improve the calendar Plasma widget.

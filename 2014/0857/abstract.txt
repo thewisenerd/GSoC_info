@@ -1,0 +1,1 @@
+Enhancements for relative shape key editing workflow: new blending-oriented Shape Keys panel GUI permitting for faster and more intuitive shape key editing. A simple commit workflow for shape keys is introduced.

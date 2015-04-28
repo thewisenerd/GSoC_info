@@ -1,0 +1,1 @@
+Extend OMPL's current support for specifying optimal robotic motion planning problems. This will allow for users to program their robots to perform tasks faster, more efficiently, more safely, or to any other specified quality metric.

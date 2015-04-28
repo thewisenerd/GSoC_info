@@ -1,0 +1,3 @@
+My idea is composed of two parts.
+The 1st part is fast DNN structure which is fast even with CPU .  Experiment on ORL database (using 200 images for training) costs just 35.93 second for training a two layer DNN which achieve 98.5% accuracy and 91.8% accuracy on LFW database. 
+The 2nd part is the GPU version of Caffe DNN. I have got a NVIDIA donated K40 GPU for deep learning reach. My experiment on LFW database has amazing speed with the help of Caffe and OpenCV.

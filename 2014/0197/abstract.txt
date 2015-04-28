@@ -1,0 +1,2 @@
+The Astropy Project is a community effort to develop an Open Source Python package  for astronomical data analysis. Currently the photometry functionality is developed in an affiliated package, called photutils. However, the integration of the astropy core modules in photutils is still very limited.
+ During GSoC2014 I plan to improve the integration of the core modules in photutils  and thus extending its functionality.

@@ -1,0 +1,5 @@
+This project mainly consists of two parts -
+(I)Converting existing NTP tests from GoogleTest  to Unity Framework.
+(II)Writing tests for libntp and ntpd programs.
+
+The primary focus will be on Part(I). As of now my study says that we would not be able to convert all existing test cases to Unity( detailed analysis mentioned below ). Thus there is a possibility of some time remaining, which can be rightfully used to implement Part(II)

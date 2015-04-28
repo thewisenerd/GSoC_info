@@ -1,0 +1,2 @@
+Haskell's record system lacks support for overloaded field names. This leads to unnecessarily cluttered code and inhibits code reuse. I propose to implement support for overloaded field names and polymorphic record projection as a GHC extension, with the aim to
+ultimately add them to the language standard in a future revision. This relatively straightforward change would remove a significant source of frustration for Haskell programmers.

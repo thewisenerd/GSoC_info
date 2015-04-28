@@ -1,0 +1,3 @@
+The goal of this project is to provide powerful and efficient vector and matrix classes,
+ that provide the obvious basic functionality as well as more complex operations and
+different storage models.

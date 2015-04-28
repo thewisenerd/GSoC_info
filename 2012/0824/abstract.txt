@@ -1,0 +1,1 @@
+I will implement a lot of features in this Android application. Also, I could implement a big part of console options, turning the application into another administration option.

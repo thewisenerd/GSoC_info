@@ -1,0 +1,1 @@
+Make the JSBML library more modular by redesigning how mathematical formulas are implemented. End product should be functionally identical to the current library and should be more efficient.

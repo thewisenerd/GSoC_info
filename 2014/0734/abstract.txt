@@ -1,0 +1,1 @@
+Sharable Content Object Reference Model (SCORM) is a collection of standards and specifications for web-based e-learning. Moodle already has a Scorm Player and it received a major update and Scorm 1.2 support during GSoC`13. The Objective of my proposal is to improve the Scorm player and its navigation.

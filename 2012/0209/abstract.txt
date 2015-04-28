@@ -1,0 +1,2 @@
+The CoApp project has a command line tool that allows a developer to create packages.
+ The purpose of the project is to create a desktop application that would allow software publishers to create a package in a GUI, instead at the command line.  Creating package in GUI has a lot of advantages: an intuitive UI is easier to use for most of the users and don’t need long learning time; offer easy view and control for multiple items, so it's more faster ; package creation is a multi-step task that can easily be grouped together in a way that prevent wrong input

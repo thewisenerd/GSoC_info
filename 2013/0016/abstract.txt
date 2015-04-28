@@ -1,0 +1,5 @@
+1 - Develop a new tutorials for OpenCV-Python API covering a major portion of the API (Similar to the existing C++ tutorials). 
+
+2 - Extend Python bindings for the newly added modules and any missing functionalities. 
+
+3 - Fix discovered bugs, missing docs etc on the way.

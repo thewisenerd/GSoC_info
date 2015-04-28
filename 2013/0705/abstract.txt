@@ -1,0 +1,1 @@
+This project aims to make it possible to generate a checkpoint file of a vkernel and restore it later in a manner unnoticeable for the virtual processes it runs.

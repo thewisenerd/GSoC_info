@@ -1,0 +1,1 @@
+Airavata modules currently capture large amount of metadata about applications and executions. This project will formally capture the requirements for metadata management, and conduct experiments to determine the appropriate data model, storage scheme and storage  technology to efficiently and effectively provide a meta-data management solution for Airavata.

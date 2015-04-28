@@ -1,0 +1,3 @@
+ExpEYES is an Open Source Pocket Science Lab for developing science experiments, classroom demonstrations and a test equipment for electronics hobbyists. 
+
+This proposal aims to improve the GUI's, add new Sensor Plug-ins to measure various parameters and to enhance the scope of ExpEYES for using it to perform several new experiments with low cost devices. Our aim is also to develop a low-cost stand alone data acquisition system that can be used for weather monitoring or environmental studies.

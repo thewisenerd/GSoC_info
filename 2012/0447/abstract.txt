@@ -1,0 +1,1 @@
+Automating the process of removal of garbage/debris (unwanted items) from conveyor line systems in factory workflows, thereby segregating wanted & unwanted items. Outliers are identified by an independent feature extraction scheme & tracked along the conveyor belt using TLD algorithm till they are removed.

@@ -1,0 +1,3 @@
+Boost.Pipeline provides an easy way to break down large computations on batch data into smaller tasks which run parallel.
+
+The project is inspired by the Unix pipeline and based on the N3534 proposal submitted by Google.

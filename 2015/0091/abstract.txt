@@ -1,0 +1,3 @@
+Currently GeoClue relies heavily on Geolocation to find out location. Since most of the computers doesn't have GPS, it would be beneficial for us to be able to share location.  
+
+This project focuses on ability of GeoClue to receive location information from more accurate devices. We'll focus on location sharing from Android to GeoClue and GeoClue to GeoClue. If time permits we'll look into iOS application too.

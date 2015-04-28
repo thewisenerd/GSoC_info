@@ -1,0 +1,4 @@
+1.1 Brief explanation:
+Use libgdx-wrapper-methods of box2D to provide collision filtering in Pocket Code.
+1.2 Expected results:
+Let's take an example: we have three kinds of objects in a simple game: players, monsters, and scenery. We can implement rules like: players should not collide with each others, neither do monsters, but players should collide with monsters (and vice-versa). And both have to collide with the scenery.

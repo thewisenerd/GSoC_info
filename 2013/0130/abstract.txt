@@ -1,0 +1,2 @@
+Camera animations that are linked to character animations.
+With this system we can make the camera shake when a huge creature follows us for instance.

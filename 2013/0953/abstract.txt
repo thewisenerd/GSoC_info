@@ -1,0 +1,1 @@
+The idea is to allow vectorized call of ‘fn’ argument. Exmaple: for now, when nmkb is building a polytype, the points are passed to ‘fn’ sequentially. If the points could be submitted at the same time to ‘fn’ (that is the 'vectorized’ or 'paralleled' way), ‘fn’ may be able to parallelize these evaluations.

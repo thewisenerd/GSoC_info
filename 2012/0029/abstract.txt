@@ -1,0 +1,1 @@
+This project seeks to facilitate logistics during the event and increase the accessibility of the chapters' sites. I propose to develop a separate mobile web app using Sencha Touch framework. This app will be integrated with the existing codebase, with some changes required in the server-side code to handle client requests.

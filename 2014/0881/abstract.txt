@@ -1,0 +1,1 @@
+This document is my proposal to work on the PortfolioAnalytics R package for Google Summer of Code 2014. This proposal contains information about my background and my plan for what I will accomplish during GSoC 2014 for contributions to PortfolioAnalytics.

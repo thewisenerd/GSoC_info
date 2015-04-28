@@ -1,0 +1,1 @@
+Create a framework for batman-adv to allow different packet types to be fragmented and assembly when transmitted on links with limited packet size.

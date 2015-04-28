@@ -1,0 +1,2 @@
+Currently, Zotonic users can only install modules from the command line, and the admin interface has limited options for managing modules. The goal of this project is to enhance Zotonic's module management with the ability to 
+manage modules in the web admin/dashboard and also on the command line.

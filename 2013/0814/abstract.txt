@@ -1,0 +1,1 @@
+This project aims to implement a mixed bag of features in order to improve the add-on installation / uninstallation process in Firefox.

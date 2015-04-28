@@ -1,0 +1,2 @@
+GNOME's design and implementation of event & notification management has changed recently but few event sources like birthday reminders and weather notifications are yet to be implemented according to the new design. In this project, I aim to implement those additional event sources.
+I will also look into the possibility of integrating music controls, which earlier used to be there as special notification but was removed in the new design.

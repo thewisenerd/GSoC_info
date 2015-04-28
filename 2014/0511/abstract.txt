@@ -1,0 +1,3 @@
+A good syntax highlighter for C++ identifies types in an incomplete source snippet. Currently, there is no library around that is able to do this reliably.
+
+The goal of this proposal is to implement a syntax highlighter. The main part will consist of developing a fuzzy parser library that parses C++ heuristically. This fuzzy parser library could potentially be used in other areas as well.

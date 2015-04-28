@@ -1,0 +1,1 @@
+I would like to port Capsicum to OpenBSD, with the primary goal of being able to improve "sandboxing" of various daemons and services installed by default. Userland helpers like casper and user angels are a secondary goal.

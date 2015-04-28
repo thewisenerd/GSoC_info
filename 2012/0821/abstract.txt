@@ -1,0 +1,5 @@
+This project aims at developing a system with a web interface which can be used to create 3D models of various objects via Kinect and interface them to Zeega through its API.
+1) Developing an intuitive web interface with instructions to use the kinect 
+2)Scanning of objects via kinect to create 3D models in the form of .ply/.png files
+3)Output 3D model to MeshLab for cleaning up of mesh and develop into a robust manipulable file
+4)The resulting output file will be sent to the web interface which in turn will be exposed to Zeega via its API

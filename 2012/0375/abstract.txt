@@ -1,0 +1,1 @@
+The project aims to develop a web UI that provides browsing and statistical overview for data collected by the HonEeeBox sensor network with emphasis on data visualisation.

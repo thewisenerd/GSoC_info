@@ -1,0 +1,2 @@
+One of the developing zones concerned with artificial intelligence is to build software, having capacity to draw conclusions based on external data. An interesting way to build conclusions is based on probabilistic dependencies embedded among the data set which are modelled via a  graph called as a Bayesian Network(BN). Dynamic Bayesian Network(DBN) is therefore a BN that  couples time measurement with uncertainty. 
+This project plans to implement the DBN, along with inference properties.

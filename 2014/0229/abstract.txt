@@ -1,0 +1,1 @@
+This project will create a language to specify patterns for generative audiovisual works. Such patterns may unfold along a linear timeline, recur cyclically, or be triggered by external events (e.g. sensor input or user interaction). This frees the coder to focus on the rhythm and dynamics of the experience, rather than fussing over synchronization issues and frame rates.

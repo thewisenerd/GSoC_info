@@ -1,0 +1,4 @@
+This project aims to bring in some enhancements to make the Knitting experience of MapKnitter more friendly and easier. 
+This project will make two enhancements.
+1. Enhancing the upload interface(multiple image upload, multiple knitter image selection and display, drag-drop).
+2. Add feature in MapKnitter to auto-knit images as much as possible using relevant EXIF metadata from the images like latitude, longitude, altitude and orientation.

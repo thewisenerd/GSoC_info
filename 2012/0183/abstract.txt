@@ -1,0 +1,1 @@
+Static Verification of Code Contracts continued. Numerical analysis of integer values. Refine existing code using tests. Fixing some issues in Data Flow Analysis and Control Flow Graph construction to support invariants and postconditions.

@@ -1,0 +1,1 @@
+The aim of this project is to add awareness of SMT (Simultaneous multithreading/HyperThreads) to DragonFly scheduler so that scheduling  on multithreaded CPUs (HyperThreading technology) improves.

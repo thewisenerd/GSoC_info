@@ -1,0 +1,2 @@
+The pwn challenges in CTF events are more and more difficult than before. And more kinds of different archs of challenges are bringed out. Tranditional ROP code maybe no more suitable, so new method for ROP or exploit shoud be presented. And finding bugs out mannully in CTF binary is a so painful work. 
+So besides of the must to be done works, I also plan to take this opportunity to doing some exciting things, such as Automatic Exploit Generation, Automatic Binary Vuls Hunting etc.

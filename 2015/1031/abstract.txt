@@ -1,0 +1,1 @@
+All the functions from tr2 namespace are not implemented. This project plan to implement all of them, which would fix some bugs and benefit wine's behavior on many softwares.

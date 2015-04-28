@@ -1,0 +1,3 @@
+This projects aims at modularizing ClojureScript compiler backend (code emitter, target specific run-time parts) from the front end (parser and analyzer), and at providing an external interface for people wanting to implement their own backend. It would thus provide a modularized JavaScript backend, using the newly developed API to interface with the core of the ClojureScript compiler. 
+
+Additionally, this project would deliver a Lua target for the ClojureScript compiler, as a proof of concept of the efficiency of the modularization process.

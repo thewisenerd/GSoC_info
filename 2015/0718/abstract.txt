@@ -1,0 +1,1 @@
+The project constitutes developing the PLN system for the Rule Engine of opencog for the NLP-PLN-NLGen pipeline. This includes porting rules from the old implementation into the new PLN and also creating and adding new rules.The task also entails creating proper examples to verify correct implementation of the rules and creating proper documentation of all work done.

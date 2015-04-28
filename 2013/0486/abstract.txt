@@ -1,0 +1,1 @@
+The goal of this project is to rewrite the KWin Desktop Effects from scratch. The new Version will be written on QML2 and it will include the Qt Quick Controls and various other compomenents from the QML Multimedia

@@ -1,0 +1,1 @@
+Big Data algorithms can be applied during satellite imagery processing to analyze past events and help detecting their futur occurrences. Based on previous work about flood risks, this project aims to do analytics on model predictions of future precipitation and temperature by combining the use of Scala and Spark.

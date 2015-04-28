@@ -1,0 +1,1 @@
+This project will develop an open-source Javascript and D3.js package to generate interactive browser-based animations from phylogeographical and biogeographical datasets and inferences. The objective of this project is to design a tool that facilitates scientific discourse, both between researchers and between scientists and the public.

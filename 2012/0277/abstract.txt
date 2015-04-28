@@ -1,0 +1,3 @@
+PulseAudio has some ad-hoc logging and testing facilities. But they both need some improvements to make the system a better environment for developers. Therefore, developers can use these tools to have a better life.
+
+According to the time spent on the above proejct, if time permits, I would also like to help improve HDMI support in pulseaudio.

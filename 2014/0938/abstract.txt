@@ -1,0 +1,2 @@
+Currently many XMPP servers handle message stanzas sent to a user@host JID with no resource by delivering that message only to the resource with the highest priority. If the target user is online with multiple resources, a conversation ensues on one of the user's devices; if the user subsequently switches devices, parts of the conversation may end up on the alternate device.
+XEP-0280 defines an approach for ensuring that all of my devices get both sides of all conversations.

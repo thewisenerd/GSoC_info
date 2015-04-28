@@ -1,0 +1,2 @@
+Creating new packages.gentoo.org with rich web interface and advanced features.
+Port it to django.

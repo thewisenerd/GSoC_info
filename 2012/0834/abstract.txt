@@ -1,0 +1,7 @@
+So far, libgit2 supports fetching objects over http://, git:// and file://. This year's GSoC task is to finish network support for libgit2, namely
+
+* fetch over ssh (including an API for SSH key management),
+* support for packing objects (indispensable for push),
+* push over http, git and ssh.
+
+The existing network code is written in a modular manner and allows to be reused (regarding socket handling for example).

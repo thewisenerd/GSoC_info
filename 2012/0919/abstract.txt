@@ -1,0 +1,1 @@
+Currently all Sprites have to be positioned by defining their X- and Y-coordinates. That is not very user-friendly. Like in Scratch there should be the possibility to see the complete Stage before the program starts where the user can arrange Sprites by drag & drop. It should also be possible to change size and rotation.

@@ -1,0 +1,3 @@
+Finagle is a RPC system written in Java and Scala focusing on high-concurrency and asynchronous communication, designed for distributed systems.
+Zookeeper is a distributed coordination system, it exposes services like naming, service discovery and synchronization. It can be used to define specific mechanisms, for example leader election, barrier or queue algorithms, many important projects are built on top of it, such as Hadoop and Kafka. 
+Full abstract in the Proposal.

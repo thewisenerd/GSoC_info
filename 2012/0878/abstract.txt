@@ -1,0 +1,1 @@
+The goal is to implement coluor correction for the KDE workspace, by using Oyranos for creating colour transforms, and by complying to the X Color Management specification, with the help of libXcm.

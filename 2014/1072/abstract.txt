@@ -1,0 +1,3 @@
+AdaBoost, short for Adaptive Boosting, uses an ensemble of weak classifiers for classification, after tweaking subsequent weak learners in favor of previously misclassified instances. 
+
+This project aims at providing a multi-class implementation of the AdaBoost algorithm for Mlpack. Implementing AdaBoost would not only extend the range of the project, but adding weak learners would create a template for other ensemble classification algorithms like Gradient Boosting & LP Boost.

@@ -1,0 +1,1 @@
+This proposal can be split in two parts. The first one is to make the Freeseer Command Line Interface (CLI) compatible with the new backend and running in the experimental branch (the branch that contains the most recent code changes). The second part of it is to finalize the video uploader tool and make it operational also in the experimental branch.

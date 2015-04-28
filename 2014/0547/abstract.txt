@@ -1,0 +1,1 @@
+Current  GRASS GIS offers just a poor and out-of-date administration of metadata. The goal of this project is to implement administration of metadata according to the standards of INSPIRE and to create a graphical user interface which would allow the user to operate with metadata, such as creating, updating, browsing, searching etc.

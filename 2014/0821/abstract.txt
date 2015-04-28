@@ -1,0 +1,1 @@
+Implementing nearest-neighbour search for PostgreSQL's SP-GiST structures (kd-trees, quad-trees and radix trees).

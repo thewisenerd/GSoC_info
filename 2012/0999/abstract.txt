@@ -1,0 +1,1 @@
+The aim of this project is to design and develop an architecture for data synchronization using Intents. The architecture will be designed to support heterogeneous data for different Android applications to be synchronized using the main SyncApp developed in this project.

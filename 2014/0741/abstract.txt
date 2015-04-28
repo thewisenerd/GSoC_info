@@ -1,0 +1,2 @@
+This projects consist in implementing a function for computing an intersection of half-spaces, and use it in the point set processing package for normal and sharp edge estimation through the Voronoi covariance measure.
+In order to have a robust yet efficient implementation, the computation of the intersection of half-spaces will rely on  CGAL's convex_hull_3 with a set of specific filtered predicates.

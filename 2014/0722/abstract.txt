@@ -1,0 +1,3 @@
+jBPM allows you to improve your business in different ways. You can run the full BPM cycle using the new KIE Workbench functionalities.
+It's often required that your business is around documents that needs to be stored, to be read by users of the system and take decisions about this in your processes.
+The idea is providing the possibility of uploading documents from the KIE Workbench, taking into account user roles and rights, and then being able to use them inside custom tasks and human tasks

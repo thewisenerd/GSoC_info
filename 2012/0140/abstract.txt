@@ -1,0 +1,1 @@
+The project goal is to add a calendar view to Tryton in which some records will be displayed. Furthermore this calendar will allow the user to directly modify records date/time/duration as well as its content.

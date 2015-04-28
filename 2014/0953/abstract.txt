@@ -1,0 +1,1 @@
+The goal of this project is to add enhancements to BSNMP, a portable SNMP framework consisting of a daemon, modules and tools. This project proposes to add full IPv6 support as a loadable transport module to BSNMP.

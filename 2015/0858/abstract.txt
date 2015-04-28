@@ -1,0 +1,1 @@
+The goal of this project is to develop a enhanced cross-wiki watchlist for Wikimedia projects as an OAuth tool which runs on tools. It would support cross-wiki watchlist & notifications as well as features like inline diffs (e.g. per request or for all talk pages).

@@ -1,0 +1,3 @@
+The Pathway-Comparison-plugin will load two pathways and compare them in PathVisio on the basis of Data Nodes and their interactions.
+
+The user selects two pathways and hits the "Compare" button.The differences (which are actually the common nodes/interactions) between the 2 pathways are then listed in a Difference Viewer panel. Besides the list of differences, the Difference viewer will also have the 2 pathways loaded up and displayed side by side. The user could then select a difference from the list and this will be highlighted in both pathways.

@@ -1,0 +1,1 @@
+The project aims to review, extend and improve the MacPorts testing framework

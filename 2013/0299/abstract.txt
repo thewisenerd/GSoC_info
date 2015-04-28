@@ -1,0 +1,1 @@
+This proposal aims to improve the backend to python scientific programming in Cantor, using numpy, scipy and matplot libraries.

@@ -1,0 +1,1 @@
+There are several aspects of the Sage iOS apps that needs to be refreshed, improved or implemented. I propose to develop the ability to interact with several Sage services from the app, as well refresh the user interface for the app

@@ -1,0 +1,1 @@
+My name is Yurii Shevtsov. I would like to help KolibriOS to design such necessary addition like FT232 driver, which may attract new users. I believe that FT232 chip is a bridge to lots of devices, such as a popular Arduino.

@@ -1,0 +1,3 @@
+Shape approximation is important for many robotics applications, such as grasp planning, in which the primitive approximation of a detected object is tremendously useful in order to plan candidate grasps for a manipulation task.
+
+I'd like to participate in this project since my main research interest is grasp planning for sequential manipulation tasks, hence fitting superquadrics is an important tool I'd like to see in PCL in order to transfer my work from simulation to real-world data! :).

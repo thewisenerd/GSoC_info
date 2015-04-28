@@ -1,0 +1,3 @@
+Ryzom currently uses a renering pipeline with hardcoded shaders in shader assembly.
+This project aims to replace that pipeline with one that is programmable using material definitions using high level shader language. Additionally a material editor tool will be created so that materials can be easily defined and previewed.
+Also the current 3DS Max plugin for exporting models and materials will be updated to support the new pipeline.

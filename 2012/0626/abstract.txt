@@ -1,0 +1,1 @@
+Organization of the network discovery and scanning options as well as scan output of Nmap for a mobile device. Design and implementation of a clear GUI for Nmap for use on Android, parsing and representation of the scan results. Traceroute overview of hosts. Bluetooth device scanning and service enumeration app for Android.

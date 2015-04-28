@@ -1,0 +1,1 @@
+Proposal for enhancing pollerd to generally allow placeholders in the poller configuration. The configuration will be extended to allow overriding parameters based on an interface or a node. Customized configuration should be set with an ReST interface by enhancing the web application.

@@ -1,0 +1,1 @@
+I want to continue implementing XEP-0357 (Push) as an ejabberd module. The app server part shall be reusable by other XMPP servers

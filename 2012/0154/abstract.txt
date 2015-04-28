@@ -1,0 +1,1 @@
+My goal is to improve Apache OpenMeetings performance by implementing a system of posting documents on the whiteboard, without using OpenOffice.

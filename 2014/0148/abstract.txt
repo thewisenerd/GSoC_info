@@ -1,0 +1,3 @@
+isitfedoraruby.com is a web-application built with Ruby on Rails, that keeps track of the Fedora/Ruby integration, especially gem -> rpm conversion.
+
+The project was started on 2012 as a Google Summer Of Code project by Zuhao and later were added some new features during the Google Code In program. This is my idea of enhancing it from a packager's point of view.

@@ -1,0 +1,1 @@
+The aim of the project is to refactor catalogs and indexes, re-write Reports Module by making a generic query tool, and integrate D3.js for reports generation.

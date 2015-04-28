@@ -1,0 +1,3 @@
+This project focuses on adding support for server side pagination and sorting to the MifosX platform and the reference user interface. This project has a worldwide impact, there are multitudes of methodologies and delivery channels which deliver financial services to the poor. On the platform through the API, Mifoscommunity has the ability to build applications to allow Mifos to support new markets and scale more services to the poor in need.
+
+For large financial institutions, it is imperative that server side pagination and sorting are supported so that they can build scalable applications on top of the Mifos X platform

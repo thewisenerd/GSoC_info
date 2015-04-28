@@ -1,0 +1,1 @@
+Automate the syntax-check process for adding a new field on a table in the MIB file.

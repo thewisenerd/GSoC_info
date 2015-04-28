@@ -1,0 +1,1 @@
+This project will improve the performance of GNU Octave through JIT compilation. JIT compilation will be done using LLVM. This will result in greatly increased speed for non-vectorized code and loop execution.

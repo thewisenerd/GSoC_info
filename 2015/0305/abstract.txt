@@ -1,0 +1,5 @@
+Hello, my name is Erik Skultety and I am a student at Brno University of Technology,
+currently pursuing my master's degree. I'd like to participate on GSoC project
+to try something different from school projects, something more practical
+in real life. This is a huge opportunity to bring my skills and knowledge
+to a whole another level.

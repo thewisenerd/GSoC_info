@@ -1,0 +1,3 @@
+Official project description:
+The current Tajo does not support outer join. The parser part for outer join was already implemented.
+In this issue, we should improve LogicalPlanner/LogicalOptimizer to deal with outer joins. Then, we should adopt outer join to existing physical join operators like HashJoinExec and MergeJoinExec.

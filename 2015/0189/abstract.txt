@@ -1,0 +1,1 @@
+Paraview is an application that visualizes datasets. Unlike ROOT, Paraview was designed solely for dataset visualization, providing several techniques that are not available in ROOT. The goal of this project is to make these techniques available to the ROOT community through a reader plugin for Paraview.

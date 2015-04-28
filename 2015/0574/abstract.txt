@@ -1,0 +1,1 @@
+Nowadays a wide variety of audio and video codecs and containers exist along with devices that can only play back a small subset of them. In order to let people enjoy their media content on the device they'd like, on-the-fly transcoding needs to be integrated into Kodi.

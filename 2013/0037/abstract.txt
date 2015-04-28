@@ -1,0 +1,1 @@
+Implement a Firebird SQL connector for LibreOffice Base to replace HSQLDB as the current default database. (This would allow removing java as a fixed dependency for using Base.)

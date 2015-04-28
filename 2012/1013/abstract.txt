@@ -1,0 +1,1 @@
+Implement Linux inotify interface in kernel. Based on inotify interface, build a daemon that operates as indexing service and works on locate database.

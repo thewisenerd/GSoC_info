@@ -1,0 +1,1 @@
+With this project I aim to port as many games as possible to the new (and mature) version of QGraphicsView.

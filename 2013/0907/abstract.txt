@@ -1,0 +1,1 @@
+GSoC 2011 included a project to add master-side source steps. These are a new implementation of steps that have historically housed their logic in the slave's code, putting that logic in the master instead. There were a few key pieces of functionality omitted from the new master-side source steps.

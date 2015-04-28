@@ -1,0 +1,1 @@
+This project idea involves porting an existing game from KDE Games to QML/QtQuick, and realizing how libkdegames can be evolved to more support QML games in future. For this purpose, I propose to port KBreakout.

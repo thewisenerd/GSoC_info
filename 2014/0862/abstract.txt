@@ -1,0 +1,3 @@
+Currently, MediaWiki is unable to render Chemical Markup Files such as MDL molfiles.
+
+The goal I pursue with this project is to allow users at Wikimedia Commons to either upload or draw and upload Chemical markup.

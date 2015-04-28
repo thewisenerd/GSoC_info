@@ -1,0 +1,1 @@
+Through this project I propose to Implement Serverless Messaging into Smack. That would allow XMPP Clients to communicate with each other over a local area network or the same WiFi network without the need for a server.

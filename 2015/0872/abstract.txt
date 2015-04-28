@@ -1,0 +1,1 @@
+Consistency across platforms is very important when talking about such frameworks as .NET, but what sometimes is more important, is performance of the programs written in the framework. Microsoft did a huge amount of working to make this garbage collector and I propose to bring it to Mono platform.

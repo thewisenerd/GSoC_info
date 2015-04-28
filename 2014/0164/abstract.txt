@@ -1,0 +1,1 @@
+Python 3 is a modern and well designed(e.g. strict unicode handling, new IO stack) language than Python 2. Also, most popular Python projects such as Django, SciPy and Twisted (not all components) already supports Python 3.

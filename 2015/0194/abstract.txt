@@ -1,0 +1,1 @@
+Hello. My name is Kuznetsov Constantine and I want to recode vecuum for gist. Now vacuum for gist reads blocks in logical order, but there is a possibility to make reading is more sequential.

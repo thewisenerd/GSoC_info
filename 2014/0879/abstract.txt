@@ -1,0 +1,7 @@
+Implement a parallel version of some algorithms which are present in C++ STL and are missing in Boost.Compute.
+
+Improve the Random Number Generation aspect of the library by adding few extra distributions and a new engine.
+
+Test and benchmark all of the above adequately.
+
+Improve the performance of some of the existing algorithms by providing alternate implementations to the ones already present. Note that this will also involve benchmarking them first.

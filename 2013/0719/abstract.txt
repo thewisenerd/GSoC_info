@@ -1,0 +1,3 @@
+Introduction :  At this point of time, our development strategy at melange is somewhat close to Test driven development, the aim is to build on top of  it and take it  more closer to Behavior driven development. This would ensure that all the functional requirements of the application are met as per users’ expectations. 
+
+Another aim of the project is to improve and develop the acceptance test framework using pyccuracy ,ease the process of test case writing,taking feature requests by having a custom DSL and later pass on to automated functional testing with continuous integration.

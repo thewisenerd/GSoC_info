@@ -1,0 +1,1 @@
+Implementing a Vector Analysis framework for SymPy. It should include at the end of the project ways to work with manifolds, scalar, vector and form fields, directional derivatives, exterior derivatives, covariant derivatives, hodge duals, etc.

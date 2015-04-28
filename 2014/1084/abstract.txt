@@ -1,0 +1,1 @@
+I would like to work on two things: Firstly, redesign the backend and database provider optimized for reliable operation including unit tests. Secondly, make the application "web of trust" ready.

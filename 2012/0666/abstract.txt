@@ -1,0 +1,1 @@
+Extending recognition for multitouch input for SDL for the purpose of navigation, and a framework for future additions. As envisioned, the immediate result would serve as a compliment to a stylus. This would prepare Blender for the incoming Slate form factor machines (see Samsung Series 7 Slate and Asus Eee EP121), and potentially ease ports to Android touch devices.

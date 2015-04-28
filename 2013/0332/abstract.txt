@@ -1,0 +1,2 @@
+An extensible & flexible web based network analyzer.
+Deliverables of the project are; easy to extend plugin system, less dependency on protocol detection and stream reconstruction, more malware analysis plugins and more supported protocols.

@@ -1,0 +1,1 @@
+Proposal for PortfolioAnalytics R package to extend and improve constraints, usability, and graphics.

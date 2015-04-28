@@ -1,0 +1,1 @@
+Remove the existing Resource system from OgreMain, and define interfaces in OgreMain to make resource systems pluggable. Migrate the existing resource manager to use this interface. Additionally, make the loaders for meshes and other resources pluggable in the same way as is presently done for textures.

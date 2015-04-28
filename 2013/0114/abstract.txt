@@ -1,0 +1,2 @@
+The project aims to create a IVR service as well as an SMS service to allow patients to solve their day-to-day queries and thus significantly reduce burden on the hospital authorities.
+The project use technology of Asterisk,FASTAgi and REST API.

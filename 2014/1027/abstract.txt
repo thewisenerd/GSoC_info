@@ -1,0 +1,1 @@
+MetaCPAN is a free, open web service which helps in retrieving data about CPAN modules, distributions, favorites and CPAN authors. This project aims at improving MetaCPAN by minor bug fixing, all of which will cause a drastic improvement in the quality of search and user experience.

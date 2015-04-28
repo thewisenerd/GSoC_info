@@ -1,0 +1,2 @@
+The purpose of this project is to write a tool that reads pattern descriptions written in a lisp-style DSL and generates C code for folding on GIMPLE and GENERIC, and rewrite patterns from tree-ssa-forwporp, fold-const in this DSL. Another goal is to provide an interface for other SSA propogation passes (for example forwprop, value numbering), for performing folding on-the-fly,
+using information from the pass lattice.

@@ -1,0 +1,4 @@
+OWASP ZAP is an open source penetration testing tool for finding vulnerabilities in web applications.
+Reporting is a key component of ZAP as it gives users an insight into the test results.
+
+The propose project is to explore the current capabilities of ZAP reporting and enhance it with the help of BIRT integration with ZAP. The proposed outcome will use the existing ZAP result outputs and generate reports for the end-users to analyse the testing results in a productive way.

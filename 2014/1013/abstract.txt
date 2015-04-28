@@ -1,0 +1,3 @@
+Treewidth is a well-known metric on undirected graphs that measures how tree-like a graph is and gives a notion of graph decomposition that proves to be useful in solving problems which were earlier known to be difficult. 
+
+The goals of the project are to 1) Constructing an efficient data-structure for storing tree decomposition. 2)Implementing some efficient tree-decomposition heuristics. 3)Some sample applications (e.g Independent set).

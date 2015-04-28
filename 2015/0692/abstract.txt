@@ -1,0 +1,1 @@
+This project aims to provide better Tooling for Baloo. These tools will include a UI and CLI tools to monitor status of Baloo and UI to visualize which types of files are taking how much of storage using the data indexed by Baloo.

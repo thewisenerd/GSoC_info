@@ -1,0 +1,4 @@
+Performance analysis for high performance runtime is of great importance.
+This project aims at providing an integrated solution in HPX for creating databases and plots for performance counters related to:-
+AGAS, Parcel Layer, Thread Manager, LCOs, Characteristics of Localities, General Statistics
+using user defined input and output parameters and providing simple real time plots with a dashboard GUI and statistical inferences using statistical analysis.

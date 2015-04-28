@@ -1,0 +1,3 @@
+Source-sensitive routing (SSR) extends traditional next-hop routing by considering the source address of the IP packets in the routing decision. The homenet working groupe at the IETF has shown multiple use cases of the SSR, and is going to normalize it as a routing requirement of the home network standard.
+
+This project aims at adding support for source-sensitive routing in the Quagga routing suite. The project will focus on zebrad, the kernel interface of Quagga.

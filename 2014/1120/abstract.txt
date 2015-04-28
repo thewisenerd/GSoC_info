@@ -1,0 +1,1 @@
+This GSoC project mainly aims on creating an Android based application which can deploy a Vesuvius instance on the device itself instantly without any configuration what so ever, which then can be accessed by any other Wi-Fi enabled device via a Wi-Fi hotspot created by the same device. Creating a mobile friendly responsive theme for Vesuvius is also included in this project.

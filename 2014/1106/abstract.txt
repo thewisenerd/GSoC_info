@@ -1,0 +1,1 @@
+This project aims to implement some clustering algorithms in MADlib, which is a data analytics and machine learning library for PostgreSQL, Greenplum and HAWQ.

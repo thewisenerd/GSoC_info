@@ -1,0 +1,5 @@
+The project consists in setting up a framework for automated tests of Systers Mailman Project. The main goal of the project has been to have reusable and automated scripts for regression testing. 
+
+The Pyunit test framework has been used. I have created  a series of web-based selenium webdriver scripts covering thoroughly the specific features added by Systers to the Mailman project. 
+
+I have also created a collection of functions that serve to check if the data in the lists databases is being correctly modified while users perform web-based actions. The function are being used in conjunction with selenium scripts and smtplib/imaplib based functions to build a set of test cases that cover in a comprehensive way the functionalities of the Systers Mailman project.

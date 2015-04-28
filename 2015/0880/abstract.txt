@@ -1,0 +1,1 @@
+I plan to make JMAP protocol usable in Thunderbird using addon approach using SkinkGlue. My main focus will be to successfully demonstrate that we can receive messages in Thunderbird using JMAP protocol.

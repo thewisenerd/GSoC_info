@@ -1,0 +1,1 @@
+Quite a few GNOME applications are displaying images and allowing to zoom, rotate, etc. them so it would be beneficial for GTK+ to have a widget to do that job built-in.

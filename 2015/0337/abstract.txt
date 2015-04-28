@@ -1,0 +1,3 @@
+My project goal is to deliver set of scripts preferrably in bash, along with all necessay packages to convert standared installers ISOs into customized ISOs which install CentOS 6/7 + xen + libvirt + 2 pv VMs running + network configuration( bridge networking).
+
+I also plan to deliver xapi repo which can be used to build a custom installer ISO to install CentOS 6 + xen + xapi.

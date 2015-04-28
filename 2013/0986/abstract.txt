@@ -1,0 +1,1 @@
+Marble is very successful at displaying maps that you like and helping you find your way. And ownCloud is the project that lets you liberate your cloud data and bring it to under your control. This project aims to marry these two projects and let Marble users store their data on their own cloud servers and synchronize them across all devices they run Marble on.

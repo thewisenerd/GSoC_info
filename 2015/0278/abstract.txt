@@ -1,0 +1,4 @@
+The aim of this project is to finish and complete JIT compilation for netmap-ipfw.
+It could (ideally, it will) be reused to add JIT compilation for the base-system ipfw.
+
+We achieved basic compilation last summer, and in the worst case, we got a 7x speedup. This will be further evaluated during the summer (if I get to work on this).

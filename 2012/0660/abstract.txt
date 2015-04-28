@@ -1,0 +1,1 @@
+Rewrite avserver. Provide simple rtsp and rtmp repeaters. rtmp<->rtsp bridge. Support on demand requests.

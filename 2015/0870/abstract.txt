@@ -1,0 +1,2 @@
+Semantic Web projects have an issue of reliability. The keeping of SPARQL endpoints is expensive, so the Triple Pattern Fragments (TPF) were designed to offload the servers of processing requirements, and put it on the clients to do the processing. This project aims to provide the TPF server with the ability to update its dataset using the triples provided by the live extraction framework; just like the DBPedia Live.
+In short, we want to make the TPF live.

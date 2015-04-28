@@ -1,0 +1,1 @@
+This project is aimed at increasing the usability of Cesium based applications through implementation of a Modern Navigation Widget and an Optimized UI for Mobile Devices. The Navigation Widget developed will make the navigation of the maps and globe easier for the user whereas the Mobile UI aims at improving the overall user experience on mobile devices.

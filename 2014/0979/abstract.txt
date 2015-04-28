@@ -1,0 +1,1 @@
+My dream is to port Gluon Player to Qt5, add OCS support for friends and activities. Integrate a real time chat using XMPP and (if there's some extra time) prepare a showcase game.

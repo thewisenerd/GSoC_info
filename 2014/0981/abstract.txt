@@ -1,0 +1,1 @@
+Krita Animation is trying to give animation capabilities to Krita. This proposal describes how Krita Animation can be made more usable and stable, so that it becomes capable of drawing animations. Plus it describes addition of more animation tools which will help along in the creation of animations.

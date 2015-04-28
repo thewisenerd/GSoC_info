@@ -1,0 +1,2 @@
+The Workflow Monitoring tool is currently part of XBaya graphical user interface.
+Here we propose a new web based monitoring tool , which will be built as a separate module using HTML5, CSS3 and Javascript. We also propose new features in addition to the existing features for the new Monitoring tool.

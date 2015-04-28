@@ -1,0 +1,3 @@
+Bookie so far, not only helps bookmarking important or useful links, but also helps users to find them.
+
+Many people tweet important or interesting links or save links to pocket to read later, idea of the project is to add functionality to Bookie to automatically fetch the links from third party sites like twitter, pocket, facebook etc with permission of the user to bookie.

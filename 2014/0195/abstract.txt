@@ -1,0 +1,2 @@
+Mono Runtime is an application that runs IL bytecode on multiple platforms. The purpose of this project is to add a couple of improvements to its' current functionality.
+These improvements consist in eliminating pushes from x86 generated code, adding a store-forwarding optimization to the IR code and working on various parts of the long decomposition.

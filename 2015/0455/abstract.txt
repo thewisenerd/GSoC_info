@@ -1,0 +1,3 @@
+There is a clear demand for raster based software for hand-drawn animation. It is a highly requested feature for Krita, whose powerful drawing and painting tools would offer a great basis for it.
+
+Previous attempts at animation plugins have shown that a different approach is needed. Integrating animation deeper will allow better performance, usability and versatility of features. This project aims to integrate a keyframing framework into Krita and create user interfaces needed for animation.

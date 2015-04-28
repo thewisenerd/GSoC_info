@@ -1,0 +1,1 @@
+A web application that handle all the localization (translation) team management (apps booking, and review process).

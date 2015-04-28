@@ -1,0 +1,3 @@
+A mass import system to mine sentences from open texts in different languages and implementing an public interface through which quality sentences selected by system are further proofread by the crowd (Responsive Mobile friendly site) before being submitted to the database.
+
+Alignment of parallel texts and therefore pairing sentences also done if good confidence levels achieved.

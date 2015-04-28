@@ -1,0 +1,1 @@
+The aim of this proposal is to improve  KDE-Edu/Analitza math library by adding five features.

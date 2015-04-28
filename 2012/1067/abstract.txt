@@ -1,0 +1,1 @@
+Bidirectional search can speedup finding shortest path by reducing node exploration. In the project I want to implement Bidirectional Dijkstra and Bidirectional A* for PGRouting. I will implement the necessary data structures and the algorithms. I also intend to provide turn restriction support and hierarchical heuristic as nice to have feature.

@@ -1,0 +1,1 @@
+The purpose of this proposal is to make it easy to produce a Slide Drive HTML5 slideshow from a LibreOffice Impress presentation. This includes improvements to Impress’ SVG output, creating a tool to convert this output into a Slide Drive presentation including synchronized audio, and developing Butter.js support for editing the resulting presentations.

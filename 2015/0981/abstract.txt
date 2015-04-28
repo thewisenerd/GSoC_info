@@ -1,0 +1,3 @@
+This mobile application is helpful to children who are learning how to write, by allowing them to practice their handwriting skills.
+
+The application would present letters & words, and allow the kids to trace them. Voice/Speech/Haptic warnings would be given instantaneously when the trace is wrong. The kids would be able to save traces for their own self assessment.

@@ -1,0 +1,1 @@
+In this project, the first objective will be solving a bug related to mapped OpenCL buffers. The second objective will be implementing compute_memory_defrag, so we can reduce the space between items after the items that were in between have been freed, improving the GPU memory usage. The third objective will be reducing the amount of memory transfers between the host and the GPU.

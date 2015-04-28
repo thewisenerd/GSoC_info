@@ -1,0 +1,4 @@
+Vagrant is a tool for building and distributing development environments.
+Ganeti is a cluster virtual server management software tool built on top of existing virtualization technologies such as Xen or KVM and other Open Source software.
+Main purpose of this project is to allow vagrant to control and provision machines in the ganeti cluster.
+One of the use cases for this project can be Provisioning Testing environment with many VMs.

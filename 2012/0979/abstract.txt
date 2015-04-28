@@ -1,0 +1,1 @@
+The policy originator is an originator for SELinux policies and rules. Because it is very difficult to find out why a particular rule is set, we are creating this policy originator to simplify the process of figuring it out.

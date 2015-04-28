@@ -1,0 +1,3 @@
+Today, GNOME Documents spawns LibreOffice via a rather unreliable unoconv command-line that converts documents to PDF. It is not only unreliable but also the results are not good, for example, spreadsheet rendering results are quite bad. 
+
+With this project, we would be improving the existing libreofficekit based gtk tiled renderer, which would, then, be a very good replacement of the unreliable unoconv command in gnome-documents.

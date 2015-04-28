@@ -1,0 +1,5 @@
+Entity browser is a contrib module for Drupal 8 that tries to provide powerful and flexible framework for searching & selecting of entities. There are many possible use cases that entity browser wants to solve:
+-select an image to be embedded in WYSIWYG editor
+-select few related content items & "attach" them to another content
+-upload few images then select few more from library of existing media & use all of them in a slideshow
+-search YouTube for videos & attach them to a piece of content

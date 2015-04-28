@@ -1,0 +1,1 @@
+This project will lead to an implementation of Mark van Hoeij's algorithm for factoring of linear ordinary differential operators with rational function coefficients in FriCAS (using Spad language), offering at least computation of generalized exponents given factoring routine for polynomials and "easy" cases of factorization given in chapter 3.5 of van Hoeij thesis.

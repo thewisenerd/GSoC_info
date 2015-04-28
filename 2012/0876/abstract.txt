@@ -1,0 +1,1 @@
+This project will add a plugin system for scalers.  This will make it easier to add new scalers in the future as well as include support for higher bit-depths.

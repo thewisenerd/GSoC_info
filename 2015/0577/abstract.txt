@@ -1,0 +1,1 @@
+This GSoC 2015 Idea will focus on the development of a cross-projects python library with the aim of bridging together the several software libraries already installed on the live through the use of the Jupyter notebook server [http://jupyter.org] in a series of "topic-oriented" geospatial notebooks.

@@ -1,0 +1,5 @@
+The CEGUI user interface library currently has a great number of demos which are all split into seperate executable files. Additionally a lot of them are very old and some do not represent CEGUI's features in a good fashion.
+
+Therefore I suggest to create a sample browser, a single executable that unifies all samples and makes it possible to add new demos easily. The sample browser would be written in C++ and would also support python and Lua demos. As the next step I would like to change all existing demos, improving their visual appearance and functionality, removing useless ones, merging redundant ones, and adding new ones that i deem useful and representable for the library.
+
+My goal is to provide a sample browser in the end, which contains a set of useful, appealing demos, that give newcomers a good impression of the library and help them understand how it works, what can be done with the library and how certain features can be used. For this I would also like to create a special environment in which the sample viewing takes place, like a 3D room with screens, each displaying one demo on it.

@@ -1,0 +1,1 @@
+Creation of a SPARQL endpoint which responds to direct querying of enviroCar LOD , linking of The data set other possible endpoints , and compliance with GeoSparql to put out enviroCar data to the world in more accessible and compliant ways .

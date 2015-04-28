@@ -1,0 +1,1 @@
+Many cases show that the GDB on GNU Hurd is not so good as on GNU/Linux in terms of functionality and integrity.  The former eagerly need  to improve the porting such as fixing  the bug and make up the defect of missing important component like gdbserver. Gdbserver makes it possible to remotely debug. Without the porting of gdbserver, the porting of GDB to GNU Hurd is incomplete.

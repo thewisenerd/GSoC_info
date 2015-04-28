@@ -1,0 +1,1 @@
+An infrastructure to allow instances of resource pages to be customizable for specific disasters, in association with multiple languages. Currently in the Vesuvius system resource pages are not associated with events. So this project aims at creating an approach through which disaster specific resource pages can be created.

@@ -1,0 +1,1 @@
+This is a proposal detailing the work that I will be doing for TEAMMATES in GSoC.

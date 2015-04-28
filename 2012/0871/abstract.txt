@@ -1,0 +1,10 @@
+We implemented our own DNS system in our community which is integrated with the map-server. At the moment the integration is more like a temporary hack and not a piece of good software. We would like to separate this functionality and make it an indipendent application that can be integrated easily into the map-server but also run in standalone mode. The Goal is to make a system which calculates the hostnames of the nodes automatically but also gives the possibility for community networkers to manage their own DNS records indipendently (each node owner should be able to change his/her hostnames or add new ones).
+
+Features:
+
+Backend web interface for administration
+Frontend application in which each node owner can manage hostnames of his/her node
+Standalone mode
+Pluggable mode (integration with Nodeshot)
+Integration with Opensource DNS software (PowerDNS, myDNS, ecc)
+Level 3 Technologies: Python, Javascript, HTML5, CSS, Relational Databases Frameworks: Django, jQuery

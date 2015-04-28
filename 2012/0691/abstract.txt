@@ -1,0 +1,1 @@
+I want to implement spatial queries in CATMAID as described in idea one of the example proposals at http://www.incf.org/gsoc#section-13.

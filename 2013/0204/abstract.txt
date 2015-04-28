@@ -1,0 +1,4 @@
+While the application view has evolved in 3.6 and 3.8, it still does not match the design mockup. Work to be done:
+-Applications should be paginated rather than scrolled
+-Make the transition gorgeous
+-Expose folder editing to users

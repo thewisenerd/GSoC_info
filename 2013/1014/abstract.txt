@@ -1,0 +1,2 @@
+People which have multiple keyboard layouts in their system usually wants to know which layout is set currently. My GSoC 2013 project is to realize in-line keyboard layout indicator to let people know keyboard layout easily and without system tray because it can be hidden. I have 2 ways to realize it:
+simply changing carret icon in the focused text field or inserting country flag in the text field.

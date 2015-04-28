@@ -1,0 +1,3 @@
+Libbluedevil is a Qt library for accessing BlueZ. It internally uses D-Bus, which is asynchronous. However,  most of the current libbluedevil API is synchronous.
+
+The goal of this project is to introduce a new asynchronous QBluez library (libqbluez).

@@ -1,0 +1,1 @@
+I will remove ODE from the code base by creating a physics engine that is based off of ODE's model and current code. The engine will also be sped up by removing redundant processing. This will allow for network synchronization between client and server.

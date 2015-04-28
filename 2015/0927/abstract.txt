@@ -1,0 +1,3 @@
+The project goal is to create a tool that will be able to install and configure Web applications. The user will interact with the tool through a web application to allow the use of such functionalities.
+
+We will have a backend that will receive the information provided by the user, so getting installed and configured application. Soon say goodbye to complicated settings! This would help many people mainly the responsible for the systems infrastructure.

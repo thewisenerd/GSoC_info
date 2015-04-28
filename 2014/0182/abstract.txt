@@ -1,0 +1,1 @@
+I am a second-year master student at Shanghai Jiao Tong university. Having worked as an intern in Intel, Shanghai, I am quite familiar with xen, qemu, git. I am really interested in implementing Xen PVUSB support in xl/libxl toolstack and I am confident that I can accomplish this. Hope this can be my opportunity to enter the exciting open source development community.

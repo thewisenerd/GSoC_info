@@ -1,0 +1,9 @@
+Simulation of circuits on SPARKS in currently limited to those comprising lumped elements that are both linear and passive. A step ahead would be to allow inclusion of a larger variety of circuit elements that exhibit nonlinearity, beginning from, but not limited to, diodes, and subsequently, active devices such as mechanical relays and transistors.
+
+The difficulty in implementing active and general nonlinear circuit elements in the frequency domain would require us to add a new functionality, where time domain analysis is performed on the circuit to solve it. Enabling time domain analysis would also greatly enhance the flexibility of the base in supporting further development of SPARKS. Also, transforming the currently existing circuit elements (impedances and sinusoidal and DC voltage sources) to time domain is not difficult, and I intend to kick off with this.
+
+Over the summer, I plan to include diodes, relays and simplistic transistors into the list of circuit elements supported by SPARKS. Also, given that implementing a time domain analysis will ensure that periodic non-sinusoidal voltage sources (such as triangular wave and square wave voltage sources) can be easily implemented as well, I look forward to completing the same in the GSoC.
+
+Another objective I would like to accomplish (courtesy: Paul Horowitz and Sam Fentress) is to implement communication between breadboards to encourage greater collaboration between students.
+
+I look forward to utilizing this GSoC as an opportunity for me to enter the world of open-source, and kick off with a successful expansion of SPARKS.

@@ -1,0 +1,5 @@
+This proposal has two parts:
+
+1. Add support for bool dtype to sparse matrices, as well as boolean operations so that sparse matrices behave more like NumPy ndarrays.
+
+2. Improve interaction of sparse matrix objects and NumPy ndarray objects and ufuncs. This will make numpy.dot, .multiply, etc. work with sparse matrices, making generic sparse and dense matrix code much easier to write.

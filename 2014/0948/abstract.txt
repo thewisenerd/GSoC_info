@@ -1,0 +1,2 @@
+Enable GNOME to detect bugs early and improve the overall quality of applications. Several projects have started using dogtail scripts for tests, this idea will help new projects to adopt tests, improve them and make use of CI in GNOME.
+Project Mentors :Vadim Rutkovsky, Vitezslav Humpa and Vladimir Benes

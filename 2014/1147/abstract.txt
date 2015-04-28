@@ -1,0 +1,1 @@
+I'd like to rewrite Groovy's grammar in Antlr v4 terms and write a parser, which using generated one constructs Abstract Syntax Tree for Groovy. As a part of this work I have planned to improve Groovy Console AST browser because it can help me a lot with research phase. Also I can provide a new high-level API for AST transforms.

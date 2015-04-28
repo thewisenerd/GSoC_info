@@ -1,0 +1,4 @@
+The fact that mobile apps can consume and produce data is quite important in my opinion. Currently, working with Strings the get data out of an API or RSS feed is a bit of a messy process. Adding a component to make consuming and producing JSON easier would be a very interesting project for this summer. 
+I have seen that the TinyWebDB Service works in a similar fashion but it adds a bit of complexity. It seems to be somehow limited by the fact that the service has to provide the data in the right structures (a custom App-Inventor-compliant API is needed to proxy requests, which sounds great in itself as a project, but might be a bit difficult for beginners). It also sounds a bit convoluted to use the TinyWebDB client to grab the data in first place.
+
+Although this is an area in which I'm certainly interested, I'd be happy to work on other parts of the project if needed.

@@ -1,0 +1,2 @@
+This project consists in going to the submission of a new package to CGAL. The student will start from the prototype code of the following paper by De Goes and Cohen-Steiner and Alliez and Desbrun:
+An optimal transport approach to robust reconstruction and simplification of 2D shapes, in Computer Graphics Forum (proceedings of EUROGRAPHICS Symposium on Geometry Processing), 30, 5, 1593-1602, 2011

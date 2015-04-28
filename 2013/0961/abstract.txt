@@ -1,0 +1,1 @@
+Nomacs is an open source image viewing and editing software. The two things that distinguish Nomacs from other image viewer are the synchronization and wide range of image formats it supports.The main goal of my project would be to create a plug-in system that would allow to extend Nomacs by keeping the main program small.

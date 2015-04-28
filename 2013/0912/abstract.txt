@@ -1,0 +1,1 @@
+This project aims at eliminating the bottlenecks associated with password generation on CPU for fast hashes by producing the candidate password locally on GPU .

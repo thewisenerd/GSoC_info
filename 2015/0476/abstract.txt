@@ -1,0 +1,1 @@
+The 52°North WPS is used for processing geodata with different backends, like R, GRASS or Sextante. This project will connect the backend of Ilwis NG too, with creating a SWIG binding to the Ilwis’ C++ functions and use them in a Java WPS process. I intend to create a few example (vector and raster algorithms) and create a tool which automates this procedure.

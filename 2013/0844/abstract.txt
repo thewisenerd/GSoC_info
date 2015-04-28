@@ -1,0 +1,4 @@
+Collaborative editing currently suffers from two main problems:
+ 1) Setup difficulties. Many existing applications require you to open a port on your system, which can be difficult for various reasons.
+ 2) Editor application insufficiencies. Existing applications tend to focus on the "collaborative" part of "collaborative editor", and are often not very suitable text editors.
+This project aims to solve both problems by implementing a collaborative text editor built on telepathy and KTextEditor.

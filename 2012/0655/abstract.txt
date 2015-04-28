@@ -1,0 +1,20 @@
+The goal of this task is to push forward the development of Nodeshot in order to make it mature, stable and more flexible. The final goal is to promote this software so other wireless communities around the world can start using it and participate in the development.
+
+A joint effort from several wireless communities is being done in order to use a common database scheme and make a new flexible and pluggable map-server. This could be the first step in that direction.
+
+These are the task which I want to get done during the summer:
+
+    Refactor the database model so to become compatible with the common node DB project proposed in Athens at the Wireless Battle of the Mesh v5
+    Better DB abstraction, eg: differentiation between different types of devices (antennas, servers, others)
+    Integration with django's user management framework (django.contrib.auth.user) and permission system
+    Possibility for admins and users to login in the frontend and be able to perform different actions depending on their privileges (eg: some info might be configurable to be seen by a certain group of users only)
+    History for all the changes in the database
+    RESTFUL api in json and or xml to retrieve data from the database
+    Better notifications, 2 examples:
+         Possibility for non-admins to receive notifications when new potential nodes are added
+         Possibility to be notified if new potential nodes are added in a specified distance range (eg: notify me if a new potential node is added in a range of 10km)
+    Improve caching
+
+This refactoring regards only the server side code and the database, therefore other people will be able to work on the frontend and on the user interface without being affected by my code changes.
+
+The technologies I'll work with are Python, Django (python framework) and MySQL/Sqlite.

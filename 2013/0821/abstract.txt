@@ -1,0 +1,1 @@
+Creating a REST API for OpenNMS using Apache CXF. New REST API will be deployed as OSGi bundles, providing increased maintainability.

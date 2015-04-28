@@ -1,0 +1,2 @@
+MuseScore is an open source scorewriter and the main goal of this project is to create a tool for engraving notes. MuseScore can play created composition, but the sound is limited.
+Better sound is a top requested feature in MuseScore for  years, and a lot of people can't move to MuseScore from commercial software because of poor sound. My goal is to improve sound in MuseScore by simplifying connection with other software.

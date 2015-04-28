@@ -1,0 +1,1 @@
+An android based application for managing Taverna workflows. Workflows are formatted as .t2flow documents that can be interpreted by a Taverna server and processed. these documents represent projects created by users to monitor a certain phenomenon or activity. Hence an android based application helps to manage these workflows when on the run or not around the project work area.

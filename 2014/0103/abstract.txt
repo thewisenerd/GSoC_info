@@ -1,0 +1,3 @@
+There are quite a lot of bugs/errors in django that need to fixed as soon as possible. Hence, unexpected situations keep on arising. Also the error messages raised by Django can sometimes be confusing or misleading, sometimes due to Django wrapping and re-raising errors when it shouldn't or maybe due to Django not displaying error information effectively or sometimes it's simply a matter of not catching the right errors.
+
+This project aims at fixing these issues.

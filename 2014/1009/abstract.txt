@@ -1,0 +1,5 @@
+This project aims to port Valgrind to GNU Hurd.
+
+This port involves two major steps: making Valgrind understand how kernel traps work in general on the system in question; and how all the individual kernel calls affect memory. The latter step is where most of the work is, as the behaviour of each single system call needs to be described.
+
+A Hurd port will help finding out why certain programs segfault on the Hurd. More importantly, it will help finding bugs in the Hurd servers themselves.

@@ -1,0 +1,3 @@
+I believe the Differ project website for the National Library of the Czech Republic is due for an upgrade. 
+
+The GUI should be redesigned with a more intuitive interface.

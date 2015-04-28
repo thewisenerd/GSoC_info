@@ -1,0 +1,1 @@
+This is a project for the 2013 Google Summer of Code with GIMP. I will be improving GIMP on PSD support. Included is a description of what I think should be achieved with the time I have, and a possible timeline of that as well. It will be updated (hopefully) semi-regularly with progress.

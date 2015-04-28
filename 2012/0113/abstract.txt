@@ -1,0 +1,7 @@
+Summary:
+
+The objective of the project is to provide a software solution to easy integrate the Guifi.net characteristics into the QMP system.
+
+Why this is needed:
+
+Currently QMP is a working system, that can be used to easy deploy a Mesh Network but there are several missing features. One of them is the integration with the Guifi.net community. It can also be used as a template for the integration of other Network Communities like Freifunk, Funkfeuer, AWMN, etc.

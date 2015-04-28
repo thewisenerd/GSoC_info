@@ -1,0 +1,1 @@
+As says the proposal, I need to complete the work started in 2008's GSoC, to implement Doxygen-style documentation comments converting for many SWIG's output languages.

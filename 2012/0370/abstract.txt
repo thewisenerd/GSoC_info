@@ -1,0 +1,1 @@
+The project would be to build an HTML-5-based statistics viewer, for summarizing students' viewing data.  It would have a machine-learning component, for clustering students and extracting viewing patterns.

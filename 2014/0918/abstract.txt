@@ -1,0 +1,1 @@
+The main aim of the project is to improve the ticket and the blog items. This would include solving the existing problems and adding some more features that are necessary for these items.

@@ -1,0 +1,1 @@
+OGV stands for online geometry viewer, a web application that aims to give 3d graphics same status in web as 2d images, videos or multimedia. It has been worked upon from 2 years and this year I am improving it further. Enhancing it, and making it better than ever.

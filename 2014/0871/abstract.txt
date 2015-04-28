@@ -1,0 +1,2 @@
+My proposed project is to implement Point of Interest (POI) (similar to http://unterkunftskarte.de/ ) functionality with FourSquare and Facebook integration for User Checkins for GNOME Maps according to the mockups at https://wiki.gnome.org/action/edit/Design/Apps/Maps.
+The two things Points of Interest and CheckIns are closely related. Having them would be a good addition to GNOME Maps.

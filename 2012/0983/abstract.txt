@@ -1,0 +1,10 @@
+Short task list:
+- Add next slow formats to JtR
+--WPA-PSK (CUDA/OpenCL/CPU)
+--Mac OS X password hashes (10.7 and 10.8)
+--DES-based crypt(3) or FileVault 
+- Optimize existing formats 
+Aim for oclhashcat performance, It should be possible for all formats except sha*-based crypt.I would like to make them 80%+ faster.
+- Develop optimal thread/blocks finder for cuda patches
+- Try multigpu with MPI
+- Create auto-benchmarking tool for different pass/salt length

@@ -1,0 +1,1 @@
+Currently RouteFlow depends on other open-source routing stacks, like Quagga, to calculate routes for the controlled network. This project aims to create an independent routing engine based on the path information already stored in the persistence layer, and enables RouteFlow to provide a fully functional routing service.

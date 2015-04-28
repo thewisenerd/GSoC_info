@@ -1,0 +1,2 @@
+The Meta attribute is used in many places in Django: it is what enables us to write Models, Forms, and other parts in a syntactically nice way. Many people rely on Meta, even if it's formally an internal API.
+In the following 12 weeks I will be providing a plan to formalize Meta. It would allow people to build custom implementations of Meta and deploy them into a Django project. Finally, the project also involves building a PoC: integrating GMail with Django Admin

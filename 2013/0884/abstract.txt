@@ -1,0 +1,3 @@
+Ember currently uses PagingLandscapeSceneManager 2(PLSM2), a plugin for the Ogre 3D rendering engine which can display a Terrain by replacing the default Ogre scene manager. 
+
+PLSM2 is no longer being developed and its design makes Ember inflexible. Therefore, it is desirable to switch to the new Ogre::Terrain component which is part of core Ogre and can be used independent of the SceneManager implementation.

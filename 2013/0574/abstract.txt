@@ -1,0 +1,1 @@
+Main idea is to create more pages/tabs/views each specializes with its own idea, for example one page about Plone security notices, another, ncdu style preview of folders and items then members statistics ... And more importantly, some system to easily add new tabs so the programmers can easily extend HUD display.

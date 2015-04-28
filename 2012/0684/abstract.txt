@@ -1,0 +1,2 @@
+Lucene is a open-source full-text search library written in Java, but ported to many other languages. It relays on concept of document, a core Lucene information holder in need to be indexed or stored.
+This project will decouple indexing and storing operations over fields in document, as well as separate document classes in indexing and search time.

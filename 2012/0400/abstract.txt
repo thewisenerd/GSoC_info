@@ -1,0 +1,9 @@
+TABLESAMPLE is an interesting sql clause. It is defined in SQL standard 2003. An example is
+SELECT avg(salary)
+FROM emp TABLESAMPLE SYSTEM (50);
+It will return a sample of the underlying table of which the size depends on the number specified in the bracket. The SQL standard of TABLESAMPLE clause can be found at <http://www.neilconway.org/talks/hacking/ottawa/sql_standard.pdf>. 
+Microsoft SQL Server and DB2 have implemented this clause.  Querying a sample of a table is often occurring in people’s work.
+Looking at the page: <www.almaden.ibm.com/cs/people/peterh/idugjbig.pdf>. 
+In page 1 and 2, the author described the benefits and usage of a fast sampling method towards the discovering general trends and patterns in data. 
+
+It will be useful for PostgreSQL to implement this feature and make it available to the users.

@@ -1,0 +1,3 @@
+The Mifos X Batch API enables a consumer to access significant amounts of data in a single call or to make changes to several objects at once.
+
+Batching allows a consumer to pass instructions for several operations in a  single HTTP request. A consumer can also specify dependencies between related operations. Once all operations have been completed, a consolidated response will be  passed back and the HTTP connection will be closed.

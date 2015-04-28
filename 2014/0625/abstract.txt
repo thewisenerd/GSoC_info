@@ -1,0 +1,1 @@
+Hashed files in darcs follow the same idea as in git repositories or the bittorrent protocol: a file is saved on the disk using its own hash as name. Darcs uses them in many places. However some aspects could be improved. This project aims at improving manageability of the global cache, and at adding a few features to take advantage of it.

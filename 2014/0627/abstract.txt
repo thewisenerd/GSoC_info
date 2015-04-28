@@ -1,0 +1,2 @@
+Research and Development are in need of metrics of software radio systems. A common task is variation of system parameters and collecting transmission performance measured, but there is demand in the DSP community to gather performance data.
+I proprose a GSoC project to create a unified, distributed and versatile tool to do benchmarking of DSP applications as a whole and for performance analysis of their components.

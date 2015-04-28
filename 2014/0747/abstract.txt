@@ -1,0 +1,1 @@
+My name is Oleg Dolidze and i would like to participate in Mifos X project. I’m undergraduate student at Georgian Technical university and my study area is Informatics and Control Systems. I previously have worked in a similar open source project and I have experience working with Pentaho reporting,Java,MySQl and Hibernate.

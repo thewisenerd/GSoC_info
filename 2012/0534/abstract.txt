@@ -1,0 +1,1 @@
+Add several new, and more flexible snapping and constraint modes to Blender. Eventually work towards incorporating these features into several more tools such as knife and loop cut. Addition of several new tools such as a extrude by rail, and a pen tool which makes extensive use of snapping/constraint modes.

@@ -1,0 +1,1 @@
+Abstract: Robot sensors are not always perfect. It is important to maintain a higher logic consistency check over the readings provided by the sensors.The goal of this project is to augment the existing CRAM by providing a map which maintains the last known state of the world and also assures the physical consistency of the world belief state.

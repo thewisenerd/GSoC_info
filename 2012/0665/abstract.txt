@@ -1,0 +1,9 @@
+The goal of this proposal is the development of a GNUcash Android application which allows users to track expenses on-the-go and later on import the expenses into the desktop GNUcash program. This will enable users to have more complete oversight of their expenditures which will include expenses which were made in cash transcations. The Android application will be able to export the recorded expenses in the Open Financial Exchange (OFX) which is also supported by the desktop GNUcash for importing data.
+
+The proposed GNUcash Android application consists of a main application and an Android widget for quick expense entry. The widget should help reduce the friction to recording expenses by making it faster to record expenses when on-the-go. 
+
+The proposed app will use the Android design guidelines to provide a morden look while supporting Android API level 8 and above which represents more than 93% precent of the Android install base with access to the Android market [1] . This is achievable through the use of the Android compatibility libraries.
+
+
+
+[1] http://developer.android.com/resources/dashboard/platform-versions.html.

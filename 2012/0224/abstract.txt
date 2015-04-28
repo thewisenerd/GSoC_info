@@ -1,0 +1,1 @@
+The main goal of this project is to implement spatial and temporal reasoning into OpenCog through the integration of Region Connection Calculus (RCC) and Interval Algebra (IA) in PLN. By doing so, OpenCog will be able to reason about space and time following a well defined formalism, extending therefore OpenCog's reasoning capabilities to a field with multiple applications.

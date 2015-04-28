@@ -1,0 +1,1 @@
+GCompris an educational software suite written in gtk must be ported Qt Quick.

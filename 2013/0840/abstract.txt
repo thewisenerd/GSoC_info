@@ -1,0 +1,10 @@
+This project aims to create R Interactive Graphics via HTml (RIGHT) package that enables
+interactive data visualization and analysis on a
+variety of platforms. RIGHT will provide a seamless analysis-visualization workflow in R and allow users to easily explore data
+and gain valuable insight for the subsequent analysis. For example, the user can
+highlight the relation among visual elements in multiple plots in
+a figure, or selectively remove outlier points and re-analyze the
+updated data either locally or remotely.  Since HTML5 canvas and
+JavaScript will be used to create the visualization, it can be delivered to virtually any
+device/platform with a modern web browser. RIGHT will become a
+valuable tool for understanding large amounts of data, hence turning them into knowledge.

@@ -1,0 +1,6 @@
+I would like to interact with region, raster and vector maps as
+object, using and interacting with the map and the other GRASS
+functionality in a more higher and abstract way.
+
+For people used to `numpy` I would like to interact with the map with
+the same simplicity that I interact with matrix using `numpy`.

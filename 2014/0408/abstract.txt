@@ -1,0 +1,1 @@
+The project is about improving the curent Miniboxing  implementation in Scala compiler such that it will match optimal performance on large benchmarks, and it will be compatible with the 2.11 version of Scala.

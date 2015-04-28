@@ -1,0 +1,1 @@
+The proposed project aims to improve CEGUI's ease of creating new skins by adding a Skinning Editor to the CEED toolset. CEGUI widget skins are defined in look n' feel files (XML) and can currently only be created and modified using text editors. The editor would help to see changes immediately and would make the editing faster and easier.

@@ -1,0 +1,1 @@
+In the field of population pharmacokintetics modeling softwares like NONMEM and R packages like nlme are used to fit models. The aim of this project is to create nlmeviz, an  R package with dynamic interactive plots for diagnosing nonlinear mixed effects models. This package will provide the facility of dynamic linking plots to help diagnose these models.

@@ -1,0 +1,1 @@
+This proposal aims to add additional features to Feedback Sessions in TEAMMATES focusing on improvements to feedback paths, response visibility and additional question types. If time permits, a refactoring of the Results page and other improvements for enhancing usability and user-friendliness can be done.

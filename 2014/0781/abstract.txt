@@ -1,0 +1,1 @@
+Currently no MOOCs (Massive Open Online Courses) or e-learning systems support a peer instruction method, which has shown some advantages over traditional lecture-based learning techniques. In this project I will implement a tool that helps instructors and their students experiment with this teaching method online. The project will mainly leverage WebRTC technology.

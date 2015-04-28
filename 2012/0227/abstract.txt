@@ -1,0 +1,4 @@
+DCCP is a transport protocol suited among other things for media streaming. RFC 6012  recommends it also as a network logging protocol for (newer) syslog implementations. 
+
+The experience gained in implementing DCCP will lay the groundwork
+for later work on the plugable congestion control mechanism outlined in PSARC/2009/629.

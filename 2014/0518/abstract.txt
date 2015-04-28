@@ -1,0 +1,1 @@
+Sahana Kilauea is a product used in conjunction with Sahana Mayon by the City of New York. However, as this is merely a flavor of Vesuvius, Objective is to merge in the modules from Kilauea in to Vesuvius to create a single complete product. The initial work for this was complete during GSoC 2013 and looking forward to complete and polish the work done last year.

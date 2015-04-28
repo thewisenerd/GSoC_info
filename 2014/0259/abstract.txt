@@ -1,0 +1,3 @@
+UX design is more than making a nice visual design, it'a a process of understanding customers, business requirements and comming up with the right solution. 
+
+I plan to work with my mentor, the comunity and users in finding the best UX and UI design for the source to target mappings project and also implement the solution in the production code.

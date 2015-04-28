@@ -1,0 +1,1 @@
+This proposal will target usability, feature and system design improvements for blender's paint system

@@ -1,0 +1,3 @@
+WSO2 Machine Learner is a Server which provides Machine Learning on Big data. Wrangler [1] [2] is an interactive tool for data cleaning and transformation. Goal of this project is to add an extension for WSO2 Machine Learner for interactive data cleaning and transformation using Wrangler.
+
+Proposed Solution is to extend the Wrangler to generate Spark Transformations and integrate it into WSO2 Machine Learner by importing as a Javascript library and develop a jaggery interface interact.

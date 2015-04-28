@@ -1,0 +1,7 @@
+FOSSASIA is looking for two things, a) A mobile app for the FOSSASIA event, b) A event management utility  
+
+I propose  a project that will combine both. I plan to build the project in three modules - 
+
+ - an library which will contain all the extendable and reusable classes for creating the UI
+ - A boilerplate-like wrapper app code that will use the aforesaid library. 
+ - A webapp that will generate the data and config file that will be used be the wrapper code to form the event app.

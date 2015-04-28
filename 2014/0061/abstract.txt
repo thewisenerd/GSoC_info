@@ -1,0 +1,2 @@
+The idea is to extend scan-build tool to make it collect and track static analyzer's results in time. This allows developers to easily monitor the status of the analyzer's warnings. This project also gives opportunity to mark warnings as false-positive in convinient way.
+Also tracking platform will provide an unique id for each defect's report. It allows to easily report bugs in the project's bugzillas and share reports to an another developer.

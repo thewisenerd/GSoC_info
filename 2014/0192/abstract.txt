@@ -1,0 +1,2 @@
+This project aims to provide a tools.analyzer implementation for cljs, which will provide along with tools.analyzer.jvm a consistent way for libraries/compiler writers to deal with ASTs for the two languages.
+It also aims to extend documentation on the tools.* infrastructure with AST specifications, passes documentation and user guides on how to best exploit the general AST walking utilities that tools.analyzer offers.

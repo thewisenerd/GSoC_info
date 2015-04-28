@@ -1,0 +1,1 @@
+To make DBPedia more generic and flexible by supporting multimedia data sources other than Wikipedia.

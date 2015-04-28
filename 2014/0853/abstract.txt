@@ -1,0 +1,1 @@
+Kitherder would provide abilities for mentees and mentors to submit projects, for matches to be made and approved by coordinators, and for mentors and mentees to track the process of the projects through milestones.

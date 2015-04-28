@@ -1,0 +1,1 @@
+CodeCombat will have a developer tool usable by both Archmages and Artisans to easily debug and develop CodeCombat.

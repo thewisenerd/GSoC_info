@@ -1,0 +1,6 @@
+MITHgrid library is a data-centric, event-driven, responsibility-based library.In this project, we have tried to make use of MITHgrid library created by James Smith to build cool data driven applications. Our objective for building these applications were of three-fold.
+1) Since its an incipient library, we intended to add more components (presentations and controllers) to MITHgrid.
+2) To demonstrate the perks of using MITHgrid in terms of modularity and scalability.
+3) Get the word out about MITHgrid.
+
+MITHgrid is evolving .To get the initial interest in the developer community, we need to demonstrate the power of MITHgrid.

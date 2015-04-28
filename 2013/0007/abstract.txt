@@ -1,0 +1,5 @@
+Wikisource is one of the largest projects of the Wikimedia Foundation. However, its editing process is really different from Wikipedia's because the goal is to publish already existing works in the Public Domain. This process relies almost entirely on the ProofreadPage extension, which adds to mediawiki features related to scanned books : mainly, proofreading the book's text by comparing it to scanned images. As a consequence, the ProofreadPage extension is key to Wikisource's well-being.
+An example of the use of ProofreadPage extension is http://en.wikisource.org/w/index.php?title=Page:Studies_of_a_Biographer_4.djvu/174&action=edit</br>
+The development history of the extension has been somewhat discontinuous, leading to a non-modular and difficult to extend code base. The goal of the project is two-fold:
+    - reorganizing and refactoring the extension, making sure to make it modular, non-redundant, and documented as needed to ease future work
+    - integrating the Visual Editor and extending it to make it compliant with the ProofreadPage extension's specific features

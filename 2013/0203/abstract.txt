@@ -1,0 +1,1 @@
+GNOME Music is an application maintained by the community, it is written in javascript + gtk and it uses grilo+tracker. This project will add a lot  value to GNOME because its is based on the new GNOME 3.0 design patterns, and introduces a nice element of simplicity that makes it attractive to users.

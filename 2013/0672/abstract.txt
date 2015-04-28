@@ -1,0 +1,8 @@
+This project is to improve the current translation functionality of Sahana. This will include the following features:
+
+* Excluding Deprecated Strings
+* Retrieving strings from active templates
+* Including Prepop Csv files
+* Pootle Integration
+* Conflict in strings due to pull requests
+* Avoiding system calls in Translate Toolkit.

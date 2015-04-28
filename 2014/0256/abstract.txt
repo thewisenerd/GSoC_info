@@ -1,0 +1,1 @@
+Currently, wxUniv have many fundamentally bugs and drawing issues. This proposal will bring the wxUniv port up to current wxWidgets standards and let it have a good appearance.

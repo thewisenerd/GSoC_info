@@ -1,0 +1,5 @@
+This project is about running Gentoo natively on Android devices.
+
+I am going to develop libc support and root permission handling in Gentoo Prefix, and deploy the enhanced Gentoo Prefix in parallel to Android userland in mobile devices, such as smart phone and tablet. This will provide a full-featured native GNU userland to Android system.
+
+Provided libc is integrated into Gentoo Prefix seamlessly, cross-compiled bootstrapping of Gentoo Prefix will be investigated to ease the deployment process of Gentoo on Android.

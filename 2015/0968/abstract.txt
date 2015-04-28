@@ -1,0 +1,6 @@
+Daru (Data Analysis in Ruby) is a gem which aims to bring analysis, manipulation and visualization of data to ruby. It already offers data storage and compatibility with other SciRuby gems.
+
+This project aims to increase the capabilities of daru with:
+* Complete compatibility with statsample
+* Indexing on TimeSeries and compatibility with statsample-timeseries.
+* Arel-like querying syntax for DataFrame.

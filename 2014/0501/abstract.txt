@@ -1,0 +1,1 @@
+I would like to develop ahmia.fi - search engine for hidden services. It needs a lot love and care. I have founded, developed and maintained ahmia.fi and would like to continue doing so. I have published the source code of ahmia.fi.

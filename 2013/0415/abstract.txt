@@ -1,0 +1,1 @@
+This project aims at providing validation of State Chart Diagrams in the behavior graphical editor of eTrice, a project under the Eclipse Model Development Tools (MDT) intended towards implementation of the ROOM Modelling language, by providing markers for warnings and infos in these state machine diagrams and quick fixes to allow the user to pick from a list of proposals.

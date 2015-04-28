@@ -1,0 +1,3 @@
+Civimail is an extremely important component of CiviCRM. 
+A/B testing is a relatively recent, highly effective, cost-efficient strategy for improving the conversion rate, and since CiviCRM is specifically designed for the needs of NGO and advocacy groups, and serves as an association management system it is also a must for it. 
+CiviCRM lacks this feature and it is essential for any mail blasting application.Also it is a commonly requested feature on the community.

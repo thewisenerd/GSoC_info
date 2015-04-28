@@ -1,0 +1,1 @@
+This project aims at improving the way ATOMS  manages the external packages, and adding functionality to the sciCurl module.

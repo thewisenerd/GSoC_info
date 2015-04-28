@@ -1,0 +1,1 @@
+Improve Hibernate Validator by using Java 8 new capabilities such as improved annotations (e.g. type annotations, repeatable annotations) and reflection (e.g. parameters names reflection). In addition, add support for new Java 8 types such as the new date time API types.

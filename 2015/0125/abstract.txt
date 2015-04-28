@@ -1,0 +1,5 @@
+The Optimization package is missing functions for  'lsqnonlin', 'lsqcurvefit', 'nonlin_curvefit', 'nonlin_residmin', 'lsqnonlin', 'fmincon', 'quadprog' etc.
+
+The first priority is to implement these as using back-end algorithms already present in the Optimization package, the documentation for leasqr, nonlin_residmin, nonlin_curvefit, nonlin_min.
+
+Further extension would be to add new optimization algorithms or variants in the back-end to those already implemented.

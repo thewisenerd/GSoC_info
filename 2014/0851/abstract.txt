@@ -1,0 +1,4 @@
+A previous GSoC project has created the basics of a wxWidgets port to Qt. 
+The task for this year would be to make this port really usable and complete the missing parts, suitable for developing small applications with it, bringing the wxQt port up to current wxWidgets standards, updated to Qt 5.2.
+
+As a proof of concept to explore the capabilities and limits of the mobile environment and rapid application development, a minimal prototype of wxPython using wxQt for Andorid could be developed.

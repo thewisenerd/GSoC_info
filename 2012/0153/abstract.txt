@@ -1,0 +1,1 @@
+Use libguile as the basis for Emacs's Lisp implementation and begin replacing the Elisp interpreter with Guile

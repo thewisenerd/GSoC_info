@@ -1,0 +1,1 @@
+I’m interested in creating ANTLR grammar for comments and Documentation comments (JavaDocs). I worked on Sevntu.Checkstyle project during August 2013 year - February 2014 year. I created few new Checks and did updates to existing Checks. My contribution to Sevntu.Checkstyle: https://github.com/sevntu-checkstyle/sevntu.checkstyle/commits?author=baratali.

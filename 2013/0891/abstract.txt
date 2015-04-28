@@ -1,0 +1,1 @@
+Demo instances of Vesuvius aims at providing the potential adopters of the Vesuvius system a test run before actual deployment. In this way the adopters can check out all the facilities that Vesuvius has to provide.

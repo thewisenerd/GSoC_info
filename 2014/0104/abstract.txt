@@ -1,0 +1,1 @@
+Sugar is lacking any 3D programming environments. This project would be to develop such an environment. There is a rich program in 3D Logo developed by Horacio Reggini. The specific project would be to write an extension to Turtle Blocks to encompass Reggini's ideas.

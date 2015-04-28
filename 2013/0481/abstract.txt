@@ -1,0 +1,3 @@
+There are some common debugging problems people come across when starting a port of a new mainboard for coreboot. First is the flashchip being soldered on the mainboard and second is the lack of serial port connector. I attempt to attack both of these on some level.
+
+My primary goals are to add support for memory-mapped serial UARTs and the ECHI debug port mechanism on the commonly used payloads, and to integrate a pre-OS flash writing mechanism in the toolchain to allow easy and safe deployment of new coreboot builds.

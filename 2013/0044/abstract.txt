@@ -1,0 +1,1 @@
+The goal of this project is to add some communication between your Android phone and your KDE desktop. This way we can, for example, show a desktop notification when you receive a new message, or pause the music automatically during a call.

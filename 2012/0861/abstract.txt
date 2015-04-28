@@ -1,0 +1,1 @@
+Nowadays iOS platform devices are used more and more in people’s daily life. Internet connectivity is always a big problem for these mobile network users. It’s a great opportunity for Open Monitor. Many iOS devices owners will benefit from our work. This project will implement an iOS agent for Open Monitor.

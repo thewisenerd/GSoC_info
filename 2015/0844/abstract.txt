@@ -1,0 +1,2 @@
+The main aim of this project will be making some sort of Astronaut’s Digital Assistant which will take into account all the constraints and rules that has been defined and plot a plan of action. It will also schedule all the tasks for the astronaut such that job of the astronaut becomes easy.
+(Read further in the proposal)

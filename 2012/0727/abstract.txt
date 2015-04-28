@@ -1,0 +1,1 @@
+MusicBrainz gets over 20 million hits per day. This generates massive amounts of log files that are eventually thrown away. This project is about mining these log files for useful and interesting information.

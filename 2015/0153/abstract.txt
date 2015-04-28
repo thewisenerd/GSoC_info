@@ -1,0 +1,1 @@
+Hibernate Search is a powerful project with a lot of possibilities. However, it is in need of the instruments which allow quick experimentation and provide an easy way of indexes inspections. The aim of this project is to create a number of tools for Hibernate Search.

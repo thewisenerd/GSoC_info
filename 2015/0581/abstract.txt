@@ -1,0 +1,1 @@
+Sometimes people have multiple accounts on different servers and would like to connect to them at the same time. It is possible to run several instances of Swift and log to each account but this is ugly and uncomfortable way. The project aims to create pleasing user interface for multi-account actions and ensure proper performance when connected with several servers.

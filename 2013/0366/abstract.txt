@@ -1,0 +1,1 @@
+The essence of the project is to bring Privly to mobile devices, and more particularly to iOS devices such as iPhone, iPad, and iPod Touch, by building a native app for content posting and Privly, social networks, and email content reading.

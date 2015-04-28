@@ -1,0 +1,3 @@
+The idea is to create complex image processing chain using the OSSIM python bindings pyossim.  The work will add 'numpy-array' capabilities into pyossim as exchanging formats to include python-gdal and pyOpenCV to solve image processing problems for under water images processing (develop methods for : Bayer Demosaicing, Light detrend, color correction on raw tiff CCD images).
+
+For testing purpose, raw CCD images and relative camera metadata (focal length, distance from the ground, roll, pitch, gain etc..) from the  Habcam project will be used.

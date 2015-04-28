@@ -1,0 +1,3 @@
+The project is to implement a basic LLL in FLINT allowing for parameters to be supplied governing the strength of reduction, followed by a couple of the more interesting modern versions, including the LLL with removals and ULLL, a version of LLL with better complexity in terms of the size of the entries.
+
+mentors: Bill Hart, Fredrik Johansson

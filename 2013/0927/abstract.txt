@@ -1,0 +1,1 @@
+Convert oppia into a django app. Plug it into the openhatch codebase and use it to create, edit and run training missions.

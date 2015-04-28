@@ -1,0 +1,6 @@
+The purpose of this project will be to create window system backends to
+deploy XBMC on modern linux windowing systems and provide automated tests
+such that the code doesn't fall into bitrot for windowing systems which
+might not be heavily used at the moment.
+
+Ideally, the project will allow xbmc to run natively when either: Directly on the linux framebuffer (eg, GBM / KMS), Via the wayland protocol on Weston, Via the Mir protocol on the Mir Compositor.

@@ -1,0 +1,1 @@
+Convenient and reliable means of survival analysis is critical to practitioners. Some tools exist for estimating the parameters of a shared frailty model, but they are currently incomplete and lagging behind the state-of-the-art. This work proposes an R package based on established modern research in estimating the parameters of a shared frailty model.

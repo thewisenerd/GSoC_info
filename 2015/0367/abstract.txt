@@ -1,0 +1,5 @@
+In the ODE stack of Geant,
+-Introduce some new Runge Kutta methods and multistep methods
+-Implement dense output through interpolation and extrapolation methods
+-Implement a mechanism to dynamically choose between different methods of 
+ integration[Experimental]

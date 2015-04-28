@@ -1,0 +1,1 @@
+This project will continue work from last summer, which hopes to enable a production print workflow suitable for graphics professionals ("perq"). It will do this by extending the CUPS web interface, and modifying its handling of PPD (PostScript Printer Description) files.

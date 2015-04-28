@@ -1,0 +1,1 @@
+This project aims at improvising code coverage in Derby. Having good code coverage helps assure that the most important conditions are met and tested.  Since derby has lots of legacy code and is used in a variety of environments including commercial deployments, it becomes more important to provide high code coverage for important classes.

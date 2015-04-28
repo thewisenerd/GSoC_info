@@ -1,0 +1,3 @@
+Implementing a new Scene subclass, the Voxel Scene. This would handle 3D terrain data processing, rendering and modifying, as well as integrating with the rest of the engine systems such as physics.
+
+Focusing in on a few parts of this extense area of work: customizable terrain generation, rendering optimization with LoD & heavy culling algorithms and physics integration. At the end of the program render destructible, randomly generated noise terrain that makes sense and has physics.

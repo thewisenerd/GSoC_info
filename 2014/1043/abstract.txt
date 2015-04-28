@@ -1,0 +1,1 @@
+Ticket system need to assist users when creating and modifying ticket to reduce potential errors and to minimize the amount need to type by the users by auto completing the fields. (COMDEV-111)

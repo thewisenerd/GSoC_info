@@ -1,0 +1,7 @@
+In the Google Summer of Code project I want to investigate and implement a visualization of IR with other compiler artifacts of the JRuby toolchain. This idea is inspired by the Scala compiler browser GUI and Dr. Garbage visualizing the abstract syntax respectively Java Bytecode.
+ 
+JRuby currently lacks to select of one compiler pass with dumping results of the pass like transformations, dependencies, .... I want to achieve 
+ 
+to capture the relation between abstract syntax and IR,
+illustration of control flow graph and its basic blocks
+summarize information about subtree (selected) for a given node in AST like Java Bytecode

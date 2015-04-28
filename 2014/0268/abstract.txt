@@ -1,0 +1,5 @@
+Ganeti provides the ability to create instances choosing between various
+disk templates. However modifying the disk template of an existing
+instance is supported only between plain and drbd disk templates. The
+proposed idea is to design a generic, disk-agnostic interface that will
+provide support for converting between various disk templates.

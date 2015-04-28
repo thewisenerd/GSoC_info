@@ -1,0 +1,1 @@
+By building a multicast service for GNUnet, we create the possibility of using GNUnet as the basis for a wide range of low-latency peer-to-peer applications. Examples are a Publish/Subscribe infrastructure, distributed group chat, telephony and other kinds of multiparty collaboration tools.

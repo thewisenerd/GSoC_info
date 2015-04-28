@@ -1,0 +1,7 @@
+Expected project results include:
+- an implementation of the MDP-Flow2 algorithm, performing significantly better than all of currently implemented in OpenCV
+- preparing a testing framework for optical flow estimation functions in OpenCV based on Middlebury methodology and dataset
+
+If there is enough time:
+- an original modification to the algorithm (not to use SIFT and be patent-free), 
+- CUDA - enabled version of it

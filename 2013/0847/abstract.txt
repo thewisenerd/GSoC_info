@@ -1,0 +1,1 @@
+A plugin for OWASP Zed Attack Proxy will be developed to let users create and run Mozilla ZEST scripts with an as easy as possible interface.

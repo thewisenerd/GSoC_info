@@ -1,0 +1,1 @@
+Using GObject Introspection data to feed the java-gnome code generator.

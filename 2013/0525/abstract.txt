@@ -1,0 +1,1 @@
+Dynamic program slicing has been used in many applications. Giri was a re- search project from UIUC, which im- plemented the dynamic backward slicing in LLVM. I think it’s a good idea to extend this project in several ways: 1) Update the code to LLVM mainline and make it robust, 2) Improve the performance of giri run-time, 3) Reduce the trace size, etc.

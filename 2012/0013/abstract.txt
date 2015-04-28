@@ -1,0 +1,1 @@
+The purpose of this project is to run FreeBSD on BeagleBoard-xM device - OMAP3 based multifunctional board. The main work will be to implement OMAP3 support and peripherals like ethernet, usb host, audio and DVI video devices included in BeagleBoard-xM

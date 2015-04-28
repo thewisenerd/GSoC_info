@@ -1,0 +1,4 @@
+Recently, Tor project has launched Obfsproxy as a response to Iran’s filtering of SSL protocol. Similar behavior has been observed such as throttling SSL, or blocking SSH for a long period of time. This pattern of behavior suggests that a change of model from blacklisting protocols to white-listing model using DPI, is not out of sight at least for a short period of time during critical periods.Among all protocols, it is not hard to guess that HTTP will be last survivor on the white-list. On the downside, encrypted content on HTTP communication can be easily detected and put the users in danger. In this project, I will 
+1.Implement a HTTP-based pluggable protocol for Obfsproxy.
+2.Research the state-of-art methods to conceal encryption.
+3.Implement the chosen solution into the protocol.

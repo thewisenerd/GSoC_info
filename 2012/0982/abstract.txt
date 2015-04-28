@@ -1,0 +1,4 @@
+The idea is to add voice control for Banshee media player to improve the accessibility. Many portable media player
+devices can be controlled using the human voice and it has resulted in
+the users having a rich accessibility interface. The plan is to let the user do basic controls through his voice which will be helpful for
+the people who can't use the normal mouse controls

@@ -1,0 +1,2 @@
+Owing to their ability of agile and robust motion, quadcopter motion is a very interesting topic for both Aerospace and Controls researchers. It has huge application.
+Here I propose a two step process of first estimating the quadcopter's states, with confidence. Then using layered PID controller we can control the attitude, velocity and position of the quadcopter.

@@ -1,0 +1,1 @@
+This project aims to provide more channels to the users to submit the benchmark logs of their brlcad installations ( via the web API, ftp, scp in addition to the existing channel of email), implement an efficient storage and retrieval of logs (via the database and the archiving of the files) and provide an interface to access the logs via graphical means or otherwise.

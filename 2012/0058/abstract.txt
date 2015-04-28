@@ -1,0 +1,3 @@
+This project implements a web based Editor that admins can use to customize the appearance of their website without any knowledge of web technologies. Generic templates are implemented in the form of skins. Use the editor to customize these. The skins are based on template overriding in Django, and are bundled with accompanying CSS and Javascript. 
+
+Fix the currently broken and patchy bare-bones website that a new user starts with when he downloads the code. Populate it with useful defaults and include essential modules. Provide things like a wizard to setup the static pages so that new user frustration is kept to a minimum. Also simplify the user registration process by being lazy about asking for information.

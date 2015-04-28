@@ -1,0 +1,2 @@
+Make an Interactive graphics for scilab,
+where users can edit by simple click and retrieve data from point, curve, surface. modify the position of an entity by click and drag etc.

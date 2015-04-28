@@ -1,0 +1,7 @@
+Brief explanation: 
+DHIS2 defines metadata such as data elements, datasets, indicators, forms, sections etc. New implementations start with a blank database at the moment. 
+
+
+The goal of this project is to be able to share parts of metadata from another DHIS2 instance and import into a new DHIS2. 
+
+The project is to create a metadata sharing tool that will expose a subset of DHIS2 metadata and expose it as DXF2.0 format.

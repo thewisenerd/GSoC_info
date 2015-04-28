@@ -1,0 +1,1 @@
+I'm going to integrate Banshee application with AcoustID. That means, I will write an module, which allows to user automatic fix metadata of his multimedia collection.

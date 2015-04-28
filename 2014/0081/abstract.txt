@@ -1,0 +1,1 @@
+Continuing the development of Fluid Simulation using a plugin approach in Gazebo. Adding cohesion and friction between the liquid particles to simulate granular particles such as sand. Looking into a better approach to synchronize with the Rigid Body Physics Engine. Look into collisions with objects, transferring forces to them.

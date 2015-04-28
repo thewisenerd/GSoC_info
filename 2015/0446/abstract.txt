@@ -1,0 +1,1 @@
+A personal GPL-licensed version of SageMathCloud included with every copy of Sage, as described on http://wiki.sagemath.org/GSoC/2015#SageMathCloud

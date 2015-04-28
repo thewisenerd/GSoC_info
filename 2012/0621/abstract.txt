@@ -1,0 +1,1 @@
+Currently the interface is one of Cantor's weakest parts. I'd like to write a more flexible and user-friendly interface for Cantor, and once this is done, implement a new input tool using some the newly gained flexibility.

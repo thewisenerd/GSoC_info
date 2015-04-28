@@ -1,0 +1,3 @@
+This project's goal is to build on the work of two successful GSoC projects (2012, 2013) that expanded on the work of Ram Ahluwalia at Wingfoot capital and established the standalone package Meucci by porting Attilio Meucci's orinal MATLAB source.
+
+The main part of this project focuses on extending the current functionalities of the package to the latest technical developments in this area, the second part of the project will focus on the continued improvement of the Meucci package.

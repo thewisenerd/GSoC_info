@@ -1,0 +1,1 @@
+To make some stand-alone libraries to strengthen security in PHP and to alleviate some of the security risks as cited in the OWASP Top 10 list. Then to extend the collection of these libraries into a basic framework which would evolve in time.

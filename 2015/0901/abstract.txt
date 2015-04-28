@@ -1,0 +1,2 @@
+I want to add version control backends. Now at monodevelop there are 2 implemented version control systems: git & subversion. I’d like to implement mercurial & bazaar.
+There is community version of Mercurial. But community mercurial version done using the executable. Which means it's slow and we can’t apply something improvements. I want to make it using the commandserver protocol. Bazaar is less popular than mercurial, but it still used in many open source projects.

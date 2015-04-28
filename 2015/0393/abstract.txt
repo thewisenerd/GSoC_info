@@ -1,0 +1,3 @@
+DyND is an array math library written in C++ and designed to improve on the functionality of NumPy.
+Its implementation as a C++ library allows it to be used for vector math at the C++ level without any interaction with Python objects.
+It is proposed that the Python wrapper for DyND be modified to provide an API for Cython extension modules so that array arithmetic operations can be used in Cython without the overhead of interacting with Python objects.

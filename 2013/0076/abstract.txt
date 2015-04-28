@@ -1,0 +1,1 @@
+The aim of this project is to simplify the process of building Octave from source and easily generate binary packages for Windows and Mac OS X. Currently Windows or Mac OS X users have to follow a very complex and long procedure in order to install Octave. This project will not only ease Windows/Mac OS X users of Octave, but will save a lot of time of package maintainers as well.

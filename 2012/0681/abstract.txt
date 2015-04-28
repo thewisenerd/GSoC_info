@@ -1,0 +1,2 @@
+I want to work on OpenCV’s “Training classifiers” project. You may ask: why are classifiers so important? In real life situation, there can be many objects we want to detect or even track. A good solution would be to use Haar classifiers.
+ The benefits of Haar training: Haar properties grant me real-time performance; Haar mixed with AdaBoost (Adaptive Boosting) gives precision and speed; the algorithm is a generic object detection method.

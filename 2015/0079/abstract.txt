@@ -1,0 +1,1 @@
+The project involves parsing an .scad input file (which is written using the OpenSCAD programming language) and generating the BRL-CAD structure internally which is later stored into a .g (BRL-CAD database) output file.

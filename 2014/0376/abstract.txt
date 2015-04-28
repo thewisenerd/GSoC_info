@@ -1,0 +1,1 @@
+GeoTrellis is part of The Eclipse Foundation. It provides framework to process geospatial data. It hasn't proper mechanism to handle multi-band raster. This project is about to implement this feature in to GeoTrellis.

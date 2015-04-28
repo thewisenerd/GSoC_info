@@ -1,0 +1,7 @@
+This is a proposal to create a delivery and build system to provide easy
+delivery of patches to a running linux kernel. CentOS 7 currently has
+support for live patching a running kernel (via kpatch and the surrounding
+tools), but crafting a patch and applying it is a very manual process. Making
+applying kernel fixes an easy and automatic process will make it easier to keep
+a CentOS installation more secure without having to schedule downtime,
+which will be a large benefit to users.

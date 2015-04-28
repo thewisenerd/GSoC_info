@@ -1,0 +1,1 @@
+We will introduce the Chinese-to-Spanish translation in the Apertium open source project. We will do this integration using the GPL available tools for the pair of languages.

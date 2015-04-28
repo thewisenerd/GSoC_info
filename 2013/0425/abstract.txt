@@ -1,0 +1,1 @@
+A Python module shall be developed to allow the use of the ViennaMesh library from the interpreted programming language Python, thus enabling the user to easily take advantage of the power of ViennaMesh from a language that is simple to use and avoiding the long compilation times of C++.

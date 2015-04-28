@@ -1,0 +1,2 @@
+The project consists of extending Cesium by adding native support to two formats, namely: GPX and Shapefile.
+The final goal is to allow users to import and visualize GPX/Shapefile data by using only Cesium.

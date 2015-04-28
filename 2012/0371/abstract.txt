@@ -1,0 +1,1 @@
+Shogun is a fairly large project, it requires not only the machine learning algorithms. Maintenance, improvement of the individual parts, integrating them into the interfaces are a important tasks. The proposed project is about various usability improvements for the Shogun toolbox.

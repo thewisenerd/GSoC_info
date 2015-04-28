@@ -1,0 +1,1 @@
+Extend the OpenPGPjs framework so that it may communicate with and use the CryptoStick's facilities for the actual cryptographical operations, as well as key/certificate management.

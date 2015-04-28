@@ -1,0 +1,1 @@
+The goal of the project is to improve ruboto performance (particularly start up time). Other objectives are to shrink the app and building better tooling for AOT complation.

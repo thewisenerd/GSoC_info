@@ -1,0 +1,3 @@
+With the current progress done on the graphic stack on many operating systems, the DRM/KMS infrastructure is now used by several BSDs, including OpenBSD.
+The aim of this project is to write a new KMS driver to handle a Cirrus CLGD 5446 card, and to document the process, to make writing new KMS driver for OpenBSD easier.
+In addition, the choice of this card will allow usage of KMS drivers when running OpenBSD through QEMU.

@@ -1,0 +1,1 @@
+Gazebo currently does support simulation of wide-angle lens cameras like fish-eyes. This project involves using Gazebo's graphics rendering engine OGRE to create wide-angle camera sensors, potentially by stitching multiple camera images together in shaders then adding distortion effects. The results should be validated using computer vision libraries such as opencv.

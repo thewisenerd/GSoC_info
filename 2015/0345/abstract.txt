@@ -1,0 +1,2 @@
+Flink streaming provides flexible functions to work with windows of data streams. My project involves calculating statistics of windows, and also the entire data stream. This is a relatively low-hanging fruit, but it might attract many users to the library.
+The exact calculation of some statistics would require memory proportional to the number of elements in the input. However, there exist efficient algorithms using less memory for calculating the same statistics only approximately.

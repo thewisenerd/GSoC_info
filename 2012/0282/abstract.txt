@@ -1,0 +1,1 @@
+The aim of this project is to simplify cooperation between Orion's commiters and non-commiters. Orion is an open source project and this cooperation is essential for its further development. However at the moment merging changes from non-commiters is quite a time-consuming process.

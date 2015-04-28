@@ -1,0 +1,9 @@
+GeoReporter could benefit a lot from an improved user interface, which offers a much better user experience. I have run usability tests for the current interface and come up with a new prototype. 
+
+In the second part of the summer, depending whether the functionality for location-based queries will be added to the Open311 Server specifications, I will either develop a map-based browsing feature for GeoReporter, or an iPad interface.
+
+The map-based browsing would use a feature of the Open311 Server which we hope will be implemented as soon as possible, and which will allow to search reports based on the location (latitude and longitude). I would also use this new feature to show the user similar reports when he is creating a new one.
+
+GeoReporter for iPad will be the iPad version of the current app. I will focus mostly on creating the user interface, since most of the code can be reused. 
+
+The choice between GeoReporter for iPad and map-based browsing will be made depending on the progress with the Open311 implementation and together with the mentors.

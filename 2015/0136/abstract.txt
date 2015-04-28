@@ -1,0 +1,1 @@
+My work in this project is to implement meta-statistics algorithms and supervised machine learning algorithms suitable for spam filtering in the rspamd library. After the completion of this project, rspamd will be able to render machine learning to classify spam and ham effectively instead of depending on meta rules.

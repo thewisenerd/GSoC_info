@@ -1,0 +1,7 @@
+The aim of the project is to implement:
+
+Seamless file transfer to and from pidgin : 
+        Perfecting protocol implementations(prpl) in Pidgin to enable the “Send File..” feature to flawlessly work between libpurple/libpurple and libpurple/non-libpurple clients(Yahoo Messenger and Google Talk).
+
+Alternate file transfer plugin
+        Implementing an HTTP file transfer mechanism for cases where file transfer is not able to initiate/undergo due to any reasons.

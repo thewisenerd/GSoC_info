@@ -1,0 +1,5 @@
+Mathematica provides a good interface for plotting graphs and then manipulating constants to get real-time changes in the plot. The goal of this project is to add such facilities to the IHaskell package. The major work of this proposal is to implement:
+
+1) A Haskell equivalent of the `interact' function provided by IPython in  `Python.html.widgets.interaction'.
+
+2) All widgets required for implementing the `interact' function.

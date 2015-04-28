@@ -1,0 +1,6 @@
+libvirt provides client/server model virtual machine management.
+Communication between client and server is done with libvirt RPC protocol.
+Mostly in development, we need to look inside the RPC packet to analyse it.
+The project goal is to provide Wireshark's dissector which supports libvirt RPC protocol analysis.
+The dissector needs to follow newest libvirt RPC protocol definition.
+So we need to provide code-generator of dissector, to make fresh build from newest protocol definition.

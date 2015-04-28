@@ -1,0 +1,1 @@
+Enhancing the Krypt API to include a wider variety of libraries and methods for encryption. Over the summer we will implement the Galois/Counter method of encryption into the Cipher library of Krypt.

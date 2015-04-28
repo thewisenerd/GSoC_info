@@ -1,0 +1,1 @@
+FLINT already has a code for factorization of polynomials over F_p where p is small (< 2^64). The aim of a project is to implement a factorization algorithm for polynomials over F_p where p is large (>= 2^64).

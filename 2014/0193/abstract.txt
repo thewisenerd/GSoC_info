@@ -1,0 +1,1 @@
+MoarVM is the next-generation virtual machine designed specially for running NQP and perl6. I want to create a JIT compiler that will make execution much more efficient and will make perl6 execution competitive.

@@ -1,0 +1,3 @@
+Ryzom Core needs an 'Account Management System', with all its related components regard-
+ing account registration. An important aspect of this account management system is the Ticket system!  Because Ryzom App has some great potentials, we will
+intigrate the ticketing system as an App into it, in this way, users can easily start a ticket while being ingame.

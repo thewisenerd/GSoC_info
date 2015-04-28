@@ -1,0 +1,1 @@
+Create and implements a protocol for screen sharing in Swift, using Jingle for negotiation and reliable transport.

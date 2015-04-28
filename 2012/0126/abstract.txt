@@ -1,0 +1,4 @@
+Implement sound triggers and camera animations during missions. We have to be able to play sounds at a given moment or event during a mission. The sounds can be attached to a NPC, a player in the game or they can just be at a specific location. Sounds can also be different in function of the language of the player.
+Beside the sounds, I will implement camera animations that can be played at any moment in the game. The animations can be rotations over the time and/or movements over the time. Some special animations like shaking animation will be implemented too. With the animations we will also have some text that can be displayed at the bottom of the screen to describe the objectives of a mission for example.
+
+Everything will be configurable via the world editor and will be kept as simple as possible and as generic as possible to be easily scalable and integrated in the game.

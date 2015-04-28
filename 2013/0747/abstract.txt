@@ -1,0 +1,2 @@
+Automated system tests allow us to test the CMS by automatically running Joomla from a browser, selecting menu options, and evaluating results. At present, most of the system tests are written using the now-outdated Selenium RC program.
+This project will build on the current base of Webdriver tests and expand the test coverage to include more of the CMS.

@@ -1,0 +1,1 @@
+After some moderation functionality was added last year, the OpenPrinting web is still in need of usability enhancements. Printer and driver submission involves long and tedious forms and the administration backend only allows simple editing operations. Also the sites could integrated better and made more portable with some backend adjustments.

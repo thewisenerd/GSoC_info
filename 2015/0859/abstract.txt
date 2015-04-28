@@ -1,0 +1,1 @@
+I want to improve user experience with connecting to the online document storage services. Now it is not easy to access to CMIS, because most users use default system dialogs to open files and this feature is only accessible through LibreOffice’s custom file dialogs. Second task will be implementing document preview in the system file dialogs.

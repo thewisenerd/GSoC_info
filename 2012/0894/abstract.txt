@@ -1,0 +1,1 @@
+The goal of this project is to rewrite and improve the Freifunk OpenWrt imagebuilder/meshwizard code i've written during the last year. Both together make setting up of new freifunk nodes with olsr much easier for the average user. I hope this will help to spread the idea of community networks and to get more novice users to participate in freifunk.

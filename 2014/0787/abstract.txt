@@ -1,0 +1,2 @@
+Packages like R/Weka are very powerful and proven in their ability to efficiently analyze data using a variety of techniques. 
+Dumping the contents of an rrd file to XML (with rrddump) and csv (http://code.google.com/p/rrd2csv/) is possible. While csv can be easily read into any of these tools, being able to directly read the binary data and not exporting it to an  intermediate format first would be a lot more efficient and time-saving.

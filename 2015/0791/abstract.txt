@@ -1,0 +1,3 @@
+Currently GCompris has few activities and is mainly centered in math,fun games and mouse simulations.
+Looking at the great response from  users of GCompris,I think that GCompris should include more activities which will make it more resourceful,usable and popular among young children and teachers .My main goal will be porting some more activities from its existing GTK+ version and introducing something new.
+I am interested in creating a new section of Science,Environment and Computer Sciences.

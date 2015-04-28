@@ -1,0 +1,1 @@
+clean up rm_deferred and extend it with shadowmapping, post-effects using the gbuffer, light clipping and optionally different deferred render styles (e.g. testing deferred lighting vs. deferred shading)

@@ -1,0 +1,1 @@
+Possible enhancements to sympy.physics.mechanics are suggested; addition of several helper functions, implementation of additional equations of motion generation method(s), code output functionality, documentation making up the primary goals of this project. A timeline is laid out to achieve the goals.

@@ -1,0 +1,1 @@
+Main goal for this project is develop an intuitive interface for robotic teleoperation using a set of gestures vocabulary  to enable to human manipulation of industrial robots.

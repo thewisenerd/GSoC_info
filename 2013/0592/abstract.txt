@@ -1,0 +1,1 @@
+Biclustering is an unsupervised learning method that simultaneously clusters samples and features. It has become a popular technique in various fields including bioinformatics and text mining. I propose to add biclustering capabilities to scikit-learn by implementing popular algorithms, scoring metrics, and data generation functions.

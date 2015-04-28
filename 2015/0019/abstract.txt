@@ -1,0 +1,1 @@
+Add NVidia GameStream support to the Game API in Kodi

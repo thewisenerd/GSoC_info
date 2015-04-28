@@ -1,0 +1,5 @@
+The vaccine cold chain of a country -- the cold room and refrigerator equipment for storing vaccines at an appropriate temperature as they
+are distributed from national store to service delivery points -- is essential for the health of a population. This GSoC project aims at extending DHIS2
+1. to evaluate a cold chain against the requirements of policies by the WHO,
+2. to support making equipment decisions towards meeting them and
+3. to report those decisions for an evidence-based case.

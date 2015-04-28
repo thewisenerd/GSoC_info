@@ -1,0 +1,1 @@
+Apitrace is an open source program that allows tracing, replaying, inspecting and profiling OpenGL/Direct3D calls made by any application. The goal of this task is to improve the profiling capabilities on the OpenGL side by leveraging the AMD_performance_monitor and INTEL_performance_query extensions, when available.

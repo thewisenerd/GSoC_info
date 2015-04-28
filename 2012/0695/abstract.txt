@@ -1,0 +1,9 @@
+Open Monitor is an Internet connectivity monitor. Aggregator is the central server that gathers information from peers those are spread around the globe.
+
+Aggregator currently works on Google AppEngine. This platform offers scalability that helps handling big data. However, availability is one of the another major goals for distributed systems and peers shouldn't be affected from routing blockages and service failures (e.g. write disables) to/on AppEngine. 
+
+This project aims to improve current aggregator system. First, writing a specialized slave server application that works on different platforms. This server should act as a buffer during GAE service outages and as a gateway during blockages.
+
+Second part needs analysis of agent reports and drawing a heat map to show Internet connectivity for different regions and countries.
+
+Also, IPv6 support is needed to handle IPv6 addresses.

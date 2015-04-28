@@ -1,0 +1,8 @@
+Make complex Unicode stuff a piece of cake in the D programming language.
+
+Major points are: normalization; 
+faster and always up to date implementation of common isXXX character properties;
+a proper case insensitive comparators for strings; 
+grapheme clusters.
+
+Possible extras: support for legacy encodings, generic mutli-level lookup tables, i.e. Trie for std.container.

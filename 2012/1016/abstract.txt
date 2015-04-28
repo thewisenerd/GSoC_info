@@ -1,0 +1,1 @@
+The project aims at providing Drizzle backend support for OpenStack. Drizzle being an open source RDBMS optimized for cloud environments would fit well in the OpenStack infrastructure and both communities would benefit from the same.

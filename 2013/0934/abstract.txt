@@ -1,0 +1,3 @@
+Duda I/O is an event driven web service framework based on Monkey web server with very low resource consumption.
+   The web services framework already support the following databases extensions: Redis, Memcache and SQLite. Due to the heavily used of MySQL/MariaDB and PostgreSQL in real world products, it is urgent to implement the corresponding extensions for Duda I/O.
+   This project focus on implementing extensions (packages) for Duda I/O to incorporate with native C API to connect to MySQL/MariaDB and PostgreSQL relational databases in asynchronous mode .

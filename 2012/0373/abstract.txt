@@ -1,0 +1,1 @@
+The main objective is the improvement of the interaction image-data to make the user feel free to edit both data and image and have the results back interactively with flexibility and quickness. The aim is to make the graphics not as a static thing, but something more dynamic to provide ease of editing and retrieving of data.

@@ -1,0 +1,1 @@
+This project is to convert the panels on the OpenNMS homepage to be dynamic and personalizable by implementing using GWT. Presently there are a number of UI panels on the OpenNMS home page. This task would separate them into "portlets" and allow user-level customization of them.

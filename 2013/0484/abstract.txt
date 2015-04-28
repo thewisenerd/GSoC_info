@@ -1,0 +1,1 @@
+To develop a PathVisio plugin to browse, search and upload pathways in WikiPathways directly from the standalone PathVisio version.

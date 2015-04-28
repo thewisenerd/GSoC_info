@@ -1,0 +1,3 @@
+Developed as “a platform to try out new language concepts and compiler technologies for Scala”, the Dotty compiler has been growing fast. However, it still lacks some key components, including Type Specialization. While I am already working on implementing it in the context of a semester project at the Federal Institute of Technology (EPFL), Google Summer of Code would be the opportunity to :
+1) finish implementing type specialization, and
+2) consider compatibility issues with the JVM

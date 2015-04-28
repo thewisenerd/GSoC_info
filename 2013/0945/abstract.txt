@@ -1,0 +1,1 @@
+Use the default Debian init system to boot Debian/Hurd.

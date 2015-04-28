@@ -1,0 +1,1 @@
+In this project, novel automatic parallelization algorithms used by PPCG project will be ported to Polly to improve Polly’s GPGPU code generation functionality with a scalable object-oriented based implementation.

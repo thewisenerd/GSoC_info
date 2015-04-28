@@ -1,0 +1,2 @@
+The project aims to replace the current table formatting system in Writer, which applies a set of properties to each cell within the table, with a proper table style system.
+This will improve usability of Writer tables as well as offering documents a cleaner overall aspect.

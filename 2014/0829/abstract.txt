@@ -1,0 +1,2 @@
+The use of Plain SQL queries in Slick requires users to know the result type of the query and how to map that back to Scala types. There is also no compile-time checking for these queries.
+The goal of this project is to alleviate both issues with macros. Plain SQL queries have all the necessary information (query string, parameter types) available at compile-time to allow a macro-based implementation to get the result type from the database, and translate that back into a Scala type.

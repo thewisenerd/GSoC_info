@@ -1,0 +1,1 @@
+Create a machine translation system based on the Apertium platform for unidirectional translation from Ukrainian into Russian

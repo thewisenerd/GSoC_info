@@ -1,0 +1,1 @@
+Esse is a framework for building presentations of a new generation. Somewhat similar to http://prezi.com, but even more advanced in perspective. The emphasis is on supporting thinking processes, saving, evolving, presenting and sharing ideas.

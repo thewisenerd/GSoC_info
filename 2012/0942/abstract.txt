@@ -1,0 +1,5 @@
+GeoGebra, the well-known interactive geometry application, currently lacks a automatic theorem prover, which would be able to answer questions such as "Are those two lines parallel ?", "Are those points collinear", etc. The program can answer to those questions by floating-point calculus, but we want something more formal, which could give a 100% sure answer.
+
+To meet this need, developers are currently integrating OpenGeoProver, an automated geometry theorem prover, into GeoGebra. The method used to automatically prove theorems in OpenGeoProver is Wu's method. The overall principle is pretty simple : the algorithm associates a set of polynomial equations to the geometric construction, and solves those equations using algebraic methods.
+
+I propose to add another method to OpenGeoProver, which has the advantage of being entirely geometric and to produce short, human-readable proofs : the area method. This method has been introduced by Chou, Gao & Zhang in Machine Proofs in Geometry, in 1994, and this has already been implemented in others geometry proving systems like GeoProof.

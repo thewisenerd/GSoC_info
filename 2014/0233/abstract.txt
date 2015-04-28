@@ -1,0 +1,1 @@
+Elixir is a functional programming language which is concurrent, distributed and fault-tolerant thanks to the Erlang VM.  The goal of this project is to bring Windows support to Elixir, by providing solutions and documentation for building and running Elixir on Windows.  This will consequently enable Windows-based developers to explore this powerful yet enjoyable language.

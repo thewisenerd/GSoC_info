@@ -1,0 +1,3 @@
+I will make the “Conceptual Blending” in this GSoC period.
+Conceptual Blending is work that making new concept by composing information which is extracted from different knowledge, or experience. 
+Goal of my project is clear: Making MindAgent which does Conceptual Blending. In other words, my project will make ‘emergent phenomena’ by selecting proper nodes and merging their existing in AtomSpace.

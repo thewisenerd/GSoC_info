@@ -1,0 +1,2 @@
+This proposal targets identified problems with BGE acknowledged in Blender's roadmap along with plans for better integration as an interactive mode. The proposal aims to be a first step in that direction by addressing the bug tracker and known problematic parts of the GE.
+By the end of the program, the results should be less bugs and pending patches, parts of functionality/code more bug-proof and suitable for integration, happier users and a document identifying problems to be addressed next.

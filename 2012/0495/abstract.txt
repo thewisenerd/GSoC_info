@@ -1,0 +1,1 @@
+This project aims to add various tools to blender, related to texturing workflow. Tools include rake brushes for texture paint, separate alpha masks for texture paint, maintain image tool, isomap based unwrapping.

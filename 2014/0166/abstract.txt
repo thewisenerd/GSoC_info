@@ -1,0 +1,2 @@
+The main goal of this proposal is to implement a time-series visualizer for 4D data in TVB, which would enable users to work with their functional MRI data directly from the browser.
+Then I will work on rewriting some of the visualizers that are currently implemented using MatplotLib and MPLH5, backed with web-friendly tools.

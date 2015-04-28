@@ -1,0 +1,4 @@
+This project aims to provide a high quality template metaprogramming library
+for C++11. Based on previous work, I claim that this could increase the
+expressiveness and reduce the compilation time of template metaprograms,
+leading to more joy and productivity.

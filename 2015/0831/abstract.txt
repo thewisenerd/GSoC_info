@@ -1,0 +1,1 @@
+This project aims to make lexer specifically for Openscad's SCAD language. Currently, QScintilla is using CPP lexer, which cause syntax problem as CPP language is very large as compared to SCAD language of OpenSCAD. With this, some scintilla and GUI related issues will also be solved.

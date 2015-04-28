@@ -1,0 +1,1 @@
+KDE Reports is the app I started from scratch in GSoC 2013. I'd like to continue improving it and adding more reports.

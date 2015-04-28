@@ -1,0 +1,1 @@
+This project aims at developing a Eclipse plug-in which will launch and configure Amazon's EC2 instances based on a predefined user template.

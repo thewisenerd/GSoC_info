@@ -1,0 +1,1 @@
+The Squeak VM is the dynamic virtual machine used for many open-source software projects such as Pharo or the Newspeak language. CogVM is a development of the Squeak VM which adds a powerful Intel x86 JITer. Similar to this development, this project would implement an ARM JITer.

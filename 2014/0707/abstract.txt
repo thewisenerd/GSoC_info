@@ -1,0 +1,1 @@
+The project aims at improving Deferred Renderer performance and support for Dynamic Shadows in the Forward Renderer.

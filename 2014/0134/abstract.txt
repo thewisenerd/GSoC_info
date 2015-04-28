@@ -1,0 +1,2 @@
+Project, Interface Improvements, aims at improving the phpMyAdmin web interface by adding more and more functionality to it and refining the existing ones. The goal of this project is to migrate the users from less user friendly My-SQL's console interface to extremely powerful and portable Web Interface completely.
+This project will bring many new features like Simulate query, Preview SQL, easy access to “SHOW CREATE”, range search capability, multiple-column foreign key relation and many more.

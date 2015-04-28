@@ -1,0 +1,1 @@
+NMatrix installation is difficult because it requires the ATLAS library which provides advanced linear algebra features. I propose to remove the dependency on ATLAS by moving these features to a separate gem package and by allowing the use of alternate linear algebra libraries.

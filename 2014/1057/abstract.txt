@@ -1,0 +1,3 @@
+The project involves unifying the underlying implementation of several listed widgets (Tree, ListBox, ComboBox, etc.) so they use the same base model.
+
+Also, the aim is to allow a modular model/view approach (separation of concerns) on getting the actual listed widgets data, without requiring manual and duplicate operations on the widgets and the underlying model data (e.g.: adding/removing items from a list).

@@ -1,0 +1,1 @@
+Though Metalinks make it a lot easier to download stuff from the Internet, most browsers are not equipped with native metalink support. Hence, the idea is to showcase the advantages of having native metalink support in browsers, by modifying Chromium and Mozilla Firefox to support metalinks.

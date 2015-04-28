@@ -1,0 +1,10 @@
+Emacs XWidgets is an experimental branch to enable embedding GTK
+  widgets inside an Emacs window. For example, this permits Emacs to
+  render HTML pages with WebKit.
+
+  The goal of this project is to improve the current implementation by
+  converting C code to Elisp code and to work on the GObject
+  introspection integration.
+
+  My mentor for this project will be Joakim Verona, the developer of
+  this branch.

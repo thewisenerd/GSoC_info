@@ -1,0 +1,5 @@
+WordPress for webOS is a great app built  with web technologies for the WebOS platform. Several new web-centric mobile platforms are springing up and it would be great for WordPress to have a presence on each. 
+
+This project aims to take the webOS app and convert it to run on one of these new platforms: Firefox OS. 
+
+The application's code would be developed in a manner which would allow the easy conversion of the application to other platforms as well.

@@ -1,0 +1,1 @@
+Rework QEMU audio backend configuration to use command line switches instead of environment variables. This will allow multiple audio backend instances, linking them with sound cards. The mixing of different sound card streams will be optional. Also backends and (at least one) emulated sound card will be updated to support surround audio.

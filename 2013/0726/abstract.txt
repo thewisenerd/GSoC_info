@@ -1,0 +1,9 @@
+(From Abstract)
+
+Sensor Web is a web application that allows users to view time series data via SOS, from various global sensor networks. It provides visual locations for each sensor as well as graphically representing the data. 
+
+This project hopes to accomplish the following:
+	- Enable SOS to access seismic data sensors
+	- Implement Sensor Web Client functionality to visualize seismograms and graphical seismic data.
+
+These two general steps will effectively add a new spectrum of data analysis for Sensor Web and 52 North, creating a quick and useful way for seismologists to view online sensor data.

@@ -1,0 +1,1 @@
+This project idea aims at converting Java code to Ceylon easily through the Ceylon IDE and also as a standalone utility and as a Ceylon command line plugin. The Java code will be converted to Ceylon by copy pasting in the Ceylon IDE and will also be available as a separate tool that can be used from the command line.

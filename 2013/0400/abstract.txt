@@ -1,0 +1,3 @@
+Trie is an efficient in-memory ordered tree data structure to deal with string storing and searching. It has better performance in looking up and inserting compared to Binary Search Trees. 
+And in comparison to hashtable, it has better expandability and stability, while its performance is no worse. Moreover, it is easy and efficient to look up data with a common prefix. 
+In all, trie is a data structure of great importance and wide usage. This project is dedicated in developing a lib providing some containers and interfaces based on the Trie data structure.

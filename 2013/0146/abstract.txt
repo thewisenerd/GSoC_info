@@ -1,0 +1,1 @@
+The project consists in creating a data access interface for Medsavant using the Solr search server and compare the performance against the current Infobright backend.

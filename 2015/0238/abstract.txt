@@ -1,0 +1,1 @@
+Complete QtSharp (https://github.com/ddobrev/QtSharp) to the point where it can be used to create and run GUI applications on any of the 3 major desktop platforms: Windows, Linux, OS X. Support for QML in particular is also considered as least priority because there may not be enough time to complete its interoperability with C#.

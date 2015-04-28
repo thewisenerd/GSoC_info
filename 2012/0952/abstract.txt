@@ -1,0 +1,1 @@
+Make sure existing cross-toolchains actually work on multi-arch systems and produce multiarch-compliant binaries, then switch from dpkg-cross dependencies to cross-arch dependencies.

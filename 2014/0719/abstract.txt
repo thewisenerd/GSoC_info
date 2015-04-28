@@ -1,0 +1,4 @@
+The broad goals of this project are:
+a) Logs should be searchable without knowing the date on which the message to be found was sent/received.
+b) Scrolling up in a conversation should load more context
+c) Searching a conversation should work even if the message to be found isn’t already displayed.

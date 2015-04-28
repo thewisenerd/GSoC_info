@@ -1,0 +1,1 @@
+Stratos has load balancer extension API which can be used to plug-in any third party load balancer into Stratos. This project is to implement a load balancer extension to support AWS Load Balancing service via its API

@@ -1,0 +1,1 @@
+The goal of this project is to create a language to describe the Detail Code for eTrice plugin which will be integrated with room models and provide the execution code for these models . Another important and must goal of project is to make converters from the source model+GACL code in eTrice to target language which can be Java or C/C++ .

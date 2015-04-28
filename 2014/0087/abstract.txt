@@ -1,0 +1,1 @@
+This proposal intends to improve the Raspberry Pi BSP support for peripherals, namely: GPIO driver, I2C and SPI Bus drivers and Frame Buffer graphics driver support. This will make RTEMS more appealing in one of the most available boards today: the Raspberry Pi.

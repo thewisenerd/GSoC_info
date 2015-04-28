@@ -1,0 +1,1 @@
+translation pair between Spanish (lttollbox) and Cuzco Quechua (hfst) for Apertium

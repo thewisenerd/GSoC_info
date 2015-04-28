@@ -1,0 +1,1 @@
+This project is to support OpenMRS’ ability to generate and exchange patient clinical summaries using the Clinical Document Architecture (CDA) model, an xml-based HL7 version 3 standard for clinical documents.

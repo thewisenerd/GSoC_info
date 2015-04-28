@@ -1,0 +1,1 @@
+In this project, I will work on a benchmark system. This system will run benchmarks on each Ruby/Rails build, and give some intuitive graph to show how these build impact the performance. I hope this project can help developers to build faster application and write faster code.

@@ -1,0 +1,1 @@
+My proposal consists of continuing and finishing the work already started on implementing proper attribute and graph editor components for csEditor using wxWidgets and the wxSF library, allowing dynamic GUI panel generation, providing real-time configuration of object features such as camera and light parameters, particle systems and more.

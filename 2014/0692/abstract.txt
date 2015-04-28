@@ -1,0 +1,4 @@
+Hi all!
+
+
+I'm Shuai Meng, a student from software school of Beihang University, China, GMT+08:00. I'm pursuing a master degree and now in grade one. You can call me shuaimeng, that's my nickname used in irc. Now I'm here to apply for GSoC to work for Wine. I'm familiar with C, and I can code with python as well. Besides, I know a little about html and vbscript. From May to August, I have plenty of free time.

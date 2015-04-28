@@ -1,0 +1,3 @@
+The Android version of Open311 basically will mirror the iPhone version, which would possess these features which iPhone version also has:  Provide a list of participating cities and open311 servers, User can switch between servers, List all the reportable services at the server, Let the user post a report, Show the user their past reports.
+Beside those features that iPhone version also had, I also propose other features: Attach image for the report, whether freshly taken use camera or from gallery, Automatic realtime detection of current geoposition
+I’m also willing to make the list of all reports: browsing, listing, and mapping (this will need the specification issue to be settled first).

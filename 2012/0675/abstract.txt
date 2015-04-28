@@ -1,0 +1,1 @@
+My plan is to design and create a Chrome application which will empower and inspire web surfers to collect, curate, and share personal information collections. Building off the 'pinning' metaphor, my application will join together concepts such as rich-bookmarks, information composition, touch interaction, & semantic zooming.

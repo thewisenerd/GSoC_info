@@ -1,0 +1,1 @@
+Port Notes (and possibly other gnome apps using WebKit API) to WebKit2 API and Implement e-mail as storage.

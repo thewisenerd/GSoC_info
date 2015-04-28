@@ -1,0 +1,1 @@
+BuildmLearn AppStore is a store for educational mobile apps created using BuildmLearn Toolkit. Anyone using the BuildmLearn AppStore will have access to all published applications. This application will also have various templates using which the apps can be rendered. I propose to make apps for both Windows Phone and Android during the GSoC period.

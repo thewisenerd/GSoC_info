@@ -1,0 +1,2 @@
+Many distributions have some custom tools to track upstream, and to help determine, for example, what is the latest version of an application. However, all those tools have some limitations and none is available as a service that everybody could use.
+The goal of this project is to bootstrap a common tracker that could be then used to know the status of a module upstream, but also in various distributions. Information about the versions, but also what patches distro use and opened bugs are the first metadata we'd want to cover.

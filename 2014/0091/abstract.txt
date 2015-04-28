@@ -1,0 +1,7 @@
+Extend the capabilities of the shape tools in Pinta to make shapes editable after being drawn. Proposed to be done in 3 parts:
+
+1. Making all of the shapes drawn by shape tools editable.
+
+2. Merging these capabilities, allowing for editability to be maintained when switching between tools.
+
+3. Realizing some of the possible shape creations and combinations that spawn as a result of this, such as octagons and curved, mixed, and custom shapes.

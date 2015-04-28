@@ -1,0 +1,7 @@
+MedSavant and GeneMANIA are invaluable tools to biomedical researchers. MedSavant is a database where researchers can query patient’s genomic information. Once a mutated gene of interest has been identified, researches may use GeneMANIA to identify other genes of interest which they can then use as query back into the MedSavant database to identify any other mutations in these genes that may contribute to the patient’s condition. There is an evident connection then between MedSavant and GeneMANIA. This project thus aims to create an effective way for researchers to use both tools by creating a plug-in for the MedSavant database that accomplishes the following:
+
+·          -use GeneMANIA's visualization tool to visualize the genes of interest given a particular gene from the MedSavant database.
+
+       -recognize any other mutations from the database in the network of genes created
+
+·         -recommend proteins and pathways given the mutations and network of genes of interest for further exploration of the relation between the mutation and affected proteins

@@ -1,0 +1,2 @@
+Loklak.net is a service that provides an open, free and anonymous search API for Twitter. The objective of this project is to create and design a webpage that displays the search results. This is to be done by using an AJAX request to Loklak’s API in the webpage, parsing the JSON and then displaying them in the style of Twitter search results. It will have the following features:
+Auto-refresh search results, Filter Results, Popular Hashtags and Search by URL parameters.

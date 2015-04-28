@@ -1,0 +1,1 @@
+Implement a Help mechanism for Sugar Activities that can be viewed from the activity itself. This will be implemented using Mallard.

@@ -1,0 +1,1 @@
+Based your ideas page, and the proposed application tasks, I head the idea to solve the tasks with great reusability in mind, leveraging new high level languages, and possible develop a domain specific languaes, to help aerospace scientists to more easily program future solutions.Taking a look at your project ideas, and your previous softwa

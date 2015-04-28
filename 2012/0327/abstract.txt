@@ -1,0 +1,3 @@
+Euscan (Ebuild Upstream Scanner) is a powerful application for detecting outdated ebuilds in Gentoo Portage by searching new upstream versions of the packages. This utility is hence important for the quality of the packages offered by Gentoo.
+My project aims to improve significantly Euscan, in particular regarding the web part of the software.
+The goals are implementing Celery support for running asynchrounous or periodic tasks and enhance the web-user experience integrating euscan with other existing Gentoo platforms, allow subscribing for weekly notifications and improve the admin panel.

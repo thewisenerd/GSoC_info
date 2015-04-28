@@ -1,0 +1,5 @@
+This project aims to make a Test Suite for LibreDWG. Currently there are no Test Suite included in the LibreDWG So there is no way to test the functionality of the functions if any amendment is done.
+
+This project aims to implement the following:
+1) Unit Tests for Functions
+2) Ability to check the reading capabilities of LibreDWG

@@ -1,0 +1,1 @@
+Kodi's support for profiles is currently very hacked together, even at the database level. This project involves a redesign of the profile system from the ground up, including some changes to the database and how profiles are accessed.

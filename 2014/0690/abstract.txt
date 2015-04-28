@@ -1,0 +1,1 @@
+The proposal checks the feasibility of adding few features to Calligra Sheets and gives an overview of how these features can be implemented.

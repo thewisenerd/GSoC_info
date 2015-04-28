@@ -1,0 +1,1 @@
+The aim of this project is to use Vagrant and one of the many configuration management tools to easily bring up Cloudstack environments for development or testing purposes.

@@ -1,0 +1,3 @@
+Currently, creating a database dump of larger Wikimedia sites takes a very long time, because it's always done from scratch. Creating new dump based on previous one could be much faster, but not feasible with the current XML format. This project proposes to create a new binary format for the dumps, which would allow efficient modification of the dump, and thus creating new dump based on the previous one.
+
+Another benefit would be that this format would also allow seeking, so a user can directly access the data they are interested in. A similar format will be also created, which will allow downloading only changes since the last dump was made and applying them to previously downloaded dump.

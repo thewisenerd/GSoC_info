@@ -1,0 +1,3 @@
+A step-by-step refactoring of the TCP layer, which should lead to a more easy 
+way to test congestion control and RFC compliancy of its state machine. Four 
+steps are needed, and they will be detailed below.

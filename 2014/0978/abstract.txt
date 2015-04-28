@@ -1,0 +1,1 @@
+This project aims at implementing two new features or structure tools for phpMyAdmin. First one is to have a central list of columns per database and second one is to implement automated normalization of database which is expected to bring the database structure to 3NF.

@@ -1,0 +1,1 @@
+istSOS is a service for managing and dispatching observations from monitoring sensors. We aim to implement a Web Notification Service that will send updates in an event and time driven fashion. In this way, administrators of the system will be notified about the status of an environment in case certain conditions arise.

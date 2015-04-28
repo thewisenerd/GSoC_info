@@ -1,0 +1,1 @@
+I want to implement GStreamer chapter (TOC) API in more media formats, such as RIFF-WAVE, FLAC(+CUE), QuickTime File Format. Now GStreamer has already implemented API to chapter support in Matroska format. Also I want to implement chapter structure reporting in gst-discoverer. I think this project is very important for all GNOME community including GStreamer community.

@@ -1,0 +1,1 @@
+The main goal of my project is to develop web service for Commit Verifier (My Bachelor's project). It is divided into "Client" and "Sever". Also there is the goal to visualize results of developed tools' work.

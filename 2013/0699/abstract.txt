@@ -1,0 +1,1 @@
+This project involves adding functionality to the already existing Arduino port for The Wiselib. It mainly includes adding interfaces to XBee modules in API mode like Wifi, Blutooth, zigbee, etc. along with a working timer abstraction module which facilitates mutliple, parallel-running timeouts.

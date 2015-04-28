@@ -1,0 +1,1 @@
+DRIZZLE is an open source project, which is designed to be a lightweight, easy to use database for web applications and cloud infrastructures. DRIZZLE projects mainly based on the popular MySQL DBMS that is decisive reliability and performance. There is a need to implement an extensive compression technique in the drizzle server as well as JDBC driver.

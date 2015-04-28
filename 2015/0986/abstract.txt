@@ -1,0 +1,1 @@
+A proposal for designing an interactive web front-end to allow the end user, ideally, somebody unfamiliar with programming in R, to perform powerful analyses and examine and tweak data in a user-friendly, simplified manner, using an R back-end.

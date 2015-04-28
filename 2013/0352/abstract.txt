@@ -1,0 +1,1 @@
+The Project is an Implementation of a ZAP extension to help in CMS Scanning (WordPress Joomla and Drupal as a first step)

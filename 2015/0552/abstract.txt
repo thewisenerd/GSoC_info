@@ -1,0 +1,3 @@
+Debile is a platform which aims to provide a generic rebuild platform. Normal build, custom builds (clang based) or static analyzers (coccinelle, scan-build, etc) are managed through this infrastructure.
+
+The idea of this project is to plug additional checkers (static analyzers, dynamic, etc) to the Debile infrastructure.

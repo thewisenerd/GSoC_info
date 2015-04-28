@@ -1,0 +1,1 @@
+I would like to take up the Management Message Client project which is aimed at implementing a client that can use management messages to control the PTPd server.

@@ -1,0 +1,1 @@
+In this application I’ll present main idea for CERN GSoC project for re-implementing TFormula class. Existing code is rather old and hard to read and maintain. Idea is to convert mathematical expressions into formula that Cling can parse and evaluate. Such solution can be easily upgradable together with development of Cling.

@@ -1,0 +1,5 @@
+My proposal is developing a desktop application to manage CNML files. It will be useful for people that administer zones, workers that install Guifi.net nodes... etc.
+
+CNML files offer a lot of possibilities that are not being exploited actually. It can also be used for statistics, data visualization, which will help people in their studies, or thesis about libre networks.
+
+This application will load a CNML file and show its contents in friendly windows. Users will be able to filter nodes or zones by name, coordinates or hardware used.

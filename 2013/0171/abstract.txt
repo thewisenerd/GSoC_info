@@ -1,0 +1,1 @@
+Port the Open Video Chat software to multiple platforms, including support for development environment hardware.  This would allow developers, teachers, and others who do not have an XO or sugar development environment to communicate with sugar users over a video chat service.

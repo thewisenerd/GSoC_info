@@ -1,0 +1,3 @@
+Multi-process support, or "Electrolysis", is likely to be the next big project that Firefox product team focuses on after shipping "Australis" redesign in spring 2014. Addon SDK was designed to provide easy to use, high-level APIs to addon developers, hiding complex implementation details such as multi-process support.
+
+The aim of this project is to actually implement Electrolysis support in Jetpack and provide a smooth transition path for addon developers.

@@ -1,0 +1,1 @@
+In Bison grammars, provide a way to declare precedence and associativity of symbols with a partial order to detect unwanted conflict resolutions. Unify the precedence declaration system with the %dprec rule for GLR.

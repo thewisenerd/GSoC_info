@@ -1,0 +1,1 @@
+In this project, I propose to integrate the drug-interaction information into the cBio Cancer Genomic Portal, and create a Cytoscape 3.x compatible plugin for retrieving and visualizing multidimensional cancer genomic data and drug-target interaction data in the context of biological networks.

@@ -1,0 +1,1 @@
+A GDAL driver allows reading/writing of raster(or images) data from/to formats like TIFF, PNG or JPEG. The current GDAL PostGIS raster driver supports reading of PostGIS rasters objects from a PostgreSQL/PostGIS database but does not support writing. This project includes designing and implementing a driver for write support.

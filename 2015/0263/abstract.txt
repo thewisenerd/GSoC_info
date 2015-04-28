@@ -1,0 +1,2 @@
+OpenMRS ID is the user account management system that underlies all services on OpenMRS.org. It provides single-sign-on access to the Wiki, OpenMRS Talk, JIRA, the Modules directory, and other services. It also publishes the ID Dashboard, a frontend interface where users can sign up for an ID and modify their profile information.
+This project will tackle some of the new features and ideas we have for OpenMRS ID.

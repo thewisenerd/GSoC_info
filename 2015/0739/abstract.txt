@@ -1,0 +1,1 @@
+This project aims to improve the Beaglebone black (BBB) BSP support on RTEMS. This project intends to add the following peripherals to the Beagle BSP: networking (Ethernet driver and lwIP integration), i2c, GPIO and RTC. Adding more peripherals to one of the widely used development board Beaglebone black makes RTEMS more attractive for the user community.

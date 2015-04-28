@@ -1,0 +1,1 @@
+Apache Wave is tightly coupled client-server platform. In this project through an Android app, allowing Wave to reach into the mobile domain. But it not straightforward, So first we need to decouple client-server and then we need implement Android client library to access Wave server and finally we need develop simple android application to demonstrate Apache Wave on Android

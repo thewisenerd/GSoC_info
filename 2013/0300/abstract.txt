@@ -1,0 +1,1 @@
+Write a Chrome app that can sync your files with Google Drive, running on different platforms Chrome Apps support. This includes the app itself and proposing and implementing related Chrome APIs.

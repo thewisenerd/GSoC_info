@@ -1,0 +1,1 @@
+The plugin system for the Bundler is a way to extend the capabilities of Bundler without the overhead of committing code directly into the core. It will help in the maintenance of the functionality.

@@ -1,0 +1,1 @@
+This project involves building a MediaWiki extension that can identify existing spam on pages and then present an admin with options to 'delete', 'mark for review' or 'mark as not spam' (among other possible options) the pages/edits that the extension lists out. The extension would also remember pages/edits earlier marked as 'not spam'.

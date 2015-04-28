@@ -1,0 +1,1 @@
+Currently, citizens interact with uReport through either a web interface or through iPhone/Android app. I propose to build a SMS based front end for uReport. This module will have two parts. First would be the web-based app which would handle the incoming SMS responses and generate replies for them. Second would be the Configuration Panel, which will be part of Web Proxy.

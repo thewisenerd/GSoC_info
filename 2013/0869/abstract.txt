@@ -1,0 +1,3 @@
+Kerberos is a standardised network authentication protocol providing mutual authentication of potential consumer and network service.
+Many commercial relational database management systems have already internalized support for Kerberos authentication.
+This project aims to adding Kerberos authentication support to MariaDB database, a drop-in replacement for MySQL.

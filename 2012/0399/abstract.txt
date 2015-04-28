@@ -1,0 +1,1 @@
+Designing of an XML formalism for writing disambiguation rules, a validator for it, upgrades to lttoolbox needed to represent the rules as a finite-state transducer, a compiler, and a processor which applies the rules to an Apertium input stream.

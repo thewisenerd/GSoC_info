@@ -1,0 +1,1 @@
+This proposal about implementation of SpMV with Hama Bulk Synchronous Parallel framework.

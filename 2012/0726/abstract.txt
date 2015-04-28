@@ -1,0 +1,3 @@
+As it appears here,
+http://www.pointclouds.org/gsoc2012/ideas.html
+under "WebGL Development"

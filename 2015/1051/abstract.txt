@@ -1,0 +1,1 @@
+As part of the project, I will be adding in support to Pwntools for generating valid SROP frames. I will also be adding in more shellcode to the Pwntools collection. Finally, I will also work on adding in more exploit samples to the pwntools writeup repository.

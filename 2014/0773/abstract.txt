@@ -1,0 +1,1 @@
+To ease the migration from iptables to nftables, we have to provide a translation software that will convert the old iptables rule-sets to the new nftables syntax.

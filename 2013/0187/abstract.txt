@@ -1,0 +1,1 @@
+The aim of this proposal is to add an intricate Git Blame system to Orion as well multiple Git statistical functions

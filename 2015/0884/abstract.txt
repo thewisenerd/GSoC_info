@@ -1,0 +1,1 @@
+I want to extend Conversations to support axolotl as an end-to-end encryption mechanism that works well with multi-device mobility.

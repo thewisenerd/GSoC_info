@@ -1,0 +1,1 @@
+This project is about implementing the designs exposed in http://live.gnome.org/ThreePointFive/Features/ScreenLock, that is, revamping the screen lock by integrating with GNOME Shell.

@@ -1,0 +1,1 @@
+There is a fledgling DirectX 11 render system in trunk right now for Ogre3D, but it needs plenty more work doing to it in terms of implementing recommended performance characteristics for D3D11 and some other features like: Tessellation support, multi device support, RT shader system support.

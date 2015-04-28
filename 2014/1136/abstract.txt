@@ -1,0 +1,1 @@
+Octave lacks of some useful functions related with sparse linear systems as ilu and ichol are. They are known to be nice algorithms to build good preconditioners for iterative methods like GMRES. The pourpose of the project is to continue the last year's one so finally ilu and ichol can be integrated successfully into octave.

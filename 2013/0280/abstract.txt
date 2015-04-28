@@ -1,0 +1,17 @@
+Description
+
+The purpose is to offer a way to easily describe and create UI using a point and click interface. This interface should be extendable, as well as the widget proposed. The Painter should also propose a simple way
+to link widgets together, and to locally redefine behaviours.
+
+Technical Details
+
+Using Spec, the UIPainter should be able to generate the needed methods (and Layouts).
+The UI corresponding class could also be generated.
+
+Benefits to the Student
+
+A deep understanding of UI creation. A good set of knowledges about widgets interactions. The students will also benefits of an understanding of Spec at all the levels.
+
+Benefits to the Community
+
+The community will benefit of a new tool for generating UIs easily using the new platform independent UI framework. A UIPainter will help developers by improving the widgets reuse and simply the process of UI creation

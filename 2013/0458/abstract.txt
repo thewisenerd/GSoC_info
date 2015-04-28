@@ -1,0 +1,1 @@
+Evaluate the feasibility of turning OpenNMS into a distributed application, allowing it's services to be spread across different nodes and help determine the required core and architectural changes to achieve this.

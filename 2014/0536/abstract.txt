@@ -1,0 +1,3 @@
+The traditional way for coreboot developer to make a port for new mainboard is to add more messages on debug console and make changes until things worked. This approach is unusable for those community contributors who have no access to the full source of their coreboot system.
+
+My proposal attacks this problem by making SerialICE and/or remote GDB easily available early in coreboot, either over serial UART or USB EHCI debug, for most platforms from the coreboot supported mainboards -list.

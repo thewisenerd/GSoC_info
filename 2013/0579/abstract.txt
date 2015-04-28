@@ -1,0 +1,1 @@
+My proposed project is to implement trip planning (both fastest route and public transportation) in GNOME Maps according to to the mockups at https://live.gnome.org/Design/Apps/Maps.

@@ -1,0 +1,1 @@
+The goal of this project is to assist in the effort to port the FreeBSD 8.2 TCP/IP stack to RTEMS.

@@ -1,0 +1,1 @@
+The idea here is to make the most use of BoneScript and let Bone101 more user friendly  especially for newbies to make uploading/downloading or sharing tutorials as easy as possible.

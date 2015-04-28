@@ -1,0 +1,4 @@
+The Shape Context descriptor was proposed by Serge Belongie and Jitendra Malik in 2000. This feature is a histogram based shape descriptor and includes an approach for point correspondence. 
+This tool is naturally invariant to translation, small perturbations, and can be adapted to be rotation invariant, and more. These characteristics had been shown with a test framework based on known databases benchmarks.
+
+This is why I think Shape Context is a valuable contribution to OpenCV. However, this implementation should be done along with optimal histogram distance like EMD, and a classical shape comparison approach as the Hausdorff distance, in order to add a complete and robust shape descriptor/comparison tools to OpenCV. Implementations must be proved to work with the same database bench-marking used in the state of the art.

@@ -1,0 +1,3 @@
+As the title suggests, this project aims to use CUDA/OpenCL in PhyML (via the BEAGLE library) for the likelihood calculations. These form the core of computation for maximum likelihood estimates of an inferred phylogeny. The challenge is in interpreting various Phylogenetic parameters (tree topology, evolutionary rate categories, eigen decomposition of the substitution matrix, etc) and making the appropriate BEAGLE calls (which are subsequently pipelined to the CPU/GPU).
+
+I look forward to contributing in a meaningful way. Moreover, this project will also help me to align my graduate research direction.

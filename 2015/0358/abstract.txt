@@ -1,0 +1,1 @@
+This project aims to apply modern world cryptography techniques i.e. TLSv1.2 protocol to establish a secure and reliable connection between the devices connected through KDE connect.This will make communication between devices more secure by full packet integration, integrity checks and peer authentication.

@@ -1,0 +1,3 @@
+Currently FLINT lacks a robust module for big integer factorization. For small numbers, there exists a very fast implementation of the William’s p+1 factoring algorithm, which can be used. However there is no such implementation for bigger numbers.
+   
+     The target of my project would be to implement a quadratic sieve and optimize it so that it is capable of factoring a 60 digit number in 8 seconds on a single core, and a 100 digit number in under a day.

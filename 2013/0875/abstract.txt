@@ -1,0 +1,1 @@
+core.matrix is an actively growing library that provides general interface for different matrix libraries. For the sake of reference, as well as better "out-of-the-box" experience, plain Clojure implementation of the interface is needed. This project aims to provide one.

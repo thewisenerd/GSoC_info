@@ -1,0 +1,3 @@
+In this mobile application, we aim to visualize data from various mobile phone sensors. The target audience for this application is researchers and academicians. 
+
+The application would detect various available sensors on a mobile device and allow to measure data from these. The application also provides visualisations for real time (live) and pre-recorded sensor data.

@@ -1,0 +1,1 @@
+Though OGDF supports various file formats for graphs and graph layouts, couple of popular formats are not yet supported. The goal of this project is to add read and write support for formats such as: GraphML (XML-based), DOT (used by GraphViz), GEXF (Gephi's XML-based), GDF (GUESS CSV-alike), UNICET DL and TLP (used by Tulip).

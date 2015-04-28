@@ -1,0 +1,1 @@
+This project aims at embedding GNSS-SDR in a system-on-chip consisting on ARM processors and FPGA devices (such as Zynq) in order to reach real-time. The Zedboard kit is suggested as the development platform.

@@ -1,0 +1,3 @@
+The main goal of my project is to implement RSS feed for Systers-mailman and Mailman3. Subscribers will benefit from feeds for the whole list (including Systers dlists) and separate feeds for threads. 
+
+At the beginning I would also like to increase unit test coverage for various parts of the Mailman/Systers system.

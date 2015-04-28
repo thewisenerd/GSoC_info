@@ -1,0 +1,4 @@
+This proposal is to provide automated statistics for Linear and Logistic Regression Modules in ECL-ML Project.
+Following Statistics are added :
+For Linear Regression : 1) T statistic and and P Value for each beta, 2) Adjusted R-squared, 3) P Value for the F statistic.
+For Logistic Regression: 1) Chi-Squared, 2) P Values, 3) Standard Error, 4) Confidence levels for each beta

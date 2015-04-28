@@ -1,0 +1,3 @@
+The web-console is a debugging tool for Ruby on Rails web applications. It provides an interactive Ruby session to debug in the web browser. The session in the console has the context of the code of the web application.
+
+The goal of this project is to create the browser extensions of web-console. It allows to display the console aside from the web application's view. By doing this, the console can be displayed without breaking affects to the view code of the web application.

@@ -1,0 +1,7 @@
+Cesium is "a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization". 
+
+KML (Keyhole Markup Language) is "a file format used to display geographic data in an Earth browser", it is maintained by the Open Geospatial Consortium, Inc. (OGC). 
+
+ I wish to implement features from this standard which are not yet supported by Cesium. I'll work at the DynamicScene level where I should develop something like a KmlDataSource which creates a bunch of DynamicObject instances  that represent the various KML features.
+
+This project will also be a stepping stone for future projects including the support of GML.

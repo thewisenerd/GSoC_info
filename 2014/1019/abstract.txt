@@ -1,0 +1,6 @@
+In my proposal of GSoC 2014, I am applying for Xapian‘s Learning to Rank project.
+
+During this summer, I plan to complete three tasks:
+1.to optimize the existing three algorithms(refactor the code)
+2.to complete a test framework for learning to rank algorithm
+3.to complete a feature selection algorithm for ranking

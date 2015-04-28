@@ -1,0 +1,1 @@
+A toolchain to minimize the barrier of contributing documentations. Focused of how-to docs and simplicity.

@@ -1,0 +1,1 @@
+My chosen idea is that over the summer I will implement the build UI dashboards as plugins for the Buildbot Web UI. This project includes among others the reimplementation of console and waterfall views. The client side of the web UI is written in JavaScript and based on the AngularJS framework. For the waterfall view I will use D3.js library.

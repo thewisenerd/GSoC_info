@@ -1,0 +1,1 @@
+Project aims at partial reimplementation of type checker in Spad compiler of FriCAS. Main goals include: better type inference, stricter type system, understandable diagnostic messages.

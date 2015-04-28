@@ -1,0 +1,1 @@
+Currently, the main page of Fauxton is list of all databases on the server. Main purpose of this project is to create a dashboard for Fauxton which have a nice welcome page with useful information as summary from other sources. This dashboard will be the main page of Fauxton after implemented.

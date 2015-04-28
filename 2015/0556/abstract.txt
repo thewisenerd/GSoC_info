@@ -1,0 +1,1 @@
+Rspamd supports opportunistic encryption of all messages. However, its current web interface does not support encryption at all. So in this project I will be using libsodium-js for encrypting the HTTP session of its web interface and hence improving its security.

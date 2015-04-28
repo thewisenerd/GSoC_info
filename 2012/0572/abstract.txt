@@ -1,0 +1,2 @@
+Adding a simple web shop for kits of preinstalled routers with antennas would be a great addition that would help even non technical people get involved with the wlan project. This is also important for people to deploy nodes in rural areas where there might be nobody else who already deployed a node. So providing them with a prepared kit ready to mount would help them greatly.
+I would also implement all the major locally excepted payment options.

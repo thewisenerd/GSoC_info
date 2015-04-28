@@ -1,0 +1,1 @@
+Menus are a common user interface component in many types of Android applications, it is used to present user actions and other options in activities. This project aims to enable App Inventor to implement a new Menu component with a set of actions for the options menu and provides click events for each added options.

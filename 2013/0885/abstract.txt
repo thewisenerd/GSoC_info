@@ -1,0 +1,1 @@
+My name is Krell Sebastian, I'm student at Graz University of Technology. I’d like to implement the functionality of recognising sounds and spoken words into Catroid using a new brick.

@@ -1,0 +1,3 @@
+This project mainly aims to re-architecture the existing PGD project to support the latest version of Django.
+Project also help introducing the Vagrant environment for project setup and installation.
+Documentation plays a vital role inviting new developers to contribute, so documentation is another part our project concerns about.

@@ -1,0 +1,1 @@
+Main goal for this project is develop functionalities in order to ask to the end users by an EULA license for proprietary libraries and building the majority of OSGeo components to x86-64 bits on Windows as well as  improve the current OSGeo4W installer.

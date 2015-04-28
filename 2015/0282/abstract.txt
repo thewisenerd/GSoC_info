@@ -1,0 +1,1 @@
+This is a proposal for the addition of offline messaging to Tox. To replace the traditional centralized offline data storage, I propose a new Tox library that implements a federated service allowing clients to register to storage server nodes. This node may then be posted messages to by other clients when their recipient is offline.

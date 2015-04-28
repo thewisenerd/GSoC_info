@@ -1,0 +1,1 @@
+An improvement of the development lifecycle for CCExtractor will help raise the quality of the code and the implementation of several standards.

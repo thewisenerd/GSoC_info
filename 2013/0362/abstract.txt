@@ -1,0 +1,9 @@
+KStars has many powerful features, but it's slow and does not deal well either with drawing large catalogs, or with normal-sized catalogs on low-end machines suitable for field use. The goal of the project is to rewrite KStars' data-processing code to both be parallel and to make efficient use of the hardware available, whether they have a single x86 core, multiple cores, a discrete or embedded GPU, or a system-on-a-chip like the Exynos 5.
+
+There are three main areas of improvement:
+
+1. Computation speed;
+2. Memory access patterns;
+3. Parallelism.
+
+Currently, KStars does poorly at all of these; by the end of the GSoC project, all of them will be improved.

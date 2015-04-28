@@ -1,0 +1,3 @@
+digiKam features an existing graphical interface tool "image editor" to make manipulations and user defined edits in an image. Apart from the local contrast tool, these edits apply to the entire image. The local adjustment tool would be similar to the one present in the existing commercial software Nikon Capture NX-2 ™.
+
+In more detail, this tool would help users to make user defined selections in the image, based on the color of a point selected and a circle encircling the region identifying the region of interest of the user.

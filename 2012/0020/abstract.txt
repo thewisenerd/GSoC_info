@@ -1,0 +1,1 @@
+The project would enable a large meta-metadata developer community through improvements in the framework that make it robust, easy to use, and standardized. It would also aid the ever-increasing exploring of information by providing an easy mechanism to inspect the multidimensional data and its associations.

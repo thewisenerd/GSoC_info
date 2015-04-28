@@ -1,0 +1,1 @@
+The Gauss Research Group has created a new tool called GKLEE that does a formal verification of CUDA programs. I wish to integrate GKLEE's debugging potential into Eclipse's Parallel Tools Platform.

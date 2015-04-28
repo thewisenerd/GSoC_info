@@ -1,0 +1,4 @@
+In recent years complexity of decoding linear codes has been one of the most important research topics about linear codes. This problem is known to be NP-hard with arbitrary codes and trying to decode arbitrarily many errors. Nevertheless there is better results that one can apply to specific classes of codes when the number of errors is limited.
+In this project we present a new decoding algorithm for linear codes over finite fields. This algorithm is based on the computation of  the Gröbner basis of the ideal associated to the linear code.
+One of the tools we use is the free open-source mathematics software SAGE.
+The main goal of this work is the implementation of the algorithm in order to make a contribution to SAGE in the linear codes area. Also we  make a comparison between the new algorithm and the ones already implemented in SAGE and GUAVA, expecting a improvement in the efficiency of the decoding problem.

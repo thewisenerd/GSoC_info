@@ -1,0 +1,3 @@
+Though the Dashboard 2.0 has improved a lot, compared to the original one. There is still more work to do, to make it better. We'd like to upgrade its data monitoring tools, modernize its view and more.
+
+All about make things better, make the developer could use a better ID platform.

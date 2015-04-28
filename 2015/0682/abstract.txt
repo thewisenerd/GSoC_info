@@ -1,0 +1,1 @@
+Quick Tabs module is presently being used by more than 80,000 websites. The module provides an easy way to render tabs using Ajax as block of contents. To extend QuickTabs renderer plugins are used. The goal of the project is to port the module to D8 and write tests for both PHP code and JavaScript code of D8 version.

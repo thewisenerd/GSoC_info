@@ -1,0 +1,1 @@
+Hazelnut is a project aimed to bootstrap a minimum and working kernel of the Pharo smalltalk system. Hazelnut should provide kernel generation, validation, and serialization into a new image.  Also, it should have a way to debug and test the results, and to make the resulting kernel growable via compilation, inclusion of compiled libraries or remote programming.

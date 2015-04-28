@@ -1,0 +1,1 @@
+Finish (well, at least fix as many bugs and implement as many missing features, as possible) the kdev-clang plugin to make it an usable replacement for the existing C++ plugin.

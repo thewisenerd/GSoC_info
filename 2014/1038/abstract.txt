@@ -1,0 +1,1 @@
+This project implements a new data communication standard for Arches based on popular data transport formats like XML and JSON. Arches will be empowered to import and export data more efficiently with different data sources through the improved data exchange mechanism.

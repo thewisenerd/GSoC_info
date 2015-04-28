@@ -1,0 +1,6 @@
+The Project aims at enhancing the Secure Code Review module by:
+
+•	Developing additional security reviews in the secure code review module.
+•	Developing parsed based routines to find the vulnerable usage of the functions of source code of module.
+•	Developing Taint injection module to inject data into input fields.
+•	Displaying security review results

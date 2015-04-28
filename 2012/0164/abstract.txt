@@ -1,0 +1,1 @@
+Preparing the Menu Block module for Drupal 8 core by updating the contrib module to use new D7 menu APIs. Having the Menu Block module functionality, a very popular module, a part of Drupal core has been a long-term desire of the Drupal community.

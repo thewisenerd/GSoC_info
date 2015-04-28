@@ -1,0 +1,1 @@
+Oauth for OpenWrt routers aims to support authentication via OAuth services (Google, Facebook...) and run on the same box with WifiDog. It is using Luci and provides an alternative to single Auth Server for WifiDog. There is no need to setup a separated machine for authentication.

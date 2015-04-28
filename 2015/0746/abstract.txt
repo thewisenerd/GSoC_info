@@ -1,0 +1,2 @@
+The Plagiarism API in Moodle mainly focuses on providing hooks that are handled by plugins upon various events within Moodle. However, the current plugins that make use of the API are only available for commercial use, making it difficult to check the whether the API is functioning properly through them.
+The aim of this project is to solve the above problem by developing a simple plugin named Moorsp which implements all functions presented in the Plagiarism API.

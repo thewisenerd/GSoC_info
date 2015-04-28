@@ -1,0 +1,1 @@
+Below you can find my thoughts on improving the Monkey HTTP Daemon project, as a proposal at GSoC 2014.

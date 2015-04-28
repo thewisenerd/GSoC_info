@@ -1,0 +1,1 @@
+This project deals with building an interactive command line interface for the MacPorts port command. This will enable users to solve conflicts arising in various functions of MacPorts by giving an approval/decision on questions asked by the interactive console. Thus, the user experience will be improved as conflicts will be resolved automatically.

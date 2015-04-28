@@ -1,0 +1,1 @@
+Extend the HPX with the ability to run tasks based on C++ AMP kernel. The project is based on CLAMP, an open-source compiler providing the transformation method from AMP to OpenCL kernel.

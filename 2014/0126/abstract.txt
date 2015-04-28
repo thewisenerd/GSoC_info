@@ -1,0 +1,1 @@
+Mobile phones, especially smartphones, came to our life very quickly. We use them every day and sometimes more often than our computers. At the moment there is no way to use Amahi comfortably on Android. This conclusion assumes that some work should be done to provide a new way of user interaction with Amahi. My work is to implement this idea in an Android application for Amahi.

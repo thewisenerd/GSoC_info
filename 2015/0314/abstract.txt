@@ -1,0 +1,3 @@
+User-Managed Access (UMA) is a profile of OAuth 2.0. UMA defines how resource owners can control protected-resource access by clients operated by arbitrary requesting parties, where the resources reside on any number of resource servers, and where a centralized authorization server governs access based on resource owner policies.
+
+This project is to implement UMA 1.0 support for WSO2 Identity Server by extending the OAuth 2.0 authorization framework implementation.

@@ -1,0 +1,1 @@
+The main goal of this project is to add support and integrate the Oculus Rift VR headset with the Tango framework and with the Blender simulation.  Once a single user is able to participate in the simulation using the Oculus, support for multiple users will be investigated and eventually added.

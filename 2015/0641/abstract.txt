@@ -1,0 +1,2 @@
+PeaceTrack is an Android smartphone application for Peace Corps volunteers (PCVs) and administrators. Its main purpose is to give a tool to volunteers to collect data and report back to PC headquarters on progress and status of their assignments. It's important for PC administrators/managers to track their PCVs activities and assignments.
+Last year it was developed during GSOC 2014. This session the same app will be improved.

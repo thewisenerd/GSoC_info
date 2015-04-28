@@ -1,0 +1,2 @@
+The recent release of GHC is capable of generating LLVM code that is compatible with the LLVM version PNaCl is based on. However, PNaCl does not support all of the LLVM features that GHC is relying on, making cross compilation to PNaCl impossible.
+The aim of this project is to allow for easy cross compilation to PNaCl by exploring two possible approaches at porting GHC to new architectures, extending PNaCl LLVM support if necessary, and finally validating the outcome using the GHC test suite.

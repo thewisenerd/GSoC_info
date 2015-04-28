@@ -1,0 +1,3 @@
+The main idea of this project is to use a drone to bring flying an automated electronic defibrillator (AED) where a cardiac emergency is happening. 
+
+As a part of the global project called FAED, my project goal will consist to use the Interactive Spaces software to develop a platform that allows the reception of data, parsing into different formats and finally be used by the Liquid Galaxy to show the information in the system.

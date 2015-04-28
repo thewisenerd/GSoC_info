@@ -1,0 +1,3 @@
+The aim of this project is to improve the Cling user prompt to provide hints about the location of unknown names in the code.  
+The suggestion will prompt the user to load a particular missing header (and library, when applicable) where the name is to be found.  
+If there is no ambiguity, the user may choose an option to automatically load the required files and evaluate the previous input again.

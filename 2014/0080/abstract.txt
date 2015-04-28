@@ -1,0 +1,3 @@
+This project is called "Firefox OS Games Resources" and the objective is to create game samples, an ebook and some reusable libraries to aid game developers in Firefox OS. 
+
+Games count for 50% of the app usage on smartphones, we don't have developer resources and training material to help developers build good quality games for Firefox OS low-end devices. This project aims to fix that and help our platform advance further.

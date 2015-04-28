@@ -1,0 +1,1 @@
+The aim of this project is  to adapt Catroid application's UI and behavior to look more native on Android 3.0 and 4.0 and to use tablet's free screen space.

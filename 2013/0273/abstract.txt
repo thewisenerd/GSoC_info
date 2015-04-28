@@ -1,0 +1,1 @@
+The Mesh_2 package implements a 2D isotropic triangle mesh generator. Currently, the domain to be meshed is defined by some constrained edges and a set of seed points. The focus of the project is to add and improve functionality the this package, by adapting it to work as Mesh_3 package, add mesh optimization methods and generalize input type to different mesh representations.

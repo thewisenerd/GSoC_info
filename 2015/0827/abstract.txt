@@ -1,0 +1,3 @@
+To avoid VMs networking bottlenecks, I recently worked with my advisors on ptnetmap: a netmap virtual passthrough for VMs.
+ptnetmap allows userspace applications running in a guest VM to safely use any netmap port with near-native performance (physical devices [14.88 Mpps], software switches [20 Mpps], shared memory channels [75 Mpps]). I developed a preliminary version for linux/KVM hosts.
+For this GSoC project I propose to work on developing host ptnetmap support for bhyve/FreeBSD.

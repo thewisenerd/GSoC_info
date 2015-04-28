@@ -1,0 +1,3 @@
+Improve Marble's OpenStreetMap data support by making it able to read from raw .osm data and render it in vectors. 
+
+The main problems that will have to be faced are developing a new tilling scheme for managing large data amount queries, extract relevant information depending on the zoom level and match the actual Marble's zoom leves with OpenStreetMap's stepped zoom.

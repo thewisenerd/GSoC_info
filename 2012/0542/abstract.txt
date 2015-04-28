@@ -1,0 +1,9 @@
+Pylint is currently widely used by Python Community but pylint is
+quite old (about 10 years old) and the need for modernization begins
+to emerge.
+
+First, a lot of tickets are open (currently 184 open tickets), some
+since several years. Moreover parsing pylint output is not so easy and
+several request for JSON output has been triggered. Finally improve
+python-3000 compatibility will help python developpers to move to
+python-3000.

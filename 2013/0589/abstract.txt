@@ -1,0 +1,2 @@
+The goal of the project is developing an algorithm to compute likelihood of occurrence of a specific kind of landslides, relying on the facilities offered by the uDig Spatial Toolbox.
+The deliverable will so be an highly usable, scientifically  up-to-date tool, available in a standard spatial processing environment: a great value for the target end user.

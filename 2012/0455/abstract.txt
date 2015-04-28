@@ -1,0 +1,1 @@
+My proposal is to improve, complete, and optimize the BSD-licensed text processing tools grep, sort, diff, diff3, sdiff, and mdocml. This will include adding features to diff/diff3/sdiff and mdocml and improving the efficiency of grep and sort.

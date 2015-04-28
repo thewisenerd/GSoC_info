@@ -1,0 +1,2 @@
+The addition of the ability of uploading data about students will immensely benefit TEAMMATES. This will allow basic functions like tagging, searching, filtering and more advanced functions such as analytics. Implementing a scalable and cost-effective data upload will be a significant stepping stone to realizing TEAMMATES's full potential.
+The secondary project aims to improve the robustness and effectiveness of the testing aspect of the project. This will be of great benefit to the developers.

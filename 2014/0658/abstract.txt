@@ -1,0 +1,1 @@
+Web-based visualization has high-potential. Therefore, in order to create "next-generation" interactive visualization software, Vispy wants to combine its abilities with the browser's. An online backend should be implemented which will help users to interact with the big data from their browsers.

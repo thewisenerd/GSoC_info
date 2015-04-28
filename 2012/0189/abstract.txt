@@ -1,0 +1,3 @@
+Sandpainting is the art of rearrange powdered pigments onto a surface to make an unfixed, or fixed, granular painting. Unfixed sand paintings have a long established cultural history in numerous social groups around the globe. 
+
+This project propose a simple unfixed sand brush to the digital painting software Krita, based on grain particle simulations inspired by two dimensional Distinct Element Modelling methods.

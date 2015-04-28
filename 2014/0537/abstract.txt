@@ -1,0 +1,2 @@
+The task I would be working on is basically using neural networks to classify images using DeSTIN.I would be concentrating mainly on several aspects of implementation of uniform DeSTIN such as scale invariance. 
+I would   be exploring the working of the online clustering algorithm and its role in extraction of spatial features and positioning of centroids and extraction of spatial patterns into belief states.

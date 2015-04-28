@@ -1,0 +1,1 @@
+The IoTSyS gateway can be accessed by using different bindings, like HTTP, CoAP and SOAP, but the interactions are in an insecure way. To make sure the security of the exchange of information, various security technologies should be implemented. In this project, I will focus on the HTTP protocol.

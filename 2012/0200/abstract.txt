@@ -1,0 +1,1 @@
+Improve the scalar multiplication on elliptic curves by implementing the wNAF-based method with additional caching support.

@@ -1,0 +1,6 @@
+The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures.
+
+Although, unfortunately there isn’t a centralized way for packagers or even users to discuss different objects on OBS. Whatever communication happens is outside the OBS (IRC, mailing lists etc). That being said the project idea aims at implementing object specific discussion system in OBS(packages, projects and repositories).
+
+Also, instead of reinventing the wheel and creating a discussion system from scratch. The idea here is to extend on an external commenting system, acts_as_commentable_with_threading (https://github.com/elight/acts_as_commentable_with_threading). 
+It will work seamlessly with OBS infrastructure and will be implemented on the front-end of OBS (webui instance).

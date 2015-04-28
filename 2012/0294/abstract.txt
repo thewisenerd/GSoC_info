@@ -1,0 +1,1 @@
+Implement the region growing image segmentation algorithm.  The output will include segmented regions with statistics.  This information can be directly used or taken as input to existing image classification modules.

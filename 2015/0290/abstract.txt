@@ -1,0 +1,1 @@
+Yescrypt is a password hashing algorithm, and finalist in the PHC password hashing competition. The task is to implement yescrypt in programming languages other than C, so that applications written those languages can take advantage of yescrypt without being stuck with whichever algorithm they currently have.

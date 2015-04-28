@@ -1,0 +1,1 @@
+The end-to-end message tracing of message mediation flow need to be implemented based on WSO2 ESB and WSO2 BAM. The project requires changes at ESB core engine level as well as to write a new data publisher to BAM. Also, at BAM level, it needs to have the UI level support for tracing the entire message flow with BAM gadgets.

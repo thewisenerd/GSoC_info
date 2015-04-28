@@ -1,0 +1,3 @@
+GDAL/OGR is widely used geospatial data abstraction library. 3D spatial data mainly consists of surface location and height. While surface location consider geometrical aspect of the Earth, height is modeled differently due to gravity.
+Although at some extent vertical coordinate transformation is supported by GDAL/OGR , the transformation chain did not compensate for height information. 
+This project will establish a rigorous 3D transformation chain to support vertical datum.

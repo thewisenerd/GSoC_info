@@ -1,0 +1,1 @@
+In order to provide near real-time indexing of the MusicBrainz database, I propose completion of Wieland Hoffmann’s (Mineo’s)  2014 GSoC project, the Implementation of SOLR search.

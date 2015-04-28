@@ -1,0 +1,1 @@
+Small numpy arrays are very similar to Python scalars but numpy incurs a fair amount of extra overhead for simple operations. For large arrays this doesn't matter, but for code that manipulates a lot of small pieces of data, it can be a serious bottleneck.

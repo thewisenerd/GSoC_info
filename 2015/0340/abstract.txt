@@ -1,0 +1,2 @@
+Although Subsurface is a mature dive log application, it is missing good customized printing support. This projects aims to add customizable print support to Subsurface
+so the user can control which information is printed where and using which style and control over major style elements like font sizes and positioning of the data.

@@ -1,0 +1,1 @@
+Implement APNG output support and improve the compression options available for PNG

@@ -1,0 +1,3 @@
+Android is actually getting the biggest and most portable gaming platform in the world. So android support is a sure thing to do to open the gates for a big audience in short and long-term.
+My GSoC goal is to reach that audience with great multi-touch experience and Android support.
+For the 2013+ notebook market's direction to sell notebooks with touchscreens and to focus on tablet/convertible sales, I will also provide multi-touch for the desktop.

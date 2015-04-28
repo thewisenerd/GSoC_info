@@ -1,0 +1,1 @@
+The browser is essentially single-threaded and would kill applications that take more than a few seconds. Doppio already provides functionality for suspending execution periodically. The main aim of the project is to implement similar features for Ninia, which can then be extracted into a generic library.

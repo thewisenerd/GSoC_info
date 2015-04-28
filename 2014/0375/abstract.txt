@@ -1,0 +1,1 @@
+Incanter is a statistical computing platform, core.matrix is a language extension with a focus on numerical computing. The project is intended to bridge the gap between them by implementing core.matrix support in Incanter. This will result in a more flexible and transparent usage of Incanter and its customisation to particular needs of the user.

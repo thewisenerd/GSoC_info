@@ -1,0 +1,1 @@
+The project covers the two languages translation. The target language is Turkmen. The project will be based on these languages to create a machine translation.

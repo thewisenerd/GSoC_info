@@ -1,0 +1,1 @@
+This project aims to improve the usability of the current IoTSyS UI(“Internet of Things System”, “building automation”) by adding new UI elements and functionality. Further, user authentication and the possibility to persist configurations in a database shall be implemented.

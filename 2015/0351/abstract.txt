@@ -1,0 +1,3 @@
+Port Processing run on the Raspberry Pi and other ARMv6, ARMv7 devices, such as the BeagleBone Black. Implement an Arduino-like library to allow access to on-board peripherals. Create educational resources to help educators successfully use Processing on the Raspberry Pi in the classroom. Package Processing for upstreaming.
+
+(Details in below)

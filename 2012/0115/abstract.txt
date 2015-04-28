@@ -1,0 +1,3 @@
+KDiamond is one of the addictive KDE-Games. Whilst the game is very intuitive to play, I feel that the gameplay and the user interactions can be improved to make it more complelling.
+
+My proposal is to port KDiamond to Qt Quick - which would allow me to enhance the UI for better gameplay, and with the UI capabilities of QML - give a new feel of the game to the player. I also plan to add some more UI components like - dialogs, particles effect, transitions to the game to to make it more engaging and fun to play!

@@ -1,0 +1,2 @@
+This project is about creating a simple PKCS#11 module using Evolution's addressbook as a backend. 
+The module will enable Evolution to encrypt email to contacts using its certificate stored in the addressbook.

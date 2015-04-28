@@ -1,0 +1,1 @@
+Implenemt an integration between OpenNMS and OCS so the OCS inventory data can be used as a source of nodes including asset infromation for OpenNMS.

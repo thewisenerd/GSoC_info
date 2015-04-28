@@ -1,0 +1,1 @@
+In this project I am going to continue development of the Android client and make substantial functionality improvements, add new features that will make application more useful and easy to use.

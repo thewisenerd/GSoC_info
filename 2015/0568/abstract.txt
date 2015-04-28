@@ -1,0 +1,1 @@
+This project proposes implementing a native DEM reader for GeoTrellis. This would allow reading DEM files with a low latency in a streaming context such as Hadoop Distributed File System and also save the user from the trouble of installing java bindings for Geospatial Abstraction Library(GDAL) using which reading DEM data is currently achieved.

@@ -1,0 +1,1 @@
+I want to extend previous years GSoC project with the support for keyboard, mouse and audio playback, giving support for multiple cape and peripherals in an Android device. The work will be to implement a kernel module for mouse, keyboard and audio playback driver and an app for Android.

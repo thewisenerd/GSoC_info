@@ -1,0 +1,6 @@
+OTR is an encryption tool for real-time chat, is easy to setup and provides a smooth user experience as well. Symmetric key cryptography is used through OTR encryption and hence the same key is used by the sender (Alice) and receiver (Bob) to encrypt the plaintext to ciphertext  and to decrypt the ciphertext to plaintext. 
+Though this project, I plan to implement the following properties in lets-chat : 
+Authentication 
+Encryption 
+Perfect forward secrecy 
+Deniability

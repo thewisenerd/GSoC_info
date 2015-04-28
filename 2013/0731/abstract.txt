@@ -1,0 +1,1 @@
+RAW development is a central part of many photographer's workflow. There are several programs that offer photo mangement features and several developers, but none of them do both tasks in a user-friendly but powerful way. So, following UNIX tradition, I suggest a integration of the available RAW developer software into f-spot, a GTK photo manager.

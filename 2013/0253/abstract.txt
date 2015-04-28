@@ -1,0 +1,1 @@
+9webdraw is a Web-based graphics server for Plan 9, implementing the draw(3) protocol in Javascript.  It draws to the HTML5 Canvas, and communicates with the Plan 9 host using the 9P filesystem protocol tunneled through a WebSocket.

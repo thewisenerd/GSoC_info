@@ -1,0 +1,1 @@
+I propose library for client-side graph drawing in HTML5 + JavaScript. The library would be general enough to also support other projects as there is a great need for a plotting JS library in the open-source community. In wlan slovenia, the library will be used to visualize graphs, which display data about the network and nodes.

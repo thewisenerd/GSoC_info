@@ -1,0 +1,2 @@
+The aim of the project is to integrate wiki-like editing features into the AContent editing system, to allow multiple users to collaboratively create, write, add, and edit e-learning content along with content versioning.
+The idea is to choose an already existing open source wiki (like Dokuwiki), integrating AContent and wiki user’s management, adapting wiki features according to user’s permission and finally integrating the wiki versioning system into the content management.

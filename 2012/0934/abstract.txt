@@ -1,0 +1,3 @@
+As many of you know, the C backend has been there at least since 2008.
+Apparently the GSoC term back in 2008 wasn't long enough to make sure that it is ready to be merged into trunk.
+I'd like to change this.

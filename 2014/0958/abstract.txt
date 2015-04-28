@@ -1,0 +1,1 @@
+Implementing a real time subgraphs miner mining patterns in the Atomspace Incrementally.

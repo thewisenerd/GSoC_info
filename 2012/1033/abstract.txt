@@ -1,0 +1,3 @@
+Open Street Map (OSM) is a valuable and free source of geographical data backed by a large number of volunteers mapping the world. However, the usage of this data is not trivial. The central website offers only a ’raw’ data format. GIS systems have their own dataformats. An on-demand transformation step is missing which can be filled by (interoperable) Web Services such as the 52North Web Processing Service (WPS).
+
+Project result: An addition to the 52North WPS to transform OSM data in various GIS formats on demand.

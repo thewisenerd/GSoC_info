@@ -1,0 +1,4 @@
+This proposal consists of the implementation of 3 independent security improvements to Wget. 
+HTTP Strict Transport Policy (HSTS), HttpOnly Cookie support and FTPS. Collectively these contribute to making Wget a safer tool, protect users from many security threats and provide new choices for safe file downloading via FTP.
+
+An alternate project is proposed, implementing basic HTTP/2 support.

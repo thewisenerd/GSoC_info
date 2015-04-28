@@ -1,0 +1,1 @@
+Here, I will try to integrate periodical content downloading ability to FBReader and give ability to share the books of interest to user on facebook, using facebook_sdk for android and Graph API

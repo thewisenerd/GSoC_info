@@ -1,0 +1,1 @@
+My goal for this year’s GSoC is to write a Chrome extension that implements Orion as part of the current DevTools, with the extended goal of landing this functionality within Chrome. A Chrome implementation would give Orion a platform for exposing its functionality to developers everywhere.

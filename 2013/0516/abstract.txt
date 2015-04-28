@@ -1,0 +1,3 @@
+My proposal is to build a refactoring tool for F#. It should be integrated into the MonoDevelop IDE and be easy to install and use.
+
+I have already implemented some of the features, but more work is required to make the tool readily usable by developers.

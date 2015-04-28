@@ -1,0 +1,5 @@
+The project aims at improving the current equation solver in sympy by:
+1. Cleaning up the input API for current solvers
+2. Providing a consistent output format by returning sets.
+3. Refactoring refactoring solvers to be more robust and reliable so that we can answer questions like, "have we found all the solutions?".
+4. Implementing radical denesting and singularity finder.

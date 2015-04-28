@@ -1,0 +1,2 @@
+Make the interface between Minecraft and Opencog to embody Opencog in Minecraft,
+And enable Opencog to do some tasks intellectually in Minecraft.

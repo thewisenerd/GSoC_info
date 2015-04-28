@@ -1,0 +1,2 @@
+Doctors Near Me is a mobile app implemented using Sencha Touch, that provides the functionality to users to search, get directions, find more details about hospitals, doctors, pharmacies and allows them to view on a map, sort and filter according to various parameters.
+If the user is a registered user he can like/comment about the places after logging in. The user can mark his favorite locations. The app will support language translation.

@@ -1,0 +1,3 @@
+I integrated phpBB sessions into its caching framework to ease the load on the relational database.
+
+This project gave system administrators more flexibility on the deployment of phpBB. The relational database, freed from this responsibility, has more resources to handle other requests in many different configurations, enabling a more performant, more stable, more scalable phpBB.

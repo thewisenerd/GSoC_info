@@ -1,0 +1,1 @@
+Usage Statistics are helpful in determining the components that require most attention. The purpose of this project is to create automated usage statistic collection tool for pidgin which could upload useful stats like IM Services, Plugins used etc. to pidgin.im. Such information would be collated and put up on the pidgin.im server for developer and public view.

@@ -1,0 +1,2 @@
+Diff contributed module is currently used by at least 50.000 websites but it currently only receives maintenance fixes. It provides the ability to compare selected revisions of content, makes the differences visually noticable providing invaluable help for end-users. Drupal 8 entity system has default support for revisions for content entities, which needs to be considered at the conception of the architecture for the new version.
+We need to port this module to the next major version of Drupal.

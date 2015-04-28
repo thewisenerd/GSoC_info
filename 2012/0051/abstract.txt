@@ -1,0 +1,5 @@
+Clojure currently does not have a static type system. By utilizing the results of the Clojure Compiler's analysis phase (via analyze), we can build a static type checker, provided a la carte, as a library. Typed Racket is an example of adding a satisfying type system to an existing dynamically typed language, while preserving programming idioms and supporting interaction with untyped code. We will test the generality of ideas used in Typed Racket, such as Non-Uniform Variable Arity Polymorphism (typing complex variable arity functions like 'map') and  occurrence typing (a type inference strategy).
+
+There are also other potentially novel problems to be solved/found, some are detailed in this draft research proposal for Typed Clojure.
+
+Typed Racket is divided into two main parts: a type system and a system managing interaction across module boundaries (eg. using typed code from untyped). This project will concentrate on adding a static type system to Clojure.

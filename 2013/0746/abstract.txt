@@ -1,0 +1,1 @@
+Literature on drawdown is in its developing and evolving stage and is gaining in importance in the hedge fund industry. The PerformanceAnalytics package lacks proper coverage of the developments in the literature concerning drawdown. This project aims to fill this gap and incorporate the presence of non-normality and autocorrelation in returns.

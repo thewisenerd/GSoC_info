@@ -1,0 +1,1 @@
+DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web. The aim of this project is to develop a more Google-like (i.e., a scalable keyword-based approach) to search on DBpedia.

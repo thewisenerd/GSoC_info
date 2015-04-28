@@ -1,0 +1,1 @@
+My idea is to make Ruby DSL as similar as possible to Puppet DSL and provide a script that (at least partially can convert Puppet DSL to Ruby DSL).

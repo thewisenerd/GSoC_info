@@ -1,0 +1,2 @@
+This proposal is based on ideas described in: http://kivy.org/docs/gsoc.html#intermediate-projects
+The main goal is to provide a more complete API for accessing features commonly found on mobile devices (iOS, Android) and desktop (Linux, Windows, OS X) for Plyer.

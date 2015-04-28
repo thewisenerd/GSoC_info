@@ -1,0 +1,1 @@
+This project aims at leveraging the existing FedMsg software to emit various messages when events occur in our infrastructure.

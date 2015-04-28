@@ -1,0 +1,2 @@
+I am PhD student in CS with main focus in Distributed Systems and Cloud Computing. I’d like to work on DONAR to increase its robustness and add IPv6 support. If I have enough time, I’d also like to do some preliminary analysis of the usage trends.
+I chose these project ideas also because they are closely related to my PhD research topics, and I’m interested in working on this project also after the GSOC program, as part of my PhD research activity.

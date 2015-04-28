@@ -1,0 +1,1 @@
+The goal of this proposal is to utilise Javascript to improve phpBB's attachment system. It will allow for the implementation of multiple uploads (either simultaneously or in a queue) that can occur in the background without any page refreshes. Further to this, a tool for downloading all the attachments in a post or in the whole topic will also be implemented.

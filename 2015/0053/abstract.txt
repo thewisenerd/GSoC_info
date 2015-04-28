@@ -1,0 +1,1 @@
+The project consists in porting the changes made in instantbird's libpurple core to the original libpurple.

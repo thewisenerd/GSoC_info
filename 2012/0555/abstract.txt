@@ -1,0 +1,1 @@
+To display a document, Okular currently renders the entire page at once even when only a section of the page is required. This can lead to a lot of memory consumption specially at high zoom levels. My proposal is to develop a tile based rendering for Okular page view so only those tiles needed will be rendered and shown.

@@ -1,0 +1,1 @@
+Current techniques for photometric redshift estimation rely upon reduced integrated information from images. The information that is wasted on a pixel level can be made use of in order to get a better estimate. The performance of this technique can then be checked on different hardware like GPUs and against the machine learning algorithm used.

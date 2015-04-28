@@ -1,0 +1,3 @@
+Gröbner basis computation is becoming more and more important. In this project, I will implement the fast and efficient algorithms, F4 and F5, to compute Gröbner basis.
+
+These algorithms require efficient symbolic sparse linear algebra computation, which Haskell lacks currently, so implementing such functionality also constitutes the important part of this project.

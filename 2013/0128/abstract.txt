@@ -1,0 +1,1 @@
+Using ImageJ, QuantumGIS, Python and R to develop tools for mineral identification, physical property descriptions, and statistics for both Scanning Electron Microscope Element Data and 2.5x Optical Microscope images of thin sections.

@@ -1,0 +1,4 @@
+pgRouting has been working towards providing routing functionality on a PostGis/PostgreSql  Geo spatial
+database. It already has support for shortest path algorithm like astar ,dijkstra , tdsp and trsp .But for a very large network, routing becomes time consuming. Network partitioning is one such way which can prove to be helpful in improving the overall time efficiency of routing querries. The main idea  here is to first partition
+the whole network using a Quad tree approach and when the shortest path is computed these partitions are
+ loaded on demand. hence , there is an on demand incremental graph generation while the shortest path is being computed.

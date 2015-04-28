@@ -1,0 +1,1 @@
+One of the big missing features in LibreOffice is collaborative editing. This task is about work on a framework for collaboration using Telepathy DBus tubes over XMPP. One to one contact collaboration and many to many MUC collaboration.

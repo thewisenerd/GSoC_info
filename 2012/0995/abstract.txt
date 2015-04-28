@@ -1,0 +1,3 @@
+A simulator-independent, neuroML-compliant python API for multi-compartmental models to allow standardization of multi-compartmental model simulators. The API will also permit cross-checking of results between different simulators,
+ease of porting between simulators, access to many scientific Python libraries
+and encourage a more modular approach towards simulator development.

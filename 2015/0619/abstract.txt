@@ -1,0 +1,1 @@
+The main aim of the project is to add prediction to the existing data, i.e. to be able to make predictions about how likely an individual would respond positively or negatively or neutrally to a particular engagement action given their relationship history.

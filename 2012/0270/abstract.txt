@@ -1,0 +1,6 @@
+A Mobile application that will help the user to connect to Ninux network.
+-Check connection to the net, if not returns the position of the nearest;
+-Who's online.
+-Download/Upload file;
+-AR system;
+-fresnel's zone.

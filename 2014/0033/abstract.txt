@@ -1,0 +1,1 @@
+Implementing a SLF4J based logging framework for eclipse.

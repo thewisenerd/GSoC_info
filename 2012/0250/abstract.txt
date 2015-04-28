@@ -1,0 +1,2 @@
+My objective is to have all the deliverables done in time and respecting the same high quality standards as in the Java version.
+For each deliverable I will follow this pattern: study the Java version of the code, port to C#, test the new C# code. I have detailed this in the "Deliverables and Timeline" section of the application.

@@ -1,0 +1,1 @@
+Integration of MantaFlow for fluid simulations into Blender, mentored by Nils Thuerey

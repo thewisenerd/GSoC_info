@@ -1,0 +1,1 @@
+A simple web service for NDVI composition from visible and infrared images.

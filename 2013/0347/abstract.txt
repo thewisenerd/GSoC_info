@@ -1,0 +1,1 @@
+Hello, I'm Evgeniy Andreev, a third year undergraduate student at the Samara State Aerospace University. I have participated in GSoC with the SHOGUN-related project last year. This year I want to solve issues related to I/O shogun objects in various file formats.

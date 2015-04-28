@@ -1,0 +1,1 @@
+Tahrir aims to be a distributed, decentralized, scalable, and anonymous "workalike" for Twitter.  I would like to help bring Tahrir to an initial public beta release stage, which would require a good understanding of the already in-place code and commendable experience in handling the GUI related projects.

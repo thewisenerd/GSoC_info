@@ -1,0 +1,1 @@
+I'm last year student of Saint-Petersburg State University.I have some experience working with C++ and nice algorithmic background. My current diploma main theme is nowadays superresolution algorithms. All this can be useful for OpenCV.

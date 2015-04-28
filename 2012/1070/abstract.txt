@@ -1,0 +1,1 @@
+Extend a set of OpenCV Python interface usage examples. Extend python binding's functionality. Fix discovered bugs.

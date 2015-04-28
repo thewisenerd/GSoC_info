@@ -1,0 +1,1 @@
+The goal of this project is to build an OpenCL-accelerated solver for Standard and Generalized eigenvalue problem. Implementations should get benefits from usage of GPUs and multi-core CPUs and be based on the rich set of linear algebra operations already available in ViennaCL.

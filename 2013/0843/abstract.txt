@@ -1,0 +1,1 @@
+As a user of pitivi, I can't wait for the new release, and master misses waveforms and a good layer management implementation.

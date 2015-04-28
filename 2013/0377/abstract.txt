@@ -1,0 +1,1 @@
+Gst-switch is a mixer of incoming video and audio streams and works using gstreamer pipelines. The project aims to develop a python API for controlling and testing gst-switch.

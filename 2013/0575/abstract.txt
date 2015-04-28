@@ -1,0 +1,1 @@
+The end-purpose of this proposal is to be able to make a release of the video editor by the end of the summer.

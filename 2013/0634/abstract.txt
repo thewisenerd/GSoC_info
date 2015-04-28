@@ -1,0 +1,2 @@
+The goal is to implement a library for manipulating and analyzing algebraic
+ expressions. This would allow several advanced features like solving a system of equations in regard to a variable X, or optimizing an expression for executing via core.matrix. The library should also be extensible, to build a foundation for symbolic manipulation of expressions, on which other, more sophisticated transformations can be based.

@@ -1,0 +1,3 @@
+I would like to spend this summer as Pidgin's maintenance hero-intern, working through stagnant or hairy bugs, implementing small XEPs that have been on the to-do list, and generally helping to make the 3.0.0 release as smooth and as soon as possible.
+
+I recently worked with Tomasz to change my project, so this proposal is a work in progress. If you have any questions, please ask in the comments and I'll answer quickly.

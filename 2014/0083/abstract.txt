@@ -1,0 +1,3 @@
+At this moment signing OpenPGP keys is a tedious proces. It requires the signing party to download the key, verify its integrity, verify the information on the key being correct and finally redistribute the signed public key.
+
+The application will provide users with a simplistic set of tools that will integrate seamlessly into the desktop and which will ease up the process of signing Open PGP.

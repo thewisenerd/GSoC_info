@@ -1,0 +1,2 @@
+I want to implement applications of the Object based Image Analysis approach.
+I will implement an object based approach for Image fusion, Change detection and missing data filling.

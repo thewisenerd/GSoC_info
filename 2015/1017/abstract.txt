@@ -1,0 +1,1 @@
+This is a project picked from the ideas page; see http://www.lua.inf.puc-rio.br/gsoc/ideas2015.html#luarocks.

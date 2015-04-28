@@ -1,0 +1,3 @@
+GvSIG as GIS desktop thick client, it seems a viable and free, but limited in terms of Layout, so I plan to improve the use of the Layout of this application to extend the functionality of gvSIG Layouts, add to a library of configurable title blocks (this functionality is required through the mailing list of users of gvSIG).
+
+The aim is to reduce repetitive and tedious work of creating title blocks in the designs, which is so limited in the current version of gvSIG. It will be possible to configure the text, images, divisions, size, font ... and save them with a owner format (GVB) for storage and use in any other Layout in gvSIG.

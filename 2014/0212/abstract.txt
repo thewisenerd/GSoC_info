@@ -1,0 +1,1 @@
+In the LG LAB we think that involving conference calls and the LG project is a really good mix and would give a better and realistic way to communicate between people. The program is thought to run on a web browser(WebRTC), this makes it multi platform and much more useful also supports multiple users with LG in the same conference.

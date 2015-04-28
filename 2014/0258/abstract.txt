@@ -1,0 +1,2 @@
+Utilizing a calibrated camera, it is possible to create a custom pattern that can be used to track the orientation and position of the camera with respect to it. It also gives the opportunity to use it as a new calibration pattern to find the intrinsic parameters of the camera. 
+This is especially interesting in the aspect of mobile phone positioning and trajectory tracking.

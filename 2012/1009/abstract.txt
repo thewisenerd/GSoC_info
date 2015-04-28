@@ -1,0 +1,1 @@
+I will be working on a list of improvements to Blender’s operators and user interface. Some of these items come from the Blender Wiki and bug tracker and some come from my own observations. I will be focusing on usability and user interface.

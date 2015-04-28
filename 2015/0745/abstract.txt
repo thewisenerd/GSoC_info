@@ -1,0 +1,1 @@
+This project will be mainly focused on revamping the current user account system, building occupancy awareness into PGD(and various hierarchy), testing the current development branch of PGD(using Django 1.6.5), implementing a search by deposition date, re-architecturing the PGD to support Django 1.8

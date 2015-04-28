@@ -1,0 +1,1 @@
+Nowadays virtualization is an important mechanism being approached by both, hardware designers and software developers. The BSD community created a new hypervisor named bhyve, supporting hardware assisted virtualization only for x86-based platforms (Intel and AMD). This projects proposes to implement support for hardware assisted virtualization on ARM-based platforms.

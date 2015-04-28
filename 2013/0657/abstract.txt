@@ -1,0 +1,2 @@
+Exiv2 reads and writes files on the local file system. These files can be memory mapped if this feature is 
+supported by the host OS. With the increasing interest in "cloud" computing, it's become ever more common for files to reside in remote locations which are not mapped to the file system. The proposed implementation provides bi-directional support (both read and write) with read-access being the first priority.

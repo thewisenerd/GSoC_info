@@ -1,0 +1,1 @@
+Plagiarism API currently only hooks into the Moodle Assignment upload types. This project aims at extending the support for modules such as - Quiz Module (essay questions), Workshop module, Online assignment type, Forum posts (file attachments) and then improving the current Plagiarism plugins to support the new hooks.

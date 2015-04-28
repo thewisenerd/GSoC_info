@@ -1,0 +1,1 @@
+Implement a more complete set of EXSLT functions into the Xalan-C XPath environment.

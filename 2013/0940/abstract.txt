@@ -1,0 +1,3 @@
+My proposal aims to improve the efficiency and the coverage of the tests by developing a "smart" fuzzer heavily based on your current fuzzing script.
+
+I also propose a way to help identify duplicate coverage and distill the capture file collection used in the tests following a request from Gerald Combs.

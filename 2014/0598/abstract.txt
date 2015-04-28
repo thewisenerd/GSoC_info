@@ -1,0 +1,1 @@
+The project allows to implement ‘The Prince and the Coward’ game in ScummVM and translate it into English language.

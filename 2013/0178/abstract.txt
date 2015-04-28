@@ -1,0 +1,2 @@
+Implement spectral unmixing methods in R and integrate them with two existing packages (HyperSpec and ChemoSpec). In linear spectroscopy, each spectrum is a linear combination of pure spectral signals weighted with their respective concentrations. Spectral unmixing deals with the problem of recovering pure component spectra and their respective concentrations from a set of measured spectra.
+The project will consider the two spectral unmixing algorithms N-FINDR and Vertex Component Analysis.

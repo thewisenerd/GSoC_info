@@ -1,0 +1,1 @@
+OWASP-SeraphimDroid is an android application with the basic aim to teach the user about the malicious use of permissions that an android application uses. The app will use heuristics, sandboxing,etc to stop such uses. It will also provide features to block calls and locate mobile in case its lost.

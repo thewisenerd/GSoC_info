@@ -1,0 +1,1 @@
+Use categories, infoboxes, abstracts, other DBpedia properties, etc. to infer the type of an entity, and therefore extend the coverage of the DBpedia ontology.

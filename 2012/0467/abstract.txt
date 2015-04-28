@@ -1,0 +1,3 @@
+Arquillian provides an extensible testing platform that can be used for testing any type of Java-based component. The initial focus for Arquillian was testing Java EE components, such as CDI beans, EJBs and JPA. However, Arquillian provides all the infrastructure and hooks necessary to make it an ideal testing platform for Spring applications.
+
+So the main of this project would be introducing suport for Spring testing.

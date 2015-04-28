@@ -1,0 +1,2 @@
+This project is about improving dependency graph and scene update routines to make multiple (independent) object being handled in multiple threads.
+For example, multithreaded scene update will increase playback speed when having multiple characters animated.

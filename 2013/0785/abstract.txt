@@ -1,0 +1,1 @@
+Implementation of the Enhanced Customization APIs to protect some important Firefox preferences

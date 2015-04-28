@@ -1,0 +1,1 @@
+SuperTuxKart tracks currently do not support dynamic interactions between Karts and track elements. This project will implement a robust and extensible scripting engine that eases the process of track creation for artists, and allows for easier implementation of game logic.

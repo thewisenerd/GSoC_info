@@ -1,0 +1,1 @@
+Based on one of the existing Ideas at phpBB's GSOC '14 page, currently custom profile fields provide fairly limited functionality. This proposal is to enhance the existing functionality and add a few new ones

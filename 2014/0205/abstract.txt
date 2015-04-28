@@ -1,0 +1,3 @@
+Netengine is a python device abstraction layer which allows to remotely obtain all the important and needed information about the devices attached to a network, both in a python dictionary and in JSON format.
+It works with  network protocols such as SSH (Secure SHell)  and SNMP (Simple Network Management Protocol).
+With this abstraction layer every device is treated as an programming language object, with its own methods and attributes to be retrieved.

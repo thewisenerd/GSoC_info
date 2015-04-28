@@ -1,0 +1,5 @@
+The live streaming feature in Swirl Project will facilitate its 
+users to instantly share or broadcast any live media
+content. The users will not need to wait for the event to
+finish before they can start accessing and sharing the
+content with their friends !

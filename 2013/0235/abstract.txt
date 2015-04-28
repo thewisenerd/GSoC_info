@@ -1,0 +1,3 @@
+Under the guidance of the 3.1 Release Manager, this project will involve getting phpBB 3.1 to a releasable state. The primary tasks of this project are:
+1) Fixing bugs marked as Blocker or Major and affecting phpBB 3.1
+2) Implementing features that are deemed required for phpBB 3.1 after the community feedback

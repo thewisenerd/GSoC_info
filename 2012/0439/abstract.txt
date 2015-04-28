@@ -1,0 +1,5 @@
+Multiple improvements to the Vespucci OSM editor for android, as suggested on the mailing list.
+
+My primary proposal consists of creating a user-friendly way to add/edit POIs using configurable menus, and allowing to select the map layer/API to edit (i.e. allow using Vespucci to edit custom maps).
+
+If time permits, I will attempt to implement additional improvements like local save support, undo and offline, device-rendered background maps.

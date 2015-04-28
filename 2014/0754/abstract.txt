@@ -1,0 +1,1 @@
+Glasgow Haskell Compiler(GHC) supports profiling. When programs are run in profiling mode, an output file that shows run times and memory allocations of specific pieces of code are printed to a file by the runtime system. This feature is currently missing in JavaScript backend for GHC, GHCJS. In this project, we aim to fix this by implementing profiling support for GHCJS.

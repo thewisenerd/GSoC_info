@@ -1,0 +1,1 @@
+People are running into dependency hell when installing Haskell packages. I want to help move in the direction of solving it.

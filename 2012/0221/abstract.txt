@@ -1,0 +1,1 @@
+I will develop core Android modules like Communication and Protocol, Database Local Cache and Barcode and I will implement them in two Android applications, a client application and a staff application. My intention is finally to deliver two Android Evergreen applications that have a highly customizable and well documented code.

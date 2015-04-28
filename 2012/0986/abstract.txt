@@ -1,0 +1,1 @@
+A set of tools that will enable an easy dynamic development on Android using the remote REPL; a build system for Clojure/Android projects that is idiomatic and familiar to Clojure developers; and a helper library to simplify the creation of boilerplate-rich Android-specific classes (like Activities, Views etc.)

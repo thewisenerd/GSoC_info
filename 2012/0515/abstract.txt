@@ -1,0 +1,1 @@
+The purpose of the project is to Implement and document various drawing functions using VTK in PCL. Drawing functions include primitive drawings such as lines, circles, polygons etc. as well as alpha blended polygons and graphs, both 2D and 3D, for visualizing histograms and other functions.

@@ -1,0 +1,1 @@
+There was a lot of work done regarding the implementation of D3DX9 in Wine, but some functionality is still missing. The aim of this project is to implement missing functions in D3DX9 with focus on functions which are used frequently.

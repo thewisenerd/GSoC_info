@@ -1,0 +1,1 @@
+This project aims to add more checks and libraries support for DynChk and to integrate that tool into the Linux Application Checker. For now, AppChecker is able only to perform some rough static checks. Usually it’s impossible to completely verify correctness of usage of library functions using this  static tests only. Dynamic checking can significantly improve the analysis.

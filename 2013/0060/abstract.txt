@@ -1,0 +1,1 @@
+The current ports infrastructure uses fetch to get distfiles. There are some drawbacks to this approach like picking the target site, duplicate downloads etc. This new design overcomes these drawbacks.

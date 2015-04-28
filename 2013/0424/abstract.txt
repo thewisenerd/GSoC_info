@@ -1,0 +1,1 @@
+MSXML is currently implemented using libxml2. This is problematic in cases where libxml2 and MSXML are not compatible in behavior. As part of moving away from libxml2 incrementally, the XPath parser can be reimplemented by making use of only the MSXML DOM (therefore making it independent of the underlying DOM implementation.)

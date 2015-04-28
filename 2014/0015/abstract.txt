@@ -1,0 +1,1 @@
+English Malayalam pair language pair for apertium machine translator

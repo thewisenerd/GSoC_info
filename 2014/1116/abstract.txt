@@ -1,0 +1,1 @@
+Playlist functionality is to be added to ownCloud Music Application. Basic playlist features such as adding, renaming, removing and song addition/removal operations will be added.

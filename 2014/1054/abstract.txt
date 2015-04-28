@@ -1,0 +1,1 @@
+Integrate the upcoming Drupal 8 into CiviCRM, including exposing Civicrm objects as native Drupal entities.

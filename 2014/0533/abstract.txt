@@ -1,0 +1,1 @@
+The main idea for the Project is to integrate OpenCV into Shogun cleanly, that is in a way that if OpenCV changes their structures we only need to change Shogun at one place. We want to make Shogun the one stop destination for adding machine learning to their applications.

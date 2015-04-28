@@ -1,0 +1,4 @@
+Interference is a Cytoscape plug-in for virtual knock-out experiments on complex networks.It is based on some features of the CentiScaPe plugin and is currently available for Cytoscape 2.8. So the main aim of the Project is to port the plugin to Cytoscape3. Goals of the project are
+1. Port Interference plugin to Cytoscape3.
+2. Provide the Eigenvector, Bridging Centrality and Edge Betweenness centrality Interference.
+3. Add support for directed and weighted networks

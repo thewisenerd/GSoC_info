@@ -1,0 +1,2 @@
+User can currently navigate with keyboard and mouse in Plasma Media Center.
+Now, I will add Voice as a way for a user to navigate and use PMC. This will be done by integrating PMC with Simon.

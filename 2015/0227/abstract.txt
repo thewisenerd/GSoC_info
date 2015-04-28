@@ -1,0 +1,1 @@
+FOSSASIA API is a simple API that collect decentralized data from open-source communities all over ASIA. This project aims to add new useful features to the toolbox, as well as enhance existing tools. Also, the project proposes several strategies to promote the API, by making it more popular, accessible and easy-to-use.

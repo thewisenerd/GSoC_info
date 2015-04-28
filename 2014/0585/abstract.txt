@@ -1,0 +1,2 @@
+0MQ is a high-performance messaging library, which can provide an easy interface to in-process, inter-process and inter-node communication. It can transport any type of payload in a fast and reliable way, without the need of a message broker. 
+Using 0MQ as a transport layer in syslog-ng can provide us a flexible way to use several messaging models (publish-subscribe, push-pull, and so on) for distributing logs and events.

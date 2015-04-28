@@ -1,0 +1,3 @@
+Pynac/GiNaC is designed for symbolic computations. This project is about enhancing and optimizing this crucial and important part of Sage.
+
+Pynac replaces the numeric coefficients in GiNaC with python objects. The implementation should be extended to use machine longs and doubles as well as the GMP and MPFR libraries for multi precision integers, rationals and floating point numbers. This would provide a significant speed boost since using these types directly instead of the Python wrappers available in Sage is more efficient.

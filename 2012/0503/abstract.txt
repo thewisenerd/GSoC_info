@@ -1,0 +1,1 @@
+Producing a single seamless image from single frames (remote sensing data from aircraft and UAVs)

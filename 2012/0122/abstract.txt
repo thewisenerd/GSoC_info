@@ -1,0 +1,1 @@
+The aim is to Investigate, Improve and Implement the import & export of math from/to 1) odt 2) doc & 3) docx formats making it convenient to work across all applications such as MS word, LibreOffice Writer and in the process improving AbiWord as a cross platform word processor.

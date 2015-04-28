@@ -1,0 +1,1 @@
+The aim of this project is to improve SVG paint handling, with special regard to patterns and hatches. Currently fill and stroke patterns in Inkscape can be chosen from a textual combo box list. New widget for browsing patterns will be implemented.  The implementation will allow support for other paint types. Additionally the support for SVG2 hatches will be added.

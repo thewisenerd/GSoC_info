@@ -1,0 +1,2 @@
+Dizeez is a quiz game. The theme of the game is gene-
+disease connection. Dizeez is currently implemented using Python & CGI with data on file-json as a stand alone webapplication. This project is about implementing Dizeez as a Facebook Canvas Application (game).A detailed description of the project is provided at the Project Abstract section.

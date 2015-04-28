@@ -1,0 +1,2 @@
+The main idea behind this project is to add the capability of pretty printing data structures contained inside the FreeBSD kernel source based on the CTF data contained in the SUNW_ctf section of the kernel binaries.
+Due to licensing problems, which are too off-topic for this proposal to explain, the existing library code for parsing the CTF data is not applicable. Thus, as a part of the project, a fresh new BSD-licensed CTF data parsing library is needed.

@@ -1,0 +1,1 @@
+The world wide web is massive and vulnerable. Nmap ships with the Nmap Scripting Engine and together they make the go to tool for security professionals across the globe. The aim of this project is to improve Nmaps ability of security testing and analysis of web based applications  by adding new scripts and working on the old ones.

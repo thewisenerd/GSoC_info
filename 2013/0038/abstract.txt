@@ -1,0 +1,3 @@
+I will develop a plugin for ThinkUp that captures the users videos on YouTube and associated analytic data.
+
+This data will be then used to generate insights into their YouTube activity.

@@ -1,0 +1,1 @@
+This project aims to implement support for three cloud storage APIs: Amazon S3, Google Cloud Storage and Rackspace Cloud Files.

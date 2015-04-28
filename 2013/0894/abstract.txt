@@ -1,0 +1,3 @@
+Given the fast movement of code-base for Sahana Eden and the critical use of Sahana Eden during various disasters, there is a need to setup a robust testing framework. 
+ 
+This project outlines the setup of a continuous integration server which will test Eden on a daily basis and send the report via email.

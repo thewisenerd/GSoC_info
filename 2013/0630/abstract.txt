@@ -1,0 +1,1 @@
+My proposal aims to integrate Firefox OS sync service into the current PiCl implementation. The idea is to extend the PiCl back-end to support Firefox OS and develop a minimal Firefox OS client to demonstrate the actual sync process. Current proposal covers syncing of contacts which can later be extended to settings and related things as well.

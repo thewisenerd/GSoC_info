@@ -1,0 +1,2 @@
+Build Feature/Object Based Image analysis tools for Opticks. These tools will partition remote sensing (RS) imagery into meaningful image-objects, and assess their characteristics through spatial, spectral and temporal scale.
+At its most fundamental level, OBIA(object based image analysis) requires image segmentation, attribution, classification and the ability to query and link individual objects in space and time.

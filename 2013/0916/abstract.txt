@@ -1,0 +1,1 @@
+Implement plugin that will be capable to record video (with audio) from CrystalSpace 3D engine in real-time without significant slow-down of engine itself.

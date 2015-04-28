@@ -1,0 +1,2 @@
+The goal of the project is to implement a set of complimentary improvements concerning local feature descriptors in opencv, namely:
+update local feature detector/descriptor evaluation tools, port or implement new local feature algorithm, most probably AKAZE, use binary descriptors to improve stereo correspondence algorithms, port LBD line descriptor and unify some of the "detection - description - matching" approaches, rewrite tutorials on local features.

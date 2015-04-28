@@ -1,0 +1,4 @@
+The main goal of this project is to provide an android app for “Word-Level Highlighting Synchronized with TTS” using open source TTS engine named “flyte”.This helps dyslexic users to read and study text documents in more understandable format.
+It includes mainly two Jobs:
+1) To change the internal C code and port in to android using ndk4 .
+2) building an android app for word level synchronization using JAVA and android SDK.

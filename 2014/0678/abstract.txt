@@ -1,0 +1,1 @@
+During GSoC I plan to support GUID Partition Tables (GPT) for OpenBSD amd64 systems, including the installer and userland. Also, I want to lay the groundwork for UEFI support in OpenBSD.

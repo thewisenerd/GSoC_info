@@ -1,0 +1,2 @@
+- Improving validation on data fetched from tracee process space.
+- If time permits, work on improving path decoding in strace.

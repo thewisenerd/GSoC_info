@@ -1,0 +1,1 @@
+Apache airavata is a software framework to compose, manage,execute and monitor computational jobs and workflows that runs on variety of resources ranging from local grids to commercial clouds. This project offers improvements in the existing module for ec2 job submission as well as enhancements to execute single jobs on amazon cloud through the orchestrator.

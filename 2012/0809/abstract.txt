@@ -1,0 +1,3 @@
+This project aims to improve the usability of guides in Inkscape.
+
+I will acheive this by defining some new guide attributes and create a uniform interface for operating on guides at the document level.

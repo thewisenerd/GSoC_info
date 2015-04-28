@@ -1,0 +1,1 @@
+PageOneX is an innovative approach to the analysis and visualization of front page newspaper coverage, that enables communities and advocacy groups to track certain news threads in a easy and visual way. The project makes possible the comparison between two important pieces of the mass media and the Social Media: newspaper front pages and Twitter.

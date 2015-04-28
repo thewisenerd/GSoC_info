@@ -1,0 +1,1 @@
+Throughout this project the fuzzing tool of the OWASP ZAP Attack Proxy is going to be reworked to implement several features that have been requested by users. This involves the completion and clean up of the existing packages as well as the implementation of several new ones on top of that.

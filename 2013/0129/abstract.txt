@@ -1,0 +1,1 @@
+This project involves discovering the topology of a physical, hardware network and to recreate it automatically in Mininet with the help of controller (Floodlight or Pox controller).

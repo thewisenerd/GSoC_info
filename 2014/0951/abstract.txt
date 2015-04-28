@@ -1,0 +1,1 @@
+Package elementary's Pantheon shell, GUI framework (Granite), applications, icon theme, and gtk theme.

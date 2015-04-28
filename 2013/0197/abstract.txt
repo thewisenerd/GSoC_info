@@ -1,0 +1,16 @@
+In this proposal I explain my plan to
+greatly improve the utility of for
+comprehensions in Scala. My proposal
+is based on a Pre-SIP by Stefan Zeiger, a Pre-SIP by Christopher Vogt and Jan
+Braun, and the original Comprehensive
+Comprehensions (henceforth, _CC_)
+paper by Phillip Wadler and Simon
+Peyton (with generalizations).  If my
+proposal is implemented, for
+comprehensions would gain a power
+similar to what is offered by LINQ on
+.NET, but, of course, since this is
+Scala, they wouldn't be nearly so
+inflexible as LINQ, allowing seamless
+integration of any correctly-signautured
+method defined on comprehendables.

@@ -1,0 +1,1 @@
+The Hindi-English language pair currently lies in the incubator stage of Apertium with still a lot of work left to be done on the dictionaries and transfer rules. I would like to make this language pair ready for release by the end of coding period.

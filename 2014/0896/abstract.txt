@@ -1,0 +1,3 @@
+Providing Open Source programs as it is done by the Open Bioinformatics Foundation (OBF) is helpful and time-saving for many researchers. I would like to support this idea by contributing to the OBF.
+I bring experience in a bio-computational research project, a mathematical background and desire to deepen my knowledge of functional programming.
+I am particularly interested in the transitive alignment project mentored by Ketil Malde (Biohaskell) since the idea seems to be new and challenging.

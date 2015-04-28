@@ -1,0 +1,3 @@
+In the context of computational systems biology, a question is how to identify parameters of a CTMC so that the model fits with actual biological experiments, for the particular parameter values cannot be usually inferred from the experimental data only. A related problem is the exploration of parameter values with respect to changes in the system dynamics.
+
+The aim of the project is to implement techniques of this kind and enhancements thereof as part of the PRISM model checker.

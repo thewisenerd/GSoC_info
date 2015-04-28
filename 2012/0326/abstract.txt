@@ -1,0 +1,1 @@
+This project aims to create a stand-alone lint-like tool for K-framework that might be integrated on K compiler frontend.

@@ -1,0 +1,7 @@
+This project specifically deals with Vim implementation of Codemirror and dives into the following :
+
+1. Implement Ex Command and Search History
+
+2. Visual Mode improvement and implementing Blockwise Visual Mode
+
+3. Implementing Undo trees as an   addon.

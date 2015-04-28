@@ -1,0 +1,3 @@
+I study in Sevastopol National Technical University, Sevastopol - Ukraine. Now I’m on the fifth year on Authomatic and Computer Technics department. 
+I want to get more experiense in grammars and java development. I use Checkstyle right now and plain to use it in my future work places, so I am interested in developement of Checkstyle.
+I have some experience in work for Sevntu.Checkstyle (from february 2012). Also I worked with ANLR library during experment to parse PLSQL.

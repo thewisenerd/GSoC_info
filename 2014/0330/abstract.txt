@@ -1,0 +1,5 @@
+Boost.Thread and std::thread have provided C++ programmers with a mechanism to easily create threads.
+
+Unfortunately the management of these threads is still largely left to the programmer to handle.
+
+Scheduled executors, are mechanisms which can schedule work for execution, either synchronously or asynchronously. The key feature of scheduled executors is the ability to schedule a work unit at an exact time point in order to guarantee that certain work units are executed before other.

@@ -1,0 +1,8 @@
+The Python API of MLlib has a few important features missing as when compared to the Scala backend. My project involves addition of these features, fixing related issues and improvement of the Scala backend as well.
+
+The more important of these features include
+1. Support save / load across all models.
+2. Support for evaluation metrics
+3. Support for streaming ML algorithms.
+4. Support for distributed linear algebra
+5. Simplifying API using DataFrames.

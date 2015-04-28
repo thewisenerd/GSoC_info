@@ -1,0 +1,8 @@
+Dear Sir,
+
+I want to contribute on Catrobat for Google Summer of Code on the Idea "Apk Generator"
+Please read my proposal for further information and thoughts on how to implement this topic.
+
+Kind regards,
+
+Roland Urbano

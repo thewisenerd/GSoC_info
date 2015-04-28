@@ -1,0 +1,8 @@
+1. Make CV iterators data independent and provide a clean API with deprecations.
+2. Group together/clean up/organize the model_selection module.
+3. Multiple metric support to grid_search et al.
+4. Extend sample_weight support to grid_search et al.
+5. Generalized CV and early stopping
+6. Introducing additional CV strategies for non trivial cv tasks
+7. Make an extensive tutorial on CV.
+8. Improve contributor documentation / Better docstrings.

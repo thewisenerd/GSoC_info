@@ -1,0 +1,1 @@
+Pidgin currently supports GTalk through the open XMPP protocol. XMPP protocol is no longer supported by GTalk and Google has replaced GTalk with Google Hangouts which implements the proprietary protocol Google+ Hangouts. The aim of this project to write a libpurple plugin to support Google Hangouts by implementing the Google+ Hangouts protocol.

@@ -1,0 +1,1 @@
+The website has a rather heavy reliance on an overly dynamic tree-based structure which negatively affects usability and development. The aim is to break that reliance by reworking the parts of the site that use it, all the while improving the overall quality and maintainability of the code-base.

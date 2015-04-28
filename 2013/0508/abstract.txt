@@ -1,0 +1,1 @@
+Modules are very light-weight and flexible extensions used in Joomla page Rendering. The main objective of this project is to bring the Joomla Modules up-to date with the rest of the CMS, add new modules/features to enhance their functionality and improve the handling of modules throughout the Joomla CMS.

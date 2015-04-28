@@ -1,0 +1,1 @@
+The aim of this project is to provide a modified UI atop(or in place) of the reference application, sufficiently reducing the size of the pages and associated resources, such that this version of OpenMRS can be accessed easily through a mobile browser or laptop connected to a low-bandwidth ISP.

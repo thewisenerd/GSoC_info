@@ -1,0 +1,1 @@
+This project is focusing on implement OAuth support for Pywikibot, which is a collection of tools that automate work on MediaWiki sites. OAuth will offer a more reasonable, safe and robust way to identity authentication for users who use Pywikibot to maintain their MediaWiki sites.

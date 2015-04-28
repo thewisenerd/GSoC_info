@@ -1,0 +1,7 @@
+libmv is a Structure from Motion (SfM) library, which plans to one day take raw video footage or photographs, and produce full camera calibration information and dense 3D models.
+
+
+libmv is cut in different modules (image/detector/descriptor/multiview) that allow to resolve part of the SfM process. The functionalities of most of these modules can be found in OpenCV and, after rewriting these parts, libmv can be part of OpenCV.
+
+
+Therefore, the project is to adapt libmv for OpenCV.

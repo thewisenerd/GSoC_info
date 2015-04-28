@@ -1,0 +1,1 @@
+RenderText is a class that is the base of Chromium UI elements that render text. Currently it is used as a part of the "views textfield" which is used to implement the Omnibox and is the default text edit control on Chromium OS and Aura Win. RenderText currently supports a single line of text. This project aims to add the capability to render multi-line texts to RenderText.

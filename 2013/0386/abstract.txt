@@ -1,0 +1,1 @@
+The project consists mainly of implementing authorization and authentication  support to Apache Mesos, making use of MIT Kerberos, so that only allowed frameworks will be able to register and submit jobs.

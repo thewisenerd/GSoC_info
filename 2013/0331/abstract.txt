@@ -1,0 +1,1 @@
+The aim of this project is to implement a Compound Graph Layout algorithm to be part of Cytoscape.js.

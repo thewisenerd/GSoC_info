@@ -1,0 +1,1 @@
+The purpose of this project is to implement concurrency into Löve(Love2D) using a C API, in order to increase software performance in the case of heavy CPU load scenarios.

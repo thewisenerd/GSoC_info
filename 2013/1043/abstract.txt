@@ -1,0 +1,1 @@
+Android based conference mobile application that would allow conference participants access all the relevant information, like general information, the schedule, and the abstracts. There will be another interesting feature, user can synchronize data when he/she using internet and user can save data in device for offline use.

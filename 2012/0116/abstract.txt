@@ -1,0 +1,3 @@
+"I want to make the memory allocator of D fast for threaded loads."
+
+Right now, allocating memory in D starts with grabbing a global lock. This is a major performance roadblock. I want to make it go away.

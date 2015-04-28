@@ -1,0 +1,1 @@
+Generally, the aim of the project is to enhance the survivability of slow and dying connections at the same time boosting the broad ones. Also it seems important to improve the current congestion control mechanism.

@@ -1,0 +1,1 @@
+Tahrir is anonymous, decentralised workalike for twitter. Having worked extensively on tahrir codebase already, my job would be to clear existing bugs, clean up the codebase, add the remaining functions required for the immediate release and also implement additional features if required as and when necessary and get it to it's beta release.

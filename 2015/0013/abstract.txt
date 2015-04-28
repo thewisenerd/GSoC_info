@@ -1,0 +1,1 @@
+Ports of Debian on mips/mipsel/mips64el has been implemented for some time. However, many of the packages which could previously pass compilation can no longer pass. Also, some of the recently uploaded packages cannot pass compilation either.

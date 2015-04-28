@@ -1,0 +1,2 @@
+Chinese uses more than 80000 characters, and 70217 are included in Unicode 5.0. However, only 3500 of them are used in our daily life. Most of the rarely used characters are not often installed on readers' systems. So we are sure to meet tofu problems, and webfonts service is triggered.
+However, including all characters in the font file makes it huge. We may want to tailor the font file for every page based on characters used on that page.

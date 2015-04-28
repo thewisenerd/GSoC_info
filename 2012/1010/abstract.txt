@@ -1,0 +1,1 @@
+The goal of this project is to enrich the MIT App inventor by enabling users to add Google Maps to their mobile applications. Tutorials and demos will be provided to show the power and applicability of this extension.

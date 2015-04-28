@@ -1,0 +1,1 @@
+This project is about Webhelp which is a output format of Docbook. The main goal of this project is to develop more functionality to the project and to become it more user friendly manner.

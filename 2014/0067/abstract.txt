@@ -1,0 +1,2 @@
+The goal of this project is to finish the JIssues tracker so it is in a position to replace the current Joomla tracker.
+The JIssues tracker will be at a place where a transition can take place from Joomla Code to the issues tracker. The project manily concerning three parts as of Moving the post forms into AJAX, Category for issues and Allowing users to edit the labels.

@@ -1,0 +1,1 @@
+The goal of this project is to create debugging and code inspection tools for the Elixir programming language.

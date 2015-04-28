@@ -1,0 +1,3 @@
+This is a proposal to finalize the development of Viewport FX by implementing the last missing features and performing optimization and testing.
+
+Additional info about possible future work has been appended to the original proposal.

@@ -1,0 +1,1 @@
+Aim of the project is to replace existing Graphviz rendering backend in AfterGlow Cloud with client-side rendering using D3.js and  helios.js. It will allow to dynamically change rendering options and simplify graph analysis by the user.

@@ -1,0 +1,2 @@
+My goal is to provide an interface which allows the user to transfer images from Flickr where the Upload Wizard extracts license and metadata from the images, converts the license into a Commons License Template and passes on metadata to the next step to generate corresponding WikiText. 
+Second part of my proposal aims at implementing a JavaScript jQuery plugin which presents a map interface that can be manipulated to select a particular location and report that location in code, preferably as WikiText containing a Location template.

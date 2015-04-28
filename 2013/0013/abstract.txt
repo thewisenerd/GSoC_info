@@ -1,0 +1,1 @@
+about:memory is a great tool for the people developing Firefox in helping them understand the memory consumption details in the browser, but is useless for anybody who is not familiar with the browser's working in detail. This project aims to rectify that by preparing a complementary page which would contain visual representation of the data.

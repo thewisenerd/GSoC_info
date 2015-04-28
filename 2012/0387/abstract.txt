@@ -1,0 +1,6 @@
+Statistical tests for dependence or difference are an important tool in data-analysis.
+However, when data is high-dimensional or in non-numerical form (strings, graphs), classical methods fail.
+This project implements recently developed kernel-based generalizations of statistical tests, which overcome this issue.
+The kernel-two-sample test based on the Maximum-Mean-Discrepancy (MMD) tests whether two sets of samples are from the same or from different distributions.
+Related to the kernel-two-sample test is the Hilbert-Schmidt-Independence criterion (HSIC), which tests for statistical dependence between two sets of samples.
+Multiple tests based on the MMD and the HSIC are implemented along with a general framework for statistical tests in SHOGUN.

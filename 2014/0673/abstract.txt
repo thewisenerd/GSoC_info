@@ -1,0 +1,1 @@
+This proposal is for the project idea of adding a simple undo/redo functionality (time capsule) to catroid project. This feature enables the user to revert the mistakes done while building up a game. This functionality will be added to scripts, sounds and looks.

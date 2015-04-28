@@ -1,0 +1,8 @@
+This project is a full rewriting of some Sugar apps : Calculate, Paint, Memorize and Record using the Sugar Web Framework in order to get close to every device.
+
+Thoses apps are the basics apps that every children need to have.
+
+This rewriting is needed to merge apps from Sugar/Fedora and Sugarizer/Web.
+Those apps tends to be used by every childrens using either a XO, a phone or a  Web Browser.
+
+The main technologies to be used will be HTML5 and Javascript.

@@ -1,0 +1,1 @@
+This project aims to ease the virtualization of RTEMS on various hypervisors, by developing a BoardSupportPackage (BSP) and CPU model. It should be as platform independent as possible and not bound to a CPU architecture in particular. The design will be implemented as a proof-of-concept and documentation will be written, on how to port these to a new hypervisor or architecture.

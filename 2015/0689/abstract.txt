@@ -1,0 +1,3 @@
+Nowdays more and more Android devices are being used worldwide as personal devices and in education too. So it will be good if Marble would be available on this platform.
+
+I would like to work on porting Marble to Android platform with Qt for Android. This basically means to rewrite the UI and design it for mobile platforms, refactoring the original sourcecode if needed and writeing the Android specific codes. At the end of the summer a working version should be created.

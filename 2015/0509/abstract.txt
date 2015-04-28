@@ -1,0 +1,1 @@
+Most ARM "System-on-a-chip" devices lack solid firmware for interacting with SD cards which often constitute the main disk. OpenBSD needs a solid SD/MMC stack for interacting with such devices, implemented in its standalone library used at boot time. This would allow for the development of proper device-specific bootloaders, eventually a unified bootloader.

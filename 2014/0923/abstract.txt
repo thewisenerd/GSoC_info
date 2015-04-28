@@ -1,0 +1,1 @@
+There is a huge need for Airavata based science gateways to have secure communication with the Airavata server. The main goal of this project is to explore and add security capabilities to Airavata Thrift services and clients.

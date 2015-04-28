@@ -1,0 +1,1 @@
+Continuing last year’s GSoC project, entitled New text editor for SnipMatch, this year’s project plans to correct some of the mistakes made during last summer (based on the experience from last year, some implementations decisions were reconsidered), and bring forth new and more exciting features.

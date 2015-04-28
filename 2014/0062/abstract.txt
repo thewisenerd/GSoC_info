@@ -1,0 +1,2 @@
+Atlas Module 2.0 project aims to make a version of the Atlas Module to be distributed within OpenMRS 2.0 as an app, including an implementation's marker to be associated with an OpenMRS ID.
+It will allow for a marker to be created or revised outside of the module, directly on the Atlas Website.

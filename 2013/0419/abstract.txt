@@ -1,0 +1,1 @@
+This year my project will be concentrated on improving SimpleCV's core functionalities and adding support for shape matching and detection which is the main purpose of Machine Vision in industrial automation.

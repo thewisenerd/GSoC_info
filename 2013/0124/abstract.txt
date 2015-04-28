@@ -1,0 +1,1 @@
+Implementation of UnionFS as an extension of the LOFS kernel module.

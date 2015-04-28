@@ -1,0 +1,1 @@
+The main thought behind this project is to combine multiple ideas that were listed on the wiki (and all had a similar theme of 'cleaning-up') into one larger project with the end goal being improving the 'port clean' command, and adding a 'brew doctor'-esque command.

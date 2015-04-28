@@ -1,0 +1,1 @@
+Over the past few years Parrot has become slower. One of the identified reasons are several de-optimizations which simplified and harmonized the method calling code, esp. the signature handling. My aim is to improve the implementation of the PCC, the parrot calling convention and optimize the run-time, while keeping the external API compliant to the users of the VM.

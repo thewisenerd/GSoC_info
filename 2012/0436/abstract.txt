@@ -1,0 +1,1 @@
+This project should end with working python and python-like bindings to computational geometry library lib2Geom, developed for Inkscape. Bindings would include necessary documentation and sample code.

@@ -1,0 +1,3 @@
+Improving the Lyrics Support of Amarok:
+(a) fetching timestamped lyrics and adding more providers
+(b) creating a lyrics display applet that scrolls accordingly, and highlights the current playing line

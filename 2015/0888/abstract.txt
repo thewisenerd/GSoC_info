@@ -1,0 +1,1 @@
+This project aims to port the Monkey web server to RTEMS, as well as to reorganize the network stacks present in RTEMS to make it more modular. The reorganization involves getting the multiple network stacks into their own build separate from RTEMS using the RTEMS source builder.

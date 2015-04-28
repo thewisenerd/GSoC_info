@@ -1,0 +1,1 @@
+The goal of this project is to implement a cross-platform library for the Playstation Move Motion Controller to track the 3D position using a Playstation Eye camera and the inertial sensor data read from the Bluetooth-based motion controller.

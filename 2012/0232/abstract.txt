@@ -1,0 +1,1 @@
+The HOPACH cluster algorithm is currently implemented in R. The goal of the project will be to implement HOPACH in Java as a stand-alone library and later incorporate it into clusterMaker.

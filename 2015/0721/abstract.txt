@@ -1,0 +1,1 @@
+Calc currently uses a mix of specifying the units that are used when drawing - mixing drawing in pixels, and drawing in 1/100's of mms. This task would be about converting all functions to use a common unit of measurement.

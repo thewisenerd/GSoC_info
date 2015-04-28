@@ -1,0 +1,3 @@
+SymPy already has a new plotting module based on matplotlib(pending merge) to plot explicit functions, but the functionality to plot implicit functions is missing. My project uses Interval Arithmetic to evaluate implicit expressions and graph the functions. 
+
+Sympy Live does not have plotting support. My project also deals with adding a plotting back end for svgfig and integrating it with Sympy Live.

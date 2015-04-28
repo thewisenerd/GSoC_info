@@ -1,0 +1,1 @@
+Data storage is important when designing stateful real world applications. A solution most native to Haskell is acid-state. It provides ACID properties and is able to use one back-end at a time. Therefore its reliability is limited by harddisk failure (be it local or remote). To address this issue, I propose to realize a replication back-end for acid-state using a message queue.

@@ -1,0 +1,3 @@
+Create a new R package for working with data from the CRSP/Compustat Merged (CCM) database from Wharton Research Data Services (WRDS).
+
+WRDS is a common portal for accessing the Compustat database of corporate fundamental data and the CRSP database of security prices and returns. This data is typically downloaded in large flat files which need ECTL operations performed prior to the data being usable for research and modeling. The wrds package is intended to automate and simplify this process.

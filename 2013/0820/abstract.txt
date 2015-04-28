@@ -1,0 +1,7 @@
+My project is to integrate modular encryption into the GNOME desktop. This is partly in response to the security and privacy fundraiser currently going on. I believe this would solve one part of the puzzle, by allowing users to securely store documents in a way that doesn't interfere with the user experience.
+
+In order to not interfere with the user experience, it should not require a login (ruling out disk/home encryption) and should not require doing anything different once encrypted (ruling out 3rd-party software with poor UX).
+
+To achieve this, I am using a Nautilus extension that allows the user to encrypt a folder from the context menu. To access the decrypted contents, the user only has to open the folder, and it will be decrypted on the fly. The only difference in user experience is asking to unlock the keyring (if it's still locked) when opening one of these folders.
+
+I am proposing for this project, to integrate this into GNOME directly, and in the process fix up some rough edges.

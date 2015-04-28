@@ -1,0 +1,1 @@
+Update to the OTP firmware as mentioned in the deliverables  and optimization of the GUI interface of the Ctypto Stick tool using QT5 and possibly porting the code of Crypto Stick on Android and adding an OCRA-mode.

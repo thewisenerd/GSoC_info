@@ -1,0 +1,1 @@
+I'm a student of Peking University, China, and now seeking for a master degree. My research area is distributed system and virtualization. I have focused on opensource community (especially Xen & kVM) for some time an I'd like to do something for opensource.

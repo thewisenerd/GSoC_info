@@ -1,0 +1,1 @@
+This proposal provides a brief description of the implementation of a caching plugin for Monkey server. This plugin will be of great benefit to the server since it will reduce the server load and increase the performance of the server by enabling to handle requests from more clients. More has been described in the proposal.

@@ -1,0 +1,7 @@
+The proposal is about adding the support for Lua programming language scripting for ncat network tool. I have done some "proof of concept" efforts which can be seen here:
+
+https://github.com/d33tah/nmap/compare/3550b77f8e0bbe2210f6204a592f624dce840eca...master
+
+A PDF version of the proposal can be found here: 
+
+http://kolos.math.uni.lodz.pl/~d33tah/gsoc-nmap.pdf

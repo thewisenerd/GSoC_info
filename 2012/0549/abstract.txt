@@ -1,0 +1,1 @@
+Design and implement (1) a UI to view  metadata properties for files in GNOME Documents and (2)  a UI for the in-place editing of such metadata.

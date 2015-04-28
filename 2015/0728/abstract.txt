@@ -1,0 +1,1 @@
+Currently, BuildmLearn-toolkit supports 4 templates i.e, Flash cards, Basic mLearning, Learn spellings and Quiz. This project aims at creating 4 new templates (Video collection, Match the following, Dictation and Comprehension) for the toolkit. At the end of the project, builds for all the 4 templates will be released for all the platforms i.e, Unix, Windows and MacOS.

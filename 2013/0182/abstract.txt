@@ -1,0 +1,2 @@
+Abstract : 
+Raxa laboratory module needs to generate a variety of reports: test results, daily log, exception reports, monthly statistics, quality control charts,various lab test reports.which is currently unavailable.This project was also proposed last year in GSOC but was not selected. The aim of this project is to add a module which will able to generate various reports.This can be achieved by creating a web interface using html-javascript/Jsp integrated through(with) java and java BIRT, BIRT:which is responsible for report generation.

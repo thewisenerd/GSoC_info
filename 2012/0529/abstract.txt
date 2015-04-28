@@ -1,0 +1,1 @@
+Implementation of a new library providing models and Gtk+ widgets to display and choose contacts that could be used by any GNOME application. This will improve IM/Social features in a lot of GNOME application and use Telepathy tubes.

@@ -1,0 +1,1 @@
+In first phase, I want to implement the Intel SMAP (Supervisor Mode Access Prevention) technology for x86-64 architecture. In second phase, I plan to implement boot/load time kernel and kernel module patching (instruction patching) framework.

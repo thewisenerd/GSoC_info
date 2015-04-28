@@ -1,0 +1,1 @@
+I propose to improve the existing Collections system in Musicbrainz by fixing issues that have been reported since the release of NGS, and by adding new management features that are commonly requested by Musicbrainz users.

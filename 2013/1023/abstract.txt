@@ -1,0 +1,1 @@
+Design and Development of an Android Application that extends the Privly functionality to Mobile Devices. The application with Social Networks Facebook and Twitter and with Gmail reading content.

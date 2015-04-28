@@ -1,0 +1,1 @@
+The goal of this project is to implement General Runge-Kutta-Nystrom ODE solvers in the software package Geant4. These ODE solvers will have the First Same as Last property (FSAL), and have dense output (they will be able to provide an estimate of the trajectory for any point in the step interval with the same order of accuracy as the original method).

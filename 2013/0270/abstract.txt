@@ -1,0 +1,5 @@
+OpenJDK support a Look and Feel implementation based on GTK+, but uses API found only in an older, obsoleted version of GTK+ and not in the latest version GTK+ 3.
+ 
+This represents a problem in a number of ways. First of all, most modern GNU/Linux distributions now use GTK+ 3 which has a different theming mechanism whichis not compatible and hence cannot be used with GTK+ 2. 
+
+This project aims to port the native look and feel from GTK+ 2 to GTK+ 3, solving most of the above issues.

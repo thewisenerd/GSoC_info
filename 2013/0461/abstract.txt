@@ -1,0 +1,1 @@
+This should replace the currently unmaintained media app and introduce a RESTful API for music. The resulting app is based on appframework and uses AngularJS for the frontend.

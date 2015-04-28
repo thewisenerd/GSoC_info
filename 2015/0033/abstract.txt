@@ -1,0 +1,5 @@
+Native Client and Portable Native Client are recent technologies that allow the
+user to run native code (C/C++) in their browser. This project deals with
+creating an exhaustive port of the Perl Language, and allowing other tools
+written in Perl to execute on NaCl architectures, via the Dev Environment or
+through browser pages.

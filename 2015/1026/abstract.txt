@@ -1,0 +1,4 @@
+MoinMoin is a wiki engine written in Python. MoinMoin 2.0 is currently in  development and there's a lot to be improved in UI/UX of the wiki.
+Wiki interface can sometime be intimidating to new users. UI plays an important part in helping newcomers understand our interfaces.
+The aim is to make controls easier to understand for a user unfamiliar with the interface.
+The tweaks will provide a better UI and better user experience for the wiki users.

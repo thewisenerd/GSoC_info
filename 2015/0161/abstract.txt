@@ -1,0 +1,1 @@
+While LibreOffice currently does feature validity checking, the functionality is rather basic; I propose adding a great variety of validity checks, automated consistency checks even during data input,

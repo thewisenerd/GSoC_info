@@ -1,0 +1,2 @@
+To implement a Javascript backend to Gnu Guile, capable of compiling
+programs for execution in a modern web browser.

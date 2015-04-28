@@ -1,0 +1,1 @@
+The goal of this project is to abstract away the tight dependence of netifrc on OpenRC and write a compatibility layer for netifrc to work with other init systems like Systemd

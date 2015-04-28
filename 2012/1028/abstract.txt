@@ -1,0 +1,1 @@
+Development of a add-on (set of widgets for Orange Canvas) that will introduce computer vision functionality to Orange. The core of the add-on will be the Python computer vision library OpenCV. The development of this add-on and the gathered findings will be then used for improving the Orange core.

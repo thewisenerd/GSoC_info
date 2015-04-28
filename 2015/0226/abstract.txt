@@ -1,0 +1,1 @@
+This project will cover testing lowlevel protocols and operational testing of ntpd. The first half of this project will involve writing protocol tests in Python the later half will involve testing ntpd using this library as well as modifications to ntpd for allowing easier testing.

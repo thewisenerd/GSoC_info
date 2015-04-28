@@ -1,0 +1,1 @@
+The basic idea is that the teacher sets up a bank of questions organised into categories, then the student can choose what questions they want to practice according to their convenience. This is about a student-centered learning based on the capabilities of the Moodle question bank.

@@ -1,0 +1,1 @@
+Gnome Music currently supports browsing and streaming music present on local resources i.e the resources that are stored in our hard drive. One should also be able to play the music files that are stored in the cloud which is the main motivation behind the project.

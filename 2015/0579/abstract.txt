@@ -1,0 +1,1 @@
+This projects implements Shadow Rendering using the Cascade Shadow Mapping algorithm. And it also uses the Percentage Closer Filter algorithm and the Slope Scale Bias to remove shadow artifacts: Shadow Acne, Peter Panning and Aliasing. This combination of algorithm results on good quality soft shadow rendering for PySoy.

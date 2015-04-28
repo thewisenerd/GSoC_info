@@ -1,0 +1,1 @@
+Split up winecfg into multiple applets, and implement new applets.

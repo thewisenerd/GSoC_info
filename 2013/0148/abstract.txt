@@ -1,0 +1,3 @@
+The aim of this project is to establish a server program and client API that can be used in activities to introduce a way to reliably access quality machine translations of arbitrary strings.
+
+As a proof of concept, a simple translation activity will be created for Sugar using this API.

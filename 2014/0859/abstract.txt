@@ -1,0 +1,3 @@
+DHIS2 uses PostgreSQL database,  therefore, would be interesting to implement a JSON storage API using its new functionality which allows to add a "JSON" format field.
+It should support the security measures(within-app storage, storage for a user-session, share data between users/groups) and allow data-integration with internal DHIS2 storage functions (users, org units, etc).
+This API would benefit another apps, allowing to store a better structured data and running queries against the data.

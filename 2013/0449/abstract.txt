@@ -1,0 +1,1 @@
+This project is designed to provide MathML support for the GoRead android application/FBReader through Android TTS/ChomeVox

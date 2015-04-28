@@ -1,0 +1,2 @@
+Currently the Supertuxkart server has only basic features. A great addition would be
+to add a new role system (which will allow us to easily add new roles such as guests). With this new role system we can improve the users portal and add a new administration portal. Besides previous mentioned features this project includes improved statistics, a new anti-cheat/bug reporting system and an extended API.

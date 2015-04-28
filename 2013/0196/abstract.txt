@@ -1,0 +1,1 @@
+The project consists in creating a bluetooth transport plugin which will improve GNUnet's ad hoc capabilities. The improvement will be available both on Windows and on Linux distributions.

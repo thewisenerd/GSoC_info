@@ -1,0 +1,3 @@
+A STEP-File is the most widely used data exchange form of STEP. These files are often huge and are heavily resource consuming when being imported. 
+The performance can be improved by using multi-threading. But before doing that, it must ensured that the STEP libraries are thread safe or else we might run into hard to debug data races. 
+Apart from that, some small tweaks can also be done to increase the performance of the single threaded code itself.

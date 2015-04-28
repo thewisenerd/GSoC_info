@@ -1,0 +1,3 @@
+The Cycles render engine has a great feature set already, but there are a lot of smaller ones which are missing and have been requested by the user base for some.
+
+I'd like to work on some of them and add new shader nodes and shading features to the renderer, to make it even more versatile for the users.

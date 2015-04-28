@@ -1,0 +1,1 @@
+This proposal is about improving Banshee’s mac osx support and bringing back and improving the lightweight alternative UI ‘cubano’. This envolves updating the existing clutter bindings for C# and port the existing code to the new bindings.

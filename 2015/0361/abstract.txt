@@ -1,0 +1,1 @@
+Improving code completion, including the ability to parse locals to provide class members/member functions; refactoring; CMake

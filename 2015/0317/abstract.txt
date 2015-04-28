@@ -1,0 +1,1 @@
+The aim of the project is to integrate all the functionality of GDAL utilities into GDAL core library and update the swig bindings so that the utility functions can be called from other languages without the need to make system call.

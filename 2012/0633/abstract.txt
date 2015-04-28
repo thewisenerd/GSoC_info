@@ -1,0 +1,1 @@
+Main goal of this project is to introduce NAT64/46 IPv6-IPv4 protocol translation and NPTv6 IPv6 prefix translation mechanisms into NPF filter.

@@ -1,0 +1,1 @@
+A re-design of the sprites module, creating a generalized code base to make it more flexible, and a new scene/director system to encapsulate sprites into distinct game sections and control their workflow.

@@ -1,0 +1,1 @@
+Btrfs storage pool can be comprised of multiple devices with varying performance characteristics, however all devices are currently treated the same way. The goal of this project is to introduce device profiles into Btrfs so that it can differentiate between devices in the pool based on their performance characteristics and user input.

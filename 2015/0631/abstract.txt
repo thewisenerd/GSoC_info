@@ -1,0 +1,1 @@
+This project consists on making the QGIS Processing toolbox multi-threaded, this will allow to have non blocking analysis/geoprocessing jobs, prevent crashes (when a QGIS module crashes for some reason) and also improve the user experience.

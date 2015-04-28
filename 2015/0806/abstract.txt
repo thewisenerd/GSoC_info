@@ -1,0 +1,1 @@
+Currently there are separate KCMs for mouse and touchpad. Theoretically, they should have a lot in common. However, they have completely different UI and completely different code. Sometimes they conflict - changes in mouse settings affect touchpad too. The goal of this project is to replace mouse and touchpad KCMs with single "Pointing Devices" KCM.

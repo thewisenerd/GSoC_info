@@ -1,0 +1,1 @@
+This project aims at improving integration of Gmail in Thunderbird by requesting extra Gmail IMAP headers and implementing other features.

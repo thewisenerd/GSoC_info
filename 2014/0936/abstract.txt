@@ -1,0 +1,1 @@
+Work on functionality to implement reading/writing spectra from/to various file formats for the specutils afilliated package. Spectra are one of the most important measurements in astronomy. Over the last decades a wealth of spectral information has been collected in many different formats. This project aims to make sure that astropy enables readers and writers for all of them.

@@ -1,0 +1,1 @@
+The current ROS stack provides a navigation package that can only be used in two dimensions. However for most AUV/UAV related applications, we would need 3D navigation. This proposal is to extend the existing package for use in BBAUV and to contribute back to the ROS open source code base.

@@ -1,0 +1,1 @@
+Study PKCS-11 specification and how it is currently used by True Crypt. Implement and test missing funtionality for proper use of smart cards. Document code and create user documentation.

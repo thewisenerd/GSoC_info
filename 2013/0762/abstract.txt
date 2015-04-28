@@ -1,0 +1,1 @@
+During the course of GSoC 2013, I will be working on developing a robust and efficient rendering system for SimpleCV. This system will make SimpleCV independent of PyGame. I will also be adding support for rendering images on Javascript based web platforms. Along with this, I will be working towards the betterment of  SimpleCV by fixing issues and  adding new features.

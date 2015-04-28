@@ -1,0 +1,6 @@
+Scikit-learn is a Python machine learning library that aims to be easy to use through a well designed interface. Dependencies are kept to a minimum and the extensive use of NumPy, SciPy and Matplotlib give great computing power and ease the understanding of the codebase.
+Data sets with far more features than samples are rapidly gaining on popularity and bring the class of linear models back to focus. This project will bring additional state of the art optimization routines for sparse linear models to scikit-learn and even further reduce dependencies. All code accepted to scikits.learn must include a high test coverage, documentation, examples and intensive benchmarking.
+
+Linear models are used for regression as well as for classification tasks. In both cases penalty terms can be used to obtain an implicit feature selection. To efficiently solve these penalized linear models is the main focus of this project.
+
+The here proposed improvements will be beneficial for a wide range of general problems and specialized domains such as gene expression analysis, compressed sensing, and sparse encoding.

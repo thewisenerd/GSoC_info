@@ -1,0 +1,1 @@
+The goal of this project is to develop a website to list monitors EDID information, allowing users to browse, search and update them. The website supports uploading binary EDID files to add new monitors, EDID files will be parsed automatically.

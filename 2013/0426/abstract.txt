@@ -1,0 +1,1 @@
+Create a set of visualization tools for the Open311 API spec. Allow civic hackers to more easily create big data visualizations by providing a set library to build upon.

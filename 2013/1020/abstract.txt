@@ -1,0 +1,1 @@
+Gaussian Processes provide probabilistic approach to supervised machine learning. SHOGUN Toolbox has already implemented flexible Gaussian Processes (GP) framework for regression. This project is about extending existing GP framework for classification.

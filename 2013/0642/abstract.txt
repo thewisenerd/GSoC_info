@@ -1,0 +1,1 @@
+This is a proposal for improving the "rapport" and the "pander" packages. During the first part of the project I will work on the rapport package thus I will produce new templates. In the second part the S3 method will be extended in the pander package.

@@ -1,0 +1,1 @@
+OpenMRS already has a great app on the iOS platform and Parker Erway already made a fantastic job with the UI and the functionality of the app, And with the OpenMRS users on iOS increasing, It is time to take the app to the next step. v2.0.

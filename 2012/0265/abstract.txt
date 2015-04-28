@@ -1,0 +1,1 @@
+Make searching from the Overview in GNOME 3 more intelligent. Order results based on source, importance, and frequency of use. Allow external applications to add their content to the search results.

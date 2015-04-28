@@ -1,0 +1,1 @@
+Building a REST JSON api for the Icecast Stream directory which will allow for more efficient use of the directory by Icecast clients. Will also rewrite the directory website to consume the new api.

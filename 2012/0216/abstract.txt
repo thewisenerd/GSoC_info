@@ -1,0 +1,1 @@
+I propose to develop automated test case generation capabilities for the K Framework, allowing test cases to be generated from the specification of languages implemented in K.

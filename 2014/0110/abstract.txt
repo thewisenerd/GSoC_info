@@ -1,0 +1,1 @@
+This project will involve creating a common system for sending user action logging data from HTML5 activities into visualization application, CODAP for analytics by researchers. This will also involve creating a system to allow non-developers to apply transformations to the data before sending it to CODAP and modifying CODAP to be able to pull data from the database.

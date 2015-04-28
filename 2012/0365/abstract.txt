@@ -1,0 +1,2 @@
+Django has a framework for serialization but it is simple tool. The main problem is impossibility to define own serialization structure and no support for related models. I present a proposal to improve current framework. 
+In my opinion it is not possible to create a framework completely independent of formats that will be use to serialize objects so I propose two phases serialization.

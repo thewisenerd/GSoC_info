@@ -1,0 +1,7 @@
+This project is to develop a benchmark tool
+which allows to compare implementations, with different flags and over time
+in order to keep track of performance (avoid regression) and detect where it could likely be improved.
+It also includes creating a coherent and high quality benchmark suite starting from existing ones.
+
+In particular it would allow to accurately measure JRuby performance
+by differentiating early/long-term performance, and the effect of invokedynamic and other external factors.

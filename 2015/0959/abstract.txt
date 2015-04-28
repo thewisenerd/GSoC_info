@@ -1,0 +1,1 @@
+SDRAM Controller is intended to offload cpu from memory read/write operations. In this project SDRAM Controller will be implemented with MyHDL and Python. It would illustrate how the powerful features of Python can be used to write compact and human-readable hardware designs for practical situations.

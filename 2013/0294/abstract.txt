@@ -1,0 +1,1 @@
+Application for the "Visibility Polygon Implementation" project; proposes a visibility polygon computation using a balanced binary search tree without a preprocessing step

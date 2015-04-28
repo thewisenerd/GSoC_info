@@ -1,0 +1,1 @@
+Proxy editing is the ability to swap clips by a "proxy" version that is more suited for editing, and then using the original, full-quality clip to do the render.

@@ -1,0 +1,1 @@
+Sequence logos are very popular in life sciences. They reveal the evolutionary relationship of aligned sequences and are used to depict sequence patterns. Moreover they provide an illustration of the consensus sequence. The aim of this project is to create an extendable BioJS library for an interactive visualization of protein or DNA sequence logos.

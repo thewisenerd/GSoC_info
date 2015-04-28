@@ -1,0 +1,5 @@
+The aim of this GSoC-Project is to extend the functionality of the framework from Trac ticket #17601 (http://trac.sagemath.org/ticket/17601). I propose the following three steps:
+
+(1) Extending the existing framework to support high-level operations like exp or log.
+(2) Implementing the cartesian product of growth groups such that more complex and/or multivariate expressions can be constructed.
+(3) Embedding this framework into SageMath (e.g. interplay with the symbolic ring).

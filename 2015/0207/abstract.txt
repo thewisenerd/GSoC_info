@@ -1,0 +1,1 @@
+As FFmpeg lately added support for analogue capture cards, the same thing should be done for the digital tuners. This project focuses on adding support to DVB and DV capture sources, allowing for tuning the device and the compressed streams to be identified and handled by FFmpeg.

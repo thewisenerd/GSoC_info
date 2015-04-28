@@ -1,0 +1,1 @@
+Leverage the strengths of both the JPF and PRISM model checkers in order to allow formal analysis for Java programs involving randomization or probabilistic features. Explore ways for JPF to take advantage of the reliability and performance present in the PRISM model checker.

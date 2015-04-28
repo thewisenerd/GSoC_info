@@ -1,0 +1,1 @@
+The objective of this project is to create an API in Go that replicates the API provided by the Python M-Lab-ns implementation with increasing unit-test coverage.

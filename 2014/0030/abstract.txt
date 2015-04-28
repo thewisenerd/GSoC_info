@@ -1,0 +1,1 @@
+A Python library for creating, importing, exporting and manipulating SPDX files. This proposal is for the SPDX working group of the Linux Foundation.

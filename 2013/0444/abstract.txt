@@ -1,0 +1,13 @@
+In this proposal, I hope to implement repeating table header, a feature that allows Abiword's Table to repeat a selected row as header on top of each page that the table is broken over. Some of Table features have been implemented on branches "gsoc2010tableimprov", I should merge them firstly. some major works:
+1. the backend work about Table header
+2. Frontend work to display the table header on the top of every page 
+3. fix the table dialog (or Menu) to enable the user to use the feature
+4. Merge branches "gsoc2010tableimprov" for some table features 
+5. More testing means more guarantee.
+
+I have built Abiword on both Windows and Linux.
+
+I also have fixed bug http://bugzilla.abisource.com/show_bug.cgi?id=8487
+
+I also make some contribution about Chinese Translation.
+http://translate.sugarlabs.org/accounts/joejoe/

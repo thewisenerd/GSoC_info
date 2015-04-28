@@ -1,0 +1,1 @@
+This project aims to improve and enrich joomla framework package's unit test suite. In this project we add new tests, improve existing one and remove redundant & unnecessary tests.

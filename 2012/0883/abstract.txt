@@ -1,0 +1,1 @@
+HEVC is a new video coding standard currently in development by ITU-T and ISO with the explicit goal of replacing H.264. The purpose of this proposal would be to code an HEVC decoder for libav, thereby making all users of the libav library capable of handling this format.

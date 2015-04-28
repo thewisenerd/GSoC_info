@@ -1,0 +1,1 @@
+This proposal about implementing Online Collaborative Filtering described in #HAMA-612 ticket

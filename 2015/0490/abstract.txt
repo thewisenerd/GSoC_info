@@ -1,0 +1,1 @@
+The project music blocks is for Children/music-newbies to learn music in an interactive and graphical manner. It has analogy to blocks as in turtleblocksJS. It is a suite of music tools for introducing the basic concepts of scale, beat, chord, time signature, sequencing etc.

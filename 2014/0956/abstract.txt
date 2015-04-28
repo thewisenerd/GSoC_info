@@ -1,0 +1,1 @@
+The current open source App framework has no regulation of app and privilege security and has no way to dynamically introduce new apps. The improvements to the App framework should include adding a standard way for introducing new apps and management of access to apps through privilege levels.

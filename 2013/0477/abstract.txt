@@ -1,0 +1,7 @@
+This project was thought up in order to make Wikipedia available to remote places without a proper internet connection.
+
+ As of now, users need to download the full database every time they need to update, and this is quite cumbersome and/or impractical for a user with a slow internet connection.
+
+This project implements an incremental update feature in to the existing Kiwix software.
+
+Once finished, this would greatly benefit many schools/other institutes in developing regions of the world. It will enable them to keep a local cache of the data, which updates itself automatically.

@@ -1,0 +1,1 @@
+The aim was to optimize the Matrix API layer of Twitter's Scalding library in Scala. The main optimizations were done in two areas: 1) matrix chain multiplication, 2) various operations on sparse and skewed matrices.

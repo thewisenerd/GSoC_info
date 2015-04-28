@@ -1,0 +1,3 @@
+This is a project to add many small features & get rid of many small bugs in Nmap, each expected to take only a few days, allowing for many to be handled over the summer. It will involve contributing to a wide variety of the Nmap code base rather than working on just one subsystem. 
+When a high-priority bug is discovered, it will be my role to solve it. 
+The exact tasks cannot be itemized in advance (but some are in Project Proposal). The deliverables are the bug fixes and the new features.

@@ -1,0 +1,1 @@
+This project aims to create a dashboard for administrations in the public school system. The tools will range from teachers absence systems for providing feedback to teachers. This project will be written in Google AppSctipt and utilize Many different Google systems (Doc/Spread Sheet/Calendar/ect.).

@@ -1,0 +1,1 @@
+The project aims to unify the various metadata acquiring backends of different package management tools in Debian. The expected result is a robust, extensible and performant system, capable of handling both current and forthcoming package metadata.

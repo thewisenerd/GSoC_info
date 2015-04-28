@@ -1,0 +1,1 @@
+The aim of the project is to re-build currently running pignlproc. The new remodeled version should run fast and without much issues. The solution should be scalable to different languages.

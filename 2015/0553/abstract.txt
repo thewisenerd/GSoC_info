@@ -1,0 +1,1 @@
+Prepare buildbot to be ready for python3 when twisted is finally ported. The goal is to have buidlbot ready for when it happens so that it is fully python3 compatible

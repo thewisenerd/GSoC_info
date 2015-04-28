@@ -1,0 +1,1 @@
+The GES still not migrated to gst 0.11(and upcoming 1.0). Frontend still uses goocanvas (not clutter) and pygtk with gtk2. Some code from pitivi still could be part of GES. Project options (presets) should be updated. Timeline managment should be improved to match decent video editors.

@@ -1,0 +1,1 @@
+Providing customizable Group homepages by updating the OG_Panels module to Drupal 7 and "Making it possible to reply to GDO notifications through email by integrating message notify and mailcomment.module"

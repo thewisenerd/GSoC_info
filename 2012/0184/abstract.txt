@@ -1,0 +1,1 @@
+The main goal of this project is to improve friendliness. The idea that improving usability very well is possible in curing many very little bugs or sometime in adding very little features. That is why I will focus on this goal and improve undo/redo functionalities which can have incorrect behaviour.

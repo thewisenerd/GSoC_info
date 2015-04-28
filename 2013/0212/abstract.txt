@@ -1,0 +1,2 @@
+Main goal of this project, which is improving the VIM package for R, consist of two parts: adding a modern Gtk2-based replacement (based on the RGtk2-package: http://cran.r-project.org/web/packages/RGtk2/index.html) for the old tcltk-based graphical user interface and integrating support for the survey-package (http://cran.r-project.org/web/packages/survey/index.html). 
+In addition to that other small changes like improving the usability and adding different new imputation methods are planed.

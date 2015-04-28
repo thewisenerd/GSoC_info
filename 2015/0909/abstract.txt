@@ -1,0 +1,1 @@
+The objective of the project is to provide asymptotically fast linear algebra routines over non-prime finite fields F_{p^k} by creating a generic data structure which treats matrices with polynomial entries as polynomials with matrix entries and using already implemented operations on matrices over F_{p}.

@@ -1,0 +1,1 @@
+Allowing support for tablets and other portable devices such as smartphones will require the JavaScript code to be optimised to improve performance on less powerful devices so that the use of the software is as pleasant and enjoyable as possible. The interface must also be adapted to fit comfortably on a smaller screen. Touch based input must also be supported.

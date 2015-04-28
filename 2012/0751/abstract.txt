@@ -1,0 +1,3 @@
+The project aims at implementing several ideas that will enhance the functionality of Glastopf (new version to be called Glaspot v3) as a web application honeypot.
+
+Glaspot is going to be more autonomous as the HTTP requests get automatically classified. Also, new patterns will be extracted from the classified requests. Requests using the POST method will be handled.  Forms and scripts will be added for attracting and trapping comment spammers and brute forcers. The PHP sandbox will be made more secure and fingerprint resistant. FTP attacks are also going be analyzed.

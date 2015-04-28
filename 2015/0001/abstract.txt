@@ -1,0 +1,1 @@
+MySQL  has a cache interface built over Memcached as a plugin to InnoDB. The task of the project is to develop Redis Cache Interface, run against MariaDB, and make it work against XtraDB/InnoDB for the 10.2 series of MariaDB.

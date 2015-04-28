@@ -1,0 +1,1 @@
+Exploit Metalink to detect duplicate downloads from different mirrors and redirect clients to mirrors that are already cached

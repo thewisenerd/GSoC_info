@@ -1,0 +1,5 @@
+The project Bulletin Board is all about learning by promoting interaction among users in a fun manner replacing the traditional forum discussions . 
+
+A shared, persistent "clipboard" : This provides a space for sharing in each activity where users can provide supporting material for the underlying activity. 
+
+A chat channel : Bulletin Board will provide a spatially contextual chatting interface comprising of chat bubbles thoughout the screen promoting interaction among users.

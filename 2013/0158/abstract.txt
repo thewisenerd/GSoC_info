@@ -1,0 +1,1 @@
+Joomla! CMS currently having a lots of configurable options at the back end. That makes first time Joomla users' life a bit harder. This proposal is about a project which makes it easy by taking important back end configurations to front end through web service approach.

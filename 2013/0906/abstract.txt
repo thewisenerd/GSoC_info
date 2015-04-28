@@ -1,0 +1,1 @@
+Designing a new OpenFlow controller mechanism with multiple controllers that allows them to have instances taking the role of Master or Slave, and switch over in case of master controller failure.

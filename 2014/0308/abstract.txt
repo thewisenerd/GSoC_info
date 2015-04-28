@@ -1,0 +1,5 @@
+This project will improve integration between the OWTF and external tools such as ZAP. 
+
+This will be accomplished by adding the features such as Sending HTTP requests/Zest scripts from OWTF to third party tools.
+
+Zest scripts will provide an automated mechanism to replicate exploitation of security vulnerabilities in a format that facilitates information exchange between external tools which can reproduce the same vulnerabilities in their own environment.

@@ -1,0 +1,4 @@
+The proposal is aimed at majorly 2 things.
+Firstly, making Irdroid and Google Remote TV(bonus project) tecla accessible.
+Secondly, incorporating the ideas of Google Tap in order to  take Morse code as an input technique.
+If the remaining time permits, I intend to extend the functionality of Tecla Access by making it able to control desktop computers.

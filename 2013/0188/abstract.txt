@@ -1,0 +1,1 @@
+Building upon earlier work on the track selector branch, I hope to offer an integrated solution that draws on publicly available data from the Last.fm API, sonic features of the music (such as tempo, key, and timbre) and on the user's set history, creating a personally tailored set of suggestions for the next track.

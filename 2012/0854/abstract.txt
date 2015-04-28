@@ -1,0 +1,4 @@
+Many new users learn Haskell from the #haskell irc channel. 
+lambdabot's mueval is good for interactive teaching, but only allows short code snippets. hpaste allows large snippets to be shared, but not into an interactive ghci. Chris Done's tryhaskell.org allows larger snippets to be loaded, but is not explicitly multiuser.
+
+If tryhaskell allowed multiple users to view the same interpreter state, and allowed users to paste in new code, teaching and debugging would be much easier for people new to Haskell.

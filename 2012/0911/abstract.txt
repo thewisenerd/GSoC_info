@@ -1,0 +1,1 @@
+Over the months of the summer, I plan to take the current Task Editor in Getting Things Gnome and rework it so that it will be faster and easier to work with, while also adding needed features such as being able to type in bold or italics, along with fixing many of the current bugs on launchpad's bug list.

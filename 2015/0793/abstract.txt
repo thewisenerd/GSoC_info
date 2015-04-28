@@ -1,0 +1,6 @@
+Create an interface for PyDy that will allow specifications of "Body and Joints" and "Points and Velocities" simultaneously. User will be able to use whatever way is more natural and it will transform between two.
+
+    * Calculating inertial forces from rigid bodies, and
+    * determining effects of forces on the coordinates, adding constraints etc.
+
+It will work a layer above PyDy and generate SymPy Mechanics code on the fly and thus, the equations of motion., GUI tools will follow

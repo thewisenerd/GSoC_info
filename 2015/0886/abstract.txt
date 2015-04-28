@@ -1,0 +1,2 @@
+This project is about supporting cluster implementation in ODE
+Related jira issue - https://issues.apache.org/jira/browse/ODE-563

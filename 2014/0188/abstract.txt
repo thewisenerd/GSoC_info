@@ -1,0 +1,1 @@
+The goal of this project is to create a functional Graphical User Interface using a multi-platform desktop framework, providing the basic functionality for Social service of GNUnet.

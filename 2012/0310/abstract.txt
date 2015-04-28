@@ -1,0 +1,3 @@
+Share your photos to any photo service on the web with the phimp.me app - to twitter, flickr, google+, facebook, tumblr and many more. With this app you can even set up your own website and upload images from your phone. The app already offers built in support for Drupal (needs to be activated in the code).
+
+Technologies: Web technologies, Java, CMS, HTML5

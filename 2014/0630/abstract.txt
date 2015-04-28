@@ -1,0 +1,1 @@
+This editor allows a easier workflow for materials creation.

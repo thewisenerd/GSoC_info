@@ -1,0 +1,1 @@
+This project aims at optimisation of MJPEG core in the  firmware to support full frame rate recording. The current frame rate recording for 720fps is 15 fps. This is slower than usual frame rate of HD videos. To make the performance of the system acceptable the frame rate should be increased to a minimum of 30 fps for 720p and a maximum of 120 fps for 1080p.

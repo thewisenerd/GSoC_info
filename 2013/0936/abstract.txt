@@ -1,0 +1,1 @@
+The project is built on prior efforts to re-design a new and efficient approach of interacting with large amounts of complex medical data through a «Timeline». It describes visually the when, for whom, and what has been done to describe patient's healthcare situation.

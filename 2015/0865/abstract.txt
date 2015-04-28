@@ -1,0 +1,2 @@
+Automate translation to and from simulator independent formats.
+Improve Brian2 simulator's interoperability with simulator independent model description languages

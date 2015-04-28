@@ -1,0 +1,2 @@
+As an improvement for the visualization, it is proposed a change to the visualization. On which, it is required to display a script on the different layers (flow, logical, physical and mapreduce), show operator type and alias, and so on, more dynamically through some graphical tools, such a D3JS.
+Based on the requirements, I proposed an extension to the grunt, which generates a zip file with the graphs required (flow, logical, physical and/or mapreduce) by using D3JS.

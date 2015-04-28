@@ -1,0 +1,5 @@
+The essential requirement for this project is to parse inbound messages , with an initial focus to SMS. The project is specifically aimed at the CERT usecase  where they wish to process responses to deployment notifications. Or in other words , to handle replies to deployment requests. We want to be able to direct the message to the appropriate module to handle the data.
+This could be done either by launching a real REST request or else simulating one via the API.
+Although the project primarily focuses on SMS as the inbound mode of communication, the parsing rules will be generic and valid for other processes such as Email &Twitter.
+The functionality will be among the deployment-specific options.
+The project also aims at integrating OpenGeoSMS (esp. for the Android Client).Using a dedicated parsing generator for complex parsing needs is also in scope for this project.

@@ -1,0 +1,1 @@
+In Rally currently benchmarking is done by calling a benchmarking scenario multiple times. This does not allow evaluation of a Commands like VM/Machine/Volume list which work on Cluster. This projects aims to expand the scope of evaluation and add functionality for measurement of duration of these contexts.

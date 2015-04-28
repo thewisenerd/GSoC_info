@@ -1,0 +1,1 @@
+I would like to rewrite module-tunnel using libpulse as api, because libpulse and module-tunnel provide the same functionality but no code and libpulse is much better maintained as mod-tunnel.

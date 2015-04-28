@@ -1,0 +1,7 @@
+Creating a marketplace for contextualization artifacts for CernVM. The marketplace will display  a list of contexts that are publicly available for all users. Instead of engaging into repetitive tasks of creating new contexts, users can make use of the readily available contexts and add them to their list of available contexts, as well as pair them with the desired CernVM. Contexts will have different specifications, and every context will have the option to be rated, added to the list of contexts and commented on.
+
+Users can specify if they want the context to be made publicly available. In the section for creating a new context, new fields will specify whether the context should be publicly available.
+
+Search and Advanced Search options will be developed in order to alleviate navigation throughout the marketplace. After filtering the searched keywords, a list of available contexts will be displayed, ordered by date of submission. There will also be another filter available for filtering the results according to rating.
+
+Developing the marketplace for contexts for CernVM will reduce the work of the users, so users can concentrate on improving the contexts and sharing them with others.

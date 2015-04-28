@@ -1,0 +1,1 @@
+Ceylon is a great language and make it scriptable is a huge step for being adopted.

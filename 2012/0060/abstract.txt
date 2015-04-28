@@ -1,0 +1,5 @@
+To create a library exposing SMART HDD health data as a part of kdelibs with multiple backends.  Then create a KDE application for viewing SMART hard disk health status,  viewing relevant data  and for running self tests,etc., with a focus on having a user-friendly interface; along with a HDD health plasmoid,etc.
+
+A streamlined application for burning ISOs and copying disks  in as few clicks as possible,  will be created and integrated with other parts of KDE. Mounting and creation of ISOs too will be implemented as simple tasks run from within dolphin.
+
+Overall focus will be on complete integration

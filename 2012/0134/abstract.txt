@@ -1,0 +1,1 @@
+This project will contribute several additional activities to the GCompris educational software designed for children. Special emphasis will be placed on music education activities, although other types of educational activities may be implemented as well.

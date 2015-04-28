@@ -1,0 +1,1 @@
+Octave's interpreter is very slow on some loops. There is already an initial implement of a just-in-time compiler (JITC) in LLVM. But it still lacks some features. This project consists in understanding current implementation and extending it so that functions and exponents (e.g. 2^z) compile with the JITC.

@@ -1,0 +1,1 @@
+My proposal is to develop a network testing tool for BATMAN, focused in particular on throughput. The idea is to develop the application in kernel space and design it to work at layer 2.  This should lead to  more precise and reliable results if compared to those obtained with traditional, user-space, testing tools (like iperf or netperf).

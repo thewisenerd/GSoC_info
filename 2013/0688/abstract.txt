@@ -1,0 +1,1 @@
+An iOS application that aids communication with the Tecla Shield.

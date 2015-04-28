@@ -1,0 +1,1 @@
+My proposal is to develop, test and document a PackageKit backend for pkgng, ideally with the view of being able to use an existing PackageKit frontend such as Apper to install, remove and upgrade packages on a FreeBSD system.

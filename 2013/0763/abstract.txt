@@ -1,0 +1,12 @@
+This project will contribute to Apache OODT Catalog and Archive Service (CAS) Resource Management component, a resource monitor plugin that reads information from Ganglia [2].  
+
+</br>This plugin serves following purposes
+<ul>
+<li>Collecting resource nodes’ status data on demand</li>
+<li>Inject custom metrics upon need</li>
+</ul>
+
+</br>
+[1] https://issues.apache.org/jira/browse/OODT-219
+</br>
+[2] http://ganglia.info/

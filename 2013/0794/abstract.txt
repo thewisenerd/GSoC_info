@@ -1,0 +1,1 @@
+improve occluvis performance by using a faster acceleration structure to reduce CPU overhead and switching from CHC to CHC++ for improved scheduling and reduce GPU overhead

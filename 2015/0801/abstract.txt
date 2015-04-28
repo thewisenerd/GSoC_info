@@ -1,0 +1,3 @@
+Taverna is an open source domain independent Workflow Management System - a suite of tools used to design and execute scientific workflows. The Taverna suite includes the Taverna Engine, Taverna Workbench and Taverna Server.
+Taverna Databundle is a file format returned by the Taverna Server containing the results of a Taverna workflow run and its intermediate values and provenance metadata.
+This GSOC project proposes to create a web-based presentation of a workflow run.

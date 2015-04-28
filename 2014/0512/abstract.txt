@@ -1,0 +1,3 @@
+To run arbitrarily complex queries against dense datasets such as VCF genomic mutations one must have a proper data model and a sensible approach towards query composability in order to be able to "take shortcuts" even when the DBMS' query planner wouldn't be able to.
+
+"Composability" is a sharp edge but with proper tooling one can evade the most common pitfalls while still being able to abstract-away implementation details.

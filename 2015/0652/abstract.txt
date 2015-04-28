@@ -1,0 +1,1 @@
+In this project, we will provide an implementation of a fixed-point library based on http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3352.html. The core work involves developing a series of templates and template specializations that embody the fixed-point numbers in various precision ranges.

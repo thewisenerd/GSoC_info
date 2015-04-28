@@ -1,0 +1,1 @@
+The goal of this project is to adopt the Serbo-Croatian<->English from the incubator and make it a working language pair.

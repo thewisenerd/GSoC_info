@@ -1,0 +1,1 @@
+The Indonesian-Malaysian language pair in Apertium currently does not have active maintainers. The objective of this project is to develop a release-quality version of the Apertium id-ms language pair. The morphological analyzers for both Indonesian and Malaysian will be improved; the Indonesian and Malaysian dictionaries will be completed.

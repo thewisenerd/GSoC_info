@@ -1,0 +1,6 @@
+This project focuses on improving/extending the HPCC systems visualisation framework and making it more awesome. The minimum set of deliverables of the project are :
+1. A wrapped third party visualization
+2. A custom built visualization
+3. Both driven by data on the HPCC Platform
+4. Test cases demonstrating the correct behavior and performance
+5. Supporting Documentation

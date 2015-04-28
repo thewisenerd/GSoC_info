@@ -1,0 +1,8 @@
+My proposal intends to extend the work done related to optics in SymPy by introducing some good applications. Till now we have only module which can do computations related to Gaussian optics and a bit of geometrical optics.
+
+ My project will cover majorly following branches:
+
+General Optics
+Wave Optics
+Major results used in optics
+Adding documentations in the form of IPython notebooks of examples/illustrations provided in a fundamental optics book

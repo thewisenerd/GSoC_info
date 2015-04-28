@@ -1,0 +1,2 @@
+Current modeling looks at the durability of a single, arbitrary object. That object lives in a Placement Group, stored and replicated on disks in sites, and so we must model the failures and recoveries of all of those components. The models will follow cascades of operations, any of which may succeed, fail or initiate their own recoveries, which will be dependent on other components. 
+The model will help the operators to take decisions that will affect the durability of the file.

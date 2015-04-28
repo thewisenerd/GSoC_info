@@ -1,0 +1,3 @@
+p5 Mobile is an exploration and expansion of p5's capabilities for the mobile web and devices. The goal is to allow non-programmers to make creative projects that can live off of their computers and interact with their environments.
+
+This project includes creating examples with existing p5 capabilities for the mobile web; exploring different ways to access a device for using BLE, camera, geolocation, and SMS; and building an accessible way to share p5 creations on mobile devices.

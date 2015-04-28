@@ -1,0 +1,3 @@
+The new Hackage offers many novel features: package candidates, custom documentation, build reports, even a rudimentary tag system. However, often these are not used to their full potential – they are either difficult to use, not exposed in the interface, have outstanding bugs, or some combination of the three.
+
+This project aims to finish these features, so they are stable and useful to the community.

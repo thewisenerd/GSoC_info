@@ -1,0 +1,1 @@
+This project implements a few fast optimization algorithms on matroids. This includes fast algorithms for matroid intersection(weighted/unweighted), 3-connectivity algorithm by Bixby and Cunningham (1979), 4-connectivity by Rajan (1987) and higher level connectivity algorithms using matroid intersection. The project will also provide useful examples of matroid intersection.

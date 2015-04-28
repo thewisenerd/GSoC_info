@@ -1,0 +1,1 @@
+Aim of this proposal is to bring functional tests of native Android applications into Arquillian testing platform.

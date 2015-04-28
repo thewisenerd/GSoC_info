@@ -1,0 +1,1 @@
+The project is to add functionality for User functions (UDF-like) that return a table, rows and columns. It should be possible to use it in other statements.

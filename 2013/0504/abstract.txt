@@ -1,0 +1,1 @@
+Upload and download folders without manually creating or extracting archives. Improve archive supports in Nautilus.

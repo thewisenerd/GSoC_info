@@ -1,0 +1,1 @@
+I like the idea of the oAuth plugin, because I think it is most needed for the project and suitable for me. I would like to implement as part of a summer internship oAuth plugin.

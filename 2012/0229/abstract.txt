@@ -1,0 +1,1 @@
+This project involves porting libsoy, and all of its dependencies over to the Android platform using the Android's  Native Development Kit. Along the way there may be modifications required to libsoy and its dependencies. The end result will be a fully functional PySoy game client on Android.

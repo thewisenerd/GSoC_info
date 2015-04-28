@@ -1,0 +1,1 @@
+I am Mayte Giménez, and I am a last year student of computer science at the Polytechnic University of Valencia, Spain. I worked for Sakai for the last 3 years, always with scholarships.I began a cross platform application for Sakai last GSoC, and I would love finish the applications. A native application has a lot of advantages for education institutions.

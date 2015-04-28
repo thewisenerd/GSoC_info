@@ -1,0 +1,1 @@
+The project aims to create an interface layer between OpenCog and ROS using the PAI Component of the OpenCog, so that the XML messages of PAI may be modified to make them understandable to ROS.

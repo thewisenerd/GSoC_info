@@ -1,0 +1,1 @@
+Extending the predict methods of spdep, splm and sphet R packages with new predictors from the research literature. With the provision of predict methods, the usefulness of these estimation methods will increase considerably, in applied fields such as real estate, public economics, environmental impacts, epidemiology, criminology, industrial location, etc.

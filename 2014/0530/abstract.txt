@@ -1,0 +1,1 @@
+There are two main goals of this proposal. First, capitalize on the effectiveness of R’s computational and analytical tools for use in the world of particle physics—where raw data is infinite and significance is hard to find. And second, clean up functional but inefficient interpolation programs in ROOT to speed analysis.

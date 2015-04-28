@@ -1,0 +1,1 @@
+I have been planning to develop a visualization layer and a graphic interface for the LG where the user will see the information related with the FAED project, which is weather data (wind, humidity, etc) and the drones situation, movements, etc in (almost) real time.

@@ -1,0 +1,4 @@
+The Semantic Forms Extension in Mediawiki is a useful and widely used feature of MediaWiki to make semantically structured data, contained within template calls which are easy to create and edit. However at present Semantic Forms does not support structuring of wiki pages by page sections. Accomplishing this project would mean enabling administrators to define page sections in the form definition for the structure of their wiki pages. It would also allow users to add data to those defined page sections using forms in the Semantic Forms extension.
+
+
+The project would also extend the Page schemas extension to allow defining of page sections.

@@ -1,0 +1,1 @@
+The motion tracking module is a young but important aspect of Blender and has much room for development. I plan to focus on multicamera solving and reconstruction from footage with variable focal length. In addition, I will make various smaller improvements to the motion tracking workflow and interface.

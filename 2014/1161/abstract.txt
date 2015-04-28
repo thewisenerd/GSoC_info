@@ -1,0 +1,12 @@
+The idea I want is Anonymous mode and autosharing for phimpme Android app.
+The features I planned to develop are
+1. Share over NFC, Wi-Fi Direct, and Bluetooth
+2. Support shared folders, public ftp
+3. Sharing works without Internet
+4. Auto-connect and broadcast
+5. “Shake-and-share”
+I am the best person, because
+1. I have the experience of hacking NFC, Bluetooth, and FTP.
+2. I have the knowledge and experience
+3. I'm a quick learner
+4. I love programming and try to be perfect

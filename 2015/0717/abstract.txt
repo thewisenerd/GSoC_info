@@ -1,0 +1,2 @@
+To build a framework for CKEditor which would allow an end-user to display an embedded representation of a URL, the content of the URL can be a video, images, rich text or a link. This framework will handle URLs from various third party sites and essentially replace oEmbed Module from Drupal 7.
+For more details : https://groups.drupal.org/node/455978#project16

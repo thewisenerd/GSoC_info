@@ -1,0 +1,1 @@
+SilverStripe has a decent coverage of unit tests, but these tests test mostly backend and don't examine the CMS/framework from the user perspective. The goal of the project is to introduce acceptance tests (simulate user behaviour in the system to check most common actions).

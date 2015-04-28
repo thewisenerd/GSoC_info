@@ -1,0 +1,2 @@
+The idea of the project is to develop a simple 1-D hydraulic model within JGrassTools. 
+The objective is to develop a simplified GIS based model for evaluating the water depth and velocity inside the streams. The model will have as input the water discharge in the upstream section (calculated with the hydrological model), the geometry of the sections (derived from the DTM), and some hydraulics parameters valid in general for the river or specific for each section.

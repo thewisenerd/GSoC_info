@@ -1,0 +1,1 @@
+This project aims to add Javascript as a new supported target language to swig to automate the generation of Javascript wrappers over C++.

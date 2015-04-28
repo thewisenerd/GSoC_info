@@ -1,0 +1,5 @@
+While browsing TV Shows in GNOME Videos it is possible to fetch and display metadata using the thetvdb web service.
+
+The same applies to GNOME Music, while browsing content it is possible to fetch and display metadata using the MusicBrainz web service.
+
+This can be done through Grilo, a framework focused in making media discovery for applications.

@@ -1,0 +1,11 @@
+The use of statistical inference methods on a set of data provides the most basic analytical intuition of a how the collection of data could be summarized, for instance, a sequential identifier according to a specific order, density among the elements of a particular subgroups, distribution over partitions and so on. These functionalities imply efficiency and reliability on operations performed on large datasets.
+
+Currently, statistical operations on large data sets can be done with SQL instructions, by means of DBMS or some other frameworks based-on SQL sentences; it is done through countless and complicated nested queries, implying performance concerns to non-related users with SQL.
+
+On a high-level layer, it is also possible to have a functional implementation of these statistical operations tightly attached to the performance of each language and to portability concerns among different DBMS.
+
+On an intermediate layer, is also possible to recreate these methods through a sequence of operators on Pig, without being too complex like SQL statements and mainly with the advantage of running over a distributed platform.  On this sense, one feasible improvement on Pig is to provide a set of named operators that implements the statistical inference methods with a standard performance level. 
+
+This improvement becomes a functional integration to experienced users on statistical frameworks, without knowing SQL or any programming techniques.
+
+https://issues.apache.org/jira/browse/PIG-2353

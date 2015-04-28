@@ -1,0 +1,1 @@
+Starting with version 1.3 CImg dropped support for this set of algorithms and no longer can be linked as shared object. Due to this changes, developers were forced to use other solutions, such as GMic. This proposal is aimed to migrate digiKam from CImg to GMic.

@@ -1,0 +1,6 @@
+Metaprogramming is about creating code that manipulates code. It has proven
+to have useful applications in many areas, one of them is code refactoring – the technique to improve the internal structure of a program.
+The goal of this project is to create an automated refactoring framework for
+scala.meta and to demonstrate its capabilities. This includes: organizing existing
+scala.meta infrastructure, binding to popular IDEs, and developing some proof-of-
+concept refactorings.

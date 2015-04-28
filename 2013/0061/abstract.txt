@@ -1,0 +1,5 @@
+core.typed is an optional type system for Clojure which can type check idiomatic Clojure code. It is based on Typed Racket, and has the same basic features.
+
+It is clear that several extensions are required to type check some common Clojure idioms. Developing these require careful research and design work. Implemented solutions to these problems will be a primary deliverable for this project.
+
+User documentation will also be extended, and a user guide will be completed.

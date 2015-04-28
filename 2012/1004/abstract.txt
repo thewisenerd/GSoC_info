@@ -1,0 +1,1 @@
+User Interface for Outpatient Module in Raxa JSS EMR providing easy handling of managing Patient-Doctor meeting

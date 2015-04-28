@@ -1,0 +1,7 @@
+Overhaul the Applications View: 
+
+Remove mode switch, only leaving windows mode in the overview and making the apps view accessible in a different manner.
+
+Make the apps view paginated, allowing the user to order their apps in pages. The benefit of the pagination over continuous scrolling would be spatial memory of where launchers are.
+
+Add keyboard navigation to windows and apps views. This would increase the speed at which users can traverse these views, and has been a much requested feature.

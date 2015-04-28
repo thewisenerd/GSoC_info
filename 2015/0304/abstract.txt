@@ -1,0 +1,1 @@
+Control Flow Integrity is a security mechanism that protects against Control Flow Hijack attacks. KCoFI is a commodity os kernel that provides protection against such attacks using CFI. This project aims to improve KCoFI by implementing improvised security mechanism to make this kernel stronger against attacks.

@@ -1,0 +1,1 @@
+Aim of the project is to develop a standard reporter interface that can be shared among JavaScript testing frameworks. For more details, see https://github.com/jquery/qunit/issues/531.

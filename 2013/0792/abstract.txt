@@ -1,0 +1,3 @@
+Marble Virtual Globe is a nice project for working with maps. The software rendering is smart and works very well. However, there are some limitations with the software rendering that hardware accelerated graphics (like OpenGL) solves.
+
+I am working on a SceneGraph structure that will allow for abstracting the actual graphics scene from the rendering backend within Marble as well as grouping and rendering objects in 3D space.

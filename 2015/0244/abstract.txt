@@ -1,0 +1,1 @@
+The main aim of the project is to finish an outliner (special tool to help planning and writing novels) as a part of Calligra Author application using the codebase created last year.

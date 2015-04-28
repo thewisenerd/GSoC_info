@@ -1,0 +1,2 @@
+Implementing save and load the VM will enable the user to save the current state of the VM to an on-disk file. Restoring this file will make the VM continue from where it was left off. Saving the VM and it's state will also provide a way to load the file onto another machine. 
+A part of the proposal is enabling downloadable ready-made VM offering the users remote repository where they could download and use the VM easily.

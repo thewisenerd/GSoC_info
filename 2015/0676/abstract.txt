@@ -1,0 +1,1 @@
+Refactor the current Debsources to use new flask abstractions and develop two web applications that will serve as a license and patch tracker. The architecture will become asynchronous.

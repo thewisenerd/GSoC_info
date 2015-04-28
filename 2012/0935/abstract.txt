@@ -1,0 +1,7 @@
+The ideas page contains these two modules that are essential to the system. Automated reports are very important for tracking, progress and a clear result, and without voting democratic process can not be made.
+
+As an active contributor to civil society in my country I have a good idea how these processes should be designed, and why they are so important.
+
+I also have a special interest in creating a system that guarantees that the emitted vote is true, since that kind of system can find it's use in many other applications too: independent research of public opinion as the most important and the most needed one, since a good transparent algorithm can add a little more credibility to online voting and research, much needed in countries where the research is mostly one from one central and not so transparent place.
+
+This project makes a synthesis of the two things I love doing: coding and politics. I am an activist, a youth political columnist and I am on the constant lookout for contributing to democracy in my country, it sure needs some. As I, together with my fellow citizens have identified the need for a project like this in my county, and even made a draft some time ago. I would invest all I can into making this code better, contributing with ideas and code accordingly, with the hope of implementing the same in Macedonia in the near future.

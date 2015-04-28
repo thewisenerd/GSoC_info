@@ -1,0 +1,5 @@
+The project aims at making 2 major improvements to Evince, the default document viewer in a large number of Linux distributions (including Ubuntu, Fedora and Linux Mint).
+
+First, a bookshelf view will be added (similar to gnome-documents) for recent documents. There is a bug/feature request for this - https://bugzilla.gnome.org/show_bug.cgi?id=633501.
+ 
+Next, tiling support will be added so that documents can be viewed at higher zoom levels. This is an important feature, as is evident from the long standing bug/feature request  - https://bugzilla.gnome.org/show_bug.cgi?id=303365.

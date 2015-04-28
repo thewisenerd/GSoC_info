@@ -1,0 +1,1 @@
+My project would implement a messaging system within Melange, where one user can send a message through an online interface to other users or groups of users. Users will be notified of new messages both through the website and through optional email notifications, and can reply to messages in a conversation thread. Users can also reply by replying directly to email notifications.

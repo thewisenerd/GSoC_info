@@ -1,0 +1,4 @@
+Proposed project mainly focuses on developing a dashboard for Helix. Helix is a generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes. 
+Helix uses Zookeeper for maintaining the cluster state and change notifications.
+Helix approach of using a distributed state machine with constraints on state and transitions.
+Additional info: https://issues.apache.org/jira/browse/HELIX-60

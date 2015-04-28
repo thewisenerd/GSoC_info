@@ -1,0 +1,1 @@
+Restructured text is standard documentation system for python. For documentation file will be written in this format, which will be parsed by sphinx and upon encounter of test suites it will call robot framework to run the test and include the screenshot of result in the documentation. The ReST directive has to be modified and parser has to be updated.

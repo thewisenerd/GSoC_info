@@ -1,0 +1,1 @@
+This project aims to shift lightcurve class base data structure to Astropy Table from the current Pandas DataFrame which being good for statistical purposes is not written keeping astronomers in mind.This project would add similar features as provided by DataFrame to Astropy Table.

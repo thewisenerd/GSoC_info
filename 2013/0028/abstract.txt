@@ -1,0 +1,2 @@
+AstroPy is an Open Source package for the analysis of astronomical data. It allready provides 
+numerous features but up to now the functionatlity of the photutils package, which allows photometry on astronomical images, is still very limited. During GSoC2013 I plan to extend the photometry capabilities of AstroPy.

@@ -1,0 +1,5 @@
+Gnome-clocks is one of the very basic applications of GNOME providing basic four functionalities: 
+World clock, Alarm, Timer, Stopwatch.
+Out of these four modules, world clock and alarm need redesign and few extra features like time-conversion, alarm labeling etc..
+Timer module currently doesn’t support multiple timers functionality. “Multiple-timers” is one of the main features. 
+Stopwatch doesn't require much modifications.

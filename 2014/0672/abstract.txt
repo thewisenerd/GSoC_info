@@ -1,0 +1,1 @@
+The goal of the project is to create a set of tools for global genomics data sharing which can be facilitated by MedSavant, a platform providing a search engine for genomic variants.

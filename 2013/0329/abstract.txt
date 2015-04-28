@@ -1,0 +1,1 @@
+The project intents to create a patcher module, as an alternative to existing one, with purpose of utilizing GitHub repositories and Git functionality which allow users to update their production systems with latest changes pulled directly from source code repository of ATutor.

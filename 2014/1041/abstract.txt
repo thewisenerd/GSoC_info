@@ -1,0 +1,1 @@
+This project aims to extend the KDE Reports app which was developed from scratch during last year GSoC. I'd like to complete the test suite, upgrade the app and extend it to include more reports from other sources including forums and social media.

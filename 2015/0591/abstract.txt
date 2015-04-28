@@ -1,0 +1,1 @@
+The goal is to be able to directly use packages from Linux repositories instead of having to write our own set of Linux binary packages. It will also make it easier for people working on the Linux emulation to test things based on newer version of Linux binaries.

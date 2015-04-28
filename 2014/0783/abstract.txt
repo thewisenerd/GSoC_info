@@ -1,0 +1,3 @@
+With pretty diverse set of test suites coming into our ccodebase, it becomes important to ensure that they are also actually run. It's reasonable to understand that sometimes, one of us might be unwilling to walk the extra mile of running tests locally, or even forget about it. In such a scenario it makes sense to automate the automated testing.
+
+A detailed abstract can be found here - http://paste.ubuntu.com/7148223/

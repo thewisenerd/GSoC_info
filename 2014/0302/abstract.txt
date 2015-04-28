@@ -1,0 +1,1 @@
+Octave's sparse matrices still have many missing features that are otherwise available for full matrices.  Particularly logical indexing currently requires converting to a full matrix (which is generally infeasible).  For my project, I'd like to make sparse matrix indexing work properly and also possibly clean up various other bugs and gaps related to sparse matrices.

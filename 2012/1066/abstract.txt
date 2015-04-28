@@ -1,0 +1,1 @@
+The main proposal is to add support to DownloadTheAll for http Metalink downloads and creating Web Client UI for aria2. The web UI should only take 2-3 weeks and the main focus would be on adding suppport in DownloadThemAll

@@ -1,0 +1,17 @@
+I intend to visualize gene-disease links by generating graphical networks by using the Cytoscape Web(http://cytoscapeweb.cytoscape.org/) on the web platform.
+ 
+I intend to use Flash because of the low processing-high performance quality of Adobe Flash. Cytoscape Web uses javascript to dynamically manipulate the Flash object thus, providing both the speed and performance of Flash as well as the dynamic nature of data manipulation using javascript.
+
+The interface will be designed in a way to avoid cumbersome navigation through a huge graph of data. There will be options to set the size of the chart as well as zoom and search options to navigate around the graph with ease.
+
+The data for the visualization will be obtained using the powerful semantic query search of Gene Wiki+. I have already gone through the API at http://genewikiplus.org/api.php?action=ask.
+For eg, http://genewikiplus.org/api.php?action=ask&q=Cancer contain XML data regarding Cancer. This XML data will be visualized using graph networks.
+
+Features I intend the interface to have at the end of my project
+1)	Movable nodes representing the specific disease and the associated genes, which can be positioned according to the biologist's needs. Clicking of these nodes will retrieve information regarding the term and will be displayed alongside the interface using Ajax and the semantic query search.
+2)	Color coded connections representing various relationships.
+3)	Exporting of the graphical network at any point as an image for further use by the biologist.
+4)	Options to add various nodes and connections based on the biologist's needs in which case further data regarding the relationship will be obtained and displayed using Ajax.
+5)	Options to delete nodes and connections and to vary size of the panel as seen fit by the biologist.
+6)	Suggestions regarding relationships and addition of nodes to the biologist by dynamically analyzing the nodes on the interface.
+7)	To negate the need of a textbox based search as currently present at http://genewikiplus.org/wiki/Special:Ask.

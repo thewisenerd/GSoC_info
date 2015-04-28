@@ -1,0 +1,1 @@
+Add Storing GPS coordinates capabilities in a well-known vector format as is shapefiles using gvSIG Mini and GPS

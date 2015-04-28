@@ -1,0 +1,1 @@
+This project is aimed at adding python3 support to Layman while maintaining backwards compatibility with python2.7, as well as adding new features to the codebase.

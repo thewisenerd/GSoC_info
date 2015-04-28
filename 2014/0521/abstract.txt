@@ -1,0 +1,1 @@
+Snapper is a snapshot management tool for Btrfs subvolumes and LVM thin-provisioned logical volumes. Currently it is only available as a CLI client and a YaST module. The aim of this project is to create a GUI client for snapper and integrate this client with openSUSE desktop environments.

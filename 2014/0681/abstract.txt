@@ -1,0 +1,2 @@
+The goal of this project.
+There are existing implementations of worker interface for Disco. The main one was written in Python, the second I've seen - in OCaml. Because workers are responsible for carrying out the tasks, it may be important for different applications, to write them in more efficient language (Haskell).

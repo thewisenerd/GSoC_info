@@ -1,0 +1,1 @@
+I want to work on the project "Machine readable output from userland utilities". I am going to use the existing libraries (libnv and libucl). In the process I will make some changes to these libraries (like adding XML support to libucl).

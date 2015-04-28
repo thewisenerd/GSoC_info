@@ -1,0 +1,1 @@
+The idea is to create a Docker Addon which will facilitate support for Docker Technologies for Forge users. It aims for provide features like an API to support image and container operations , creation of Docker containers for new projects and a Dockerfile linter all enclosed inside a Forge 2 Addon.

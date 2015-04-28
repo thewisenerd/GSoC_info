@@ -1,0 +1,1 @@
+Proposal for a digiKam KDE project:cloud integration export plugin.Adding export plugins for dropbox and google-drive into digiKam

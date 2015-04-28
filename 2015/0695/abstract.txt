@@ -1,0 +1,3 @@
+The proposal is basically divided into two parts :
+1. Create a safe_html transform for HTML filtering
+2. Improve tinyMCE integration for filtering

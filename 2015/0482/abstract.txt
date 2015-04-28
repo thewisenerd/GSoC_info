@@ -1,0 +1,1 @@
+The goal of this project is to ensure uniform test coverage of all TARDIS methods and functions in the current code especially the C parts and also to make it more modular to accommodate the new Plasma framework.

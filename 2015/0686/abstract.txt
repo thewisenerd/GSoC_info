@@ -1,0 +1,1 @@
+Fitting models to sources in images is at the heart of astronomical research. However, evaluating complex models precisely on large scales is computationally expensive. The primary goals of this project are to 1) Develop a more efficient model rasterization method for Astropy, and 2) Develop a "showcase" web app demo using pyJS9 to interface Astropy with JS9 in the browser.

@@ -1,0 +1,1 @@
+Develop a Java bridge for integrating already implemented Providers in C/C++ using JNA. Implementing major parts of  the ASN.1 parser/encoder in Ruby.

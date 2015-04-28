@@ -1,0 +1,1 @@
+A picture is worth a thousand words. A diagram is sometime worth a ten thousand words [1]. Diagrams, maps, infographics, and other visual structures can provide a helpful overview to website content. MDN will allow Drupal website authors to incorporate different diagrams in their sites to provide different perspectives.

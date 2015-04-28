@@ -1,0 +1,6 @@
+Orange already has a multi-target tree learner, but it is written in python and is therefore slow, especially when used in a random forest. Implementing the multi-target tree learner in C++ would quicken classification considerably and also lower its spatial complexity. The tree learner would be based on the Top-down induction of clustering trees proposed by Blockeel and De Raedt and would extend Orange's SimpleTreeLearner.
+Because tree learning algorithms really come to life inside random forests, integration with Orange's random forest would be another focal point. Orange is progressing towards version 3.0, therefore the implemented code would be integrated with the new version. 
+
+Once the algorithms are implemented and integrated, an experimental study would be performed comparing the implemented multi-target tree classifier with established multi-target classifiers (e.g. PLS, Bayesian classifiers) on benchmark datasets.
+
+Finally, tests, documentation and scripting reference would be written.

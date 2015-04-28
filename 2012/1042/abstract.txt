@@ -1,0 +1,1 @@
+This is almost the continuation of kuxv's work in the GSoC 11, which is quite awesome but left incomplete. I'll work on it, try to make it merged into trunk, and perhaps be ready for 1.9 release. I'm also going to implement a minimal Random Terrain Generator plugin, then demo the Terrain System(TS) with an endless world to show that it can be used in reality now, more or less.

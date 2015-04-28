@@ -1,0 +1,1 @@
+The objective is to develop a way to interface Apertium with chat clients Pidgin and XChat (IRC), so that the users of said clients are able to translate both their messages before sending them and the messages received.

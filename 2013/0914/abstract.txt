@@ -1,0 +1,1 @@
+A new text editor that provides local CRUD and rate/comment support for code snippets. The text editor will fully support JFace Template language, in which the snippets are written, and offer syntax coloring, code completion and a lot of other features that will make snippet editing much easier.

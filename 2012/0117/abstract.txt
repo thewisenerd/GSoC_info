@@ -1,0 +1,1 @@
+Popcorn aims to track the collection of packages and repositories that users have installed on their systems in a central place.

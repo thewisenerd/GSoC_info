@@ -1,0 +1,2 @@
+In Xapian, storing a list( post list ) for a specific term  is an important part.Current approach is not so ideal, so I come up with some ways to improve the encoding of the post list.Linear searching is used in some part of Xapian now, I'm going to replace it with a skip list or hashing.
+Storing a list ( position list ) of the positions where a term appear in a document is also of great importance. I'd like to use dynamic encoding in place of the interpolative encoding.

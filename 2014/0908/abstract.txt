@@ -1,0 +1,1 @@
+To define and add a set of XML APIs for C++ ( like DOM, SAX, XMLReader, etc ) in Boost.XML and make it robust enough to wrap different back-ends. Boost.XML will be extended to work with multiple back-ends to make sure that the API is backend-agnostic.

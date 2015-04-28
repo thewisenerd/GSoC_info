@@ -1,0 +1,11 @@
+This project aims at resolution of some critical bugs and some feature improvements in the Translate extension. These bugs limit the extension’s usability and also make its use inconvenient in a lot of cases.
+
+•Make page title translation optional
+
+•Improvement for core- Inability to set page language while page creation.
+
+•Fix non-updating of translation pages on deletion of translation units
+
+•Redesign of interface of Translate extension
+
+•Adding features to Special:AggregateGroups

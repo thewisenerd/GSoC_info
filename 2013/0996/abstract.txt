@@ -1,0 +1,1 @@
+SimpleCV is great, but could certainly use some more speed in many applications. The idea of this project is to make SimpleCV faster through pythonic code, laziness and parallelism.

@@ -1,0 +1,6 @@
+Abstract Pathfinder is an existing extension of Java Pathfinder (JPF) which allows for different abstractions of numeric types during model checking with JPF.
+In this project, we will build upon it by investigating possible approaches to the use of predicates as a supplementary type of abstraction to what already exist in the Abstract Pathfinder.
+Furthermore, we will implement the chosen approach as a part of the project.
+The solution will address various important features of Java - such as objects, classes, fields, arrays, local variables - and constraints over numeric types.
+
+The overall goal of this project is to enable proper use of predicate abstraction in JPF with a well-defined and complete extension that has its own predicate language.

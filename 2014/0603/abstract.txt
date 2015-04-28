@@ -1,0 +1,1 @@
+Preferred project is implementation of stats and charts, since the target user for TEAMMATES is mainly for instructors, and whilst incorporating multiple/customizable question types for instructors is important, displaying the results in a processed form to aid in its analysis is also a very important aspect for instructors.

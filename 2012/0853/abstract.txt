@@ -1,0 +1,1 @@
+This project uses Google App Script and allow user to connect to database such as MySQL, MS SQL and Oracle database. User will be able to use the GUI and design simple SQL queries to allow retrieval data and export to other Google Spreadsheets.

@@ -1,0 +1,1 @@
+I choosed one of avaiable projects at Mixxx’s ideas page -- “Non-Blocking Database Access”. I have experience in C++ and Qt programming (including programming of databases and threads). Also, I’m a little bit musician, so it is curious to become a part of creative developers team.

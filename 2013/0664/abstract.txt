@@ -1,0 +1,1 @@
+Graphstore is New graph API that is introduced to core graph structure of Gephi. The graph structure is at heart of the Gephi, so it should be robust and require the optimum memory requirement, thus set of well defined benchmarks is needed in order to test the speed of the core and check the various boundary cases.

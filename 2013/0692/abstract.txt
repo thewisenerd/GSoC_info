@@ -1,0 +1,1 @@
+This is a Joomla! CMS and JPlatform project that make a huge difference both for those who want a semantic and accessible site with HTML validated, and for those who want a standard, and an easy way to generate specific semantics to third party sites such as Facebook and Google Rich Snippets.

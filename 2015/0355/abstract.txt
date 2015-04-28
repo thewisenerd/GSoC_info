@@ -1,0 +1,1 @@
+The goal of the project will be to create a module that will accept as input a handwritten equation and return as output the equation in a format understood by GeoGebra software. The output could be the equation in LaTeX and/or MathML format and/or a .ggb file or something else.

@@ -1,0 +1,1 @@
+My proposal includes the current status of Selenium web driver tests of Joomla CMS and my viewpoint of implementation of the project.

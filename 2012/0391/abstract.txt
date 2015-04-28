@@ -1,0 +1,1 @@
+I am going to take the development of prefix support in OpenRC, deploy OpenRC to work with baselayout in Prefix, and extend Prefix with the long-waited feature[1] of services daemons.

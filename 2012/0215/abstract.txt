@@ -1,0 +1,18 @@
+The MAF (Multiple Alignment Format) file format has become popular in
+bioinformatics for representing similarities, in the form of sequence
+alignments, between multiple whole genomes. Such multiple sequence
+alignments enable many kinds of analysis, including examination of the
+phylogenetic relationships between organisms, of conserved regions of
+DNA potentially indicating functionally important sequences, and
+making inferences about genomes by reference to more fully annotated
+genomes (Blankenberg et al., 2011). Although BioRuby supports multiple
+sequence alignments through the bio-alignment gem, it does not
+currently support the MAF format. This project aims to rectify that by
+creating a bio-alignment plugin to provide full MAF support from a
+native BioRuby interface. This is particularly important as MAF files
+can often be in the hundreds of gigabytes and are often queried and
+filtered in a rich way; programmatic access to them is valuable for
+the same reasons programmatic access to databases is
+indispensable. Having native BioRuby support for MAF will thus allow
+use of the sizable BioRuby toolset with this data, and also make
+BioRuby a more viable tool for an important class of problems.

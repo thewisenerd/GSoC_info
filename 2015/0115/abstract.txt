@@ -1,0 +1,3 @@
+When developing any kind of projects, teams seek for the most productive, easy and powerful tools. IDEs like Visual Studio and Qt spread rapidly as a consequence of the easy UI designer provided by them.
+With Kivy, it won't be different. Actually, kivy-designer is still a simple tools, with some bugs and few features, but  it's a really useful tool.
+My task is to improve kivy-designer with new features, integrate it with buildozer, fix some bugs and become the maintainer of the project.

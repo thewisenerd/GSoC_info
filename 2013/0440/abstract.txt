@@ -1,0 +1,1 @@
+Providing update and enhancement to the UbuntuGIS package repositories (stable and unstable) and creating a new Debian repository containing the latest version of the OSGeo softwares (the same concept as what is done by UbuntuGIS, but for the next debian stable release).

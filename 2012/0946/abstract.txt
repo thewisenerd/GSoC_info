@@ -1,0 +1,1 @@
+The current git index is pretty slow when working with large git repositories, because the whole index has to be rewritten for nearly every operation. This problem can be solved by designing a new index format, which will be using a b-tree structure, which will be described in more detail in the proposal.

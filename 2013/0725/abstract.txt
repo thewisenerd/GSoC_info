@@ -1,0 +1,1 @@
+Improve the JavaScript backend for QAST (the intermediate format for both Rakudo and NQP) up to the point where NQP can bootstrap itself using it.

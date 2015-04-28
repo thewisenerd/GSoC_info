@@ -1,0 +1,5 @@
+I'm focused on the computer vision & computer graph in Chinese Academy of Sciences.
+    At the same time I work with a team about 3D Urban Scene Modeling and street view in Shenzhen.
+    My GSoC project is to make the Liquid Galaxy views synchronised with JavaScript ,a js library which can control the slave camera just as the google earth client(which we always set the yawoffset in drive.ini).Surely some websockets are needed .
+    Later We'd get this to some other web application.Maybe ShenZhen(a city of China) street view application.
+    If anyone who are interested in this project and have some ideas about the project.Welcome to chat with me.Hope to be your friend and share with you!

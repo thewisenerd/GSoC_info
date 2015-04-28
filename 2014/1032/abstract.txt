@@ -1,0 +1,5 @@
+PyDy-Viz is a visualization package for managing 3D visualizations of dynamic systems. Currently PyDy relies on external tools for numerical integration. This project aims at providing:
+
+  - A fast javascript based numerical integration module.
+  - Support for IPython and MGView.
+  - Other feature enhancements(support for CAD/blender objects etc.).

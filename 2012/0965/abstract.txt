@@ -1,0 +1,1 @@
+Abiword is a cross platform, light weight text processor. In this project I hope to implement repeating table header, a feature that allows Abiword's Table to repeat a selected row as header on top of each page that the table is broken over. In the event that I finish the project early, I will start work on improving the Table Dialog in Abiword.

@@ -1,0 +1,1 @@
+An implementation of an OGR driver, which intends to operate with networks which are built over the spatial data of different GIS-formats

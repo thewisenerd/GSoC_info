@@ -1,0 +1,1 @@
+I propose to extend the current mcmcse package in R to include multivariate extensions of the batch means, overlapping batch means and spectral variance estimators of the Monte Carlo error. In addition, I propose to add functions to this package that would be able to make use of this joint estimation.

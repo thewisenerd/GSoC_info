@@ -1,0 +1,7 @@
+I will work this summer on finishing integration of Firebird backend 
+
+The main remaining issue is that the firebird data format embedded in the .odb file is endianess-dependent. The idea is to switch to Firebird's "archive" format that is not.
+
+I started by cleaning the previous gerrit and submitting new one
+
+https://wiki.documentfoundation.org/Development/GSoC/Ideas#Finish_Firebird_driver_integration

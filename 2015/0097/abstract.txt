@@ -1,0 +1,1 @@
+My ultimate goal is to implement symbols dependency graph in Rspamd. Currently Rspamd used composites to combine rules and create more complex rules, but it’s not enough. With symbols dependency graph Rspamd will organizing complex rules where the results of top level checks depends on the results of other checks, which could not be implemented by composites only in general.

@@ -1,0 +1,2 @@
+Sometimes because of hardware constraints or user needs it is necessary to convert media to different format for (pre)viewing or use in graphics. My project aims at extending the damn-analyzers and transcoders for different types of media types. 
+Once this feature is added, DAMN-AT can be used for analyzing and trans-coding images to various types of formats. Also, one will be able to generate thumbnails(png/jpeg) from audio, images and video files.

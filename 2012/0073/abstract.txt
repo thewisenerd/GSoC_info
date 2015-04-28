@@ -1,0 +1,4 @@
+There are two features that the plugin would add in zimbra:
+1.There could be an openmeeting conference event in the Zimbra calender. Every person invited to the calender event receives a mail in Zimbra. The email will also be having a link to enter the conference room.
+
+2.A conference invitation could be attached in emails with the link to enter the conference rooms.

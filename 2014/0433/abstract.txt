@@ -1,0 +1,1 @@
+The goal of the project is to improve Android mode of the Processing Development Environment by implementing some important features that will make the process of creating great Android applications with Processing much more easy, smooth and appealing not only for beginners, but also for those having some experience with Processing and Android.

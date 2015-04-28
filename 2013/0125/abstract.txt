@@ -1,0 +1,1 @@
+create a native mobile app to allow the users to access and manage their WordPress-powered blog(s) wherever they want whenever they need, without needing a pc and a browser, but just through their smartphones.

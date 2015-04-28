@@ -1,0 +1,3 @@
+In its current form, mitmproxy is primarily designed to be an HTTP proxy. We want to add support for these in mitmproxy as well! Implement basic support for the HTTP2 and WebSocket protocols in Python and wire them up to mitmdump. We expect you to learn the HTTP2 and WebSocket protocols during the project, knowing their individual details is not a prerequisite. You should, however, be familiar with HTTP.
+
+(adapted from https://honeynet.org/gsoc/ideas#project6)

@@ -1,0 +1,1 @@
+This project aims to add JSON support and multipart form-data support to Axis2/C, while improving the overall REST support for Axis2/C.

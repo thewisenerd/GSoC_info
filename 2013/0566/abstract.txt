@@ -1,0 +1,1 @@
+Currently the share placement algorithm is not designed to meet the criteria established by the "servers of happiness" test. This leads to various issues in which share placement does not satisfy the test even though it is possible to do so. Implementing a new share placement algorithm would fix these types of issues.

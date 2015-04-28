@@ -1,0 +1,1 @@
+I will be writing utilities to exchange data to and from rec format to other database formats. These utilities will preserve data integrity(wherever possible) and will work like the already existing utilities.

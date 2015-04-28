@@ -1,0 +1,1 @@
+As a deliverable for this project is to provide support for OpenGL ES renderer support. This is the first step towards having the CrystalSpace 3D game engine up and running on Mobile Platforms.

@@ -1,0 +1,8 @@
+The project goal to investigate and design a core set of SIMD primitives
+for the MLton compiler. The project would consist of three parts:
+first would be a document outlining a core set of SIMD primitives for
+MLton using the implementation of SIMD operations in other compilers
+(e.g gcc and clang) as a reference. Second would be to implement these
+primitives using x86-64(AMD 64) instructions, specifically sse
+instructions. Last would be to develop an sml library to make these
+primitives available to the programmer.

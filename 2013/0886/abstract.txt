@@ -1,0 +1,2 @@
+My goal is to implement an old idea which seems to be quiet usefull and improving - New From Template from inkscape https://blueprints.launchpad.net/inkscape/+spec/new-from-3.template-dialog
+http://wiki.inkscape.org/wiki/index.php/NewFromTemplateSpec

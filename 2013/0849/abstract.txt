@@ -1,0 +1,1 @@
+openvswitch support shall be integrated in Ganeti to allow more scalable and autoconfigurable networking for the virtual instances, also including clustering.

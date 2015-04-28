@@ -1,0 +1,3 @@
+Work with the GNOME Design Team and Seif Lotfy on GNOME Clock, in order to provide the GNOME community with a clock application.
+
+GNOME Clock will allow users to quickly and easily determine the time of day anywhere in the world, helping them keep in touch with family, friends and co-workers. GNOME Clock will also allow users to set alarms so that when time X rolls around they know they need to do Y. A stopwatch/timer will also be included so that users can time themselves and/or others as needed.

@@ -1,0 +1,1 @@
+I plan to implement the current command-line version of the AfterGlow script as a service on the web. The web service would enable users to run and generate a visual view of a graph based on the CSV files and configurations given by the end user.

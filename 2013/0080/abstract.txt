@@ -1,0 +1,1 @@
+In this project, we will modify OWTF to use multiprocessing while scanning multiple URLs which is presently done sequentially (one after another). This will improve efficiency while scanning multiple URLs.

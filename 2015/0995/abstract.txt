@@ -1,0 +1,5 @@
+KSystemLog is a tool for viewing log files.
+It can display system logs, kernel logs as well as logs from various software, such as Apache, Cups, Samba, and others.
+Traditionally system logs were written to /var/log/syslog, but in a past few years many Linux distributions have switched to systemd.
+Systemd provides journald [1] - a component which manages system logs.
+The goal of the project is to port KSystemLog to KDE 5 frameworks and add the support for reading journald logs to KSystemLog.

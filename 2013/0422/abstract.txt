@@ -1,0 +1,1 @@
+Provide filesystems with an interface to indicate sparse regions of files, avoiding the overhead of copying around known zeros and wasting memory in the page cache representing them.

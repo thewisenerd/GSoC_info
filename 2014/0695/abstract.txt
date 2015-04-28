@@ -1,0 +1,1 @@
+This is a proposal for TimVideos for GSoC 2014. This proposal is centered around the 'Dockerization' of Flumotion allowing for quick and portable deployments of the TimVideos streaming system. Following completion of Dockerizing the streaming system, work will begin on an automated build tool based on the newly Docker'd components.

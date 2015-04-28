@@ -1,0 +1,1 @@
+This project aims to bring Karma extension into functional state. The idea behind this extension is to add a way for users to publically add positive and negative feedback about a user based on its contribution to community, like, posts, topics, messages, etc.

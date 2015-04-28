@@ -1,0 +1,1 @@
+The main project idea is to utilize the parallel processing capabilities of modern GPU devices for the modeling of biological neuronal systems by implementing a OpenCL-based simulation framework based on the Hodgkin-Huxley model.

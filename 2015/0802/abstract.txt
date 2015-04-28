@@ -1,0 +1,3 @@
+ScribeUI is a cloud-based and open-source Mapfile editing utility for MapServer. Its goal is to simplify the creation and edition of Mapserver maps with a custom syntax and a visual interface. Its use of variables and layer ranges allow the users to make maps more efficiently than by writing regular Mapfiles by hand.
+
+My objectives for this summer are to improve the error detection of ScribeUI, add the ability on import and export workspaces and add class generation from a set of data.

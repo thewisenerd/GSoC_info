@@ -1,0 +1,1 @@
+My proposal is to port plasmate into kdevplatform in order plasmate to take some of kdevplatform's features and also to make some of the plasma tools(like plasmoidviewer) as kdevplatform plugins which will be possible to use them from kdevelop.

@@ -1,0 +1,1 @@
+My project aims to provide two main advantages to the community: the optimization that this project will yield to the TinyGL runtime will allow more users to have access to the engine and it will also give a better user experience to all those people that are already making use of the software renderer by giving a more stable frame rate of execution.

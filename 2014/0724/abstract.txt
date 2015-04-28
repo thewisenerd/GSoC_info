@@ -1,0 +1,1 @@
+Improve the AI of four-in-a-row game an port it to Vala. The project aims to make the game more accessible for its audience and porting should make future maintenance easier.

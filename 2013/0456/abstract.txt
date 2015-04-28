@@ -1,0 +1,1 @@
+This project will enable a production print workflow suitable for graphics professionals, as well as providing test facilities for Gutenprint printer driver developers. It will do this by extending the CUPS web interface and modifying its handling of PPD (PostScript Printer Description) files.

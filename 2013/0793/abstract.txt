@@ -1,0 +1,1 @@
+Apache OODT has a component called File Manager that stores files and associated metadata.  The CAS-Product web application, another component of OODT, provides a RESTful interface for accessing data from the File Manager.  The goal of this project is to use JAX-RS to implement a more powerful and extensible RESTful service for the CAS-Product web application.

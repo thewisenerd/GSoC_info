@@ -1,0 +1,1 @@
+I propose to implement an LDAP front-end web interface that will allow Gentoo developers and users to configure easily their attributes from Gentoo’s LDAP server. This project is based on a previous GSoC project codenamed ‘Okupy’, which is an LDAP authentication web UI. The web application will be for general usage and not only for LDAP administrators or system admins.

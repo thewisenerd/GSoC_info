@@ -1,0 +1,1 @@
+The primary target of this project is to enable Automake-generated Makefiles to exploit more features of GNU make.  This project plans to build upon the already existing (but still in its early infancy) "Automake-NG" fork of Automake, which generates Makefiles targeted to GNU make only.

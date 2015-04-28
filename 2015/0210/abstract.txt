@@ -1,0 +1,1 @@
+This project will add the use of GRAPH inside a CONSTRUCT template, so that it can generates quads or RDF datasets from a CONSTRUCT query, inspired by the Jena JIRA issue: https://issues.apache.org/jira/browse/JENA-491

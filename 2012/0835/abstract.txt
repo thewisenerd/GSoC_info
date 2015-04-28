@@ -1,0 +1,1 @@
+I will attempt to implement a generic method of path-finding within the PySoy framework allowing one to simply give a Body a start and end point and know that the Body will find its way there along a reasonably optimal path.

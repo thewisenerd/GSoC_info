@@ -1,0 +1,1 @@
+This proposal bring up ideas to tackle some existing security defaults for Rails.

@@ -1,0 +1,4 @@
+Snipmatch (Code Recommenders incubator project) allows developers to search for code snippets. 
+In the future Snipmatch would also like to help developers to share their knowledge and benefit themselves from the knowledge of others in form of code snippets.
+Alas, the current implementation has some restrictions in relation to the sharing aspect. 
+The goal is to improve Snipmatch to provide a powerful snippet sharing infrastructure to inspire people to share their snippets with the world.

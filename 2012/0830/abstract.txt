@@ -1,0 +1,5 @@
+The project aims to build 
+
+1. A language plugin which can parse a schematic file produced by gschem(gEDA) software and produce a netlist.
+
+2. A plugin to build schematic from netlist

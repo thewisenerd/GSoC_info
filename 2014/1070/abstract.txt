@@ -1,0 +1,1 @@
+The project idea is using the pictures shot by a smart device to construct a map of an indoor environment, by the extraction of landmarks from pictures using geometrical primitives.

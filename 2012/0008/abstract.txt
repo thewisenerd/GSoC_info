@@ -1,0 +1,3 @@
+FBX is a powerful file format most commonly used to interchange data between Autodesk (tm) products. With its highly-developed pipeline it offers a very efficient way of dealing with scene data, unfortunately, being proprietary to Autodesk and by design accessible only by a SDK, support in the Open Source world is rare.
+
+My proposal is to implement a FBX importer for the Open Asset Import Library (assimp) and to embed assimp into Blender, which will ultimatively give Blender FBX import support.

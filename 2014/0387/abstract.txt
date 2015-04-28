@@ -1,0 +1,2 @@
+nftables framework provides compatibility layers for existing {ip, ip6, arp} firewall tools.
+ebtables compatibility layer is missing yet, and the goal of this task is to implement it.

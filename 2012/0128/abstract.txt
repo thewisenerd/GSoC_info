@@ -1,0 +1,1 @@
+Least-squares spectral analysis is a method of fitting frequency data to a set of sinusoidal functions, similar to Fourier series; unlike Fourier series, though, LSSA minimizes extraneous long-period terms that can creep into a Fourier analysis. This is a powerful tool that should be added to Octave (thus its presence on the wishlist.)

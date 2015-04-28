@@ -1,0 +1,1 @@
+I would expand the functionality of AutoDJ to include beatmatching.  This would begin as simple beatmatching that would utilize the sync functionality that Mixxx already has.  Additional work could be done to optimize the beatmatching to utilize the users' cue points, match the beginning and end of songs, sync the beats of the song, etc.

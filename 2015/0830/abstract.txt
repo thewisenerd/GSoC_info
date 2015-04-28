@@ -1,0 +1,1 @@
+Goal of project — improve existing implementation of ICF+WaldBoost detector in terms of quality and speed.

@@ -1,0 +1,1 @@
+This project aims at creating a new infrastructure to provide people with an easy way to contribute custom extractors to dbpedia

@@ -1,0 +1,1 @@
+Add an advanced layer system to PiTiVi. This includes user-Interface work which adds more abilities to layers and improves layer-handling as well as the according backend changes in the GES library.

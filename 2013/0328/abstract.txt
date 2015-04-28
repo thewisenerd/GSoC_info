@@ -1,0 +1,3 @@
+Among the possible projects proposed 
+http://wiki.octave.org/GSoC_Project_Ideas
+I would like to develop the "General purpose Finite Element library"

@@ -1,0 +1,3 @@
+Twisted applies certain naming and style standards to all contributed code. Currently, a human reviewer needs to check all of these things.
+
+The purpose of this projects is to develop a tool which can automatically make these simple, mechanical checks, freeing up human reviewer time to focus on more important aspects of proposed changes. Finally, it will speed up the review process.

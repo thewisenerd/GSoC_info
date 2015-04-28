@@ -1,0 +1,1 @@
+D3DRM (Direct3D Retained Mode) is mostly a stub in wine. Some functionality has been previously implemented, but it still can't actually render something on the screen. This proposal focuses on getting the rendering backend to work as far as possible for enabling wine to actually draw stuff using D3DRM objects.

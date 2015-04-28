@@ -1,0 +1,6 @@
+Google's Kubernetes is an open source system for managing containerized applications. Kubernetes currently uses a proxy to route between services consisting of a tcp/udp proxy in go along with some iptables rules.
+
+Ideally where possible we can improve performance by using iptables to perform transparent routing in place of the userspace proxy. See: https://github.com/GoogleCloudPlatform/kubernetes/issues/3760
+I'm also interested in adding pf support for OSX/BSD.
+
+Markdown Proposal Link:

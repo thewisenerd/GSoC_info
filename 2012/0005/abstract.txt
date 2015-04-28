@@ -1,0 +1,5 @@
+The aim of the project is to add new functionality to R, described in the "Portfolio Performance Measurement and Benchmarking" book by J. Christopherson, D. Carino, W. Ferson. This will involve adding new functions to the existing R packages (PerformanceAnalytics, Blotter). Some functionality have already been implemented to some extent, while other (Performance Attribution) is not available in any existing R packages.
+The following Directions of works are suggested:
+1. Performance attribution: Ch. 14-19 (Carino, 2009), Ch. 5-10 (Bacon, 2008)
+2. Calculation of returns: Ch. 3-5 (Carino, 2009), Ch. 3 (Bacon, 2008)
+3. Return and risk metrics: Ch.10, 12, 13 (Carino, 2009), Ch. 4 (Bacon, 2008)

@@ -1,0 +1,1 @@
+Implement a netgraph node that connects to a netgraph kernel socket node and a netgraph interface node and understands enough of the AYIYA protocol to pass packets back and forth. Use a control connection to user space to handle all other signalling. Adjust the sixxs-aiccu implementation and add the netgraph implementation as an option for the FreeBSD port.

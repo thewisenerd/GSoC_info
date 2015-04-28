@@ -1,0 +1,1 @@
+Most of the Ruby libraries are only available as C extensions, which made them not usable for users who are using JRuby. One such a library is oj (Optimizad JSON). In this project I am planning to port this module which is currently only available for the users of JRuby C compiler for the use in JRuby.

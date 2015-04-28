@@ -1,0 +1,1 @@
+The goal of this project is to bring three Turkic-Turkic translation systems (Turkish-Kyrgyz, Kazakh-Kyrgyz, and Turkish-Uzbek) to production quality.  These pairs are currently in Apertium's nursery, and need varying amounts of attention in order to function as intended.

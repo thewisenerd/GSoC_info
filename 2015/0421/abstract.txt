@@ -1,0 +1,7 @@
+An operation is classified as redundant if it is either 
+1) unneeded thus can be simply omitted without changing the program's output; 
+or 2) repeated, which means the result of it is the same as a former run. 
+The prevalent existence of these redundancies is a main cause of performance bugs.
+I intend to detect them by 
+1) identifying the redundant operations on instruction granularity with LLVM; 
+and then 2) aggregating them into high-level blocks that worth fixing.

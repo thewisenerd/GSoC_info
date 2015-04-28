@@ -1,0 +1,5 @@
+GTFS-Realtime is one of the leading open standards for transmitting real time transit data.  But currently there are no open source validation tools for these feeds. 
+
+The goal of the project is to develop an extensible GTFS-Realtime validator that is self contained. This can be used in the Open Trip Planner project as well as other projects using the feed format. 
+
+The validation tool will take in a GTFS and GTFS-rt feeds as input and monitor and log errors and warnings on the said feeds.

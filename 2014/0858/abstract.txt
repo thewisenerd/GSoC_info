@@ -1,0 +1,5 @@
+Summary: Make TianoCore / OVMF support boot.efi for an out-of-the-box boot experience of Mac OS X
+
+The only way today to boot Mac OS X inside of QEMU / KVM is to go through a hacked up version of Apple's legacy BIOS boot loader. 
+
+The goal of this project is to first add HFS+ support to TianoCore. Once that is implemented there are more features that may need to be added to TianoCore to make OSX a first class citizen to QEMU / KVM.

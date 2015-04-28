@@ -1,0 +1,3 @@
+VexFlow is an open source JavaScript library to render Common Western Music Notation (CMN) in an HTML5 canvas. MEI to VexFlow is a JavaScript program that interfaces with VexFlow to render music notation expressed in the MEI format. The Music Encoding Initiative (MEI) is a community-driven effort to create a commonly-accepted, digital, symbolic representation of music notation documents. 
+
+My goal is to boost the MEI to VexFlow library's capabilities in order to support MEI variant handling. Variant handling in music editing is a substantial problem for the digital editing, musicological and performing musician community.

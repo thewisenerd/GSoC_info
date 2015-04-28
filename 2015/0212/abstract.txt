@@ -1,0 +1,1 @@
+QEMU currently fails to boot Mac OS 9 on an emulated PowerPC processor. I propose to add support for OS 9 to QEMU by fixing any existing issues with OpenBIOS and then modifying QEMU/KVM as necessary to support the Mac NewWorld architecture.

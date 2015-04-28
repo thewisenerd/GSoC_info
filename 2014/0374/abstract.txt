@@ -1,0 +1,1 @@
+The aim of this project is to improve Cytoscape.js network analysis capabilities, by implementing and integrating several graph algorithms.

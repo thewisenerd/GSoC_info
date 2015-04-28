@@ -1,0 +1,6 @@
+My proposition as one of the active developers of PyWPS 4, an Python implementation of the Web Processing Service standard, is the implementation of a REST interface allowing for example the following but not limited to: 
+
+* The ability for configuration of PyWPS and controlling of running processes 
+* Getting a list of running processes 
+* Possibility to pause/kill/resume running processes
+* Import new processes into existing instances.

@@ -1,0 +1,1 @@
+Practical implementation of a few heuristics minimizing the number of edge crossings in planar representation of hierarchical graph that can be used in the Sugiyama framework for drawing such graphs.

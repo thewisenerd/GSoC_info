@@ -1,0 +1,2 @@
+The idea is to implement a new MySQL destination
+driver for syslog-ng, which does not have the limitations of the libdbi-based solution, is more flexible, and performs much better in high message rate situations.

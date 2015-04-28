@@ -1,0 +1,1 @@
+The goal is to incorporate a GPU accelerated compression/decompression of JPEG2000 stream in GDCM. Along with the massively parallel architecture like GPU, the SIMD functionality of the multi-core CPUs (MMX, PThreads or OpenMP) can also be used for acceleration.

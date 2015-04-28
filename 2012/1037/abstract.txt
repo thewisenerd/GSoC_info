@@ -1,0 +1,1 @@
+Implementing an extensible library for translating locale files of different formats, creating plugins for Mozilla DTD and properties translation files for this library, and integrating it in an existing translation application like Lokalize

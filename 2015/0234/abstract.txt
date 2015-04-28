@@ -1,0 +1,2 @@
+GNU Lilypond has been a part of the GNU project since 1996 and has provided users with free rights to text-based music engraving software. 
+The aim of this project is to provide a functional MusicXML export option for GNU Lilypond users. MusicXML is a standard music notation format which allows digitally-engraved music to be converted between different notation software.

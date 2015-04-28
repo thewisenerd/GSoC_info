@@ -1,0 +1,3 @@
+This project is based on the project idea to introduce GStreamer 1.0 support into the MATE desktop environment in order to replace dependency on the deprecated GStreamer 0.10 library.
+
+As port to the current GStreamer 1.0 is not feasible due to removed functionality, this project is based on an alternative approach to develop a new library abstracting access to lower level libraries that provide equivalent functionality supported on modern desktop Linux/UNIX operating systems.

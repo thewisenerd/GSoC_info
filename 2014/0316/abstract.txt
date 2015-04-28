@@ -1,0 +1,9 @@
+I will talk about my past, a quick brief on the work experience and give an overview of the projects I was involved on and languages and methodologies I am proficient with.
+Then I will go and talk about the issue management integration.
+I will implement features like:
+> Fetching all issues from GitHub
+> Filtering issues
+> Creating new issues
+> Closing issues
+> Reassigning issues
+and a few more features disclosed in the proposal.

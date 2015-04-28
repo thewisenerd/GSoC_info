@@ -1,0 +1,2 @@
+Universal Content Providers internally provide access to various data sources. This project involves coding a new UCP(Java UNO Component) to provide access to files stored in file system of OASIS standard Content Management System using the Apache CheMIStry(OpenCMIS) client libraries.
+Also a new sidebar panel to support the functions implemented from CMIS is to be created.

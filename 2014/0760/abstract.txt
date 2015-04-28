@@ -1,0 +1,1 @@
+The goal is to implement microdata semantics in the CMS (using the JMicrodata library). Also find a solution and create a RDFa library, so that you can choose the semantics to display (Microdata or RDFa). If possible create a plugin for the Content Editor that allows adding microdata semantics in the body text of an article.

@@ -1,0 +1,1 @@
+GlusterFS is an open source distributed file system  that uses FUSE. It has been used in many different scenarios such as cloud computing. The code of Glusterfs relies a lot on Linux semantics, and now it's becoming usable on NetBSD since NetBSD 6.0.  Right now, GlusterFS won't compile on FreeBSD. In this project, I'll port GlusterFS and make it fully work on FreeBSD.

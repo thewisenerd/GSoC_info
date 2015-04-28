@@ -1,0 +1,1 @@
+Project aims to completely refactor and upgrade the current test suite of jQuery Mobile so as to ensure maximum coverage on all the supported platforms. During the project, we will test various testing libraries primarily Intern to improve current tests and ensure best quality code.

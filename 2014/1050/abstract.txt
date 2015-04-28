@@ -1,0 +1,5 @@
+Managing date and time is not simple and many of us, developers, don't like to do it.
+Unfortunatelly we need this in almost any application. To be honest, I can't imagine an
+application that does not use date or time in some point.
+The goal of this project is to make it more simple and more intuitive. The result would be
+writing less code by developers.

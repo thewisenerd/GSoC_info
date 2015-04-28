@@ -1,0 +1,4 @@
+I am planning the following converter extensions:
+As Scratch projects are generally in the landscape format, while with mobile phones a portrait mode is encouraged, currently half of the screen is unused with converted Scratch projects.
+Further Scratch features I am planning to implement are variables and formula elements. Supporting those would greatly increase the number of Scratch projects suitable for converting.
+The priority of other open Scratch features is best discussed in the team.

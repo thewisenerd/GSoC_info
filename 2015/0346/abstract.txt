@@ -1,0 +1,3 @@
+Currently, the open source GNSS-SDR is completely operational with GPS L1-C/A, Galileo E1 and E5a signals.
+To go towards an effective multi-constellation software defined receiver, GNSS-SDR extension to the Chinese Navigation Satellite System (BeiDou) is proposed.
+Hence, the aim of this project is to review and extend the functionality of the signal generator and signal acquisition of GNSS-SDR, implemented in C++ for the GPS and Galileo Signals, for BeiDou open service signals (B1l).

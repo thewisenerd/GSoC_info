@@ -1,0 +1,3 @@
+Currently, wxGraphicsContext is implemented using GDI+ under Windows. GDI+ seems, unfortunately, to be abandoned by Microsoft and has a lot of problems including generally very poor performance and horrible text rendering, especially at small font sizes.
+
+Since Windows 7 (and Vista with updates installed) another solution is available: Direct2D. This project would consist of implementing a new wxGraphicsContext backend using this new API, and its companion DirectWrite for the text output.

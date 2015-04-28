@@ -1,0 +1,1 @@
+Celluloid is an Actor based concurrent system, which you can use in your project to do concurrent tasks. When the system become more complex the potential of happening deadlock increases. My task for the GSoc period is to create a deadlock detector to handle when a deadlock happens.

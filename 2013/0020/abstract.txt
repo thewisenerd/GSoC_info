@@ -1,0 +1,7 @@
+Brian is a simulator for spiking neural networks, written in Python. The 2.0 version (currently in development) uses a hybrid programming language approach: The models and the simulation script are written in Python but the code in each simulation timestep is executed in generated code (for example in C++). Mobile devices such as Android phones have powerful processing units and versatile sensors, making them useful as a "brain" in robotics applications. Being able to run a Brian script on an Android phone would therefore be a useful testbed for neural models in a "real life" setting. The aims of this project are the following:
+
+- Write a conversion tool to convert a Brian simulation to a standalone Java program that runs on Android (making use of Brian's existing code generation facilities).
+- Add features to Brian that allow real-time simulation (e.g. dynamically adapt the simulation time step if the simulation is running too slow)
+- Access the phone's sensors (e.g. the microphone) and use them in the simulation in real time.
+
+The end result should be code with the above functionality and a working prototype for a neural model running on Android (for example, the so-called Licklider model of pitch recognition, using the phone's microphone as input). The student working on this project needs to have access to an Android phone.

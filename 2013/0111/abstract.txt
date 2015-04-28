@@ -1,0 +1,1 @@
+NTP has a unit test framework by a former GSoC student, using googletest. There are still many codes that are not covered by this framework. This project writes unit tests for those codes.

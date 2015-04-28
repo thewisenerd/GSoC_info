@@ -1,0 +1,1 @@
+Extend the Eclipse Code Recommenders project by a specific dialog, which shows user specific statistics how they use the Eclipse code completion. This data will be graphical presented in an own dialog. Eclipse developers thus have the possibility to see how effectively they work every day with their IDE.  

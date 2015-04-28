@@ -1,0 +1,1 @@
+Rewrite the testing environment for Wget in Python. This is required since although Perl is a powerful language, it's syntax is quite non-intuitive to the C Programmers who write code for Wget.

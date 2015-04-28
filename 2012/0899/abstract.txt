@@ -1,0 +1,1 @@
+Will add key-value store technology package to Duda, the web services framework for Monkey using Redis and Memcached client APIs

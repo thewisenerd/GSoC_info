@@ -1,0 +1,5 @@
+The goal of the project was to integrate a Worflow engine in Joomla.
+
+Then we figured out it was better to rewrite the foundations of a new one.
+
+After researches, the project became Petri Net API and consisted in implementing a Petri Net abstraction to become the base of a new Workflow engine.

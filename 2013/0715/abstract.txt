@@ -1,0 +1,1 @@
+The project includes SMB3 durable handle and leases features implementation that lets the client restore states of open files on reconnects and use a local cache for file operations.

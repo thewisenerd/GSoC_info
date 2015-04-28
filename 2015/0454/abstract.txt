@@ -1,0 +1,1 @@
+TISEAN is a suite of code for nonlinear time series analysis. It is old but there are many algorithms there that haven't been re-implemented as libre software. The objective is to integrate TISEAN as a octave package as it was done for the Control package. The functions cuould be integrated in the existing time series analysis package

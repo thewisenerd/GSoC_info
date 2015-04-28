@@ -1,0 +1,1 @@
+The objective this project is to decouple the scripting language from the loader making it modular. Then add support for Lua scripts and incrementally add loader features to Lua.

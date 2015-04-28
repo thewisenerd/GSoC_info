@@ -1,0 +1,1 @@
+The objective of this project is to finally deliver a program able to read a IPFW firewalling rules, and deliver a KLD for the FreeBSD kernel to provide with in-kernel filtering. Also, by the comments, the future work could be changed.

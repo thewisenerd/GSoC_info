@@ -1,0 +1,1 @@
+This project aims at wrapping BRLCAD primitives in python. Python-BRLCAD is an ongoing effort to wrap BRLCAD primitives into python. Further this project will follow an agile methodology of wrapping the primitives with tests and examples.

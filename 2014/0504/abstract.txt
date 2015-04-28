@@ -1,0 +1,1 @@
+The goal of this project is to port the most current stable LWIP (Lightweight Internet Protocol) release to the most current RTEMS development version. The current stable release of LWIP is 1.4.1 and the current RTEMS development version is 4.11.

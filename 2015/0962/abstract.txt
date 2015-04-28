@@ -1,0 +1,2 @@
+Create a testing environment/library for Clojure-Android projects that leverages commonly used Android testing solutions and integrates with existing Clojure testing frameworks. The testing enviroment has to be capable of running tests without device or emulator. Provide test coverage for existing Clojure-Android build tool and toolkit libraries.
+Mentor: Daniel Solano Gómez

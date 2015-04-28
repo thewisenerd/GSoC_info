@@ -1,0 +1,1 @@
+Describes my plans for adding support for Wacom tablets and digitizers to Wayland by modifying libinput, along with a biography of myself and my programming experience.

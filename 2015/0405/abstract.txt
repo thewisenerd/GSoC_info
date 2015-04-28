@@ -1,0 +1,2 @@
+This proposal emphasizes some representative feature requests on b.p.o. We categorize the features into four sets, namely patch, workflow, ui and cli. For each set, a week-based iterative development strategy is introduced to ensure the work progress.
+In the long term, this proposal will not only save the community an incalculable amout of time, but also encourage more and more developers to contribute to CPython due to the ease of development cycle.

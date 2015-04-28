@@ -1,0 +1,6 @@
+Goal of this project will be do provide aerospace blockset for Xcos. My contribution would focus on allowing users to easily model behavior of spacecrafts: their trajectories, maneuvers and attitude dynamics. To provide a comprehensive and structured set of blocks, block set should contain few essential libraries:
+
+- Guidance, Navigation and Control library 
+- Equation of motion library
+- Environment conditions library 
+- Utilities library

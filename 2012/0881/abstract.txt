@@ -1,0 +1,1 @@
+This project aims to provide basic GUI integration and user feedback for device discovery events, through the Desktop Notification specification.

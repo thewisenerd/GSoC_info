@@ -1,0 +1,1 @@
+The goal of the project is to separate the built-in editor in Parley into a library and/or plugin and make it available for other applications. This editor library should be made flexible and configurable so that applications with different needs could create an editor which supports the level of sophistication that suits that application best.

@@ -1,0 +1,1 @@
+Annotations are a very useful feature on pdf readers, but the way they are implemented in evince is far from ideal. With this project I expect to be able to fix its main problems and provide annotations in a user-friendly way.

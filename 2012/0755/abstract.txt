@@ -1,0 +1,1 @@
+JtR is a good tool for password recovering. GPU helps accelerating hashes on it. However, fast hashes(hashes with only 1 iteration) have bottle neck on password generation and comparison. Also, moving password to GPU takes a lots of time. In this summer, I will working on this bottle neck to deliver really fast "fast hashes" on GPU.

@@ -1,0 +1,1 @@
+Currently in libgweather,  the suggestions list of locations in location-entry box totally depends on static database of locations. The idea is to reduce dependency on static database and expand the range of cities available in suggestion list of location-entry.

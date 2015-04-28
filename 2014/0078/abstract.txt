@@ -1,0 +1,1 @@
+Kawa is an implementation of Scheme for the Java platform. Kawa has case constructs implemented as Scheme macros. I would like to implement them at a lower level (i.e. using Java bytecode), to take advantage of Java switch implementation. This can be done with a new class extending Expression, compiling it using the existing gnu.bytecode framework.

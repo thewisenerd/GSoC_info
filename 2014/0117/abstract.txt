@@ -1,0 +1,3 @@
+The proposal has two facets; first, we plan to implement wireless digital audio player synchronisation leveraging gnome's bluetooth support to provide users with seamless integration of their device and desktop environment. 
+
+The second is to ensure that users of ubiquitous Android devices enjoy an experience free from drama, as most recent Android versions preferrably connect via Media Transfer Protocol.

@@ -1,0 +1,1 @@
+Due to the hassle of trying to maintain multiple build systems for a variety of platforms, SDL 2.0 needs a singular build system which can target multiple platforms simultaneously, thus significantly improving maintainability and minimizing potential inconsistencies across multiple build systems.

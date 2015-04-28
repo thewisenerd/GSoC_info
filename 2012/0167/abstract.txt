@@ -1,0 +1,3 @@
+This project aims to build a translator of spatial queries into MapReduce applications, extending the YSmart project.
+The translator extends YSmart by adding spatial features both in the grammar YSmart.g and in the XML2MapReduce Python code. 
+Besides the inclusion of spatial features in the existent code to support spatial and integrated queries, the project aims at providing optimisation of MapReduce generated jobs, through correlation analysis.

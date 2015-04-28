@@ -1,0 +1,1 @@
+For a wireless community network it would be useful having the possibility of configure, manage and monitor antennas' activity directly from a unique web page. So we want to add features both to OpenWrt and to a web management system: NodeShot.

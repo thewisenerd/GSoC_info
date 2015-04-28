@@ -1,0 +1,1 @@
+The goal is to create an application for cytoscape 3.0 implementing the HyperModules algorithm for local network graph search designed by Bader and Riemand, and to test the newly implemented algorithm on new data sets to discover new correlated subnetworks of protein interactions.

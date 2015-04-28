@@ -1,0 +1,1 @@
+Kura is a Java and OSGi based application framework for IoT/M2M service gateways. Kura currently leverages the Eclipse Equinox OSGi framework for its runtime. The goal of this project is to port Kura over Eclipse Concierge, an implementation of the OSGi core specifications that is well suited for embedded and mobile devices.

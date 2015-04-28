@@ -1,0 +1,1 @@
+The projects aims at implementation of Stereo Vision package and building basic extensions (Solving Tickets) in SimpleCV. Project is planned to be developed on Python programming language. Stereo Vision is a way of getting depth(3D) information of a scene from two or more 2D Images.

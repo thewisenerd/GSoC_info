@@ -1,0 +1,3 @@
+FreeBSD has an implementation of the UDF filesystem but it is not the latest version and doesn't support many features from newer UDF revisions (>=2.01), such as Metadata Partition or Pseudo OverWrite method. Support UDF is also readonly. 
+    NetBSD implementation by Reinoud Zandijk supports most of new UDF features and has write support too.
+    First of all I will support new revisions only for reading and subsequently write support.

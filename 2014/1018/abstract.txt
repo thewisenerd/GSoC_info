@@ -1,0 +1,1 @@
+At this moment Finagle supports many protocols in a fully async way. However, there is still no async email support, which leads to using blocking Java libraries like javamail and decreases efficiency. My proposal is to implement asynchronous SMTP client that would allow finagle users to build apps that can send email without blocking, which would benefit Finagle in a whole.

@@ -1,0 +1,7 @@
+The main goal of the project is:
+To add the Text to speech API in Firefox browser for the desktop OSes.
+
+Current status is that, we have speech synthesis service working with pico on gonk.
+The project aims to extend it to have speech synthesis supported on Firefox for desktop OSs as well. 
+
+In the process of speech generation on different platforms, the idea is to communicate with the platform speech services, so that we don’t have to care about the engines that are being used.

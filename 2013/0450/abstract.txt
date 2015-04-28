@@ -1,0 +1,2 @@
+Capsicum is a fine grained capability framework for unix systems. It can be use to sandbox applications by restructing their access to various global 
+namespaces. Capsicum is currently implemented in FreeBSD kernel. The goal of this proposal is to add capsicum support to the DragoFlyBSD kernel

@@ -1,0 +1,1 @@
+Creating a standalone addin based on the current C/C++ addin, adding support for Windows using mingw32 gcc, better auto-completion using libclang, and code refactoring.

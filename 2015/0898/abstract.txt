@@ -1,0 +1,2 @@
+Currently, there is no tool for game designers to quickly and easily model objects for a PySoy based game other than having to explicitly code them. 
+The goal is to use Blender, a famous opensource 3D modelling software which is easy to learn and use, to provide game designers the ease to model their objects and add functionalities. While, a plugin will render it using PySoy in real-time to generate code based on PySoy API for the created model which can be later edited or modified.

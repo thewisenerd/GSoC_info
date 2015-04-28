@@ -1,0 +1,2 @@
+The project aimed to create a prototype library for Kinect hand tracking as a part of Open Source Computer Vision Library(OpenCV).
+Kinect is a novel camera device, combining normal stereo camera with IR camera to acquire depth information. Depth information provided by the camera can significantly simplify tracking tasks. In general, 3D cameras have become available to broad public only recently, and therefore there is a great need in relevant software and algorithms to make use of all advantages it brings.

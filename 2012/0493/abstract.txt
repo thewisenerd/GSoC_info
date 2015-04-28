@@ -1,0 +1,1 @@
+The goal of this project is to allow savvy users to be able to voluntarily specify their own CSP policies for websites that have not implemented CSP policies.

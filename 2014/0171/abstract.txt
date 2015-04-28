@@ -1,0 +1,1 @@
+In this project, we will implement fast, accurate calculations of certain generalized hypergeometric functions and establish convergent parameter ranges for these. We will write them with generic templates, as is suitable for Boost.Math.

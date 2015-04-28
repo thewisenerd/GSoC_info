@@ -1,0 +1,5 @@
+Drupal Commerce is used to build eCommerce websites and applications of all sizes. It was built with a framework mindset, focusing what you can build with it.
+
+The project is currently maintained by Ryan Szrama and the Commerce Guys.
+
+The goal of this project is to develop a complementary module that integrates with Commerce and that offers Sales statistics. The module would be heavily backed by Views and it would get released simultaneously with the 2.x branch of Commerce Kickstart.

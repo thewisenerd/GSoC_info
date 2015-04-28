@@ -1,0 +1,1 @@
+The project idea is having an application, similar to Google Hangouts, that offers the possibility to display, on different screens, the participants of the video conference (one per screen). I think this project would be useful for video conferences and meetings because it will be easy to use and configure(no plugin required).

@@ -1,0 +1,1 @@
+There are many Nmap bugs and desired features which are quite important but take much less than a whole summer to implement.

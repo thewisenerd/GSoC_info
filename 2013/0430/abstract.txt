@@ -1,0 +1,1 @@
+Create a new NetworkManager applet for Plasma active including a setting module for creating and configuring connections. Both parts will be optimized for touchscreen devices.

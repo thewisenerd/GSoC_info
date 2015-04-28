@@ -1,0 +1,1 @@
+This project will involve the development of a web-based tool, using the R web framework package Shiny, which will provide users with an simple interface for analyzing gene expression datasets from the Gene Expression Omnibus (GEO; http://www.ncbi.nlm.nih.gov/geo/) therefore making statistical computing and data visualization more accessible.

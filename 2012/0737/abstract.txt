@@ -1,0 +1,5 @@
+I am a college student, doing my major in Mathematics. I love web development and coding in php. With Gsoc, I expect to learn a lot, gain knowledge, find people with similar ideas, the list is endless. 
+
+My Project is to create an openSRF and Evergreen Client in php. Understanding the code for the client in C and java will help me code in php. The client will support all the functions as it currently does in perl/c/java. 
+
+At the end of each step, I will document that part. This way by the end of the project I will have a clean and detailed documentation.

@@ -1,0 +1,1 @@
+The purpose of this proposal is to extend the Graph API of the Apache Hama Project in a more dynamic way, by adding the feature of vertex addition and deletion during a superstep.

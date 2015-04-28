@@ -1,0 +1,1 @@
+The goal of this project is to implement a debugger front end that closes the gap to best-in-field debuggers like OllyDbg (which only runs on Windows) and offers a better designed UI, scriptability, configurability and sane defaults.

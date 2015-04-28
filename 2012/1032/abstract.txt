@@ -1,0 +1,1 @@
+Aim of this project is porting and packaging LLVM project libc++ for providing it as standard C++ library instead of GNU libstdc++ with saved binary compatibility, on some platforms, and allow users switch easy between those libraries.

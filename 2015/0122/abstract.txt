@@ -1,0 +1,1 @@
+Apache Stratos is a highly-extensible Platform-as-a-Service (PaaS) which include multitenancy, Multi fractured auto scaling, Cloud bursting and  Scalable dynamic load balancing. It consumes a lot of processing power and memory but this product currently doesn't have a UI to show health statistics of  its  product (clusters) and instances.

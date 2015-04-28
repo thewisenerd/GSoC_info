@@ -1,0 +1,3 @@
+This proposal will improve Theano in the following aspects.
+Firstly, we will provide user with an interface to re-generate and slightly modify compiled function and therefore save their time to recompile almost same function.
+Secondly, by improving OpFromGraph, optimizor of Theano will be able to reuse optimized FunctionGraph, whilch will save time.

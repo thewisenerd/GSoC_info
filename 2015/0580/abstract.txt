@@ -1,0 +1,3 @@
+Redesign and reimplement road presentation in Default OSM map style, as trunk roads in forests should not be invisible.
+
+Full redesign will allow to fix major problems with current styling of roads and allow to display additional OSM data like surface information.

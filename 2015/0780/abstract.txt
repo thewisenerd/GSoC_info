@@ -1,0 +1,1 @@
+I'll improve the design of the application by doing two things: 1. Migrate existing application to version 2.0 of MGWT. 2. Add new functional features that support the mobile world in a clear and transparent way devices.

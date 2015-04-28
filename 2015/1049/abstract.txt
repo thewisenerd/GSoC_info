@@ -1,0 +1,1 @@
+Current open source radeon drivers do not support OpenCL images. The aim of this project is to implement support for image-related OpenCL C 1.1 capabilities, both 2d and 3d, in the r600 gallium driver.

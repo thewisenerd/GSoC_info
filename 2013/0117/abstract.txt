@@ -1,0 +1,5 @@
+LibreDWG GNU is a library programmed in C language for reading and writing DWG(DraWinG) files. DWG is binary file format for storing 2-D and 3-D design data and meta data. LibreDWG supports three versions of DWG : 
+DWG 2000(fully implemented),
+DWG 2004(partially implemented), 
+DWG 2007(partially implemented).
+Functionality of last two versions is not complete.So, it needs to finish the decoding part of these versions. Partially decoded functions of these DWG versions are in a single file. As a consequence, it requires refactoring and proper developer's documentation.

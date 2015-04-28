@@ -1,0 +1,7 @@
+The project idea aims at making the internal libraries used by MBDyn simplified as it have somewhat complicated configuration.
+
+Key-points of this Project Ideas are:
+
+1) Make the libraries installable
+2) Abstract libraries in a rational manner, to reduce/eliminate cross-dependencies
+3) Replace standard features from broadly available libraries (example Boost)

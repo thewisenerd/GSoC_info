@@ -1,0 +1,5 @@
+The aim of the project is to improve VisPy, a rendering and plotting library for Python. 
+This can be divided into three broad sub-tasks
+* Port interesting examples from other graphics libraries like Glumpy to VisPy
+* Bring high-level plotting constructs to VisPy.
+* Improve performance by implementing batching (called collections)

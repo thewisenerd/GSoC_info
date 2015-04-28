@@ -1,0 +1,1 @@
+This project aims to design an OpenMRS module to add support for OAuth2 based authentication and authorization and provide secure access to resource owners/ clients trying to access the API’s of FHIR and REST Web Services module ( and also provide hooks to extend the support for future modules).

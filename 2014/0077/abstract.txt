@@ -1,0 +1,2 @@
+The actor model and its implementation in the Akka library for Scala have proven their use for developing concurrent applications. However, the expression of an actor’s internal behavior using plain Scala is relatively clumsy. It seems this may be improved when the internal behavior is specified using a Scala extension named SubScript, which is based on the theory Algebra of Communicating Processes.
+The aim is to get Akka actors working together with SubScript.

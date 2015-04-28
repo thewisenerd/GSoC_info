@@ -1,0 +1,1 @@
+The objective of this project is to rebuild and fix the abnormal packages of one of the Debian port for mips/mipsel/mips64el. The port will be chose during the project, considering which one the mentor and the community consider that is more important to Debian.

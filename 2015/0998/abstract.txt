@@ -1,0 +1,5 @@
+This particular project consists of developing web application to track and analyze system information such as CPU usage, memory usage, network usage in 2-20 computer systems at the same time. It acts like a dashboard for the system administrators.
+This project can be mainly divided into 3 stages.
+1. Creating a convenient user interface.
+2. Handling data supply to the application.
+3. Handling data storage.

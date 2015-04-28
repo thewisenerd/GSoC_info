@@ -1,0 +1,4 @@
+In order to add Android support we will need to determine which new Targets will need to be added to Pants. We will also need to construct new Tasks to support those targets.
+
+In this proposal I quickly summarize the Android build lifecycle to show the steps we are going to automate. From there I list and briefly explain
+the tasks and targets, indicating dependency when necessary.

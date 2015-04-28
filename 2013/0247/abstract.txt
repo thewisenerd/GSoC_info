@@ -1,0 +1,1 @@
+The goal of this project is to port the Wiselib to ns-3 by implementing the basic Wiselib concepts like os, timer, radio, debug, clock, uart, rand, position, distance, etc for ns-3.

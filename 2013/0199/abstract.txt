@@ -1,0 +1,1 @@
+OWASP ZAP currently has the capability to identify existing HTTP sessions or to force the creation of new ones, through the existing HTTP Sessions Extension. However, an enhancement of the existing features and addition of new ones is required in order to offer ZAP users a full suite of HTTP Session related tools to be used when testing web applications.

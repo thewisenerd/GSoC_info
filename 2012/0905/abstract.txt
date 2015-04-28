@@ -1,0 +1,1 @@
+The project aims to provide MoinMoin with simple, but reasonable Blog feature. Using some metadata, some views and queries we could do it in MoinMoin 2.0.

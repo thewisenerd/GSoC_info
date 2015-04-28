@@ -1,0 +1,1 @@
+Implement a new avatar picker UI that will be used in gnome-control-center, gnome-initial-setup, and empathy that can automatically pull from online accounts sources and services like Gravatar.

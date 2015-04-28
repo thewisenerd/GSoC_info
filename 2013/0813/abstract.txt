@@ -1,0 +1,15 @@
+Global Search will allow users to make a wide range of queries and fetching reliable search results. It will cover the entire Moodle site and display results from many modules.
+
+Global Search APIs will be developed by integrating Apache Solr for advanced full-text search capabilities.
+
+It will include real-time updates that would be happening in Moodle site through incremental indexing of records from Moodle database and all the uploaded rich documents in Moodle through cron jobs.
+
+The design will be scalable to accommodate other search engines using Global Search APIs.
+
+Configurable settings will be available to tweak search engine server, indexing and caching search results.
+
+The project Results will be displayed by matching keywords from all modules throughout the Moodle site.
+
+Security will be preserved throughout the search.
+
+Search Modules will enable chosen search engine integration with ease.

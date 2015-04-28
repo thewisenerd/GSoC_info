@@ -1,0 +1,3 @@
+digikam and Photivo are perfect complements: digiKam is the best photo management software I have ever known. The raw file developing tool Photivo offers a remarkable feature set, high quality of processing and an optimized workflow.
+
+My motivation is to make digiKam and Photivo nicely integrate into each other in order to combine the best out of both applications.

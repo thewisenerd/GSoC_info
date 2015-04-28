@@ -1,0 +1,1 @@
+The project aims to boost shogun's acceptance in the world. This would  be done by coding up new ipython-notebooks and web-demos.

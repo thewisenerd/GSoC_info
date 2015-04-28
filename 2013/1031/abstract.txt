@@ -1,0 +1,1 @@
+Build a semantic web tool to help  bioinformaticians and other scientists using Ruby software and standalone analysis tools seamlessly share and access data using the RDF standard

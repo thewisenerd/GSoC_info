@@ -1,0 +1,3 @@
+As accessories for the Raspberry Pi such as small touchscreens become less expensive and more widespread, it is becoming possible to use the Raspberry Pi as a standalone platform.
+
+During this project, I will design and implement a user interface that will take advantage of the utility of a Raspberry Pi paired with a small touchscreen.  Once configured, this will allow an inexpensive Raspberry Pi setup to act as a standalone RDM/DMX tester.

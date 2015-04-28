@@ -1,0 +1,1 @@
+This particular project focuses to build the Whiteboard component of Apache OpenMeetings using HTML5 and Apache Wickets.

@@ -1,0 +1,1 @@
+Add a   -–precision option to specify maximum precision you want and set it as default minimum precision for all amounts.Add suitable tests for the bugs I will close related to precision. Extend test suite to for better coverage.

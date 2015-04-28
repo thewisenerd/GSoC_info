@@ -1,0 +1,2 @@
+FinTS is a standard for online payments, transactions, history and everything else needed for end-user online banking and transaction processing by a payment provider. Based on HBCI this standard is being used by many German banks including Sparkassen, Deutsche Bank and Commerzbank.
+The Goal of this Project is to implement a simple and secure library that enables applications such as GNU Taler to easily implement online banking functions needed for basic customer-merchant transactions.

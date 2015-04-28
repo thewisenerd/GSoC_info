@@ -1,0 +1,1 @@
+This project aims to refactor libswscale so that its internal API be more clean and modular improving its maintainability.

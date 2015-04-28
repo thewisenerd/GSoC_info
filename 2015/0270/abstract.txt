@@ -1,0 +1,2 @@
+This project scope will be limited to implementation of specification - OData JSON Format for CSDL [1] in Apache Olingo Client and Server Libraries. Apache Olingo is a protocol implementation of the OData V4 specification.
+[1]https://www.oasis-open.org/committees/document.php?document_id=54598&wg_abbrev=odata

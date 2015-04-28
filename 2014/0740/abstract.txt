@@ -1,0 +1,1 @@
+The goal of this GsoC project is to develop functions, that allow users of the phimpme photo app to upload images to their gallery that uses Jekyll, Javascript and Markdown. The most well-known sites using these technologies are github pages. The next step is to support alternative web deployments with Jekyll and Markdown.

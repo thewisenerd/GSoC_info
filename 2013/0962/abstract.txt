@@ -1,0 +1,1 @@
+I will integrate Banshee with more REST API Services - namely SongKick and FanArt.TV. Thanks to that user will be shown a concert suggestions and artists' graphics in the music library.

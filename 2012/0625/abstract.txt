@@ -1,0 +1,2 @@
+The current "Atlas map" is based on the MWDB2 dataset. The data is pretty old and the whole implementation that covers the Atlas map still has a few traces of "historic" code. There's a new proposal that would introduce the high quality Natural Earth data. This would require several changes to the Marble code and its data. See
+http://techbase.kde.org/Projects/Marble/NaturalEarth

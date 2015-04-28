@@ -1,0 +1,1 @@
+This project aims to selectively implement more relatively important codes issue and context action inspections for C# in the NRefactory library, in order to improve the coding assistance functionality with MonoDevelop.

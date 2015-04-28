@@ -1,0 +1,2 @@
+The idea of this project is to develop a real-time performance benchmarking solution that will help diagnose bottlenecks and configure the SquidHTTP cache for a better performance. The metrics that this solution will take care are: 
+- CPU, Memory, Network utilization and User eXperience Level.

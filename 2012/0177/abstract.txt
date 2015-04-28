@@ -1,0 +1,1 @@
+A console-based registry editor modeled after Windows' regedit for viewing and editing local and remote registries.

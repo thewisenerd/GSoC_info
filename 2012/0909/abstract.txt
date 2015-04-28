@@ -1,0 +1,1 @@
+In line with the provided list of OpenCV priorities for this year, I  wish to help  adapt libmv for OpenCV, to integrate structure from motion functionality into OpenCV.

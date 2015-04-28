@@ -1,0 +1,3 @@
+The GNU Mach kernel maps all physical memory into the kernel address space, and uses virtual memory to provide continuous chunks for kernel objects like IPC tables.  This imposes a limit of ~250000 ports.  It is the most pressing scalability issue.
+
+We propose to replace the page allocator by a buddy allocator to provide continuous chunks of memory directly from the physical memory, to use it as a backend for the slab allocator, and to replace the IPC tables by a more scalable data structure.

@@ -1,0 +1,1 @@
+This proposal discusses the scope of animation in Krita and how it can be implemented.

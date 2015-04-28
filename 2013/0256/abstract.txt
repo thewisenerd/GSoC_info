@@ -1,0 +1,3 @@
+The linux kernel provides a generic modesetting API (KMS) as part of the direct rendering manager interface (DRM). During the last years, DRM access control turned out to be difficult to manage with this setup. Therefore, this projects tries to split both apart so we can apply different access modes to each of them.
+
+As a side effect, this also allows us to provide more fine-grained and, more importantly, dynamic render/modeset node management. This is needed to allow efficient and secure compositor-stacking (eg., system compositors), off-screen rendering without a compositor, off-screen OpenCL usage and more.

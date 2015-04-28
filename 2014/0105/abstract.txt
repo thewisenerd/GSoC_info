@@ -1,0 +1,2 @@
+The goal of this project is to improve annotation and form support in evince.
+The annotation window in the existing text (post-it like) annotations will be reworked to address the issues with the current GtkWindow implementation. The ui for annotations will be changed to allow easy adding of annotations. Further, form support will be improved.

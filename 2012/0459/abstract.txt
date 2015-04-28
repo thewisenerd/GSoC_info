@@ -1,0 +1,1 @@
+I think an effective implementation of mmap() for smbfs includes such functions, I will implement these one by one: smbfs_map(), smbfs_getpage(), smfs_putpage(), smbfs_addpage(), smbfs_delpage(). since vop_pageio() is only used for sync anon pages to swap device, so it’s not needed in smbfs.

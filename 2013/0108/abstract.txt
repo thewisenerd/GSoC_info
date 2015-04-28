@@ -1,0 +1,3 @@
+The project comprises of three parts, first to improve the itemid and revid functionality.
+The second to improve the code so it deals flawlessly with namespaces and multiple names 
+and some UI stuff.

@@ -1,0 +1,1 @@
+GNS3 is a cross platform Network Simulator built on Python. GNS3 currently has native clients for Mac, Linux & Windows that is built on top of Qt. The project aims at building the web client, which runs across major browsers (i.e. Chrome, Firefox & Safari) and provides similar functionality as native clients.

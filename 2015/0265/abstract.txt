@@ -1,0 +1,1 @@
+Advanced Configuration and Power Interface( ACPI) defines platform-independent interfaces for hardware discovery, configuration, power management and monitoring. Implementing ACPi in U-boot will enable support for many x86 boards.

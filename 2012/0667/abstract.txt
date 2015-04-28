@@ -1,0 +1,1 @@
+A plugin for JOSM which will detect speedlimits and roadsigns from the video and  help adding a related tag into map data.

@@ -1,0 +1,1 @@
+Improve the pyramid debug toolbar. Main tasks are to add a better extension support for debugtoolbar and make a web-interactive extension like pdb.

@@ -1,0 +1,1 @@
+Swift currently doesn't have any chat logging system which is really useful feature. My task will be to implement all aspects of it while keeping with main project goals.

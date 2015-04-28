@@ -1,0 +1,1 @@
+This project aims implement Xen virtual machines snapshot management API to enable Xen users to easily manage snapshots using libvirt client applications.

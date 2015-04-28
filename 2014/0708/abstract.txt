@@ -1,0 +1,2 @@
+The Project aims to optimize and enhance the CBFS_media interface used for accessing data and in turn booting on low-end ARM SoCs. 
+An ARM-specific CBFS Access pattern would enable coreboot to load its stages, which will form the basis for establishing full support for coreboot on ARM SoCs, and in-turn help bridge the gap between coreboot and ARM mainboards. The goal would be to optimize the access patterns to CBFS_media (from any source) so that cache size is reduced considerably.

@@ -1,0 +1,7 @@
+We propose to implement a library that provides unified resolution of
+dependencies across platforms (Ubuntu, OS X, ...) and installers (APT, Homebrew,
+pip, ...). The rosdep tool is currently used for this purpose in the ROS
+community. We develop an independent library, based on the ideas of rosdep,
+which can be used to declare and install system dependencies in a platform
+independent way. The developed library and tools are applicable to ROS and other
+software alike.

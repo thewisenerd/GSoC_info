@@ -1,0 +1,1 @@
+Vc is a free software library to ease explicit SIMD vectorization of C++ code. It has an intuitive API and provides portability between different compilers and compiler versions as well as portability between different vector instruction sets. This projects aims to make Vc code portable to GPUs and the SIMT execution model.

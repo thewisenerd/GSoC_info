@@ -1,0 +1,3 @@
+This project proposes to support fast array expressions for Cython, through efficient elementwise traversal which maximizes cache re-usal and appeals to auto-vectorization on the CPU, as well as provide optional OpenCL code specializations for GPU execution. Partial reductions and elementwise user functions will be supported in array expressions, and boolean index assignment (and possibly evaluation) will be implemented. Optionally, we propose enhancements to the current parallel support to allow OpenCL as a backend.
+
+This project will also investigate code re-use with similar project like Theano, NumExpr and Numba.

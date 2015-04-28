@@ -1,0 +1,1 @@
+krypt{jce} provides cryptography support to jruby. The project aims at providing Digital Signature support to krypt{java}. It aims at providing this support to xml via nokogiri and to pdfs.

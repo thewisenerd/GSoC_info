@@ -1,0 +1,1 @@
+Apache Derby is an open source relational database implemented entirely in Java. The purpose of this project is to improve the code coverage of Derby by writing additional tests. It is important to have tests to cover the entire code base in order to ensure proper functionality. This project aims to find out classes with poor code coverage and create tests to cover them.

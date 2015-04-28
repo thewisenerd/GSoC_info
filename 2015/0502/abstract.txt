@@ -1,0 +1,1 @@
+The goal of this project is to get the Banshee media player fully updated to the new state-of-the-art opensource platforms and technology stacks, and release the long awaited Banshee 3.0 final version.

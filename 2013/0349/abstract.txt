@@ -1,0 +1,1 @@
+When we organize a large collection of pictures, we often come across both good and bad quality ones. These pictures can be computationally separated to provide better workflow.This project aims to integrate Image Quality Sorting capability into digiKam, so that we can focus on good quality pictures.

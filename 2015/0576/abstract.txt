@@ -1,0 +1,3 @@
+My project proposal concerns the improvement and the implementation of new functionalities for DATE OSSIM PlugIn, that I have developed in the framework of the 2014 GSoC.
+At present, DATE is a PlugIn for DSM generation from an optical stereo-pair.
+Starting from what I have already done, I would like to extend it and enable it to process also a triplet. Furthermore I would like to include the possibility to use SAR imagery for DSM stereo reconstruction.

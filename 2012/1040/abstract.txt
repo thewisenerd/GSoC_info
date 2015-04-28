@@ -1,0 +1,1 @@
+As the current testing framework provides limited support for tests automation and adding of new test, this projects is aiming to write new testing framework which exhibits new good testing harness and allowing for easier additions of new tests.

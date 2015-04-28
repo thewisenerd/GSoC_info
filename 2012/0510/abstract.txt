@@ -1,0 +1,1 @@
+Right now Plasmate SDK doesn't provide any kind of support for kwin. The goal of my proposal is to add kwin support inside the Plasmate SDK.

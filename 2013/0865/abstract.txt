@@ -1,0 +1,1 @@
+This proposal focuses on two extensions of current structured output framework in Shogun: 1) Extending the structured output framework to support general graphical models by introducing factor graph and general MAP inference. 2) Implementing online solvers for structural SVM such that the framework can deal with large-scale problems.

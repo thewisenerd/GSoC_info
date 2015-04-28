@@ -1,0 +1,1 @@
+The main objective of the project is to construct a real-time machine-learning pipeline for magnetoencephalography (MEG), which is a well-known technique for recording magnetic signals produced by electrical currents inside the brain. The end result will be an additional real-time classification module to MNE-Python, and a set of companion scripts for unit-tests and examples.

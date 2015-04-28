@@ -1,0 +1,1 @@
+Project aiming to extend Haddock to a point where writing reader and writer modules for Pandoc is possible. The general goal is to allow for documentation writing in different formats, including the ever popular Markdown.

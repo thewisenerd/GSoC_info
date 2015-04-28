@@ -1,0 +1,1 @@
+As part of this project a Java module will be developed for GeoTools that will provide a convenient API for the creation and analysis of TIN surface data. The TIN models will be constructed in memory from input JTS geometries. Breaklines will be supported. If time allows, basic analysis such as the definition of watersheds and the creation of hillshades will be supported.

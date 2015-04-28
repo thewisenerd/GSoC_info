@@ -1,0 +1,8 @@
+MJohn is an infrastructure
+around John the Ripper to simplify or fully automate everyday tasks of a hash
+cracker or a team of them. One of the goals of that project is to improve
+collaboration and distribution during CrackMeIfYouCan contest. This project
+touches or even includes following roles from the ideas page: JtR: automatic
+rule set generation, JtR: distributed processing, including a possible
+sub-task: Greater interaction with running cracking sessions, JtR: parallel
+processing (on one node).

@@ -1,0 +1,1 @@
+The project aims to implement a web application to act as a central repository for sharing Quantum GIS resources like symbols, scripts, composer templates and models and integrate the application with QGIS through a plugin for easy sharing.

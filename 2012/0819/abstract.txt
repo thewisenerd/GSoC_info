@@ -1,0 +1,4 @@
+A very simple widget that will have the functionality to place a maker and to generate a link to show the map with the marker, wrapped in the most popular blogging and content management tools.
+Additionally an advanced option that will have "Directions to here" and a routing panel functionality.
+The choice of a map provider will be saved and shown as a preferred provider on future run of the widget.
+The widget will contain several themes to fit the page where it will be placed.

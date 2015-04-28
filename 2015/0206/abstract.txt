@@ -1,0 +1,1 @@
+Toxic is a CLI based Tox client that originally resided in the toxcore codebase. Since then it has been isolated as a standalone client and needs to be updated with video support functionality to remain on par with other Tox clients.

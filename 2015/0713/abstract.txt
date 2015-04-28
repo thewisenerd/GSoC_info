@@ -1,0 +1,2 @@
+Unmoderated mailing lists suffer from the paradox that the more successful they
+are, the more difficult they are to use and administer because of the increasing number of users and discussions. Traditional solutions to this problem, such as creating static sublists or providing a Web interface, are not always desirable. To solve this I present dynamic sublists, an approach to scaling online communities that increases communication opportunities without overwhelming users or administrators.

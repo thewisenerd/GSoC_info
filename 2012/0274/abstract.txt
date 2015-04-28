@@ -1,0 +1,2 @@
+KMSCON is an attempt to replace the in-kernel VT implementation in user-space. When finished it should be possible to run a kernel with CONFIG_VT=n and still have at least the same functionality.
+Further improvements are possible to eventually get an xterm-like (or other terminal) linux console.

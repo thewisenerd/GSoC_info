@@ -1,0 +1,1 @@
+The aim of this application is to change current lex-bison based parser with the handwritten parser. As, handwritten parser are much faster and can be ported to other languages without much trouble, this will help in both, making gcalctool fast as well as portable.

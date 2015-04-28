@@ -1,0 +1,6 @@
+The goal of this project is to polish Boxes to make it as close to perfection as possible. To achieve this, I'll:
+- port its installation wizard to GtkAssistant and polishing it,
+- improve its usage of MIME-types,
+- try to find as much undiscovered bugs as I can,
+- polish the GUI and get rid of as much small bugs as possible in the form of a hardening sprint,
+- add tests for the bugs I fix.

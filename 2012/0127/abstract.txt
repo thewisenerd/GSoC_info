@@ -1,0 +1,1 @@
+The project would imply creating a (training) campaign from scratch, something the game currently is lacking. The creation of these missions would be realized via a helping script that simplifies the process. I also propose creating an interface that would help/make possible the making of interconnected missions.

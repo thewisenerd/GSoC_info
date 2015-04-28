@@ -1,0 +1,5 @@
+The goal of the project is to explore possibility of Ecto supporting NoSQL databases and creating a NoSQL adapter.
+I plan to divide time spent on the project into three main parts:
+- Creating MongoDB adapter
+- Extending support for SQL databases
+- Native MongoDB driver or other NoSQL adapters

@@ -1,0 +1,1 @@
+The project that I propose extends the current functionalities of toolbars already implemented in LibreOffice ensuring that they become more usable, effectively and more efficiently. This can be achieved by modification and hiding of elements that are present on the toolbar and providing the possibility to reshape them.

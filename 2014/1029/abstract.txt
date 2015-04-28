@@ -1,0 +1,1 @@
+I’m a master candidate of Peking University in China. My research area is distributed systems and virtualization. I’m now working on QEMU and KVM. I’m very interested in QEMU and want to apply to QEMU. I am looking forward to studying QEMU as well as doing something for open source under the guidance of the mentor in practice.

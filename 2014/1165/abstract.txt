@@ -1,0 +1,1 @@
+Proposal idea is chosen from suggested by Subsurface mentors: iPhone Companion App. The idea is clear — build an universal iOS application both for iPhones and iPads, that is similar to existing android app.

@@ -1,0 +1,1 @@
+This project aims to provide a first class type annotation for Typed Clojure, makes it possible to annotate some core library without hard-coding them, and also provide this ability to the user.

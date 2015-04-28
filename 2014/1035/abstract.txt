@@ -1,0 +1,3 @@
+Currently AChecker validates only static html. Some accessibility issues can not be identified by the static validation. for e.g a lot of processes within a Web application are triggered by Document Object Model (DOM) events. Thus, the idea is to improve the checks, according to the WCAG 2.0 guidelines, and thus extend the current AChecker implementation to validate the DOM including dynamically generated Web content
+
+Additional Info URL contains proposal in PDF format

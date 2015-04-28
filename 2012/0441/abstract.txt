@@ -1,0 +1,1 @@
+Parrot is a multi-language, multi-platform virtual machine.The main goal of the project is to provide bindings of LAPACK with PLA and fully compatible with PLA along with some default functions.In which the functions would be mainly matrix operations such as calculating determinants, eigenvalues, eigenvectors and decompositions

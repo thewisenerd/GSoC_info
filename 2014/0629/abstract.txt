@@ -1,0 +1,4 @@
+This project will implement a Web Application Firewall bypasser module for OWASP OWTF. The WAF bypasser module analyze and test the quality of Web Application Firewall rules.
+The following are the components that the OWTF WAF bypasser module will use.1)A fuzzer module.2)A payload collection.
+3)A repository of attack characters extracted from the payload collection.
+These will be implemented in the framework as part of this project so that they are reusable by other modules down the line.

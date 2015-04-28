@@ -1,0 +1,1 @@
+Last year, Roman Tsukanov worked on finishing the core work on CritiqueBrainz and deploying the site. This year, I'm going to be working on adding new features to CB along with stuff that'll improve the end user experience.

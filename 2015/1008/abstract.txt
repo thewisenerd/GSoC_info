@@ -1,0 +1,4 @@
+== Problem ==
+the ocs -server project it's developing and trying to become Plasma's delivery systembut it lacks a web and desktop client.
+== Proposed solution==
+I would like to develop a web client with an easy interface for users to download programs, applications, screensavers, themes etc. giving also the possibility for developers and artists to upload and share their creations.

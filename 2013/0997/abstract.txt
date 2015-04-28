@@ -1,0 +1,1 @@
+Implement the rendering system using a cross-platfrom GUI library and use processing.js to support rendering in browsers.

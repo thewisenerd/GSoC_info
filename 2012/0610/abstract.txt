@@ -1,0 +1,1 @@
+The goal of this project is to improve Blender's smoke simulator with various new features to allow creation of even more realistic visual effects.

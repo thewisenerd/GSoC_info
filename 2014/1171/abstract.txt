@@ -1,0 +1,1 @@
+As an undergraduate in Computer Sciences I want to implement support for internationalized email addresses and header values in the email package from Python. The goal is to have a fully tested and standard conform implementation of RFC 6532 with maintained backward compatibility and an useful API.

@@ -1,0 +1,1 @@
+Provide parallelization to targeted areas of the hyperSpec package. Offer flexible interface allowing choice between implicit and explicit parallelization, and types thereof. Incorporate data.table. Produce benchmarks of observed results on large datasets.

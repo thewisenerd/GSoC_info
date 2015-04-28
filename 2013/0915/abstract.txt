@@ -1,0 +1,5 @@
+The plan is to tackle some long-standing infrastructure problems that have to be fixed eventually if we want to continue current and future flash chips.
+The expected outcome of my GSoC programming are the following new features:
+ - Support for multiple read/write operations
+ - Support for 4-byte addresses
+ - Improved (SPI) probing

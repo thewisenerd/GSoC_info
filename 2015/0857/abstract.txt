@@ -1,0 +1,1 @@
+This project will make p5.js a more accessible tool for students and new-to-code artists. I will develop tools for the p5.js webpage that will help p5.js reach a greater audience and minimize the pain points inherent in translating the philosophy of Processing to the web.

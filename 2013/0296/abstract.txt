@@ -1,0 +1,1 @@
+This project will enable SBAS compatibility for GNSS-SDR to increase it's positioning accuracy and trustiness.

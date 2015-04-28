@@ -1,0 +1,2 @@
+DroidBox is developed by Patrik Lantz to offer dynamic analysis of Android applications. Suspicious behavior and information leakage are logged by running Android application in an instrumented emulator. I intend to extend functions and usability of DroidBox by porting it to Android 2.3, provide more API trace. I will also introduce a new apk repackaging method to
+avoid endless upgrade of DroidBox.

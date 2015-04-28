@@ -1,0 +1,1 @@
+Currently the JFace UI Toolkit still supports language features of Java 1.4. With moving JFace to the language features of Java 1.5 it would be able to take use of Java generics. I would implement the generics feature for the  viewers part of the JFace Toolkit. This could help the users of JFace to avoid casting of data objects and detect more type failures at compile-time.

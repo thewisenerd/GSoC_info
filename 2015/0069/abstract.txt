@@ -1,0 +1,3 @@
+istSos is a server implementation that collects,redistribute and manages data received from sensor according to SOS. The server need to store data in a database, based on postgresSQL. This software is heavily dependent on database performance and also needs a database with the lowest possible downtime.
+istSOS needs to manage enormous amounts of data and needs them to be ready without latency.
+Using pgpool-2 behind clients and database will improve istSOS performance and his reliability.

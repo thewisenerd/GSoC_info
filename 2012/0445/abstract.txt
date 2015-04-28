@@ -1,0 +1,1 @@
+The goal of the project is to create an interface to install languages from a repository of accredited language packs during Joomla installation and subsequently from the administrator interface.

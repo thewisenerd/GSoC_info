@@ -1,0 +1,1 @@
+This project is about improving the graphics of STK with modern techniques, such as SSAO.

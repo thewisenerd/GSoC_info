@@ -1,0 +1,1 @@
+CppSharp's C++ inline code handling and handling of functions with default arguments can be handled very well. After properly adding AST binding to parsing as well as generator level, the problem can be solved easily.

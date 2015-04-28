@@ -1,0 +1,1 @@
+The aim of this proposal is to enhance the upcoming package about visibility in polygonal domain in the CGAL library. The package will compute all points in a polygonal domain visible from a query point, with respect to different inputs. The development will be mentored by Michael Hemmer, and may be released as a part of the new CGAL library.

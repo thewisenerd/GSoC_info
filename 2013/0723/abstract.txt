@@ -1,0 +1,7 @@
+John the Ripper is the best open-source password cracker. Currently, John the Ripper has partial support for GPGPU computing. In some cases there are limitations in OpenCL that yield only sub-optimal results, similar to a CPU. There might be room for improvements using low level GPU computing, where we aren't bound by such limitations. This project will investigate how the speed of password cracking can be improved using the AMD GCN architecture. 
+
+
+To work with the GCN architecture an assembler needs to be created. One possible solution is to use this assembler to patch already existing kernels with more efficient code. Another approach would be patching the kernels at run-time, for example when the kernel needs to be specialized for a given salt value.
+
+
+We might need a language that is slightly higher level than just plain assembly. Some support for structures like if/else statements and loops might be convenient. If time permits, the end result would be something similar to qhasm with GCN support.

@@ -1,0 +1,1 @@
+I propose to help with the transition to SDL2, with special focus on implementing hardware accelerated rendering.

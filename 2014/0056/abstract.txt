@@ -1,0 +1,3 @@
+My proposal is to create Telegram Network connection manager and to make it work with KDE Telepathy.
+I think that it's important to have safe IM service and Telegram looks like such one, so, I want to make it available for as many people as I can.
+I believe in power of FOSS principles and I'm delighted with Telepathy, that's why I have no doubt about how to do it.

@@ -1,0 +1,1 @@
+An API for phpBB that enables developers to easily create applications that uses phpBB forums for various purposes.

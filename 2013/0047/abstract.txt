@@ -1,0 +1,1 @@
+The project adds some more functionalities to the Generator package in the CGAL library.

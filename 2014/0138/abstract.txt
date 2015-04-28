@@ -1,0 +1,1 @@
+ImageJ is an open source Java based image processing program extensively used in life sciences. Our project aims at developing an ImageJ plugin which will provide users with a Graphical user interface (GUI) to upload and download datasets (images, docs, folders, codes etc.) from their Dropbox accounts (using Dropbox Core APIs for Java).

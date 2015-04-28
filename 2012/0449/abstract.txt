@@ -1,0 +1,1 @@
+This project aims to clean up and refactor FreeBSD/arm and Flattened Device Tree implementation code.

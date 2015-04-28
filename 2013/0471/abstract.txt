@@ -1,0 +1,1 @@
+File system disturber kernel module used for injecting pathological behaviour into vfs calls. It could be used for monitoring how software behaves when the file system does things wrong.

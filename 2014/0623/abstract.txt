@@ -1,0 +1,3 @@
+The goal of this project is to implement and validate a software capable of processing Galileo E5a open service signal in real-time, delivering observables in RINEX format.
+
+The idea is to implement the software in a modular, scalable manner. It will be implemented in modules that will be based on basic algorithms to ensure that the whole system is finished and validated before the deadline. If there is extra time left, a module with a Kalman Filter based PVT solution will be implemented.

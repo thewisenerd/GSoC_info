@@ -1,0 +1,2 @@
+Currently ZAP Project is using a website crawler that is a bit outdated and doesn’t have all the required features anymore. Some of the current issues include an old design, missing the ability of comparing two crawling sessions of two logged in users (associate requests with different sessions) and does not offer integration with OWASP AJAX crawling tool.
+My proposal for this Google of Summer of Code project consists of redesigning the existing crawler and adding sessions awareness.

@@ -1,0 +1,1 @@
+My project this summer is to develop the YouTube plugin, the Instagram plugin and integrate all the existing ThinkUp insights in their respective contexts. My proposal also includes developing some compelling new insights such as Emotional Quotient, Interaction Graph, Outreach Punchcard, Virality Index, Popularity Timeline, Engagement Factor and Filter Crazy.

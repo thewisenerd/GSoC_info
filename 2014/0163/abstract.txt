@@ -1,0 +1,1 @@
+The project aims to complete bidirectional machine translation system between Kazakh and Karakalpak languages on Apertium system.

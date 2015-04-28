@@ -1,0 +1,1 @@
+Polari is an IRC client for GNOME. During the internship I will add enhancements and fix bugs, based on a list to improve the chatting experience GNOME for contributors and users alike.

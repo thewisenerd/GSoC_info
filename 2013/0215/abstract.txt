@@ -1,0 +1,1 @@
+WS-Messenger is a publish/subscribe type message broker implementation that is based on Web services. AMQP is an application layer protocol for message-oriented middleware that also supports publish/subscribe and store-and-forward message flow patterns. The objective of this project is to implement a robust, scalable and efficient MOM framework in WS-Messenger based on AMQP.

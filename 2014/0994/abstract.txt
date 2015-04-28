@@ -1,0 +1,1 @@
+This project is to add support for OR REPLACE and IF EXISTS/IF NOT EXISTS to all CREATE and DROP variants for all objects. The objects include functions, procedures, packages, types, synonyms, trigger and views.

@@ -1,0 +1,1 @@
+Fedora Fresque is a standard Python web application that abstracts away intricacies in package review process. Currently for any package to enter the fedora repository has to go through the review process which is mechanical and manual, during this period contributors receives valuable feedbacks but once the package gets imported; all the information is lost.

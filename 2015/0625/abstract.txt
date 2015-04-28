@@ -1,0 +1,1 @@
+Haddock is documentation generator tool and a vital element of Haskell ecosystem. The aim of this project is to implement Haddock improvement ideas proposed by Haskell community in various media, such as markup extensions and hyperlinked source code generation.

@@ -1,0 +1,3 @@
+Web Apps are becoming more relevant in today's age.  From web applications, to desktop applications, to mobile applications.  JavaScript is widely used.  It's only time before JavaScript becomes the next all purpose language.  
+
+Mono IDE right now is missing this critical feature in its mission of cross-development development.  I have the experience and passion to undertake this ambitious project and write complete JavaScript support in Mono IDE.

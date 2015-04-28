@@ -1,0 +1,3 @@
+Currently there is only one main workspace and all blocks will share that. This can be a limitation when the number of blocks grows. It would be a lot easier to work with bigger projects if there was a way to organize blocks, either by feature, or in folders, or in some other ways.
+
+Expected results: Implement an easy way to organize code in the blocks editor.

@@ -1,0 +1,1 @@
+RouteFlow currently supports Ryu and OpenDayLight controllers. This project aims to develop a RFProxy component over ONOS application layer, communicating all its RouteMod messages with a well defined interface to convert them into OpenFlow-like messages to program the data plane.

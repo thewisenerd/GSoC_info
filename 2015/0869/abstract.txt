@@ -1,0 +1,3 @@
+The proposed project aims to port Pysoy rendering cycle from openGL(ES 2.0) to webGL using Emscripten library enabling it to run independently on all web and mobile browsers. 
+
+Modifying build functionality of PySoy to support the transition, marking relevant code for porting and adding build support for conditional compilation to waf. Further I shall work to integrate emcc with the current waf build as currently there is no support. Lastly widgets for webGL support in Pysoy would be added.

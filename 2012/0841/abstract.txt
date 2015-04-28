@@ -1,0 +1,1 @@
+Creating a rule-based shallow-transfer machine translation system for translating between Kazakh and Tatar.

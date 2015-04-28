@@ -1,0 +1,3 @@
+The purpose of this project will be to provide a stand-alone graphical interface that will allow a user to launch Dr. Memory, configure command-line parameters, and view the report, in an intuitive and easy to use manner. 
+
+It will also provide an interface for visualizing the data presented by Dr. Heapstat. It will incorporate the features provided by the old tool, but will also aim to add a few features as well.

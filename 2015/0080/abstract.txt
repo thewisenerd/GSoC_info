@@ -1,0 +1,3 @@
+GNOME Keysign is a project that got started as an idea for GSoC 2014 in the last spring and it stands as an application meant to be used by people who wish to exchange OpenPGP keys fast and safely, and to extend Web of Trust.
+
+This proposal is about working on remaining issues with GNOME Keysign such that it becomes user- and GNOME-ready. The focus will be on moving off of weird dependencies, add support for internationalization, and implement a more secure file transfer.

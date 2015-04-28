@@ -1,0 +1,1 @@
+Main goal of this project is to add support for complex partitioning schemes (with GPT, LVM, RAID, CGD, VND) and some usability improvements to sysinst - NetBSD installer. The second goal is to refactore sysinst and disk utilities code to make it more flexible.

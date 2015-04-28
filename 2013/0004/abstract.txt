@@ -1,0 +1,5 @@
+The goal of this project is to replace smbclient own limited tar implementation with a more complete one using a separate library (libarchive).
+
+libarchive is a BSD licensed library which can read and write various archived and/or compressed file formats. It's fast, robust and portable.
+
+Using libarchive would fix several bugs related to the current tar implementation, it would provide multiple archive/compression formats and it might improve performances.

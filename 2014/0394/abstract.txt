@@ -1,0 +1,1 @@
+I want to work on a Wii U GamePad Support for pysoy. This will allow users and developers to play any game made with pysoy through the GamePad.

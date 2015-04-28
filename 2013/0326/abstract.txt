@@ -1,0 +1,1 @@
+This project includes creating a plugins website as well as redesigning the Pidgin plugins UI to allow easy installation of plugins right from Pidgin. The project would also allow developers to submit their own plugins for inclusion in the Pidgin plugins repository as well as upload new revisions of the plugins.

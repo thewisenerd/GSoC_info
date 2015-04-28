@@ -1,0 +1,2 @@
+DBpedia is a crowd-sourced community project aiming to extract the structured content from wikipedia. It allows users to ask sophisticated queries against Wikipedia and to link other datasets on the web to Wikipedia data.  
+The goal of this project is to improve the quality of the data by Scheme Enrichment using the machine learning framework DL-Learner. It will be realized by implementing a DL-Learner-plugin for the collaborative ontology editor WebProtege.

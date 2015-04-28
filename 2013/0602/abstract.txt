@@ -1,0 +1,1 @@
+Project aims to develop parallel version of image processing algorithms. Some algorithms already have parallel implementation in Nvidia Cuda technology and the goal is to port those algorithm to more general OpenCL framework. There is also need to develop parallel versions of algorithms that have only serial version at this moment.

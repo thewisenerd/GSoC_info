@@ -1,0 +1,4 @@
+The project is to create an extension for Apache statos for give the google compute engine load balancing support for stratos. By using this extension we can manage the web traffic to instances deployed in Google Compute Engine by stratos by using the GCE load balancer provided by google. This is the link for the jira issue[1].
+
+
+[1].https://issues.apache.org/jira/browse/STRATOS-499

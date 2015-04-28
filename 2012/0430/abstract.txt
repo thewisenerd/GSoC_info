@@ -1,0 +1,1 @@
+A main upcoming feature of GNU Octave is an official GUI. Since I initially started to work on a GUI with GNU Octave developers before GSoC, I would like to continue my work within GSoC, so that we can soon release the first version to the public.

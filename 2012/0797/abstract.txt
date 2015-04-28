@@ -1,0 +1,1 @@
+Digital filter is one of the inevitable signal processing blocks in any DSP system. GNU Radio provides a true free and open platform for designing practical filters which can be used in real time. The proposal addresses ideas for improving filter design components as suggested by Martin Braun (CEL, KIT)

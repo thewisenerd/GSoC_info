@@ -1,0 +1,3 @@
+Social Sugar project involves development of GUI components that can help bring user's social interactions on external platforms into Sugar.
+
+A perfect target can be the Group-View that shows user's friends and their shared activities, but it could also show social information about these friends.

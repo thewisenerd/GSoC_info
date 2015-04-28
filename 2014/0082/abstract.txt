@@ -1,0 +1,2 @@
+Drupal 8, the next major version of Drupal, is
+coming soon. XML sitemap is one of the most popular modules for Drupal 6 and 7. I will develop a Drupal 8 module that will implement all functionalities found in the previous versions. This module will help Drupalers to increase performance of their websites. The first part of the application contains information about me and my implications into Drupal community. Then, a detailed plan is described and how I will achieve the expected results.

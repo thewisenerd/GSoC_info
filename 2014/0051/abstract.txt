@@ -1,0 +1,1 @@
+This project is all about writing a MediaWiki Extension which would allow users to add, delete, update, search, import, export the properties or traits of materials in a methodical manner such that those can be retrieved effortlessly.

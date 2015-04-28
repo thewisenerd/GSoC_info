@@ -1,0 +1,3 @@
+Search API is a very widely used module that provides a framework for easily creating searches on any entity known to Drupal with faceting support, using any search engine. I propose to create a module, that could integrate with Search API and Facet API and would collect and evaluate search statistics and represent them in a viewer-friendly form. A module with similar functionality - Apache Solr Statistics - 
+already exists for Apache Solr Search Integration Module.
+There are some requests for such a functionality for Search API.

@@ -1,0 +1,1 @@
+Attica is a client library for the Open Collaboration Service protocol. Open Collaboration Services (OCS) is a common protocol for providing social networking and collaboration across different services. My task would be to write a JSON parser in Attica, as part of the ongoing process for creating a standardized JSON interface with OCS.

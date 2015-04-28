@@ -1,0 +1,1 @@
+Implement Google Cloud Storage APIs for Ceph Object Gateway.

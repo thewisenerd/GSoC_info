@@ -1,0 +1,3 @@
+mlab-ns is a nameservice used to select m-lab tools deployed on servers spread across the Earth. The current methods used for server selection is one based on geographical coordinates of servers and clients. This project aims to add a RTT-based server selection mechanism to the in-progress port of mlab-ns from Python to Go.
+
+For network related tests, it makes sense to take network routes into account by considering RTT metrics. An example is for inter-country network connections where a location in country A may be geographically closer to a node in country B but the network connections may have higher latency than ones to a node in country A.

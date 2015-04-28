@@ -1,0 +1,5 @@
+I propose to write a full-fledged and enhanced C++11 versions of `std::vector` and `std::deque` with extra functionality that gives the programmer more control over buffers, segments and iteration.
+
+In case of devector, the main idea would be to allow cheap `push_front`, `pop_front`, `push_back` and `pop_back` operations.
+
+The deque (or segmented_devector) should be similar to std::queue, but with a dynamically specified segment size, taking the low-latency RDMA usecase into account.

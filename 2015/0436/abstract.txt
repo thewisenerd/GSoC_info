@@ -1,0 +1,1 @@
+Rebuilding Debian with clang has been going on for some time. The latest result on clang.debian.net shows that 22229 packages have been rebuild and only 1307 (5.9 %) failed. But there are many key packages which are essential for booting Debian in the 5.9%. My work in this project is fixing these key packages to produce a minimal bootable clang-built Debian.

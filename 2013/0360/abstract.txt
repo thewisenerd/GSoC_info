@@ -1,0 +1,1 @@
+Almost everyone in the embedded community is familiar with the Arduino development environment. Creating the Arduino libraries for userspace could offer significant reduction in the development time of projects on the Beaglebone involving interfacing with external peripherals, with the added advantage of running other userspace applications side-by-side.

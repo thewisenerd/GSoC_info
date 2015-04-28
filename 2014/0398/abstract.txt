@@ -1,0 +1,1 @@
+In this project we attempt to further the efforts of the neuroinformatics community in the direction of having a library of open neuronal models for the benefit of science.

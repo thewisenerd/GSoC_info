@@ -1,0 +1,10 @@
+I intend to make a basic 2.5d sidescroller, with weight/physics related puzzles and multiple levels about a penguin stuck in the Sahara. The levels will be blocky and basic.
+
+Prep:
+Getting familiar with engine and community. Basic art to be done as well. 
+
+Midterm:
+I hope to have all the big engine modifications and additions made at this point.
+
+Final:
+I will be looking for ways to further improve the project and engine.

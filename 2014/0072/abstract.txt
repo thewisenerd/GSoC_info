@@ -1,0 +1,1 @@
+I want to work on Orbot and Orfox this summer. Orbot is already well established but requires some UI changes to show more information about the tor connection. Orfox is a new idea, the aim is to implement a complete browser based on GeckoView which has been built by Mozilla. This would hopefully replace the current Orweb browser as the default browser that works with Orbot.

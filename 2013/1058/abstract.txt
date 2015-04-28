@@ -1,0 +1,10 @@
+The IIO ADC driver for the Beaglebone does not add /sysfs entries and the /dev/iio:deviceX entries are slightly broken.
+
+This project will involve patchwork for the ADC drivers. 
+After that, an hwmon driver will be developed for power measurement using the 7th ADC channel connected to the shunt register.
+
+Community members report touch screen drivers clashing with the free ADC channels. This will be investigated and fixed.
+
+These drivers,fixes and associated test applications will greatly help new comers and userspace application programmers to easily access the ADC on the beaglebone.
+
+PWM driver has a hack for adding sysfs entries. Clean sysfs support for the PWM driver api will be written

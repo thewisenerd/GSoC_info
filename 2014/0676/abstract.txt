@@ -1,0 +1,1 @@
+My project would be to implement functionality in Sage to compute the analytic rank of an elliptic curve exactly modulo standard conjectures, with better scaling than existing analytic rank estimation methods. This would necessitate both writing (significant amounts of) new Python and Cython code, as well as porting existing code into the Sage codebase.

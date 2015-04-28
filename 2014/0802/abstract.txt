@@ -1,0 +1,1 @@
+For my GsoC project, I want to add linear algebra algorithms to the core.matrix API that are highly efficient. The target is that they have performance comparable to best libraries in Java matrix benchmark.

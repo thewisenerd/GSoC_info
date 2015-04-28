@@ -1,0 +1,1 @@
+Creating a module for Kuali Mobility mobile application developed for City of Bloomington to provide Open311 services as offered by GeoReporter and configure it to run seamlessly inside the KME app.

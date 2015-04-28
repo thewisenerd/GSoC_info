@@ -1,0 +1,1 @@
+The purpose of this project is to bring a daemon to the GNOME desktop to help prevent phishing and malware attacks using the Google Safe Browsing API.

@@ -1,0 +1,1 @@
+This is a Joomla! Platform package with basic and advanced functions for each major social network which would help developers to reduce the time they have to spend when including such networks in their applications.

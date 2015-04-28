@@ -1,0 +1,1 @@
+The goal of my project is to extend MOSES so that it can support primitive recursive functions. To achieve this goal, list data type and fold operation need to be added to Combo and reduction rules on them need to be designed and implemented. The expressiveness of Combo will increase upon completion of my project.

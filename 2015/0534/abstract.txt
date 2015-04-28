@@ -1,0 +1,9 @@
+Sympy currently lacks a proper structure for handling and manipulating series. All the series related functionality is defined as methods in Expr. I plan to give the series package a concrete structure for future development and improvement. I plan to do the following over the summer.
+
+1 Sequence classes for defining sequences of coefficients
+
+2 Classes to represent series in general
+
+3 Implement Formal Power Series, using the above implemented structure
+
+4 Computing limits of sequences

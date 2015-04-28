@@ -1,0 +1,1 @@
+The main idea for this project is to add more tools and options to allow AChecker to evaluate conformance with various international accessibility guidelines for a collection of web pages and sub domains and so on. Output for new options will be a set of reports. Once these tools are added, current AChecker API will be extended to add these features to it.

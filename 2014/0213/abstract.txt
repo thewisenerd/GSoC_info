@@ -1,0 +1,1 @@
+Apache Thrift is a software framework which enables communication between servers and clients which use different languages, different protocols and different transports. The main purpose of this project is to extend the current Thrift cross language test suite to cover all client-server-protocol-transport-socket combination with a test case.

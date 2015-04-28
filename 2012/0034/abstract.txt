@@ -1,0 +1,2 @@
+This project aims to add NXLib functionality to RTEMS.
+This will allow applications written for X11 (libX11) to run on RTEMS Nano-X implementation.

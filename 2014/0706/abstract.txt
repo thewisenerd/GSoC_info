@@ -1,0 +1,1 @@
+This is an effort to produce text in different languages using reduced number of keys(6) as made possible by braille.

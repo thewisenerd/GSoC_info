@@ -1,0 +1,1 @@
+DXF is a popular format for CAD data storage and support of DXF read write should be provided in Dr. Geo. Aim of this project is to create a DXF Read/Write library in C to be integratable into Dr. Geo, which currently does not support it.

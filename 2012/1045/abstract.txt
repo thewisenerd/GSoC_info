@@ -1,0 +1,1 @@
+A framework for building Human-Machine Interfaces with Pharo back-end providing model, and presentation front-end in Amber.

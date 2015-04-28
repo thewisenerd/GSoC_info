@@ -1,0 +1,1 @@
+The goal of this project is to improve the osm2world GUI with modern OpenGL features.

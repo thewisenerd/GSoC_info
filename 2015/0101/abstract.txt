@@ -1,0 +1,5 @@
+AskFedora is a well known knowledge base to provide support for the Fedora users all over the world. It is also a support forum where we can question things and answer as well.
+
+The popularity of AskFedora with time has lead it to the point to have a complete UX and UI overhaul.
+
+This proposal gives a complete overview of how I am going to contribute in the complete redesigning process of AskFedora including my approach towards the project, and the tentative timeline.

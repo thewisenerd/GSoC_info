@@ -1,0 +1,1 @@
+The Android Client project proposed by OpenNMS is intended to offer the possibility of Android mobile users to maintain network management and monitoring of an unlimited amount of devices through their Android phone.

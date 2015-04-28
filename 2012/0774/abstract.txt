@@ -1,0 +1,1 @@
+We need to implement the Controller role of the 1.3 version of the specification of the AVRCP profile in which music metadata information, like artist name and track title, are added.

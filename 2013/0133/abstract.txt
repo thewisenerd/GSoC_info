@@ -1,0 +1,1 @@
+The goal is to improve and ensure the platform independence of Spec. Indeed, one of Spec goals is to generate widgets on multiple UI rendering framework (Morphic, Seaside, etc). The student could improve Spec by providing a set of widgets for multiple framework, and ensure the usability of Spec in different Smalltalk dialect.

@@ -1,0 +1,4 @@
+The purpose of the C++11 Migrator is to do source-to-source translation to migrate existing C++ code to use C++11 features to enhance maintainability, readability, runtime performance, and compile-time performance.
+-- http://blog.llvm.org/2013/04/status-of-c11-migrator.html
+
+The migrator is a young tool who still requires a lot of development. The proposed project consists of adding new transformations as well as to improve existing functionality.

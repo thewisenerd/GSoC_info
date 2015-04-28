@@ -1,0 +1,1 @@
+The project aims to improve the user interface and usability of QGIS for operations relating to application and customization of symbols, and add social symbol functions for easy symbol/style sharing.

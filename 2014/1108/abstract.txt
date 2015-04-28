@@ -1,0 +1,1 @@
+The goal of this project is to provide users with an Android app that assists them in measuring their body data for generating customized patterns. The measurements are taken according to standardized measure points which are usually used by tailors.

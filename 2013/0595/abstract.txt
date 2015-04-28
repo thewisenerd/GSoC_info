@@ -1,0 +1,1 @@
+Although WordPress.org has been enhanced both design-wise and feature-wise, profiles.wordpress.org did not see much love. Being a plugin developer and a core contributor, I would personally love to interact with the other developers, without feeling the need of leaving the .org ecosystem.

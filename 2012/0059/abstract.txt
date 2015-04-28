@@ -1,0 +1,1 @@
+The main objective of the project  is to extend the jpf-hmi project in order   to   support  human automation   interaction  patterns   and verification  of  their  properties  by  the Java  Path  Finder  model checker.

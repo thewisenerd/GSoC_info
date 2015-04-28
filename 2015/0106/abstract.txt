@@ -1,0 +1,2 @@
+In the first section I introduce strategies that should be considered when converting current image filters to the new SMP framework to achieve the best speed up.  These strategies cover both cache coherency as well as good data access patterns. 
+In the second section, I address potential enhancements of the SMP framework by introducing TBB/KAAPI specific functionality and discuses their advantages.  The final enhancement proposed is an upgrade of the current Iso-line implementation.

@@ -1,0 +1,1 @@
+The projects includes multicredit requests support implementation for SMB2.1 and higher versions of the protocol supported by CIFS module as well as creating a module build verification system.

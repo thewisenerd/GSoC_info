@@ -1,0 +1,1 @@
+This project concerns the creation of a high-level crypto API for Freenet. This will use JCA and BouncyCastle along with current cryptographic implementations of standards. This will help increase the speed and security of cryptographic functions in Freenet.

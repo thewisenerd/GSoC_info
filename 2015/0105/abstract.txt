@@ -1,0 +1,1 @@
+The cross-platform getting-started app will provide a tool for new users, that allows an easy and fast configuration of Beagle boards. Inexperienced users get the chance to start using Beagle quickly and most importantly hassle-free, allowing them to experience Linux and embedded systems.

@@ -1,0 +1,2 @@
+Collaborated with the MDN Team squashing over dozen bugs under the mentorship of David Walsh.
+The UI/UX improvements and features implemented during the project directly contributed to MDN reaching 700 active editors/translators in July.

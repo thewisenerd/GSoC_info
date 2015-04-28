@@ -1,0 +1,1 @@
+This project tends to implement advanced source code instrumentation that will help the Linux Driver Verification project to formalize new correctness rules and verify Linux kernel drivers against them more efficiently with less human effort. This in turn will allow to find new real bugs in drivers and make them better and more reliable.

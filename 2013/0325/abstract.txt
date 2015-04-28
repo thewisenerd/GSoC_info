@@ -1,0 +1,1 @@
+Workflow Foundation 4 is a framework for implementing workflows in .NET programs. This is a proposal to implement a significant part of the runtime necessary to bring an open source implementation to mono.

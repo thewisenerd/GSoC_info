@@ -1,0 +1,1 @@
+Combining of two or more RelEx feature graphs, can be used to extract relationshionships/ conclusions of  two or more sentences, This need a service of a logical reasoner to achieve the task. The Probabilistic Logic Network(PLN) is a systematic framework designed to carrying out reasoning under this kind of situation is a tool which can be used for above task.

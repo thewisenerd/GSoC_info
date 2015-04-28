@@ -1,0 +1,9 @@
+Wants to learn about parser first (libgpo), then 
+Create thread upon startup
+Use parser to check for anything important to Samba
+If so, update database, else continue scanning.
+Only take meaningful information. 
+Lots of testing. 
+Multithreading for efficiency?
+
+Note: Just heard about summer of Code recently. Highly interested, did not have luxury of having a lot of time, had done research on Samba - Very interested.

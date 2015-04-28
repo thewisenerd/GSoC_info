@@ -1,0 +1,2 @@
+I am introducing WebRTC supporting for Open Meetings. These include adding WebRTC data
+channel and binding it with Red5 server.

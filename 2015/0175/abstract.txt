@@ -1,0 +1,5 @@
+Summary: Development of the MalariaPrevention application for iOS devices.
+
+I am currently developing iOS applications in FenixEdu in swift using a public RestAPI. The content of this proposal includes an url containing screenshots and code snippets in swift. Throughout my life I did voluntary work and the opportunity to enrol in a big project where my skills could be in good use makes this project very interesting to me. 
+
+The planning is described below in the content of this proposal.

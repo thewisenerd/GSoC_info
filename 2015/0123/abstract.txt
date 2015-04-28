@@ -1,0 +1,5 @@
+Developing a bridge that connects FreeSWITCH and the CiviCRM to make and receive calls. The bridge will be in a form of an open source plugin which can be installed and hence enabling the CRM to communicate and route calls through FreeSWITCH running in background.
+
+The outgoing calls can be made by by clicking the users phone number that appears in the form of a hyperlink.
+
+Also, updating the call detail records in CiviCRM either automatically or manually.

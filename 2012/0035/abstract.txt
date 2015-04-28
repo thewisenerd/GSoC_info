@@ -1,0 +1,1 @@
+Project consists in porting existing applications to the Windows Phone 7 platform. The application is to create, edit, and exchange of shopping lists. User will be able freely create and manage lists and share them with other users via SMS, e-mail, and store the data in the cloud.

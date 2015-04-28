@@ -1,0 +1,3 @@
+I am proposing a learning architecture that can perform spatio-temporal inference over sequences of images. The proposed algorithm combines heirarchical unsupervised feature learing and the DeSTIN spatio-temporal inference architecture. 
+
+The proposed approach uses AutoEncoders learn spatial features and an LSTM RNN for capturing the temporal aspect of the basic belief update of DeSTIN.

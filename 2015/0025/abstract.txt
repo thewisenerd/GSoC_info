@@ -1,0 +1,3 @@
+Summary
+
+The goal of my project is to cohesively combine Interactive-spaces and haptic-technology for an enriched user experience. Interactive Spaces gets augmented with the tactile feedback system of Ultrahaptics where the user can "tactically" interact with the virtual world created by the Interactive Spaces technology. This is what I call Inter-Haptics where virtual projections can be "touched" and "felt" by the user without any need to wear or touch anything.

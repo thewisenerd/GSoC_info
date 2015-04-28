@@ -1,0 +1,11 @@
+Statsmodels is a pure Python-based statistics and econometrics package 
+that has drawn significant attention from applied practitioners from 
+the fields of Finance, Economics and social sciences. Many of the 
+basic econometric methods have been developed. In addition some 
+impressive work has been done in developing the time series methods, 
+VARs, and DSGE models to name a few. This GSoC I intend to develop the 
+nonparametric capabilities of statsmodels by focusing in particular on 
+data-driven bandwidth selection procedures, conditional and 
+unconditional multivariate probability and cumulative density 
+estimation and implementing popular nonparametric and semiparametric 
+regression models.

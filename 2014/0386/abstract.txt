@@ -1,0 +1,1 @@
+The goal of this project is going to develop a merge tool based on existing SPDX framework. The Merge tool will generate a single SPDX document from two SPDX documents. The output document will be in a standard RDF file, which matches SPDX documentation requirements.

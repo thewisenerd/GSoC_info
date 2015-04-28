@@ -1,0 +1,1 @@
+This project is to integrate Spotify collection and music streaming into Amarok. So that users can login into Spotify, access their playlists and stream & play music through Amarok.

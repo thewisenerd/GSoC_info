@@ -1,0 +1,1 @@
+Build sensor drivers and implement sensor fusion to help prepare an open-source flying quadcopter platform developed by the Portland State Autonomous Vehicles Team for its initial public release. The system is intended to support research, education, and civilian aerial vehicle development.

@@ -1,0 +1,1 @@
+Last year Maciej Czerwiński started work on repository for Creative Commons-licensed reviews - CritiqueBrainz project. He implemented core functionality: storage, API, and web interface. During Google Summer of Code 2014 I'd like to continue his work, finish and deploy the project.

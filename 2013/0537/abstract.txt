@@ -1,0 +1,1 @@
+Space Top Trumps, aims to create a basic prototype of a fun and interactive Android game for children ages 6-12 to learn about space vehicles. It should be able to be expanded and improved on to accommodate more card sets from various institutes like NASA and so forth.

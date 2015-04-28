@@ -1,0 +1,3 @@
+To create a fluid Android apk controller for the Liquid Galaxy. This user interface will have two main sections: POIs and TOURs selector, Search by on screen keyboard and voice.
+
+There will also be a Management Tool protected by a pin.

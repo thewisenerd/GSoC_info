@@ -1,0 +1,1 @@
+This project will provide an alternative  implementation of the Marmotta Linked Data Platform (LDP) service based on SPARQL 1.1, inspired by the Marmotta JIRA issue: https://issues.apache.org/jira/browse/MARMOTTA-444

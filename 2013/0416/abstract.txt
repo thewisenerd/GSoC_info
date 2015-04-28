@@ -1,0 +1,1 @@
+Improve ePub rendering and some usability enhancements in Okular

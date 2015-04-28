@@ -1,0 +1,3 @@
+pgRouting is a software which provides geospatial routing functionality which needs data to work upon and OSM data is the most popular road network data.
+We want to use OSM data more frequently and effectively in this software via 'osm2pgRouting' tool. There is a current implementation of this tool which can be improved with various new features added to it.
+We will use OSRM EXTRACT procedure and configuration settings to import OSM data into our existing PostGreSQL database

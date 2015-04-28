@@ -1,0 +1,1 @@
+New Maltese-Arabic language pair, providing Maltese-to-Arabic translation.

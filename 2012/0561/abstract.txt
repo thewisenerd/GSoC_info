@@ -1,0 +1,1 @@
+Digikam is a very nice photo management program. This project will add face recognition feature in digikam and will make it more user-friendly. The target is to implement a efficient face recognition algorithm and a nice user interface for the user so that they get a nice feeling using it and the user can train the system with their interaction.

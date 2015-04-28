@@ -1,0 +1,1 @@
+A plug-in for the Geeklog CMS which would enable users to submit translations.

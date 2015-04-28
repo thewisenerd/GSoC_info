@@ -1,0 +1,1 @@
+The IMCE (Images for Moxi Code Editor) module is an Image file manager that can be used to upload image files (jpg, png, gif), resize them and create thumbnails and previews. This highly used module needs to be tested and possibly modified to be compatible with Drupal 8, once users begin to administer Drupal 8 in the near future.

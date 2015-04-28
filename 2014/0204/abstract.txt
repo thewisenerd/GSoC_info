@@ -1,0 +1,1 @@
+My proposal is about integrating a truely lazy operator for connected components into ilastik, lazyflow and vigra. This new operator would make use of both the graph/operator framework for ease of use and the vigra library for efficient computation.

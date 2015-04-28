@@ -1,0 +1,1 @@
+Git-review will be a command-line code review tool for developers and teams working on projects on Github. You can do code reviews and mange pull requests and discussion all in the terminal.

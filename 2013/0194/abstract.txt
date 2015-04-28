@@ -1,0 +1,29 @@
+The Smalltalk IDE contains an advanced debugger that allows the programmer to explore and change the program as it is executing.
+
+Over the last years, the Smalltalk community has realized a number of experiments and libraries that, taken together, form a powerful core of a new, even more advance debugger subsystem:
+
+a new Debugger Model
+a first graphical user interface for this model
+an AST (Abstract Syntax Tree) interpreter
+research in the direction of Object Centric Debugging
+The goal of this internship is to take the exiting code and build a new debugger infrastructure.
+
+Technical Details
+
+To solve this problem, the student will have to:
+
+implement a user interface using the Spec framework
+extend the AST Interpreter to support debugging (e.g., single step execution)
+extend the debugger model to use the AST interpreter
+integrate with Object Centric Debugging
+Benefits to the Student
+
+learn about Abstract Syntax Trees, Debuggers and IDEs.
+learn about advanced concepts of language implementation.
+learn about design and implementation of debuggers for dynamic languages
+understand how programming languages and IDEs are implemented;
+integration into a prolific community, fond of software development and programming languages;
+potential integration as a master and/or PhD student within research groups of the community around the world (France, Switzerland, Chile, Belgium, Argentina).
+Benefits to the Community
+
+For the Smalltalk community, the current debugger is an indispensable tool for daily development. An improved debugger will have a direct impact on the productivity of every developer and will, last but not least, support the development of Smalltalk IDEs themselves.

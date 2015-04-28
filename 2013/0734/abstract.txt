@@ -1,0 +1,3 @@
+The goal of this project is to push the shoes4 project as close as possible to a 1.0 release. Therefore the missing features of the Shoes DSL will be implemented.
+
+A focus is on not breaking the interface, since old shoes programs should still run. Backwards incompatible changes will only be made for consistency reasons or bug fixes.

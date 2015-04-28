@@ -1,0 +1,1 @@
+Krita currently has a limited set of classic filters . However there are problems with the current filter implementations, for instance in the edge-detection filters. Also, there are some important filters which are absent and need to be implemented in Krita like Color Balance, Spot Blur, Match Color, Wavelet Decompose Filter, Screen Gradient.

@@ -1,0 +1,2 @@
+Using the embedded python interpreter within Py_initialize() and Py_finalize() or in the form of a sub-interpreter, should not leak memory inside the current process and also not share state of objects inside imported modules among other interpreters. Because of the current implementation of a majority of python extension modules, this is not the case.
+This proposal presents a possible refactoring of all the affected extension modules inside the python standard library to solve this deficiency.

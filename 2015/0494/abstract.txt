@@ -1,0 +1,1 @@
+Exact Probabilistic inference is generally intractable in complex models and often yields as a hard optimization problem. Here we will try to implement the two of the most famous approximate algorithms namely: the Linear Programming Relaxation method and the Cutting Plane method for inference in probabilistic graphic models.

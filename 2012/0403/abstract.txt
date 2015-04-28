@@ -1,0 +1,1 @@
+The goal of this project is to create a graphical debugger of parser combinators. This will be useful both as an educational tool for people learning about parser combinators as a visual aid, as well as programmers having problems with their particular parsers for whom the debugger will make it easier to spot how their parser behaves 'in the wild'.

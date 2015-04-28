@@ -1,0 +1,11 @@
+The necessity of having a chart-drawing tool integrated with Roassal is increasing day by day. Graph-ET is a tool that allows the user to create and draw charts with small and expressive Smalltalk instructions. The user may enter a large variety of entries, and the program with parse it to fit the users need. For example, the user may use a domain of words and visualize the length of those words with just two lines of code. The nice thing about Graph-ET is that it’s very simple to see results also the interface allows the user the play with their charts in a
+variety of ways. The idea is having a kind of EyeSee but with Roassal as rendering and adding more power of desition to the user.
+
+
+Graph-ET is a software that needs to draw to work, for that it mainly uses Object Profile’s Roassal to make the drawing and the interaction work.
+
+
+The student will learn a lot more of Smalltalk and Pharo environment. Also he will learn some chart visualization and learn to solve all the problems that come with it. Not to mention learning entry parsing. Mainly he will face with serious and critical decisions that will change the fate of his program, but that will mean significant learning process for him.
+
+
+The community will have the pleasure of making fast charts with small and expressive instructions; this will lead to a more simple way of making and drawing charts. The users of Roassal will enjoy a tool that fit their needs and that work well with the software they already own.

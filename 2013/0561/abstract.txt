@@ -1,0 +1,1 @@
+Gtranslator is an very used application but it has lots of bugs and it has an important lack of maintenance. The idea is redesign the whole application and implement the resulting design in Vala. With this redesign we will fix the major bugs of the current version and the new program language will probably attract new developers to the project.

@@ -1,0 +1,1 @@
+As an ED provider, the project is to have tool to triage patients when they enter the Emergency Department. This tool would consist of a series of questions regarding symptoms and vitals signs that would result in a triage categorization of Red, Yellow or Green.

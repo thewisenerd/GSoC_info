@@ -1,0 +1,4 @@
+The Basic Project Road-map consists of 2 Phases :
+(( 1 ))   Given the switch to Gnome-3 based environments based on Gobject of late (this trend is expected to accelerate as adoption grows) and the fact that Samba 4 nears completion it is likely Samba-Gtk will definitely see a sudden surge in adoption among new users.Given the above circumstance it will be prudent to port this application to Gtk-3 and move away from pygtk2 that will eventually be deprecated as its gradually phased out.
+ (( 2 ))   The second phase consists of building a tool tool for for managing the participation of the machine in a domain. This could prove to be an extremely useful utility to a large number of users to deal with domain joins and merges .  
+These two Implementations will ensure a complete , modern and stable  suite  for average users to easily manage and configure Samba and other compatible SMB2 clients.

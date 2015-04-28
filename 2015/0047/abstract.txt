@@ -1,0 +1,1 @@
+The goal of this project is to add support for type checking transient data structures and the functions which use them (assoc!, conj!), by adding the required type annotations used for type checking and document the issues that arise while trying to express the types for transient data structures.

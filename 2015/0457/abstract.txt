@@ -1,0 +1,3 @@
+Ideal solutions (ideal-gas and ideal-solution mixtures) are the starting point for thermodynamic modeling of multicomponent mixtures.  This project will add ideal-gas and ideal-solution capabilities to the FPROPS library, and prepare for future implementation of non-ideal (real) mixtures.
+
+Existing FPROPS facilities for calculating pure-component properties will be used to find pure-component properties.  These are then aggregated to calculate ideal-gas or ideal-solution mixture properties.

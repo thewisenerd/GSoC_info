@@ -1,0 +1,1 @@
+Currently the SOS web app lacks the access control mechanism for different roles of users through this edition of GSOC i intent to enhance the current security for SOS by adding the access control for admin user and implementing the same for SWE client

@@ -1,0 +1,1 @@
+A reference implementation of the JTAPI (Job Ticket API) standard in C.

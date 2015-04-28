@@ -1,0 +1,1 @@
+I will finish PySoy's Android client (SweetSoy) and HTML5 browser plug-in client (WebSoy) so they are ready for general use. Basic, but unusable, clients for both platforms are already implemented.

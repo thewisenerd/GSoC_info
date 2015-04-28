@@ -1,0 +1,3 @@
+An automatic speech recognition system uses language models as well as acoustic models of speech sounds. These language models are constructed by using machine learning algorithms on very large text corpora. Performance of the model is closely related to the amount and style of text data. Obtaining large amount of data for a certain domain to increase performance of the model is an expensive task, as domain-specific spoken text corpora is generally sparse. Using automatic means to extract additional text from the World Wide Web is a popular approach for solving this problem.
+
+In this project, a web crawler that extracts additional language model training data from the web for a given domain was implemented.

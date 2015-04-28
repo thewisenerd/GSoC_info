@@ -1,0 +1,2 @@
+MCS lock is a well-known synchronization protocol, which scales much better than spin locks. However, 
+The current lock protocol in Plan 9 kernel is based on spin locks. This work proposes to replace the original lock implementation with MCS lock, but the interface of MCS lock is compatible with the current implementation.

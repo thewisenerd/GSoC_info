@@ -1,0 +1,5 @@
+My proposed idea for Funf.org is a combination of two ideas: (i) to build a framework for supporting probes to collect data from external peripheral devices, and (ii) to support high bandwidth probes, eg. photo, video and audio probes.
+
+Although both ideas cannot be implemented in 3 months, I am looking forward to being assigned either one of the two projects, or a combination of the two. (See full proposal for details.)
+
+Both of the ideas excite me, as they will provide a platform for accessing, storing, processing and uploading a range of data formats, from a variety of input devices/sensors. This will increase the reach of the Funf framework and enable a lot of interesting applications to built upon this platform.

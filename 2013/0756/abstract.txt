@@ -1,0 +1,1 @@
+The aim of the project is to develop security measures that can be applied for the mobile application to secure working with data from the OpenMRS platform for both online and offline access.

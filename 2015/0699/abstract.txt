@@ -1,0 +1,2 @@
+The ntp.conf comes pre-shipped with the package ntp, and configures the parameters for the ntp daemon, which helps it sync with the right servers in the right way. However, the ntp.conf is not always written in a way that is correct / efficient.
+    Hence, I propose to make a web-based ntp.conf web-portal that will parse an uploaded ntp.conf and generate a clean ntp.conf based upon a choice based system.

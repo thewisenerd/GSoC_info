@@ -1,0 +1,1 @@
+STEP is the current standard for exchange of CAD data between different software packages. BRL-CAD makes use of the NIST STEP Class Libraries code to support its step-g converter, but this source code was written before many current C++ standard practices and libraries were finalized. As a consequence, it needs both cleanup and performance enhancements.

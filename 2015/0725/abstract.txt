@@ -1,0 +1,1 @@
+Many open source boards have been developed out of which only some have the full support of the freeBSD kernel.  This project aims to provide support for some pheripherals which are currently not supported by the freeBSD kernel for CubieBoard1 which is based on AllWinner A10 SoC

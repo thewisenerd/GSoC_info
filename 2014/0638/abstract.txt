@@ -1,0 +1,1 @@
+Implement REST api for various hardware features of Raspberry Pi with Duda IO, implement JavaScript around the REST api, and use it to make Raspberry Pi Dashboard in AngularJS. Provide good documentation for all of them.

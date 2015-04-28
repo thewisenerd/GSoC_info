@@ -1,0 +1,1 @@
+CTL is the FreeBSD SCSI target layer. SCSI is a storage protocol. There are various SCSI commands, but it's usually used for block-level access. This projects focuses on making CTL capable of emulating CD/DVD ROM, which means following three things : 1) Implementing virtual CD-ROM. 2) Implementing virtual tape. These two includes storing CD/DVD or tape content.

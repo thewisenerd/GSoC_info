@@ -1,0 +1,1 @@
+I'm very interested in MINIX 3 and I have experience with GNU toolchain. my programming experience is well matched with this project. In this project, I will port GCC 4.7.0, binutils 2.22, and GDB 7.4 to MINIX, after that, I will upstream the changes to GNU.

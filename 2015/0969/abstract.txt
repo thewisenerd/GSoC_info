@@ -1,0 +1,1 @@
+My project focuses on building a software that can easily identify famous personalities in a video using semi supervised learning techniques.

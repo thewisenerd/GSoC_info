@@ -1,0 +1,3 @@
+The project goal is to port CRuby to OSv, and support Ruby applications on top of it.Additionally, I want to provide these things:
+ (1) Ruby application target on OSv module infrastructure, which provides a way to use gems in OSv
+ (2) A Ruby application sample witch using the target

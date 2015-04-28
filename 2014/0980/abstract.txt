@@ -1,0 +1,1 @@
+Implement Sahana Sunflower as a Sahana Eden template that will be used by the Sahana Software Foundation (SSF) as a community management and coordination tool.

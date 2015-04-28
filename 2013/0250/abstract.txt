@@ -1,0 +1,1 @@
+Given a planar graph G = (E,V), one of its faces f, and a shortest path tree T rooted somewhere on f, implement an algorithm to efficiently modify T to obtain the shortest path trees for the other vertices on f.

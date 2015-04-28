@@ -1,0 +1,1 @@
+A proposal to enhance the present 'Raxa_Voice_SMS' module to support followups via call and SMS as per user preference. Additional improvements such as Automatic Speech Recogniotion (ASR), local language translation as well as call recording functionality are proposed.

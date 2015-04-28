@@ -1,0 +1,5 @@
+The project proposal would be to expand the solution engine to include two of these important features.
+
+1.Solving system of Ordinary Differential Equations
+
+2.Solving non classifiable second order Ordinary Differential Equation using Maximal Symmetry Groups

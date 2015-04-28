@@ -1,0 +1,1 @@
+Amahi 8 is what's next. The project Aims to introduce new features, migrate to upgraded technology, make amahi platform more secure and robust. Providing support for mobile apps API and creating an amahi plugin system, where PHP, Python, Node, and other modern webapps can be easily integrated.

@@ -1,0 +1,2 @@
+The goal of this project is to speed up the darcs changes and darcs annotate commands using a cache called “patch index”.
+The slow speed of these commands is one of the major user grievance in darcs. Patch-Index data structures can quickly identify the patches that modified a given file.

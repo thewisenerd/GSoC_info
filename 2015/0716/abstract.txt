@@ -1,0 +1,1 @@
+This proposal adds support for capturing build statistics and adds graphing support for them using infuxDB and Grafana. Also, this adds support to enable users to gather arbitrary build statistics.

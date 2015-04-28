@@ -1,0 +1,1 @@
+The objective of my project is to develop a JavaScript framework which allows developers to write sugar activities in HTML5/JavaScript.

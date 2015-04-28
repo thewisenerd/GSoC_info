@@ -1,0 +1,1 @@
+There is a need in Apertium for most released pairs and the ones to come: better part-of-speech (POS) taggers. Training supervised taggers has never been a waste of time but all the opposite but with a better UI to tag corpora we will be able to get more people working on the proyect as disambiguators

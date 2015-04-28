@@ -1,0 +1,1 @@
+The project would aim to extend the current bridges between Cloudstack and EC2/GCE, add APIs not currently covered and fix existing bugs.

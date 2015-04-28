@@ -1,0 +1,3 @@
+Motivation: We want contributing to the openSUSE community more fun!
+
+Solution: The project involves implementing the Karma concept on openSUSE Connect. The basic motivation is similar to the ‘Reputation’ score on StackExchange. On Connect, the users would gain Karma by completing bug-fixes, Wiki entries, posts to the openSUSE planet, helping others on mailing lists, promoting openSUSE events on Twitter, etc. People can also send positive Karma across to others who have been supportive. On completion of certain activities, users would be awarded badges.

@@ -1,0 +1,13 @@
+Scala Parallel Collections [1] are a proven data-parallel programming API for writing parallel applications on the Java Runtime Environment. They automatically parallelize bulk operations such as filtering, mapping, grouping or traversal of elements. The entire framework is extensible with new collection implementations and, since the upcoming 2.10 release, modular in the scheduler implementation [2].
+
+Programs written in Scala are compiled to the JVM bytecode, and thus easily ported to the Android platform [3][4]. The Scala development on the Android is gaining more and more traction for this reason. With the arrival of multicore devices on the Android platform, parallel collections are becoming increasingly interesting to Android developers as they can bring significant speedups to existing applications.
+
+There are several goals in the proposed project:
+
+* First, to improve the build system for Scala development on Android.
+* Second, to port parts of the Fork-Join framework relevant for the existing parallel collection scheduler to the Android platform.
+* Third, to implement a version of the scheduler which is more suited for datasets for which the amount of work-per-element is skewed.
+* Fourth, to implement a set of additional primitives for the parallel collections framework which are relevant for Android apps.
+* Finally, evaluate the performance of parallel collections on the Android platform and produce a detailed report on this.
+
+These items are explained further below.

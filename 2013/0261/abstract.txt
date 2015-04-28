@@ -1,0 +1,3 @@
+I would like to implement the bend minimization algorithm for planar graphs with maximum degree 4, where the first bend on each edge is for free and the cost function of each edge is convex.
+
+The algorithm will be integrated into the orthogonal drawing framework.

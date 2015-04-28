@@ -1,0 +1,2 @@
+The project is about approach that allows to accelerate digital signal processing passing part of the work to reconfigurable hardware, namely FPGA, to use benefits of parallelization. 
+I would like to improve usage of FPGA by writing proposed linux kernel module, which makes run-time decisions whether to use hw-abilities to accelerate some signal processing.

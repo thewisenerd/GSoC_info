@@ -1,0 +1,5 @@
+The aim of the project is to equip JuliaQuantum libraries with solvers used in quantum mechanics. 
+Goals of the project include:
+1.Framework to solve Schrodinger and Quantum Master Equations by Exponential solvers, ODE solvers, Monte Carlo Wave Function Method, Steady State Methods.
+2.Parallelizing some of the above tasks using the existing infrastructure for parallel computing features in Julia.
+3.In the course of integrating other packages, contribute back to improve their functionality.

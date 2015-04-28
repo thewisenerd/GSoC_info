@@ -1,0 +1,1 @@
+The proposed book upload customization for the Extension:UploadWizard would be activated as a as a UploadWizard Campaign. This book upload customisation would make appear buttons to import books and book metadata from external sources. More information on: Wikisource:Book uploader.

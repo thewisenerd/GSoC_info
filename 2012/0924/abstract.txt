@@ -1,0 +1,1 @@
+A .NET framework based client for accessing infinispan servers via Hot Rod wire protocols.

@@ -1,0 +1,1 @@
+Writing bindings is a tedious and disencouraging task. Therefore this project aims at automizing the creation of bindings with GObject introspection data provided by most GNOME libraries through extending the bindinator project which converts the introspection data to gapi. This proposal would considerably making things easy compared to writing bindings manually.

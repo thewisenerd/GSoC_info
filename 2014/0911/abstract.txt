@@ -1,0 +1,1 @@
+Creating »Internet of Things« applications can be challenging, having the right tools for the process is vital. I will contribute a MQTT debugging application running with web technologies in Google Chrome to the M2M-Eclipse community. The application can be installed as a native application on any platform supported by »Google Chrome offline Web App«.

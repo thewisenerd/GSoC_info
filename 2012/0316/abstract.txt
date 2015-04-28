@@ -1,0 +1,1 @@
+I would be extending PluginEngine to use the Torrc class and implement the hidden service configuration panel as a plugin. I would also be creating the bandwidth scheduling plugin.

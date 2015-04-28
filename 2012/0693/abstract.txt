@@ -1,0 +1,1 @@
+LSB Navigator is a very convenient tool useful for both LSB users and developers. The main aim of this project is to redesign LSB Navigator to be DBMS-independent so underlying DBMS can be easily changed if needed (e.g., due to performance/scalability issues).

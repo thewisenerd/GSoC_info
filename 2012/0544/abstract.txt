@@ -1,0 +1,2 @@
+The aim of this project is to port some of the plasmoids that are currently written in C++ to QML.
+A great advantage in porting it is reduce the code maintenance effort for the KDE community. The plasmoids written in QML will have considerably less code as QML allows the creation of fluid UIs in a powerful declarative way.

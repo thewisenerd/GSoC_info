@@ -1,0 +1,1 @@
+The main goal is to port Ascend application to Gtk3, add installer for Windows users and implement functionalities, which are not available in GUI now.

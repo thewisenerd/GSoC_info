@@ -1,0 +1,3 @@
+Originally, KIO-Slaves was implemented to run database queries in a separate process to prevent problems with SQlite.
+Since SQlite support queries from separate threads, KIO-slaves can be dropped, and a new API can be implemented using pure Qt threads API.
+This will improve digiKam portability, and permit adjusting CPU cores assigned to database processes efficiently.

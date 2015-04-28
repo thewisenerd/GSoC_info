@@ -1,0 +1,8 @@
+(1) Stateful Browsing with configurable authentication
+
+It will provide the ability to maintain session state, distinguish user sessions and identify authentication flaws and additionally improve OWTF testing code coverage to the authenticated portion of the website.
+
+(2) Python version upgrade and compatibility
+ - Most Linux distributions are moving to default python
+ - Python 2.7 is the end of the python2 line.
+ - python 3 is cleaner and easier

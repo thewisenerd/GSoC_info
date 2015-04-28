@@ -1,0 +1,3 @@
+FlowVisor currently relies on a SQL database for storing and persisting it's configuration. This is quite complicated and requires a lot of extra code to handle all the database accesses. More importantly, handling updates to the database requires FlowVisor to update the database schema which can be limiting and error prone. Finally, the current backend requires that all request come from the same JVM and incurs a performance hit on the overall system.
+
+The idea of this project is to replace this backend with a NoSQL storage to allow easier handling of the configuration and more flexibility in retrieving the configuration information.

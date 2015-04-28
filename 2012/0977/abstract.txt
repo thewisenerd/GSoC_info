@@ -1,0 +1,2 @@
+A new lockdown editor for GNOME software, which replaces Pessulus and is easy to use for system administrators. It will have presets for common lockdown scenarios, such as kiosk mode.
+The work will include writing a new lockdown editor and patching software to implement the needed lockdown features.

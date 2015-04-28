@@ -1,0 +1,3 @@
+This project will be about implementing the new MVC layer that was introduced into the Joomla platform back in 2011 and making the extensions based on the work by Buddhima to com_config and com_templates in GSOC 2013.
+
+The aim is to have the com_content, com_contact, com_newsfeeds and com_weblinks components using the new MVC layer and to have the core classes available to extension developers in the libraries/cms folder so people can start building components for Joomla 3.5.

@@ -1,0 +1,2 @@
+Engineers at CERN write scientific code which has to run fast in order to process the Petabyte of data which their experiments produce daily.
+For this to be possible, their code has to be analyzed and improved at assembly level. To come in the aid of this, I plan to develop an interactive web-app which will let the programmers easily browse through binaries and understand the control flow of a program. This project also includes an eclipse plugin which will provide unit testing functionality.

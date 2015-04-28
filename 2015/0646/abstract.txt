@@ -1,0 +1,8 @@
+Design and implement a high level library (HLAPI) based on tox4j targeting the JVM.
+
+The idea here is to create a layer of logic between the low level API and the 
+concrete client implementation. It should handle all the aspects of Tox that a
+client should support, including buddy lists, user informations, file transfers and chat logs.
+
+It should be platform-independent (no direct file I/O, for instance), run on the JVM
+and be easily useable from Java.

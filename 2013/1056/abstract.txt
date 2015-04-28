@@ -1,0 +1,1 @@
+This proposal is to work on the proposed project idea for improving the XBMC database

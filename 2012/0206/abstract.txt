@@ -1,0 +1,7 @@
+BRL-CAD already offers the possibility of generating geometry hierarchies corresponding to .g databases. These can be eventually interpreted through images. However, the purpose of this project is to provide more than this: an interactive graph editor that allows the user to modify the .g database by interacting with its displayed graph.
+
+In Constructive Solid Geometry a hierarchy is shaped as a tree which is in fact a directed acyclic graph. Thus an automatic graph layout API would be useful for representing the hierarchical structure of the .g databases.
+
+The visual layout will be built with interactive Tcl/Tk widgets. It will use graph algorithms in altering the graph structure as well as the .g geometric structure, as the user modifies the visualized graph.
+
+In the end, this graph based visualization should be part of BRL-CAD's model editing tools MGED and Archer.

@@ -1,0 +1,7 @@
+This project comprises two parts.
+
+For the first third of the summer, I will implement a core architecture for streaming Twitter data, detecting Tweets related to censorship, and extracting the URLs or domain names that are censored.
+
+For the remaining two-thirds of the summer, I will focus on three extension goals. First, I will develop a semi-automated learning algorithm that updates the follow and track parameters on each stream on a daily basis in order to capture more censorship-related Tweets. Second, I will duplicate the Twitter architecture for Sina Weibo. I can implement the technical model quickly, but I will need to consult language experts to ensure that I sample the microblog stream correctly. Third, I will extend Herdict's goal of crowdsourcing censorship monitoring by developing a web form similar to the Herdict Reporter test form, which allows users to test whether sites are censored in their region.
+
+The technology stack includes Python, MongoDB, Redis, and Ruby on Rails.

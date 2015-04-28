@@ -1,0 +1,1 @@
+Objective of this project is to dynamically discover all BEs during bootup and present them all to user for selection. A selected BE could then be passed to next stage of bootloader for booting up the system.

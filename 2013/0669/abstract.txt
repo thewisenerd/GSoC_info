@@ -1,0 +1,1 @@
+To implement the OpenGL extension GL_EXT_direct_state_access, which adds entrypoints that allow code to query and modify state without the cumbersome query-bind-modify-rebind cycle required by vanilla GL.

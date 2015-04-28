@@ -1,0 +1,1 @@
+A GUI based code editor for writing Siddhi queries in WSO2 CEP. This will be a web based solution which allows users to write Siddhi Queries which have code highlighting, code completion and syntax error highlighting

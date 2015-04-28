@@ -1,0 +1,1 @@
+Pwnypot client has currently no interface to let it receive tasks for automated analyses and to send results. The project's goal is to extend Pwnypot and Cuckoo to cooperate. Cuckoo should be used as the managing application to send tasks to Pwnypot agents and also receives, logs and stores the results.

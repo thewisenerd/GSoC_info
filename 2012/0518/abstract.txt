@@ -1,0 +1,2 @@
+A good recap of the project could be found in this blog post:
+http://kroosec.blogspot.com/2012/08/google-summer-of-code-with-nmap-recap.html

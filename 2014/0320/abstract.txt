@@ -1,0 +1,1 @@
+PhpMyAdmin is the most popular MySql management tool and and has a long history. SQL query window needs to be replaced, also on the GSOC 2014 ideas list. A query console at page bottom with query history, query and  PMA log, that is my proposal.

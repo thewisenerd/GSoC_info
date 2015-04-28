@@ -1,0 +1,1 @@
+This proposal consists of the following: Development of Java-based Cytoscape App Manager for supporting simple and OSGi-bundle based apps, development of WebGL-based renderer for Cytoscape Web along with possible addition of layout algorithms, testing of changes to Cytoscape presentation API by porting OpenGL-based 3D renderer into OSGi-based plugin or Cytoscape app.

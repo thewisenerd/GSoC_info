@@ -1,0 +1,3 @@
+Amarok has the ability to import personal track metadata (playcounts, ratings, played time) from Amarok 1.4 and iTunes databases. The StatSyncing framework has since been added to the codebase and serves as a perfect base for a rewrite of importers, offering significant advantages over the old implementation.
+
+The main goal of this proposal is to rewrite Amarok 1.4 and iTunes importers to use StatSyncing framework and to implement two new importers - for Amarok 2.x and Rhythmbox.

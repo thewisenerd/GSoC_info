@@ -1,0 +1,1 @@
+Pagemaker is available but not actively marketed as desktop publishing application.Import of Pagemaker files is unsupported by LibreOffice suite that I know of, substantially hindering migration of end users to other software. I intend to change that by writing a Pagemaker import filter for LibreOffice that is as complete, correct and bug-free as possible.

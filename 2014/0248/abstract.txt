@@ -1,0 +1,3 @@
+A complete Editing Mode is extremely needed inside Marble. 
+
+Having implemented a tool of such high demand in any exploring software would fill a gap in Marble's accessibility and make it more reliable. As a result, the satisfaction of the actual users will increase significantly and it will undoubtedly help popularize Marble and provide the basis of easy integration on a large scale with other international standards.

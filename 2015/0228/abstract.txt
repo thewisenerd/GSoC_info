@@ -1,0 +1,1 @@
+In the following proposal i intend to give an overview regarding the implementation of a simple Scheduler which will be able to automate astrophotography sessions based on some limitations and constraints given by the user.

@@ -1,0 +1,1 @@
+A great advantage in porting it is reduce the code maintenance effort for the KDE community.

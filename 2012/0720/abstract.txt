@@ -1,0 +1,1 @@
+This project aims to update OLVER Core Test Suite state to be consistent with modern versions of LSB and up-to-date Linux distributions.

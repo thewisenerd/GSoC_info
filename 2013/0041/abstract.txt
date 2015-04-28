@@ -1,0 +1,1 @@
+Apertium Turkish-Uzbek is a MT system based on Apertium framework to automatically translate tr->uz

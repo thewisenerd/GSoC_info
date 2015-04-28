@@ -1,0 +1,5 @@
+Implementing particle engine in a library-like fashion, using existing game's graphic functionality and SDL library.
+
+Final version of this engine would allow to use it anywhere in map with other drawing functions, given required init is done.
+
+ In addition to simple pixel drawing, I am ready to implement version where small alpha transparent images are blitted for particles. Color transitions for particles wouldn't be a problem either.

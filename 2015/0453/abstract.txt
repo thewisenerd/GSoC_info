@@ -1,0 +1,1 @@
+Kopete already includes two history plugins. However, these have been found lacking, and there is need for an improved history plugin.This project aims to come up with a new SQL based history plugin, with an improved interface and the ability to import/export chat logs to other IM applications.

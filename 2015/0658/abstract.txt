@@ -1,0 +1,2 @@
+Anything To Triples (Any23) is a tool which can be used to extract structured data in web documents supporting many different input formats. Currently the Any23 only supports the microfomats which was superseded by microformats2. This project will directly involve implementation for support microformats2 specification [1] in Any23 core. Original microformats support is retained separately.
+[1]http://microformats.org/wiki/microformats-2

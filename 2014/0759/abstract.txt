@@ -1,0 +1,3 @@
+I would like to improve the Debian port for mips/mipsel by compiling the packages that do not pass the compilation process.
+
+Some of the packages might not support one of the endians (even if they compile fine, they won't work properly).During the working process, I will try to fix even those packages if possible.

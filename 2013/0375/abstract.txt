@@ -1,0 +1,1 @@
+This proposal is about improving the WinPcap library currently used by Nmap with some new features, including support for the new NDIS 6 API, privileges support, No-install DLL support and so on.

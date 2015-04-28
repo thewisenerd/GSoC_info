@@ -1,0 +1,1 @@
+For a given sentence S in a source language and it's translation T in another language, the idea is to find the translation of another sentence S'. The condition that S and S' must hold is that S and S' must have high Fuzzy-match score (or Low Edit Distance) between them. Then depending upon what changes from S to S' we employ a set of repair operations to T to get our T'.

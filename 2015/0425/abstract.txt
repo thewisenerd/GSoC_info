@@ -1,0 +1,1 @@
+CephFS mostly assumes a controlled environment where we trust the UID/GID in the clients. This is like a typical NFS environment. One gap is that the root_squash option for NFS it not present in CephFS. Another gap is that clients are not restricted in what paths they are allowed to mount.

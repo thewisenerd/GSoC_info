@@ -1,0 +1,1 @@
+Mixxx currently allows its users to control the virtual decks using timecoded vinyl or CDs, but would benefit greatly from the addition of a vinyl pass-through feature, where normal vinyl or CDs can be received as an input signal and processed as one of the virtual deck outputs. This feature would allow DJs to play their physical vinyl and CDs without modifying their Mixxx setup.

@@ -1,0 +1,1 @@
+To update RSense, a set of tools for working with Ruby, so that it uses JRuby-Parser, and to re-factor it, taking advantage of the syntactical and semantic logic that JRuby-Parser provides.

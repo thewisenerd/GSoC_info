@@ -1,0 +1,9 @@
+Drizzle Continuous Integration uses Jenkins CI tool at present. It includes a Jenkins server / master with a few slaves. However, the infrastructure does not support parallel running of tests / builds to a scalable extend. So the project aims in bringing parallelism with automation. 
+
+This can be envisioned as follows. 
+
+Drizzle CI does builds using Jenkins. It tests for regression using the available test suites. To bring in parallelism, the CI infrastructure should make execution of test jobs, which may include a build, a sysbench test, a randgen test, etc., simultaneous. 
+
+A dedicated system / cloud node must be configured for execution of each job in the test job list. Multiple tests + Multiple nodes = Parallelism. 
+
+Configuring these nodes should be handled in a simple way. It should be as simple as writing a simple config file, of specified format, and then issuing a command which configures the nodes accordingly. Nodes + Configuration files = Automated configuration.

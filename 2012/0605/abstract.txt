@@ -1,0 +1,1 @@
+Implement an android bridge between java and libpurple and get everything to build and link nicely and be easilly maintainable.

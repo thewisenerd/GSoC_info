@@ -1,0 +1,4 @@
+A HTML5 Large Medical Image Viewer that makes use of IIPImage server,IIPMooViewer,MooTools, JavaScript,HTML5 Canvas and etc.
+
+The Image Viewer is based on HTML5( no flash).
+It is able to support SVG overlays. Different drawing tools, like pencil tool, polygon tool,magnify tool are supported.

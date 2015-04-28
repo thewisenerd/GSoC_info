@@ -1,0 +1,1 @@
+I want to make the Apache OpenMeetings software more handy and flexible to set it up that would improve routine of video conferences. I want to add several new features. These features are connected with user’s custom preferences of media content transmitting.

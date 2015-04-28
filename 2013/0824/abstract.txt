@@ -1,0 +1,1 @@
+Apache airavata allows the execution of the workflow composed from the registered applications.Currently this is done by java based XBaya Workflow suite which includes the GUI for workflow composer,execution and monitoring.

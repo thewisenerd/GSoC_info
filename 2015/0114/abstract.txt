@@ -1,0 +1,3 @@
+GTK+ has recently reduced the use of menu bars. While this make applications easier to use, looking for keyboard shortcuts are now harder than before.
+
+This project aims to add a feature to GTK+ to show the keyboard shortcuts and touch gestures of applications using a single keyboard shortcut, and access to the Help application to view the application's documentation.

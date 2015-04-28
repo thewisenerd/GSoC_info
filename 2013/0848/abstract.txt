@@ -1,0 +1,3 @@
+The KDE Physics Simulator-STEP, currently does not support pulley-cord objects, and there is no way to simulate situations involving Friction. The frame is fixed during simulation to Ground-Frame and hence it is not possible to observe relative-motion between bodies 
+Variable density of mass and charge cannot be created.
+My proposal is to implement these things in STEP.

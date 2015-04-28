@@ -1,0 +1,2 @@
+ScribeUI is a Mapfile editing and management GUI that was developed last year as a project for the Google Summer of Code 2013. It is a very useful tool for map edition and creation and supports a new mapfile syntax that makes map editing much easier and faster.
+The project needs some more work done to really shine. The goals of this project is to get scribeui to a state of stability, along with an easy to follow install procedure.

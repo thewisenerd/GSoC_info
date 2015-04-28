@@ -1,0 +1,1 @@
+This project tackles a very important problem in programming languages, which can be seen in different areas. From games to web servers, programmers sometimes forget to delete unused references to objects, which can cause slowdown and crashes. The project is a library for Lua, so all Lua programmers can use it to check if their program is "leaking" or not.

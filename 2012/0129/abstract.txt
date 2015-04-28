@@ -1,0 +1,1 @@
+Nautilus is a new browser based on the latest system meta model tools like RPackage or Ring. The goal is to ensure this browser has the stability and all the features required to become the next standard browser.

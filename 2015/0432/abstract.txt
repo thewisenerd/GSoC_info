@@ -1,0 +1,1 @@
+Implementing a simplified interface to managing Scrapy extensions will give users a more “plug and play” experience. They will be able to enable and configure extensions in a simple and intuitive manner at a single entry point, while developers will gain easier control over configuration and dependency management.

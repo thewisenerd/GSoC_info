@@ -1,0 +1,2 @@
+The present Cure interface includes a simple tree which is automatically constructed as and when the user clicks on a gene/protein. The aim of my project is to give the user more control over building this tree and also to make it more interactive and show more meaningful data via the said tree. In essence, it would be an interactive tree builder which would give the user complete control over the tree. 
+The tree constructed would visually represent the numerical values namely, bin size, errors and the accuracy of the entire tree.

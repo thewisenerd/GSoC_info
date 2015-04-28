@@ -1,0 +1,2 @@
+In this project we want to have C/C++ code that allow us to add directly GA4GH APIs functionality to any other software or library with the same language.
+We will add this code to existing htslib library used for many open source softwares.

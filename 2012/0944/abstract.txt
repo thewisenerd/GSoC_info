@@ -1,0 +1,1 @@
+The goal of the project is to create a foundation for more interactive graphs for OpenNMS by implementing a d3.js-based renderer for graphs defined using rrdgraph definitions (command line arguments).

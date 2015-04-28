@@ -1,0 +1,8 @@
+Geographical Information System desktop tool are essential to any spatial scientist. They are their swiss-army knife. Since this market is a niche one, it is ruled by few major companies selling full-featured products. Despite this the open source community could find a way into it and uDig is one of the most effective products of this effort.
+Along the complex history of this software, many actors were involved and gave their contribution to its success. Unfortunately not all stories had a happy end. It is the case of the really interesting set of spatial tools developed by Axios.
+Since the closure of the Spanish Axios (former website http://www.axios.es) the uDig# project has moved to version 1.3.0.
+This caused the Axios uDig Extensions to be discontinued and not to be available in current uDig framework.
+
+This is a real issue and a pity since the Axios’ were the most complete and and stable set of tools to perform interactive topological editing and visually-aided spatial operations within uDig.
+
+The essence of this proposal is hence to apply for admission in Google Summer of Code with the specific goal of porting “Axios uDig Extensions” into the current uDig 1.3.x framework.

@@ -1,0 +1,1 @@
+As far as I can see in typed-clojurescript-play project, few functions which are used frequently from typical clojurescript code got annotations.  The project needs somebody who can devote his time to annotating functions in libraries unique to clojurescript and functions in google closure library.

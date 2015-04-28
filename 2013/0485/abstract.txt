@@ -1,0 +1,1 @@
+This project aims at improving IR methods for OCRed data i.e. erroneous data. The mis-classification error introduced by OCR can significantly degrade the IR efficiency. We have to develop some IR methods which take these errors into account and give better results accordingly.

@@ -1,0 +1,1 @@
+The goal of this project is to improve the Python bug tracker at bugs.python.org and its integration with Rietveld.

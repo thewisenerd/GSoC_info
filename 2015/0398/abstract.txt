@@ -1,0 +1,2 @@
+I'm interested in the project of implementing JSON built-in functions for Phoenix, which is to convert other types to JSON as well as expand outmost JSON. To do this, I would therefore implement the same for Phoenix in Java based on the JSON built-in functions implemented in Postgres and then test the accuracy for all of them.
+I also have some idea to do more further optimization in for Phoenix, such as optimizing SELECT DISTINCT using skip scan filter.

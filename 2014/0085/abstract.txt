@@ -1,0 +1,2 @@
+The project aims to add support for accessibility in MuseScore, with focus on visually impaired musicians. This will make MuseScore a revolutionary tool in the community of blind musicians, because MuseScore is free, open source and cross-platform.
+       One of the most notable aspects about is the fact that very few of them are designed with accessibility in mind, or scarcely do they provide support for it. If they indeed meet this need, most of them are quite expensive.

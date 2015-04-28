@@ -1,0 +1,2 @@
+GStreamer is powerful video framework. Unfortunately, it's not possible to debug GStreamer-based applications very easily. Obviously, GStreamer has logging system, but user don't have an access for it when pipeline has been run on external device. Moreover, there is no possibility for watching buffers or events, which going through pipeline.
+My idea is to create client-server tool, which allows user debug his GStreamer's pipeline, reading logs, spying buffers, events or queries.

@@ -1,0 +1,1 @@
+Substructure search is used to find out all molecules of a data set that contains a user specified fragment and is a specific way to query molecular database. It will help to spot specific structures in the visualization of large data set and will support drug discovery process

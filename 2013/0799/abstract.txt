@@ -1,0 +1,1 @@
+This project proposes to use NativeBoost bindings to remove the necessity of the native openDBX library, simplifying the deployment of applications using relational databases

@@ -1,0 +1,1 @@
+In this project i am aiming at making Kate Parts scripting possibilities more user friendly. The planned improvements include features such as auto-completion  and debugging. I will also try to make scripting available for other applications via the KTextEditor interface.

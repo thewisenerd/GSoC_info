@@ -1,0 +1,1 @@
+Extensions for MediaWiki (widget, skin and feedback extension)

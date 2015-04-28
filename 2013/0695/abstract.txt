@@ -1,0 +1,1 @@
+The proposal covers ideas of porting the ascend application to gtk3 and some improvements in the GUI. This includes re-structuring the design of the GUI, improving the IPython console (to make it more powerful) and adding some more functionalities like error reporter module.

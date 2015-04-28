@@ -1,0 +1,7 @@
+The ODF Command Line Tools (OCLT) would purport to be a suite of
+cross-platform utilities that would make it easy to do both simple and
+complex text manipulation tasks from the command line.  The OCLT would
+be able to manipulate ODF documents both in terms of structure *and*
+content.  The target audience of the OCLT would be command-line afficionados,
+power users, QA testers, web developers, and others who may be, but are
+not necessarily, professional developers.

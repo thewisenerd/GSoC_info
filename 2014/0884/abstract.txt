@@ -1,0 +1,5 @@
+This is a project to improve and add features to the NetSurf project's core web-technology libraries:
+LibDOM
+LibHubbub
+LibCSS
+The libraries are now out of date. The aim is to bring them in line with the current specifications.

@@ -1,0 +1,1 @@
+BuildmLearn toolkit for android will be based on plugin architecture. Each template will be a plugin, and toolkit app will be the system. Plugins will fit into the system. This will allow us to add more plugin (template) in the future without changing the functionality of the system.

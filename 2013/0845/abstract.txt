@@ -1,0 +1,1 @@
+The aim of this project is to change the user interface of ATutor, making it more user friendly in the process. This would be done in two phases- AJAXification of many features, and then making a new design for ATutor, keeping in mind the accessibility of the project at every point. At the end, ATutor would be a better application to use.

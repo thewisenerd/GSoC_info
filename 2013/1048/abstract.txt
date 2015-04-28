@@ -1,0 +1,5 @@
+This proposal describes my plan to design, implement, evaluate,
+document, and release a novel framework for invariant discovery using
+JPF.  The basic objective is to create an invariant discovery tool as
+well as to apply it to real-world artifacts to synthesize invariants
+for these artifacts.

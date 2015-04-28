@@ -1,0 +1,1 @@
+The "Expert Configuration" dialog is too slow to appear with accessibility enabled. This is because the amount of configuration entries is just too large for practical use in a single list. The list should be reworked to be a tree of options and progressively show/hide branches of the options tree to work with blocks of smaller segments of options.

@@ -1,0 +1,1 @@
+First goal would be to update and enhance UbuntuGIS and at the same time OSGeoLive with new and up-to-date packages. At the same time, it would enhance and update the DebianGIS repository. There would also be an emphasis on researching Java packages.

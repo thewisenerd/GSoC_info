@@ -1,0 +1,1 @@
+The goal of this project is to work towards achieving full SCORM 2004 compliance in Moodle without the need of any external plugins, that is, improving the support for SCORM 2004 content packages in Moodle.

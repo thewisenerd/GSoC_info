@@ -1,0 +1,1 @@
+The main goal of the project is implementing of the DrStrace tool which supports identification of the symbolic names and field details (also with symbolic names) for currently known system calls in the DrMemory and a part of the unknown calls in the Windows 7 x86_64 and x64.

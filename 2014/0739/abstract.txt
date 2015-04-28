@@ -1,0 +1,1 @@
+Differing code paths cause some user-made content to only work in single- or multi-player games. The goal of this project is to reconcile the code paths so that all content works across game modes.

@@ -1,0 +1,4 @@
+This proposal concerns providing CheckCell with support for Google Spreadsheets. The outline for the project on the
+PLASMA-UMass page requires only porting the code base to JavaScript so that it can function as a plug-in for
+Google Spreadsheet but, I want to take this one step further and provide a JavaScript port for Microsoft Office
+2013 as well as a port for OpenOffice/LibreOffice.

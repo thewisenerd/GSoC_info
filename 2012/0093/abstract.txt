@@ -1,0 +1,1 @@
+Abstract Pathfinder is an extension for Java PathFinder, which aims to introduce data abstraction. Abstract Pathfinder supports various abstractions for numeric data like Signs, Evenness, Interval and Range, which can be arbitrarily combined together.

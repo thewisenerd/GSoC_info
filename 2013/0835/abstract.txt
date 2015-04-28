@@ -1,0 +1,1 @@
+A complete low-level (PIR) binding to the libgit2 0.18 API, as well as a simple higher-level Winxed binding with enough functions implemented to implement common libgit2 examples.

@@ -1,0 +1,3 @@
+Dear RoboComp team,
+
+My name is Jose, I'm a computer science major and PhD student in machine vision. I have a strong interest in virtual simulation and visualization projects, and I have worked with the Bullet physics engine in the past, so I find your proposal to add physics support to your simulator very interesting, but any other project would be interesting too.

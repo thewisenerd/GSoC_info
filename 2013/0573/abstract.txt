@@ -1,0 +1,1 @@
+Using the TGRASS GIS API to create spatio-temporal vector and raster algebra to process massive vector and raster datasets based on their spatio-temporal relationships.

@@ -1,0 +1,1 @@
+A port of the cocos3d graphics library from Objective-C to C#, building upon MonoGame: an open-source and cross-platform implementation of Microsoft's XNA framework.

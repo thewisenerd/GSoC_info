@@ -1,0 +1,1 @@
+My plan is to implement the existing S.IM.PL serialization/deserialization in Python for the XML and JSON formats. I will then continue with the development of HTTP OODDS in Python/Django.Finally I want to create a web application which will use these new features. I have detailed the timeline and the deliverables in my proposal.

@@ -1,0 +1,1 @@
+Prepared Statements are handled locally on the client side till JDBC 1.1.6, what if prepared statements are handled on the server as well, which can improve the performance of the MariaDB Java Connector  for large data processing.

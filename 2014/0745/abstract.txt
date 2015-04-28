@@ -1,0 +1,1 @@
+My project proposal is to extend GzWeb project such that users will easily visualize models without running Gazebo server (gzserver). The main focus of this project is that users will easily try the models from ThePropShop without actually running model in simulation.

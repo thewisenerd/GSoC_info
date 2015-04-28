@@ -1,0 +1,1 @@
+Git-Review is a tool to facilitate project review workflow using pull requests. Ideally it should be platform-agnostic and work with different git systems. It currently only works with GitHub, and this project is therefore to extend Git-Review to support other platforms, specifically BitBucket and Gitlab.

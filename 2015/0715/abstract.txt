@@ -1,0 +1,1 @@
+The project is aimed at revamping the Front End of the Web Service developed to support the BodyApps project.Most of the work will be related to refactor the code and redevelop it with AngularJS.

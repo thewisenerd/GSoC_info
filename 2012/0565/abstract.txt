@@ -1,0 +1,1 @@
+The goal of this project is to enhance the popular Feedback module which is already used in over 2346 sites. In this project various useful features like visual feedback system and Web Annotation will be added to Feedback module. Screenshots of webpage will be sent to site administrator, similar to the new Google Feedback Tool  used in many Google Products like Google+, Blogger.

@@ -1,0 +1,1 @@
+This project deals with the updation of the default player "Flowplayer" in ATutor by making it more accessible. The aim of this project is to update media support in ATutor with improved accessibility. Some features include adding closed captions, keyboard accessibility and potentially adopting Fluid HTML5 media player as the default player.

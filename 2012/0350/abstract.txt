@@ -1,0 +1,5 @@
+This project aims to implement support in Portage (either directly or through hooks) to selectively report Portage actions and various system information such as package installations/removals, compilation durations and problems, USE flag choices, CFLAGS, kernel configuration, and so forth. This information can be useful to both developers and users and can possibly improve the QA process.
+
+In order to encourage participation the project will provide users with free version control for their Portage configuration. Moreover, users will also be given the choice to be contacted in regards to specific packages in order to help developers, or to report information completely anonymously.
+
+This project will be implemented in Python and will reuse code from gentoostats and previous similar projects.

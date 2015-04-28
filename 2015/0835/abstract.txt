@@ -1,0 +1,3 @@
+Systers used Meetup Everywhere for our global community. However, Everywhere was discontinued in December 2014.
+
+This project is aimed to develop a web based meetup management application to provide facilities similar to Meetup Everywhere that server Systers Global Community

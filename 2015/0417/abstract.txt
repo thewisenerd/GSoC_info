@@ -1,0 +1,4 @@
+The idea is to build user interface for the sTeam collaboration platform on top of the REST APIs which are already built and served.
+
+Why sTeam?
+sTeam is written using pike which have the capability of serving endpoints to Create/Read/Update/Delete (CRUD) documents all under one roof. As of the current interface interactions, non-REST APIs are used. sTeam is perfect as it supports almost all the functionality which we are looking for a collaboration platform.

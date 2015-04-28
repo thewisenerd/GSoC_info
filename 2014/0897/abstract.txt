@@ -1,0 +1,2 @@
+Elasticsearch is a flexible and powerful open source, distributed, real-time search and analytics engine. Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents.
+The goal of this project is to develop an Elasticsearch module for Drupal 8 leveraging the new Search API

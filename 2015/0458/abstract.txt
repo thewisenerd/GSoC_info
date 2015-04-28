@@ -1,0 +1,1 @@
+There is currently no easy (GUI) way to create and modify systemd timers and many users for that reason still use cron. I think it would be beneficial to include GUI for it inside cockpit.

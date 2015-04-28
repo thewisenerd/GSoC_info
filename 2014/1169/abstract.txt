@@ -1,0 +1,5 @@
+I would like to join the OpenSUSE GSoC team to implement the "cool live flash" idea.
+
+Back in the days I started out with playing around live images, and even now I use them weekly. Not because of reinstalls, but because they provide a comfortable way to test-drive a new system, to test out new features, and even to rescue a system.
+
+This project could provide a way to test new bug-test, to test regressions, and have an install or rescue disc. All on one drive, with convenience included

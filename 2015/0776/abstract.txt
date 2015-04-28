@@ -1,0 +1,6 @@
+Pander is an R package for rendering R objects on markdown. It provides extensive support for different R classes combined with a lot of rendering options.
+During this GSoC session I want to improve on 4 things about Pander package: 
+1. Improve current test suite for pander package
+2. Refactor pandoc.table function
+3. Add rendering support for not yet supported R classes
+4. Create a use-case specific vignettes and add more examples

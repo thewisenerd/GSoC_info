@@ -1,0 +1,1 @@
+Trojita is fast IMAP email client written in pure Qt. So integrate it into Kontact/KDEPIM/KDE like email client KMail.

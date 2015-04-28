@@ -1,0 +1,3 @@
+This project aims to implement the following two objectives.  
+A mode for javadoc/reference view on mouse hover over a method or a class. Whenever the cursor is above a method or a class , the relevant javadoc of that method/class will be displayed as a tool-tip.  
+A tool for writing of shaders in the Processing itself. This tool can be used to write glsl programs within processing itself.

@@ -1,0 +1,2 @@
+The main goal is to implement copy, cut and paste functionality for sounds, looks and bricks. 
+(source: catroid idea page)

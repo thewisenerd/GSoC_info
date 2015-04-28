@@ -1,0 +1,1 @@
+ScummVM is a virtual machine that supports many game engines by now. Avalanche Engine will be one of the next ones, which will allow playing the game called Lord Avalot d'Argent. My project is to implement this engine.

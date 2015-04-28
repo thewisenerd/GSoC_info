@@ -1,0 +1,1 @@
+Improve how user interacts with extension from the time when they first install the extension, to everyday usage. Make the process of logging in, creating a new message, edit message, as seamless as possible.

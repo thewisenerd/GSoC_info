@@ -1,0 +1,1 @@
+The aim of this project is to provide the ability to create plots and charts with the VTK framework by a a simple declarative language. In order to achieve this goal a visualization grammar similar to the one utilized by the Vega JavaScript library will be mapped to VTK data structures and to specific classes that will be designed for supporting geometry objects and marks.

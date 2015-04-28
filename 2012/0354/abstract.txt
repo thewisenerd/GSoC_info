@@ -1,0 +1,1 @@
+This project expands output formats of DocBook into Android OS and iOS devices. The output formats take an input DocBook XML document and produce Android application or iOS application which can be installed. After installed, it can be used for browsing original DocBook document including features like collapsible table of contents, searchable index and full-text searching.

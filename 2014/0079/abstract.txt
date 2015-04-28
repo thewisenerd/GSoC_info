@@ -1,0 +1,1 @@
+This project should connect Rasdaman as a data storage backend to the 52°North Sensor Observation Service (SOS) implementation by adding Rasdaman as a data source in the 52°North SOS.

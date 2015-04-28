@@ -1,0 +1,5 @@
+The project that I'm appling for is "pseudo TCP" that is TCP like protocol implemented on UDP layer. The main concept is to achive TCP's protocol reliability while keeping all advantages of UDP.
+Main tasks/features of pseudo tcp protocol:
+- keep packet delivery order
+- track packets retransmission
+- control window size, congestion avoidance

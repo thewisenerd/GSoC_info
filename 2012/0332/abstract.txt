@@ -1,0 +1,1 @@
+The functional testing plan for the OFBIZ, which includes estimated number of iteration, and tasks to be completed within a specific iteration

@@ -1,0 +1,1 @@
+The goal of this project is to help the proposed Boost AFIO (Asynchronous File I/O) library pass peer review, and implement increased POSIX support by providing appropriate back ends for the library.

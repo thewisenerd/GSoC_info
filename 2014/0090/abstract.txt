@@ -1,0 +1,13 @@
+The goals of this project are twofold:
+A)  Speed-up dual-tree traversal algorithms in mlpack.
+1)  Define a set of benchmarks.
+2)  Improve the speed of the tree traversal as measured by these benchmarks.
+3)  Document, test, and support this code.
+
+B)  Implement various trees in a manner consistent with the current API.
+1) X-tree
+2) R*-tree
+3) R-tree
+4) Hilbert-R-tree
+5) UB-tree
+6) M-tree

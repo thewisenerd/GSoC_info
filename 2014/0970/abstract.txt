@@ -1,0 +1,1 @@
+The project’s goal is to provide admins who want to add primary storage to CloudStack that is not based on the default storage plug-in with a GUI plugin (or modified version of a current window) that enables them to invoke the addStoragePool API.

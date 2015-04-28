@@ -1,0 +1,1 @@
+The goal of this project is to implement basic serving capabilities for the network protocols used for multimedia streaming present in libavformat.

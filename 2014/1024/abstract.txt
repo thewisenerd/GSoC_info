@@ -1,0 +1,3 @@
+The web services framework already prove itself to be very efficient. However, it requires programmer to think and code in an asynchronous way, which makes it more error prone and harder to debug.
+
+         Thus this project focus on implementing coroutine support for Duda I/O. Once done, it will make writing web app much more easiler and robust because coroutine is more human friendly while we can still benefit from the asynchronous control flow of code execution(machine friendly).

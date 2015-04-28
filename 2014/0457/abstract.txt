@@ -1,0 +1,1 @@
+Disqus is a 3rd party system for comments. It is used on various websites. There is already an integration module available for Drupal 7, which is used on almost 14,000 sites. We need to prepare this module for next major version of Drupal.

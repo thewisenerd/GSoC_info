@@ -1,0 +1,1 @@
+I propose to revive a longstanding effort to improve NURBS support in blender with two broad goals: one, attaining import/export compatibility for common NURBS-based CAD and modeling formats, and two, adding industry-standard NURBS manipulation tools so that blender can actively participate  in workflows containing NURBS primitives.

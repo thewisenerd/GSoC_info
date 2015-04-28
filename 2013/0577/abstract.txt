@@ -1,0 +1,3 @@
+The JPF model checker relies on so-called model classes in order to combat the notorious state space explosion problem. The burden of writing model class is almost entirely on the developer. To help the developer in this error prone and tedious task, a tool, called model-generator, has already been developed. However this tool generates only empty stubs, forcing the developer to add the desired behaviour manually.
+
+The goal of this project is to provide a tool that can generate model classes with behaviour automatically.

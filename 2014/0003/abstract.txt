@@ -1,0 +1,2 @@
+The project aims to design educational games using Marble( www.marble.kde.org ).The user can click anywhere on the map and the details of the clicked division will be displayed in a pop up window.
+To test what have you learnt, the game will offer different types of quizzes ( e.g, identify countries on map, identify flag etc ). Find more info on my blog http://abhgangwar.wordpress.com/

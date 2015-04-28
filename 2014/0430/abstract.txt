@@ -1,0 +1,1 @@
+GetTor has a huge impact on avoiding censorship, and therefore it could be expanded to do a lot more of what it does now. I propose a redesign of the current code, oriented to modules, which the users can access via common services and get the required info. The idea is that this new design will allow the implementation of new modules in the future.

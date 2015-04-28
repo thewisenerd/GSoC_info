@@ -1,0 +1,5 @@
+The project aims at enhancing CommCare module to improve integration with Task module by providing an intuitive UI to select actual CommCare form/case fields by means of field name.
+
+The project also strives to support multiple versions of forms provided by CommCare. A typical use case is when old forms are not synced with the latest versions of form. 
+
+Project will also allow the capability to connect to multiple CommCareHQ servers and retrieve form/cases from all of the connected servers.

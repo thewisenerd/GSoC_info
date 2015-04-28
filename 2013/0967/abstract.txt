@@ -1,0 +1,1 @@
+The Wesnoth addon server is currently a monolithic block of code. In addition of rethink the architecture we would like to add internationalization support, synchronization with Wescamp (add-on translation), and code it with the powerful and modern Boost.Asio library.

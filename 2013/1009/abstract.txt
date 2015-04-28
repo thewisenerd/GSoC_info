@@ -1,0 +1,1 @@
+JTS is an API of spatial predicates written in java that has function/methods and algorithm implemented for processing geometry. GEOS is a port for JTS apis from Java to C++. The project is to provide the functionality of constructing Voronoi diagrams by porting it from JTS to GEOS.

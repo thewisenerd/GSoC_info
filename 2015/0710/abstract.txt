@@ -1,0 +1,1 @@
+Linux XIA needs to hash XID types to unique buckets in a couple of places of its codebase. This mapping must be highly efficient because it affects the speed of routing packets, so if there is a guarantee that no two XID types hash to the same bucket, the code can make fewer memory accesses. This problem is called perfect hashing in the literature.

@@ -1,0 +1,4 @@
+Working on the Wine *meta bug* regarding CJK font support which has a three years of history:
+Bug 16325 - incorrect font rendering for CJK programs. 
+
+CJK font related test cases would be added, Font Association support would be implemented and a few misc font bugs would be fixed.

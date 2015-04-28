@@ -1,0 +1,7 @@
+Goal of the project is development of interactive scatter plot tool, which will be integrated into wxGUI.
+
+
+The tool will improve GRASS GIS supervised classification workflow. Also it will be useful for raster data analysis in general.
+
+
+Additional goal is extension of GRASS GIS plotting capability by integration of Matplotlib plotting library into wxGUI.

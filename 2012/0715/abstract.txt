@@ -1,0 +1,1 @@
+Unit tests are helpful for assessing base code to do what is expected to. It has been multiply shown that coverage is correlated with bug reduction. This situation is more often when applying TDD. The results? A well tested code, but unmaintainable test code. TestSurgeon is a tool to help developers in unit test refactoring through a software visualization of test similarity.

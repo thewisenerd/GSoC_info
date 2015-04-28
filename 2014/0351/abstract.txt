@@ -1,0 +1,1 @@
+In this proposal, I will introduce myself, present my idea for stream processing in Stratosphere, convince my capability of collaborating with the team, and clarify detailed schedules for participating the project.

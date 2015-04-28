@@ -1,0 +1,1 @@
+The Octave language is naturally suited for image processing which has lead to its success in this field. Most of the functions for this purpose have already been implemented but are unable to cope with ND (multidimensional) images, a common occurrence in the medical and biological fields. The proposed project aims at expanding Octave and its image package to support ND images.

@@ -1,0 +1,3 @@
+Module details:https://www.drupal.org/project/print.
+The present module lacks support for recent Drupal features such as generic entities and fields and also requires code refactoring due to presence of redundant code.
+The proposed solution makes use of API's made available(mainly Plugin and Entity ) in Drupal 8 to make the architecture more stable and pre-processing on node's content more robust.The module will have to be renamed since Symfony prevents the use of the reserved keyword "print".

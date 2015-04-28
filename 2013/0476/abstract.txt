@@ -1,0 +1,1 @@
+This project aims at generating tests for GUI application by taking advantage of human written specification in form of parameterized unit test (PUT).

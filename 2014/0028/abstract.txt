@@ -1,0 +1,1 @@
+Geographic information system is a vital tool in disaster management and there are many uses of it when a disaster situation outbursts. It allows to enter, manage, analyse, visualise geospatial data.

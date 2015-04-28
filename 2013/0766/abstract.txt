@@ -1,0 +1,2 @@
+The goal of this project is the implementation of a debugger stub based on Intel Pin
+that provides scriptable hooks to a remote front end / server.

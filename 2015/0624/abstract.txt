@@ -1,0 +1,2 @@
+The main object of this project is the application of symbolic techniques to build efficient pipelines in order to improve computer vision techniques, recognition and interpretation of domestic objects, to be finally executed on a domestic robot, so that the robot is able to move around a house and identify and interact with any objects located inside.
+The goal is that given a high-level task (eg. "grab a mug"), we can use symbolic planning techniques to build a pipeline of visual processing.

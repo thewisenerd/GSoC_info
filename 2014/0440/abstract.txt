@@ -1,0 +1,1 @@
+I propose to extend the Neural Networks module of scikit-learn with two main state-of-the-art algorithms widely used in academics, research and data analysis. These algorithms are Extreme Learning Machines and Deep Networks.

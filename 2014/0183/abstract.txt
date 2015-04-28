@@ -1,0 +1,1 @@
+Develop an application, for android and using the ILWIS framework, which can deal with (temporal) inconnectivity with the internet and is easy customizable for certain use cases.

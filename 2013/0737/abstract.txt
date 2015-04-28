@@ -1,0 +1,1 @@
+This project aims to implement a module facilitating the usage of vectors and allowing users to perform vector calculus operations. This will allow other modules, particularly the sympy.physics based modules, to use vector calculus inside them wherever necessary through a consistent and well-structured API.

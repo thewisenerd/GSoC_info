@@ -1,0 +1,4 @@
+Abstract: Licklider Transmission Protocol (LTP) is a point to point protocol for environments
+with long round-trip delays (such as deep space communications). This project will provide a RFC
+compliant implementation, it will consist of a ns-3 module with its corresponding testsuits, examples,
+helpers and documentation.

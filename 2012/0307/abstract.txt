@@ -1,0 +1,3 @@
+This project will deal with setting additional lexical features, taking context into account. The main idea is to extend the Apertium pipeline by placing a new module, after the POS tagging process and before the transfer process, which will set additional tags that can later be used in the transfer module. Examples of such tags include noun definiteness, verb aspect etc.
+
+The goal of the project is to both improve the existing sh-mk pair and to serve as a prototype for similar corpus-based modules.

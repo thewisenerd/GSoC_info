@@ -1,0 +1,1 @@
+Django deployer is a deployment tool for deploying django apps onto modern PaaS (Platform as a service) such as heroku, stakato, dotcloud and Google App Engine, deploying django onto PaaS is usually not easy rather than IaaS because Django is a full featured web framework and with complicated setting, we need to tune a lot to fix the requirement of PaaS.

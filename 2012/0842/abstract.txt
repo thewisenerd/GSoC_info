@@ -1,0 +1,1 @@
+This proposal aims to improving the module RESTful Web Services to a more stable state by fixing bugs and adding new features. RestWS allows Drupal to expose it's data as web services based on the principles of Representational state transfer (REST).

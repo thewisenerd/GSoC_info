@@ -1,0 +1,2 @@
+While AYAB currently represents features of a pattern via an internal dictionary, there is not a single publicly available format to specify patterns, extra meta data and knitting instructions.
+This proposal aims to fix this need, by implementing an extensible file format, capable of storing the pattern info, meta data and extra info. The proposal also includes the addition of editing features well as more pattern editing features, for example a basic pixel art editor.

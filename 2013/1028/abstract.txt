@@ -1,0 +1,3 @@
+I want to build a testbed for ooniprobe in a small, medium or even big network of potentially malicious nodes that censor and/or manipulate traffic.
+
+The main goal will be to build a fast, easy-to-use and extensible tool that can verify the functionality of ooniprobe tests against a toolbox of known internet censorhip techniques.

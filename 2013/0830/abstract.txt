@@ -1,0 +1,2 @@
+The main aim of this module is to export data of patients in a de-identified manner so that the developers and researchers can use this data without knowing about the patient. This means that while exporting the patient data no information which could identify the patient should be exported.
+ This aim can be accomplished with the help of Protected Health Information (PHI). PHI specifies few elements which can identify the patient. Hence the PHI elements are eliminated from a data set to preserve privacy for research participants.

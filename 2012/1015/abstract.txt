@@ -1,0 +1,7 @@
+This project aims to update the existing translate facility in the software. When Sahana is deployed during a disaster or emergency, it would require immediate translation. Hence to avoid wastage of time and effort, we would want to translate only those strings which are present in the active modules. These strings are then presented to the translators who can make the necessary translations. Once this is done, it must be possible to integrate back these translations into the main code. Also, a GUI must be developed to indicate the translation status. So basically the idea is to automate the entire process of this selective translation. Briefly, following are the objectives I plan to achieve :-
+
+1) Retreive the relevant strings to be translated based on the current active modules by maintaining the location of each string (pathname and line number).
+2) Provide these strings in the form of a spreadsheet to the translators for them to translate the strings.
+3) Accept the translated set of strings and reflect back the changes in the code.
+4) Build a GUI to display the translation status per module.
+5) Allow comments to be added inside the T(...) function.

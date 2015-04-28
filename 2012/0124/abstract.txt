@@ -1,0 +1,1 @@
+There are areas of LibreOffice Calc that can benefit from performance improvements and run-time memory reduction.  Based on guidance received from the LibreOffice community, this proposal identifies tasks and presents a schedule that will contribute to this goal.

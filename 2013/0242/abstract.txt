@@ -1,0 +1,3 @@
+Hello,
+I'm an undergraduate student at the University of Piraeus, Greece, Dept. Of Computer Science.I'm using Java as my primary language for the last year.Writing a Quickstart would be a great way to begin contributing to the community as it combines a deep
+understanding of the underline technology and the ability to demonstrate pragmatic results and not the default "Hello World".

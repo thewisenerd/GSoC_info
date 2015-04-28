@@ -1,0 +1,1 @@
+Developing a ruby library defining topology and parameters of the nodes and links. Replacing Linux bridges with OVS. Extend XIA Linux Container(LXC) support for topologies other than star and complete topologies. Using yED to represent complex topologies. Importing topologies from RocketFuel.

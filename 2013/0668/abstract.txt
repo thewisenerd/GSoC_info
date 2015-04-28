@@ -1,0 +1,1 @@
+Implementation of the cross-platform libvlc-based component for integrating it into LibreOffice applications.

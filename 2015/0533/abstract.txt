@@ -1,0 +1,1 @@
+This is a proposal to work on HubTurbo for TEAMMATES so that managing the TEAMMATES issue tracker on GitHub is easier for both the the project administrators and all other contributors.

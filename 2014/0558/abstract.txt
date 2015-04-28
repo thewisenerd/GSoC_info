@@ -1,0 +1,1 @@
+I plan to make ROS libraries and features accessible without need for a ROS_MASTER, as well as incorporate Gazebo simulator within the existing framework to enrich the existing simulation abilities for Trevor.

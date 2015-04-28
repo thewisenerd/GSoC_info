@@ -1,0 +1,8 @@
+The project mainly deals with the implementation of various links, knots presentations and calculating various related invariants.
+
+The main aim of the project is to achieve :
+
+Conversion between different representations of Knots and Links to mention a few :Gauss code to Braid Word, Braid word to DT code,Gauss code to DT code.
+
+Implementation of various invariants :
+Alexander Polynomial, Conway Polynomial. Stiefert Matrix, Jones Polynomial

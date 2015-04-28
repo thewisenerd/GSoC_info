@@ -1,0 +1,1 @@
+Writing Python scripting to read PSurface object and display it in paraview. Implement a  ParaView filter to control the PSurface surface simplification algorithm.

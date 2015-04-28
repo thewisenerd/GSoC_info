@@ -1,0 +1,1 @@
+The goal of the project is to enable care-seeker to connect with care-giver (via an internet-hosted OpenMRS implementation with this module installed) in which their current treatment can be reviewed by a group of care-givers, who can suggest further action. This project is all about to develop an "User-driven healthcare" system by integrating OpenMRS-core as the base.

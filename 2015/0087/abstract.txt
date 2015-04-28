@@ -1,0 +1,2 @@
+This project involves the idea of adding gesture input to the existing simulations of The Concord Consortium. 
+I have mainly focused on the idea of gesture personalization wherein a person can train his leap to perform according to his settings for a simulation on his browser. I have attached mock-ups and presented a detailed discussion of the ideas behind it.

@@ -1,0 +1,2 @@
+Primality testing and factoring among the most important problems in arithmetics. This project is about the first of them. For many areas (cryptography, for example) we need fast and deterministic method for test large integer N for primality. APR-CL with "nearly" polynomial complexity (O(ln(N)clnlnlnN)) perfect for this.
+Our goal is to prove primality of 100 digit primes in under 0.1 seconds.

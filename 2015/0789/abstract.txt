@@ -1,0 +1,4 @@
+The main goal of the project will be to allow site builders to map their content to Freebase and WikiData while authoring content with Drupal 8. There will be two main components for this work. 
+
+1. Entity level mapping tool - to map entity types such as nodes, taxonomy terms with Knowledge Graph.
+2. CKeditor plugin for inline Content mapping - to map content created using Drupal's built-in WYSIWYG editor to Knowledge Graph

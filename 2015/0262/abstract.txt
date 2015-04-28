@@ -1,0 +1,1 @@
+GridChem is a science gateway that enables computational experiments on multiple supercomputer resources. Currently GridChem connects to an Axis2 based Middleware to pass computational tasks. Idea of this project is to port this communicational model to support with Apache Airavata java client SDK.

@@ -1,0 +1,1 @@
+Implement patient protection by using password based encryption. This would greatly simplify the exchange of media containing patient information, as opposed to the current implementation which uses certificate based keys.

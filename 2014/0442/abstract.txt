@@ -1,0 +1,3 @@
+We have implemented the 'Core Desktop' for Plasma Next. But we can not stop there.   There is still a lot of work that needs to be done.
+
+While the idea of activities and its underlying infrastructure provides much, we failed to properly expose them to the average user. This proposal is about bringing activities to a new level, to make them truly useful and properly integrated with the environment.

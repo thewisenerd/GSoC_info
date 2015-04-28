@@ -1,0 +1,5 @@
+Project to build command line tools for better usability of Mailman.The project has two phases,
+Mailman Command line tools and Mailman CLI
+
+The command line tools is a set of userspace commands that can give a quick glance of the system.It can be useful for automation tasks by making functionalities a command away.
+The CLI for mailman is to provide a comfortable shell through which the users can query data in the installation based upon the state, using a understandable query language.

@@ -1,0 +1,1 @@
+Perl 6 needs LWP (with SSL support) because the same modules in Perl 5 are among the most commonly used, making Perl 6 able to connect to web services is a prerequisite to wider adoption.

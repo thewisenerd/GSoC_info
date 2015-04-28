@@ -1,0 +1,2 @@
+Xcos is a Scilab tool dedicated to the modeling and simulation of dynamic systems including continuous and discrete models. Xcos provides a graphical editor which allows to represent models with block diagrams by connecting the blocks to each other. Each block represents a function.
+However, as the number of the blocks increases, an Xcos schema can become quickly messy. This idea of is to provide options to automatically update the layout of an Xcos schema and keep the digrams well-presented.

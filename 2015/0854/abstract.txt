@@ -1,0 +1,1 @@
+Work on coreboot tree. Build an OS target for board_status.sh. Extend functionality around that idea.

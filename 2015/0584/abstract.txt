@@ -1,0 +1,1 @@
+This project aims to get a working implementation of the ARB_shader_atomic_counters OpenGL extension and extend this work to cover interactions with the ARB_compute_shader extension in Mesa, for the llvmpipe driver.

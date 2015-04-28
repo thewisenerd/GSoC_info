@@ -1,0 +1,1 @@
+All tracks currently in STK are flat or only slightly tilted. If karts could drive on vertical or even inverted surfaces, it will allow artists to create much more interesting tracks. This project aims to evolve the AI and physics of the game to allow this kind of functionality and further implement new kart physics.

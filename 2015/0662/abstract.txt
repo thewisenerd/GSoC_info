@@ -1,0 +1,1 @@
+The idea of this project is to build the RouteFlow application along with its virtual plane components inside the docker containers via modular dockerfiles.

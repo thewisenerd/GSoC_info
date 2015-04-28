@@ -1,0 +1,5 @@
+The goal of this project is to improve the data throughput of the gr-trellis module. This
+is crucial for developing waveforms for high bandwidth mobile communication systems. As
+the gr-trellis module is also the basis for future turbo decoder/equalizer modules in GNU-
+Radio, gr-trellis has to be implemented as efficient as possible before starting to implement
+structures that apply the turbo principle.

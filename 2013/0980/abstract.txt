@@ -1,0 +1,1 @@
+RoR already has great support for individual resources and heavily follows the REST style. This project deals with implementing the same extensive support for resource collections as enjoyed by individual resources.

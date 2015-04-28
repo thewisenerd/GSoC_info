@@ -1,0 +1,3 @@
+This project consists in adding positional tags to F-Spot to offer the posibility of not only
+tagging entire photos, but also tagging people faces in them. This simple idea would grow
+up by adding face detection with Intel's OpenCV.

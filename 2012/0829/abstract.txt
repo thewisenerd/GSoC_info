@@ -1,0 +1,8 @@
+The objective of this project is to exploit the Apache SOLR search engine as indexing and search engine for XWiki.
+
+XWiki is a very flexible wiki, in use in massive or small sites, with both highly structured and/or very textual content. This flexibility should be in the SOLR component:
+
+ Based on SOLR's schema and complementary information, the indexing process should be customizable to only index and store as little information as needed.
+  Through code customizability (exploiting the possibility of Groovy code in pages), the transformation of a user-query to a SOLR query should be adjustable, far beyond the simple text-parsing (enabling, for example, the prohibition of some spaces, or the conversion to multiple fields based on input parameters)
+
+Finally, this component should support calibrating the search engine's parameter (such as the Dismax' parser coefficients, the analyzers usefulness, ...) by classical quantitative methods such as precision-and-recall, which any wiki master, or a collaborator, should be able to exploit and report with.

@@ -1,0 +1,1 @@
+The dependency solver can be a mysterious piece of the installation process. I want to give the user the possibility to see what is happening and also give them a better chance to understand what happened if something does not just work. Further, I would like to enable them to use that information to fix the installation in some cases.

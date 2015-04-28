@@ -1,0 +1,1 @@
+LDV Tools tends to increase reliability and efficiency of the Linux kernel. For verification it uses a set of rules of correct usage of the kernel API. Each rule also represents one or more typical misuses of the kernel core interfaces. By the moment, LDV Tools contains about 40 formalized rules. This project is aimed at extending the number of rules supported by the LDV.

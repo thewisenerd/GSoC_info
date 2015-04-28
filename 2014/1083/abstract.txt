@@ -1,0 +1,7 @@
+Peace Corps volunteers are provided by Peace Corps Malaria medication which they are supposed to take.
+
+The primary features  of the project are : 
+
+(a)Website for admins to submit messages to disseminate through mobile messages to PCVs in the field
+(b)Receive PCV messages from HQ (Android and text)
+(c)User Interface for both website and mobile app

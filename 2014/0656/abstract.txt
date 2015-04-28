@@ -1,0 +1,1 @@
+This project mainly deals in improving sky cam android application in functionality(backend) and design, frontend. The project describes how some features will be improved and integrated with existing features.

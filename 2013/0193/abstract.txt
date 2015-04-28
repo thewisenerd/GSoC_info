@@ -1,0 +1,1 @@
+My project will allow users of MediaWiki to display information about Moodle courses.

@@ -1,0 +1,1 @@
+The Coarray syntax adds a few specific keywords to the Fortran language and leaves the user free to utilize the usual array syntax to realize parallel programs. Having the Coarray support inside the GNU GFortran compiler will bring benefits to every user which needs to produce parallel software without being an expert parallel programmer.

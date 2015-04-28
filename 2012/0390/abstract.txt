@@ -1,0 +1,10 @@
+Mapnik has dozens of bugs related to rendering right-to-left (RTL)
+languages, Unicode and text rendering in general:
+
+https://github.com/mapnik/mapnik/wiki/InternationalText
+
+These bugs are critical in that they pose to hold back the adoption of OSM in
+various parts of the world and none of the main Mapnik developers have the
+unicode experience necessary to solve them.
+
+So my job would be to rewrite this part of mapnik.

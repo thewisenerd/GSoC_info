@@ -1,0 +1,1 @@
+STEP Viewer is a program which provides good set of functionality to view STEP files with the interaction with the user to rotate, zoom, and pan the geometry in the 3D viewer. This document contains the implementation details, technologies hoping to use in development of STEP Viewer program, main components and functionality of the STEP viewer program.

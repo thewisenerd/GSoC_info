@@ -1,0 +1,1 @@
+Scientific computing experiments for the most part consist of multiple tasks that need to be deployed, executed, audited and monitored independently. As a workflow engine Apache Airavata needs to take care of orchestrating these individual tasks in terms of resource allocation, faul-tolerance, etc yet eventually end up producing results for experiments that encapsulate them.

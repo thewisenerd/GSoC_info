@@ -1,0 +1,1 @@
+Enabling versioning strategy for synapse configuration artifacts like sequences, proxy services, APIs, endpoints etc.

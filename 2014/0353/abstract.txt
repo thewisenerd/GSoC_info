@@ -1,0 +1,3 @@
+The motivation for developing an automated topology discovery protocol facilitates smarter and more informed routing decisions in RouteFlow.  
+
+Having an automated centralized picture of the network as opposed to just having a static network configuration makes the network more robust in the face of changes.

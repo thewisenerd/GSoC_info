@@ -1,0 +1,1 @@
+Biological networks have been widely used on many biological problems. Although there are also many software tools for analyzing networks using ontologies, most of them are isolated with simple functions. Based on our previous work, we are planning to develop a series interactive Cytoscape plugins to address both visualization and analysis of ontology-annotated networks.

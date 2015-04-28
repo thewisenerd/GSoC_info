@@ -1,0 +1,2 @@
+Artificial Intelligence is a hot topic these days and with this project we are trying to integrate AI with Drupal. We aim at optimizing a Drupal website by using a class of algorithms called multi-armed bandit algorithms which use reinforcement learning to display the content variations that  are most likely to have the highest success.
+The project will provide a general framework for conducting such experiments and hopefully it will be the starting point for more advanced AI usages in Drupal.

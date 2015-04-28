@@ -1,0 +1,3 @@
+This project improve the security and performance of OpenKeychain due to two reasons.
+For security, the support of EdDSA is very important to enhance the security of OpenKeychain. There are no proof that ECDSA satisfy EUF-CMA which is a theoretical security model. EdDSA is based on Schnorr signature. Schnorr signature is EUF-CMA secure in the random oracle model.
+For performance, EdDSA is faster than ECDSA in some point(e.g. key generation, verification, etc...).

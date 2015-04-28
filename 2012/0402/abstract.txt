@@ -1,0 +1,35 @@
+Hi! 
+  I'm Hugo a 2nd year student in programming at the University of Montpellier in France. I love programming this is why working on the e-cidadania project this summer would be a dream come true for me.
+  I will have to work this summer -like have since I was 17- to pay for my studies anyway, so you can imagine my motivation for working on GSOC rather than a fast-food chain.
+
+  3 Things that makes me a great candiate :) :
+
+    I'm bi-lingual french/english, great for communication and some localisation.
+    I'm highly motivated, it took me 3 days from having no knowledge of frameworks, to implementing i18n urls patterns to the project (using the django framework).
+    I'm friendly and serious. We all have to get along well together, and we all have to work well together. :)
+
+  3 Things that will be a challenge for me this summer:
+
+    I have never worked on an open-source project before.
+    Seeing what I'm worth as a "real" programmer.
+    Not boasting to my friends as to my new summer job.
+
+  3 Things I love about coding:
+
+    Typing away on my keyboard is considered work by society.
+    Vim is just soooo good.
+    Time just flies by, in a good way.
+
+ 3 Things that inspire me about the e-cidadania project:
+
+    Democracy is made accessible and open.
+    Django is really powerfull.
+    The community great and friendly.
+
+  3 Things I would cut to get this job:
+    
+    One of my hands.
+    My hair.
+    My sleep.
+
+Thanks a lot for considering my proposal, I really hope we're going to work together this summer!! :)

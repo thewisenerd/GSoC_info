@@ -1,0 +1,3 @@
+The project idea aims to rewrite the IoTSyS connector for EnOcean, because the existing one doesn't work properly and only a little number of device types (sensors and actuators) can be used.
+
+A new API has to be used to make the communication with the sensors and the actuators as easy as possible. To use this API in IoTSys a connector is necessary, which also will be programmed during the project. Another improvement is to support as many as possible device types.

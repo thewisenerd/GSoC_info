@@ -1,0 +1,1 @@
+I plan to make the existing unit test infrastructure work with maildir enabled as the email storage format. My work will make the xpcshell and mozmill tests pass with maildir enabled. This will also help in uncovering bugs in the core implementation that can be fixed.

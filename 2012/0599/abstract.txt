@@ -1,0 +1,2 @@
+During the GeoGebra GSoC project I would like to implement Apps for iPad and Android. One opportunity would be Phone Gap. It’s an easy way to build applications for mobile devices using HTML5, JavaScript and CSS3. Moreover it allows you to natively target all smartphones with a single codebase.
+In my point of view GeoGebra is a very important tool especially for schools, thus I want to contribut to the advancement of GeoGebra and to improve my own knowledge.

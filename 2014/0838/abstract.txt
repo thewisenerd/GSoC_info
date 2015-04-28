@@ -1,0 +1,5 @@
+Browser based applications are becoming the de facto web standard.
+
+CiviMail is an important component that has a high impact. Current workflow in CiviCRM is lengthy and multi-step process. It would be easily converted into simple javascript application, using modern framework such as AngularJS.
+
+CiviMail also is less complex compare to other components which makes it a good fit for usability improvements.

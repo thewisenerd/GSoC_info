@@ -1,0 +1,1 @@
+The project intends to implement a module to be used in ATutor, that helps content authors to utilize popular Google App such as Google Docs, Google Calendar, Youtube, etc. & create highly interactive course content. The users of the module can also access & share these resources using Google App services, from within Atutor environment.

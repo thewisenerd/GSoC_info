@@ -1,0 +1,4 @@
+NRefactory is used to analyze C# code and generate an AST. This can be used to identify areas of projects where refactoring or code actions can be taken. 
+Right now, it supports a number of refactoring actions. However, many more that would be useful to the user still need to be implemented.
+
+I have identified a number of major refactoring actions already and would do thorough research into other IDEs to find any missing actions that would be beneficial to the user, and implement them.

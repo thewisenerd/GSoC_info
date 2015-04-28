@@ -1,0 +1,7 @@
+PMA is a popular web based database management tool. It usually undergoes new releases, bug fixes, new feature development and refactoring. Since the PMA production code is changed frequently and our code is finished by developers from all over the world, in order to guarantee the production quality, it is very necessary to run Unit testing on Jenkins (Hudson). Unit Tests have several benefits to us. It allows us changing code quickly under full testing. By running unit tests, a developer can identify whether his latest changes to the code base has broken anything. Unit Tests can also help new developers really understand the design of the code and it can give our developers visual feedback about which lines are covered. From PMA CI Page, Currently, the code coverage of PMA is 18.3%.  More code coverage means more guarantee to production. 
+Goal:
+1.	Increase the code coverage to a reasonable percentage (80%)
+2.	Set up the necessary scripts to automate unit testing. 
+3.	Help other developers to set up their unit test cases.
+4.	Functional test case to cover render issue
+Strategy: we should cover core code to a high level (90%) at firstly and then spent some time on the other stuff.

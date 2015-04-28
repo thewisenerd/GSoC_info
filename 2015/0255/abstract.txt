@@ -1,0 +1,3 @@
+I want to work on the improvements for the darcsden project. Darcsden
+is a web platform, akin to github or bitbucket, for hosting darcs
+repositories. This involves three main ideas.

@@ -1,0 +1,1 @@
+Improving performance of the core Boost.Compute algorithms by choosing the best way to perform computations based not only on the size of problem, but also on used device and its hardware capabilities. Implementing reduction by key algorithm and support for using custom function in inclusive and exclusive prefix sum operations.

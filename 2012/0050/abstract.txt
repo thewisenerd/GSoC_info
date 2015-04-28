@@ -1,0 +1,1 @@
+Proposal for Ubuntu packages and Cygwin port for Windows to easily install OpenCog on these operating systems. Other goals include automating and documenting the OpenCog's build process.

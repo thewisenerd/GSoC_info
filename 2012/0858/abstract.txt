@@ -1,0 +1,3 @@
+This project is about adding an OpenGL ES mode for Marble. Users should be able to choose between the classic software-based rendering mode, which should remain the default for now, and the new OpenGL mode.
+
+The major goal is to get basic features of maps, such as textures, float items and geo-located items, displayed using OpenGL.

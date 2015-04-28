@@ -1,0 +1,1 @@
+Now ext4 snapshot only supports read only snapshot. This project aims to add writable snapshot support for ext4 snapshot. For more info on ext4 snapshot, please visit website http://sourceforge.net/apps/mediawiki/next3/index.php?title=Ext4_snapshots_TODO

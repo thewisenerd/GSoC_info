@@ -1,0 +1,2 @@
+ManifoldCF is an effort to provide an open source framework for connecting source content repositories to target repositories or indexes. 
+Kafka is a distributed, partitioned, replicated queue service. Apache Kafka is being used for a number of uses cases. One of them is to use Kafka as a feeding system for streaming BigData processes. A Kafka output connector for ManifoldCF could be used for streaming or dispatching crawled documents or metadata and put them in a BigData processing pipeline.

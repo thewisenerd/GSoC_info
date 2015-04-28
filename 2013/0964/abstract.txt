@@ -1,0 +1,1 @@
+porting showfoto to Qt4 Model/View,Making a new class depends on KUrl class, and adding some new functions like drag and drop and a right click menu

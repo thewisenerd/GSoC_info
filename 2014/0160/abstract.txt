@@ -1,0 +1,1 @@
+The goal of this project is to provide a way to choose which types of objects the selection tool and selection operations affect.

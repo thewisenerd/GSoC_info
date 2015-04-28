@@ -1,0 +1,1 @@
+Hgweb, through being nice and convenient, lacks some important features. Most notably, they are no administrative functions, whole page updates instead of dynamic AJAX loading, and small search capabilities. Improving this behavior is what I'm going to do as the project.

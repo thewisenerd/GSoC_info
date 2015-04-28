@@ -1,0 +1,3 @@
+The compiler for Rust, Mozilla's new programming language, does not yet fully support creating valid debug symbols. *rustc* uses LLVM as code generator and LLVM also supports creating debug symbols, provided that the LLVM IR it uses as input contains correct metadata annotations about variables, functions, types, etc. This metadata is very similar to the DWARF debug symbol format.
+
+*rustc* already provides some of this metadata generation in librustc/middle/trans/debuginfo.rs. The goal of this GSoC project is to implement the missing functionality so that in September rustc can be debugged itself using gdb (see *Schedule of Deliverables* for details on what tasks this involves specifically).

@@ -1,0 +1,2 @@
+Graphdb are DBMS providing efficient query processing while Giraph relates to efficient off-line queries which can require several hours to complete.
+This difference is often not well understood. For this reason, my aim is to provide an API layer based on Tinkerpop to allow the injection of graph databases into Giraph to run analytics which would not be possible in a graph DBMS.

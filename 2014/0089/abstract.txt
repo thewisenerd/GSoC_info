@@ -1,0 +1,1 @@
+Bio4j is a high-performance cloud-enabled graph-based open source bioinformatics data platform, integrating the data available in the most representative open data sources around protein information. The minimum goal is to develop a tool and a minimal library/API capable of executing queries over a given bio4j module and export the results in known formats like Gexf and GraphML.

@@ -1,0 +1,2 @@
+Boost uBlas offers a wide range of algorithms which can be applied on vectors or matrices. These calculations are mostly done on very substantial sized objects, which significantly increases the computation time. However, the time performance of a program is one of the most important criteria nowadays.
+The aim of our project is to enable the parallel execution thanks to the MPI technology.

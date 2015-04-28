@@ -1,0 +1,1 @@
+Implement a layer of generic parallelized backends which wrap existing backends and allow splitting data among OpenMP threads or the nodes of an MPI cluster.

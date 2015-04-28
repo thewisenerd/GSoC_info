@@ -1,0 +1,1 @@
+The purpose of this project is to create a new cross-platform 3D display manager. A display manager is the primary means with which BRL-CAD interacts graphically with geometry. The framework used in implementation will be Qt. The project will be structured as an extension to BRL-CAD's libdm library.

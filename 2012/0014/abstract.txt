@@ -1,0 +1,1 @@
+Syslinux currently does not support a scheme where one can specify a disk/partition on the command line. We propose the implementation of this schema using some kind of syntax similar to the one we have developed for COM32 module chain.c32. So perhaps something like [hd0,3]/foo/bar/baz or [mbr:0x12345678,5]/foo/bar, or even file://hd0,3/foo/bar/baz to make it URL-like.

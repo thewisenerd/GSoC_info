@@ -1,0 +1,1 @@
+Prototype versions of the Atomspace and MOSES deme implemented in Haskell. The aim is to create a working GenProg prototype. The prototype should be able evolve arbitrary programs involving fold.

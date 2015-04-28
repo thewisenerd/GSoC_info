@@ -1,0 +1,1 @@
+Pandoc is one of the most widely used universal document converters and, as a result, it has become one of Haskell's flagship projects. I propose a two-part project: the first is to modify the image type to allow embedded images and the second, larger part, is to implement a reader for EPUB documents which would make use of this additional functionality.

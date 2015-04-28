@@ -1,0 +1,2 @@
+Confluence is team collaboration software. ManifoldCF is an effort to provide an open source framework for connecting source content repositories keeping the security policy of them.
+This project aims to build a connector that can deal with Confluence because it will be very interesting for the organizations, since they will be able to get all the Confluence information along with the rest of source content repositories, keeping the security policies defined on each repository.

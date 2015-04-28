@@ -1,0 +1,1 @@
+This proposal intends to improve the Raspberry Pi BSP support for low level-peripherals by completing the GPIO API, I2C and SPI bus drivers support, adding SD card filesystem support and providing methods to probe information about the underlying hardware.
