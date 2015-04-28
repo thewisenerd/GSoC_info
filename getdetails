@@ -11,6 +11,7 @@ BASE_PARAMS="?fmt=json&limit=2000&idx=0"
 
 LINK_FILE="url"
 ABSTRACT_FILE="abstract.txt"
+NPROC=0
 
 get_details() {
 
@@ -27,10 +28,17 @@ get_details() {
 
 		cd $foo
 
-			url_g=$( cat ${LINK_FILE} | sed 's/\"//g' )
-			../../gen.py ${BASE_DOMAIN}${url_g}
+			echo "parsing proj: "${BASE_YEAR}"/"${foo}
 
-			exit;
+			url_g=$( cat ${LINK_FILE} | sed 's/\"//g' )
+			NPROC=$(($NPROC+1))
+			../../gen.py ${BASE_DOMAIN}${url_g} &
+
+			#why 7? 7 * (7 - 1) = 42 = answer to life, the universe, et tout
+			if [ "$NPROC" -ge 7 ]; then
+				wait
+				NPROC=0
+			fi
 
 		cd ..
 

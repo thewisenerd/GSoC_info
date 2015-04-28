@@ -8,7 +8,8 @@ import os
 
 _abstract_f="abstract.txt"
 
-os.remove(_abstract_f)
+if os.path.exists(_abstract_f):
+	os.remove(_abstract_f)
 
 f = urllib.urlopen(sys.argv[1])
 
@@ -22,7 +23,7 @@ if len(div):
 	for elem in div:
 		_content = elem.find('strong')
 		if ( _content.text == "Abstract:" ):
-			_desc = elem.text[len("Abstract: "):]
+			_desc = elem.text[len("Abstract: "):].encode('utf-8').strip()
 			with open (_abstract_f, "w") as myfile:
 				myfile.write(_desc)
 				myfile.close()
