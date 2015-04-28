@@ -1,3 +1,61 @@
 #!/bin/bash
 
 BASE_URL="https://www.google-melange.com/gsoc/projects/list/google/gsoc";
+
+BASE_YEAR=2009
+THIS_YEAR=$( date +%Y )
+
+#till google starts accepting more than 2k projects, we shall have it this way
+BASE_PARAMS="?fmt=json&limit=2000&idx=0"
+
+LINK_FILE="url"
+
+get_info() {
+	len=$( jq '.data[] | length' info.json )
+
+	cd $BASE_YEAR
+
+	COUNTER=0
+	BASE_COUNT=$( ls -l . | grep -c ^d )
+	let BASE_COUNT=BASE_COUNT+1
+	while [  $COUNTER -lt $len ]; do
+
+		foo="$(printf "%04d" $BASE_COUNT)"
+
+		mkdir -p $foo
+		cd $foo
+
+		jq -M '.data.""['${COUNTER}'].columns' ../../info.json > info.json
+		touch ${LINK_FILE}
+
+		jq -M '.data.""[0].operations.row.link' ../../info.json > ${LINK_FILE}
+
+		cd ..
+
+		let COUNTER=COUNTER+1
+		let BASE_COUNT=BASE_COUNT+1
+	done
+
+	cd ..
+
+}
+
+get_file() {
+	echo "fetching "${BASE_URL}${BASE_YEAR}${BASE_PARAMS}
+	wget --quiet ${BASE_URL}${BASE_YEAR}${BASE_PARAMS} -O info.json
+	mkdir -p $BASE_YEAR
+	get_info
+
+	#stat=$( jq -M '.next' info.json )
+	#if [[ ${stat} == "\"done\"" ]]; then
+	#	continue
+	#else
+	#	get_file "&start="${stat}
+	#fi
+}
+
+
+while [  $BASE_YEAR -le $THIS_YEAR ]; do
+	get_file
+	let BASE_YEAR=BASE_YEAR+1
+done
