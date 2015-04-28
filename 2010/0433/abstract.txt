@@ -1,0 +1,1 @@
+Implement support for ext2/3 read and write support for Haiku. The project will be based off the already existent code for ext2 read support, and will be inspired by the object oriented design of the BFS implementation. The project will add support for journaling, and all the required features to allow write acess to an ext2 or ext3 filesystem.

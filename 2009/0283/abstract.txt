@@ -1,0 +1,9 @@
+This project aims at introducing a framework for pluggable disk
+schedulers in GEOM, available to the user as a GEOM class, with
+scheduling algorithms implemented in external modules.
+
+We have already implemented a prototype for the framework and we
+already have some example schedulers.  The ultimate goals of this
+project will be to produce a stable scheduling framework and
+at least a general purpose disk scheduling plugin, suitable for
+use under desktop workloads.

@@ -1,0 +1,3 @@
+I am proposing to improve the virtual memory system of Plan 9 and to use the improved VM to implement a better libc memory allocator.
+
+Currently, Plan 9 allows programs to create anonymous memory segments; it has a limit of less than five segments per-process, however. I propose replacing the limited per-process segment array with a structure that allows for a much larger number of segments and implementing a memory allocator that takes advantage of the liberal number of anonymous segments.

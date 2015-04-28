@@ -1,0 +1,2 @@
+Apache Axis2 has become a very popular framework for implementing web services using Java. 
+Axis2 recently made the move to Java 1.5 from 1.4, to obtain the benefits of the newer JDK. However, it does not yet support a very useful feature introduced in Java 1.5, namely Generics, the desirability of which is made apparent by requests and feedback from the Axis2 community. The project I am proposing will be aimed towards implementing Java Generics support for the Axis2 Web services framework.

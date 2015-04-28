@@ -1,0 +1,7 @@
+This project integrates Review board into Eclipse. The Eclipse plugin will be done as a Mylyn connector. It will have the following features:
+* Support for connections to multiple Review Board instances
+* Querying and listing of review requests
+* Showing and editing of review request attributes and comments
+* Reviewing without leaving the IDE
+* Posting new review requests
+* Integration with Eclipse version control plugins

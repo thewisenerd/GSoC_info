@@ -1,0 +1,6 @@
+Lua Memory Profiler will be a library for the Lua language that collects
+information about the memory of a program throughout its execution.
+The program memory profile using this library will be shown graphically in
+real time, detailing the different data types being allocated, reallocated or
+released. Our library will also provide other useful information, such as
+maximum memory allocated and maximum number of allocated objects.

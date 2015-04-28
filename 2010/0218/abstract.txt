@@ -1,0 +1,1 @@
+I would like to introduce user scripts support to Konqueror browser. The de facto standard of userscript is GreaseMonkey (which is introduced by respective Mozilla Firefox plugin). The large database of such scripts contributed by users already exists. The ways of implementation I have studied from the code of KHTML, KJS and Konqueror are described.

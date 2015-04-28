@@ -1,0 +1,1 @@
+Currently, SIP Communicator uses Growl's Java bindings to post notifications to Growl notification daemon. However, these bindings do not support full capabilities of Growl. This project concentrates on developing a full Growl support in SIP Communicator using Java Native Interfaces and Growl framework.

@@ -1,0 +1,3 @@
+The goal of this project is to rewrite the current MSNP2P implementation in aMSN using snit. MSNP2P is the protocol used for P2P data transfers, taking care of webcam, file transfers etc. The current implementation is complicated, with code scattered in different files or including several functionalities in the same proc.
+
+If time permits, MSNP2Pv2, which has been RE-ed and takes into account Multiple Points of Presence, will be implemented as well.

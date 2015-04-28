@@ -1,0 +1,5 @@
+The Problem:
+	Currently, when a network connection is unavailable to a device that is running a Plasma Workspace, plasmoids that depend on network functionality typically do not display anything. This is undesirable since it is unattractive and provides less functionality.
+
+The Solution:
+	Plasma should provide cache functionality to plasmoids and data engines. Plasmoids that utilize a data engine that uses the cache feature will receive the feature for free.

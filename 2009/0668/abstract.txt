@@ -1,0 +1,3 @@
+This Summer of Code proposal is all about finally getting the value 
+out of that DSLR which you paid so much for. It's about finally 
+bringing RAW support to F-Spot.

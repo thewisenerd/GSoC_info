@@ -1,0 +1,1 @@
+Pig currently supports DISTINCT, FILTER, LIMIT, and ORDER BY inside nested foreach statement and it is highly desired to have support for FOREACH nested inside a foreach.

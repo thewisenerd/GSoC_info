@@ -1,0 +1,1 @@
+The objective of this project is to compile the transfer rules files to a pseudo-assembly defined for this task and make a light interpreter for the pseudo-assembly generated. Therefore the scope of the project is to build these three main components: the instruction set, the compiler for the transfer files and the interpreter for the final pseudo-assembly generated.

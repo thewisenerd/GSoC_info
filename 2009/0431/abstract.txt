@@ -1,0 +1,8 @@
+Network measurement is essential task for any network.
+Networks size and speed is growing. Packet-based solutions doesn't
+fit well into modern network, as computational complexity keeps
+getting higher. Most effective solutions are flow-based. Problem here 
+is effective generating of flows at high-speed links. This problem is 
+most essential for embeddable devices when we have limited CPU and 
+memory resources. I propose new effective IPFIX probe for 
+obtaining flows at high-speed links.

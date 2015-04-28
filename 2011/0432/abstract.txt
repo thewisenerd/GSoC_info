@@ -1,0 +1,1 @@
+My proposal is to implement the Basic Imaging Profile in the obexd project. This would be done similarly to existing profile implementations, but also addressing certain issues specific to this Profile.

@@ -1,0 +1,2 @@
+Develop a plug-in for the ossimPlanet application for interface with other Open Source G.I.S software such as Grass and Qgis.
+This will allow export of elevation data from grass to OssimPlanet and add the ability to load Grass data (both raster and vector) in Ossim. The end result will be to synchronize the grass maps canvas extent with the Ossimplanet scene.

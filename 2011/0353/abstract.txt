@@ -1,0 +1,7 @@
+I plan to reimplement the sh half of the apertium-sh-mk language pair, the
+bilingual dictionary and transfer rules towards Macedonian. There is some
+previous work done on the SC part, including some handy methods for han-
+dling the difference between the standards. However, some linguistic
+paradigms are missing, and the documentation on the entire implementation
+is quite scarce. To be more productive, I will reimplement the entire dic-
+tionary from scratch, using the old code as a rough guide.

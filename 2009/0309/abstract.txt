@@ -1,0 +1,1 @@
+Add a simple API in libsoup to download file from ftp and http's URIs and modify libsoup to use the GResolver from the GNIO library.

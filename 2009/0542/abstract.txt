@@ -1,0 +1,3 @@
+Arel simplifies the generation of complex SQL queries. My proposal is to integrate Arel into the existing implementation of ActiveRecord, the ORM used by Rails. Arel will simplify ActiveRecord's code and make it more solid and readable.
+ 
+End users will not notice any difference. Developers, however, will see a solid implementation that provides for better maintenance, debugging and the implementation of new features.

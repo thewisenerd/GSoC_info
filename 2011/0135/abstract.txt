@@ -1,0 +1,1 @@
+FreedroidRPG's user interface is designed for a single resolution(640x480). This project aims at implementing a new resolution independent system that will scale properly on any given display and improve the general look and "feel" of the gameplay.

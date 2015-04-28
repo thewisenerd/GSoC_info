@@ -1,0 +1,3 @@
+To implement the the part-of-speech tagger using 2nd order hidden Markov model and Viterbi algorithm, and the various training algorithms: maximum likelihood estimate (MLE), Kupiec's method, Baum-Welch expectation maximization, Parameter smoothing (state-to-state transition and emission probabilities)
+Tools to train the trigram tagger based on both source and target language information.
+Integrate Baum-Welch and supervised methods implemented in att-tools into Apertium bigram tagger.

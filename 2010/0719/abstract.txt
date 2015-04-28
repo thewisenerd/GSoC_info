@@ -1,0 +1,4 @@
+Abstract:
+
+
+The AFS protocol offers encryption for data transport from client to server. However, that data is stored on the server in cleartext, where it can potentially be read by the administrators of that server. This poses a real world problem for organisations who wish to outsource the provision of their file storage, whilst keeping their data confidential. This project would augment the existing AFS client to support encrypting data blocks before sending them to the file server.

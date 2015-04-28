@@ -1,0 +1,1 @@
+Build a distributed object-capability system on the Caja platform, based on the CapTP protocol, on web browsers as well as server-side.

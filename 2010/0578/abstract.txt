@@ -1,0 +1,3 @@
+Multi-touch 4 Java is a framework which enables users to create multi-touch capable user interfaces. By providing basic components, it enables users to create sophisticated UIs that are completely configurable . 
+
+Yet the components that are provided, can not be seen as usable by visual artists and user interface prototypers.  My goal is to create higher level stylable visible components, that can be intuitively used as building blocks in multi-touch applications.

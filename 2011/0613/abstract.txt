@@ -1,0 +1,3 @@
+The aim of this project is to extend the definite integration capabilities of the symbolic computer algebra package SymPy to include a (eventually wide) range of special functions.
+
+The approach will be to use the very general familiy Meijer G functions. Most definite integrals of importance to mathematical physics can be deduced from general properties of the G functions.

@@ -1,0 +1,2 @@
+Now there is no console bluetooth manager, except for a set of scripts in the test/ directory. Sometimes this is not enough, especially if no X server. Many people prefer to perform most operations in the console, even from a full DE.
+The idea of this project - write the utility to work with bluetooth devices. The main advantage - work in the console! X server is not needed, no binding to the DE/WM.

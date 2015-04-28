@@ -1,0 +1,4 @@
+Nowadays, the reliability of web applications is very important. The best way to detect failures early is to monitor. Adding the monitoring feature to Cocoon 3 gives developers and administrators a great tool for detecting errors and failures. Using JMX enables us to:
+* automatically inform about the occurrence of problems (via notification mechanisms)
+* collect statistics about the system (eg. load and connections)
+* inspect: the actual state of cache, settings and perform certain operations

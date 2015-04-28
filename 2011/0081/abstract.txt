@@ -1,0 +1,1 @@
+Using Chinese segmentation algorithm to improve the performace when Xapian processing large amount of Chinese text.

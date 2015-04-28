@@ -1,0 +1,1 @@
+The nqp_pct branch of parrot.git contains an updated version of POST that can output bytecode directly. This project will update PAST to use this new version of POST and get the branch ready for merge to master.

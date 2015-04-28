@@ -1,0 +1,1 @@
+YafaRay is used a lot in Blender.But till now YafaRay does not have a formal version for Maya. I'd like to integrate YafaRay and Maya, making YafaRay as an exporter or plug-in for Maya.

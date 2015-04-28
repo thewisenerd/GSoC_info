@@ -1,0 +1,3 @@
+Events have become an integral part of Social Networking; this plugin would also be useful for WordCamp.org - allowing people to handle WordCamp registration through the WordCamp site itself, etc.
+
+This plugin will provide basic event functionality for plain vanilla WordPress installs and enhanced capabilities for BuddyPress installs by leveraging the new Wordpress Custom post types and moving on from that.

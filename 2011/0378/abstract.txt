@@ -1,0 +1,1 @@
+Getting Things GNOME! is a powerful software for managing personal tasks. It supports many features. Its components must be very flexible to support all of these features. Unfortunately, GTK TreeWidget is not and liblarch was created but it needs to rewrite and separate from GTK as much as possible. I want to rewrite liblarch that way during the summer.

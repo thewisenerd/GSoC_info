@@ -1,0 +1,1 @@
+The goal of this project is to update existing inference systems and to create new inferencers for type systems for the Java programming language.  The focus is on immutability inferencing.  This entails updating the Javarifier tool and creating an inference system for the IGJ immutability checker.

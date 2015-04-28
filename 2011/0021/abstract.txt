@@ -1,0 +1,1 @@
+Implementing the mirror target for device mapper allows LVM to use a RAID1 scheme for data redundacy, and also enables the use of snapshotting, which is essential for an advanced volume manager.

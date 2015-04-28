@@ -1,0 +1,5 @@
+Writing a resampling/format conversion filter (starting with just a wrapping code at libavcodec/resample.c)
+
+    * Can it be made clear that ideally we'd want N-channel resampling? Rob
+
+Very high compatible module to PCM decoder (MOD/S3M/XM/IT/FC13/FC14 at least).

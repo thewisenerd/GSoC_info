@@ -1,0 +1,2 @@
+Implementing a new question type which can be used by the surveyee to upload file(s) in response to a survey question. And later these uploaded files can be browsed and downloaded in compressed format by the admin.
+Major challenges in this project are to make the entire upload process a very easy and smooth experience for the surveyee by designing a beautiful GUI and to secure the file system from any evil users.

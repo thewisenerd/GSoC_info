@@ -1,0 +1,1 @@
+This project will incorporate an open-source language detection library into Language Tool, so the user does not have to set the language manually. It will also develop a rule conversion module, with support for rules in both the Constraint Grammar and After the Deadline styles.

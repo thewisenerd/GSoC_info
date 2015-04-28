@@ -1,0 +1,3 @@
+I propose a project which would make life easier for GNOME application developers by simplifying the work involved in creating Gtk+ settings dialogs and coupling them to GConf keys.
+
+This will include a new GConf key to GObject property binding API, GtkBuildable objects representing the bindings and GLADE support for creating them, and full documentation and a tutorial for new developers.

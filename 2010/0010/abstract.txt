@@ -1,0 +1,2 @@
+Most of the proprietary photo suites today like Picasa, iPhoto, and Windows Live automatically recognize, and tag faces in photographs. Auto-tagging saves valuable time that would otherwise be spent doing it manually, considering that many people have thousands of photos.
+Aided by nepomuk, you would be able to type the name of your best friend in dolphin's search bar or krunner, and the results would contain the same friend's photos.

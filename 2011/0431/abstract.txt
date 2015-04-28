@@ -1,0 +1,3 @@
+To contribute with functions to help explore,
+visualize and analyze data from multivariate stochastic dynamic
+systems.

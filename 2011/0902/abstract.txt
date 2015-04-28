@@ -1,0 +1,9 @@
+The project  aims at extending the DrupalGapps (Google Apps Framework for Drupal) module by:
+
+1. Porting DrupalGapps module to Drupal  7.
+
+2. Improving and adding more features  to existing DrupalGapps API.
+2.1. OAuth integration.
+2.2. Registration sub-module development.
+
+3. Developing wrapper and application  for Google Documents List API using DrupalGapps API.

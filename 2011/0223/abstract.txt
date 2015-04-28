@@ -1,0 +1,3 @@
+The goal is to make existing std.regex module in the D standard library more feature-rich and flexible. 
+This includes: upgrading existing engine to support some popular extensions,
+providing alternative implementations based on finite state automation with their respective trade-offs. Also to provide the ability to generate the whole regex engine from pattern statically at compile time.

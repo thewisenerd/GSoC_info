@@ -1,0 +1,2 @@
+jsviz is a JavaScript library project which is about drawing scalable vector graphics using a vector markup language. It is a lightweight JavaScript library, so that makes it easy to include simple vector graphics in web pages by providing a common SVG-style programming interface to VML and SVG.
+I am proposing here to port the jsviz libraries to dojo envirnment.

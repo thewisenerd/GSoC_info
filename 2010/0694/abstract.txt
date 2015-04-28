@@ -1,0 +1,5 @@
+KDE-PIM applications like KMail, KJots, Akregator use Qt mixed with HTML to generate their themes. 
+
+This project aims to solve this problem by porting the Grantlee library to the Message Viewer to have theming support.
+
+Artists can create their own themes,without looking at code and developers can concentrate on creating the methods to manage and export the data. Integration of GHNS will allow users share,update and download new themes.

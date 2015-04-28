@@ -1,0 +1,1 @@
+Port the Haiku Kernel and some device drivers to the ARM architecture, so that it can boot and use at least the serial console and the sd-card on a beagleboard. To fulfill this task a generic boot loader that uses u-boot (this would also help for porting to other architectures) must be written and the kernel be ported.

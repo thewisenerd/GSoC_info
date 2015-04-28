@@ -1,0 +1,1 @@
+Improvements to SSA/ASS subtitle rendering. Namely, support for complex text layout (needed for Arabic, Hebrew, Syrian and vertical CJK scripts) in libass as well as fixes and performance improvements to VLC integration.

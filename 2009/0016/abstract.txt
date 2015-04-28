@@ -1,0 +1,4 @@
+Today, most x86 processors contain multiple cores and support SSE vector
+instructions.  However, few open source libraries leverage these features.  In
+this project, I propose optimizing NumPy's ufunc operations by using SSE and 
+multi-core execution via the CorePy library.

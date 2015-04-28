@@ -1,0 +1,1 @@
+The project aims to create tools for developers and users that can help to distribute software to different Linux systems and to install 'alien' packages (created for other Linux system) on particular system. These tools should work over the web service that provides information about names of dependences on different Linux systems.

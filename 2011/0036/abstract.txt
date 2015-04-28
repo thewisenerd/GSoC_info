@@ -1,0 +1,1 @@
+This project will deliver a series of smaller developments and features, all with the goal of improving the animation experience in Blender based upon feedback from animators who have worked on previous Open Movie projects. Where time permits, improved support for handling motion captured (mocap) data will also be worked on.

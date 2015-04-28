@@ -1,0 +1,1 @@
+While KStars has many advanced features, the quality and realism of its graphics could do with a great deal of improvement. This project would aim to increase the aesthetic appeal of KStars by means of an OpenGL painting backend, with support for light-pollution simulation, texturing, sky-shading, and tone-mapping.

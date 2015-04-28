@@ -1,0 +1,6 @@
+I am proposing to work on the Syndication API for AptitudeCMS (Aka Geeklog V2).
+
+
+Reading and Writing of arbitrary feeds based on content on the site, and importing content from other sites, is a simple way to syndicate content for others to use and add their content to your own site.
+
+I see this as an important part of Week-long/AptitudeCMS, as users of a site based on the CMS, would obviously like to read News on the subject, of the content within the CMS.

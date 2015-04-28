@@ -1,0 +1,1 @@
+I propose to use textual analysis techniques to improve user interaction and data gathering in the ShortStack web application. Potential topics of interest include automatic tagging, analysis of government pages for clarity of meaning, and grouping of data by textual similarity.

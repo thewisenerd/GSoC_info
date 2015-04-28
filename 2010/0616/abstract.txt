@@ -1,0 +1,6 @@
+IPython's execution in a command-line environment will be ported to a two process model using the ZeroMQ library for inter-process communication. This will:
+
+    * prevent an interpreter crash from destroying the user session,
+    * allow multiple clients to interact simultaneously with a single interpreter
+    * allow IPython to reuse code for local execution and distributed computing (DC)
+    * give us a path for Python3 support, since ZeroMQ supports Python3 while Twisted does not.

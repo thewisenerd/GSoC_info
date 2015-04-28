@@ -1,0 +1,1 @@
+The link between parser and logic of loading should be implemented. Concerning this matter, refactorings have to be done, a validator has to be implemented and a SQL generator has to be created.

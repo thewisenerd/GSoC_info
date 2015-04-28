@@ -1,0 +1,1 @@
+This project's main purpose is to create a flexible combat system for Unknown Horizons.

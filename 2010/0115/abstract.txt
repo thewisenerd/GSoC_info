@@ -1,0 +1,2 @@
+I am currently studying for my Masters Degree in Computer Science at EPFL. I decided to
+apply for an intern position (in the context of my master thesis) at OpenCV because I am looking for a challenge and I think this is an opportunity for me to consolidate the knowledge and experience gathered so far. Personally, I would like to be involved in research with new technologies but also experience the rigor of developing reliable consumer applications.

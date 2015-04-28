@@ -1,0 +1,1 @@
+This project will be about updating the GRUB of illumos from version 0.97 to 1.99. This will include fixing bootadm and beadm so that these commands update GRUB 2 configuration. Another part of this project will be adding support to boot from GPT (GUID Partition Table) on PC/BIOS to overcome the limitations of MBR partition table.

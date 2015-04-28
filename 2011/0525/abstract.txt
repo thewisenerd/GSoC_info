@@ -1,0 +1,1 @@
+Add indexing support and implement a similiar query based search mechanism as in MoinMoin 1.x  using whoosh.

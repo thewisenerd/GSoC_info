@@ -1,0 +1,3 @@
+The integration consists of connecting GGL2 to gvSIG Desktop. Thereby, users will be able to reference the gvSIG data sources in GGL2 scripts, process them and visualize the results back in gvSIG.
+
+This integration includes implementing the communication between both of them, modificating GGL2 grammar, wrapping gvSIG readers in order to provide access to all formats gvSIG can read and some usability tasks, such as implementing an execution wizard for GGL2 algorithms.

@@ -1,0 +1,1 @@
+Remote storage will help Selenium users to use their tests in different places or just share them in testers crew without SVN or another repository usage.

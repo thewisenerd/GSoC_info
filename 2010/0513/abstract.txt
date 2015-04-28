@@ -1,0 +1,1 @@
+Cross-platform framework to flash and debrick a router. Including a flashing GUI with howto. Targetting "normal" people with simple knowledge of computer (none knowledge unix, none console) can flash and debrick most routers.

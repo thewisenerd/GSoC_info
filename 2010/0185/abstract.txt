@@ -1,0 +1,5 @@
+MyFaces uses JUnit for testing in MyFaces Core and also provides a test-webapp.
+
+The main drawbacks are that JUnit uses to much Mock classes, and the tests are not able to run against the “real” classes, hence these solution cannot be used for testing extensions. Another issue concerns the need of a complete integration testing. The test-webapp drawback is that if exhaustive testings were to be performed, each page would have to be checked manually.
+
+The project addresses this exact issues.

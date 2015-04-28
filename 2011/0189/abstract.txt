@@ -1,0 +1,1 @@
+As of now there are several different benchmark (suites) by all Python implementations, this project tries to provide a common benchmark suite - by merging the existing ones - which is shared by all implementations and to port that suite to Python 3.x. This will allow a more accurate comparison between different Python implementations.

@@ -1,0 +1,5 @@
+I'm an 20 year old male, studying for a masters degree in computer science. I see this as a great chance to get involved in a bigger open source projects - something which I've always been intersted in. I got interested in the creation of the new php benchmark suite because of my earlier experiences of benchmarking, as I did a javascript benchmarking test to compare the 5 most popular web browsers during a school work this year. I would like to make the most of this and I'm willing to work hard for it.
+
+I have lots of coding experience from my own projects which is producing websites for companies as well as running a free web host for Swedish people. This have given me knowledge about planning and I know that its not a good idea to start coding too late.
+
+I believe I have some good thoughts about this benchmark suite and I have a goal to achieve.

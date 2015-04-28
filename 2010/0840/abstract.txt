@@ -1,0 +1,2 @@
+Hybrid automaton is a standard model for hybrid systems. Currently, Scilab/Xcos has a support for modeling of hybrid automata, but it does not allow direct specification of automata and require manual transformation of automaton's graph into syntax of Xcos diagrams.
+This project is intended to provide a convenient environment for direct modeling of hybrid automata in Scilab/Xcos.

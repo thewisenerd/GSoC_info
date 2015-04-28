@@ -1,0 +1,1 @@
+The project includes adapting SMB2 code to CIFS Linux kernel module as well as new SMB2.1 caching semantic implementation.

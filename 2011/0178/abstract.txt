@@ -1,0 +1,3 @@
+Currently Xen is using for HVM Virtual machines a version of BIOS called rombios, ROMBIOS is functional but maintenance is difficult, it is a mixture of C and inline assembly.
+Xen wants to migrate to SeaBIOS, which happens to also be the qemu upstream and KVM BIOS of choice, that means that the source code is more maintainable.
+Then a modification to int0x13 will be done to use the PV Drivers via XenStore instead of the emulated device used in qemu.

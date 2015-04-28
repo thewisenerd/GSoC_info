@@ -1,0 +1,2 @@
+Libemu is a library used for shellcode analysis. One of its main features is the extraction of OS-API calls, with which one can get a quick hint in what way shellcode acts, without the need to look at assembler code.
+To figure out the function calls, Libemu executes shellcode with a build in emulator, resulting in the downside that this is rather slow. The aim of this project is to enhance the performance of libemu by using a virtualizer.

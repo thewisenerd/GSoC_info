@@ -1,0 +1,1 @@
+This project proposal is for the port of RTEMS to an AVR micro controller. The recommended device is ATmega128. If time permits the system will be scaled down even further to accommodate even smaller devices.

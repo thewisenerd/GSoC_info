@@ -1,0 +1,3 @@
+This project continues in the development of GRASS GIS 3D visualizaton tool wxNviz based on wxPython and underlying OGSF library. 
+The goal is to add missing functionality so that wxNviz's predecessor written in Tcl/Tk could be replaced by completed wxNviz in GRASS 7. 
+The plan is to add missing features like animations or cutting planes and additionally implement better view control.

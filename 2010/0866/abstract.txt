@@ -1,0 +1,1 @@
+The goal of this project is to remove all of the custom command-line option and configuration file parsing code inside of Drizzle with the boost::program_options library. This will not only cut out a significant portion of source code that is weakly tested, but will replace that code with a well-tested and standardized library of code.

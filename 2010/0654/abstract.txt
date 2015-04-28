@@ -1,0 +1,1 @@
+This project will consist of identifiying some projects' test suite failures when executed on GNU/Hurd, debugging them, and if they are truly GNU/Hurd issues (and not problems in the projects themselves), fixing them.

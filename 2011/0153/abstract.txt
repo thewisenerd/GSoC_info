@@ -1,0 +1,2 @@
+This proposal is about developing a variety of NSE scripts such as CakePHP versioning, Nikto integration, Router Default Login. 
+Another objective of this proposal is to provide a more complete set of fuzzing scripts for the protocols HTTP, FTP and SMTP.

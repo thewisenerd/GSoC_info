@@ -1,0 +1,5 @@
+Django current has the low level hooks necessary for multiple database support,
+but it doesn't have the high level API for using, nor any support
+infrastructure, documentation, or tests.  The purpose of this project would be
+to implement the high level API necessary for the use of multiple databases in
+Django, along with requisit documentation and tests.

@@ -1,0 +1,1 @@
+During my Google Summer of Code I will transform CNXML to and from Google Docs' HTML and let them interact and exchange information with each other. At the end Google Docs will be a new import and export format for Connexions which will allow editors to create, collaborate & edit modules with the power of the Google services.

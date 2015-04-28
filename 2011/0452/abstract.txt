@@ -1,0 +1,2 @@
+I'm interested in the shell editor improvements project, and I've been working on it, implemented the ctrl based hotkeys for F1 to F9.
+   I also have some other ideas to improve the editor.

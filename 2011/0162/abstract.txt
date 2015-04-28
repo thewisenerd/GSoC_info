@@ -1,0 +1,1 @@
+This is a proposal for a linear algebra for D that allows for natural mathematical expressions to be converted into high performance BLAS calls at compile time.

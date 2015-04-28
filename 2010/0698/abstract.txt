@@ -1,0 +1,1 @@
+I (Ryan Scott) propose to update the OPeNDAP website using a content management system such as Drupal.  The ultimate goal of this project will be to implement a smooth, functional, and well-organized website design that can be updated and edited very easily without needing to log in to the host server.

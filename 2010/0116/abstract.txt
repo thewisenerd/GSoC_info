@@ -1,0 +1,1 @@
+Integration, testing, documentation and further development of DSpace REST services for 1.x and 2.0 versions.

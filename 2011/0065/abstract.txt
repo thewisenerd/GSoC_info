@@ -1,0 +1,1 @@
+I would implement mesh morphs for PySoy. Basically this would allow users to take an existing mesh with a given set of vertices and pass an instruction to move the vertices over a specific time interval, allowing smooth deformation of the mesh. This enables such effects as a ball being squashed, a planet imploding, etc.

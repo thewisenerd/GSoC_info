@@ -1,0 +1,1 @@
+Add a generic framework for working with playlists to libavformat and implementations for several common formats.

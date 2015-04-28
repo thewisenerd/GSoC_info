@@ -1,0 +1,3 @@
+I’m applying for the amino acids physico-chemical properties' calculations proposed by Dr Peter Troshin. I intend to have 4 tangible products at the end of the project – A set of APIs, executable, SOAP and journal publications.
+ 
+On top of the proposed physico-chemical properties, I also intend to add structural, composition and additional physico-chemical properties such as those available via PROFEAT (PMID:16845018) and Sirius PSB (PMID:20014474) if Dr Troshin deems them appropriate.

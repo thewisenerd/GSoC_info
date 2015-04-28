@@ -1,0 +1,1 @@
+This project will add a set of new features to 'git log' command. And these features will allow our users to track change history of any lines of source files. Generally, it provide users with the ability to insight the code in line level.

@@ -1,0 +1,1 @@
+Currently Cyphesis does not scale to multiple servers. The aim of this project is to implement a mechanism for allowing multiple server running Cyphesis to coordinate with each other in simulating a single world.

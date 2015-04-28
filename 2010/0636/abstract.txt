@@ -1,0 +1,6 @@
+Sputnik is a JavaScript conformance test suite containing over 5000 tests.  There are two steps to getting a fully comprehensive ECMAScript 5 conformance test runner.
+
+1) Adapting the existing Sputnik tests to the ES5 spec where there are differences. 
+2) Creating a harness that is able to run the ES5 adapted Sputnik tests along with Microsoft's es5conform tests 
+
+The goal of my proposal is to finnish the first step that can also be split into two steps:

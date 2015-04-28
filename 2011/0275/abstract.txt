@@ -1,0 +1,2 @@
+The goal of this proposal is to make KMail, Kopete and Dolphin usable by people with assistive needs.
+This includes correcting qt-at-spi bugs, checking accessibility issues in the applications (custom widgets not accessible, not using color schemes, etc.), and correcting them.

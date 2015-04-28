@@ -1,0 +1,1 @@
+The goal of the Remote Data Transfer Module project is to provide a utility module, primarily for use with other OpenMRS modules, that will provide an interface to allow users to add objects to a transfer queue.  The objects in the queue will then later be transferred to a remote location either via http send (online) or manual transfer (offline).

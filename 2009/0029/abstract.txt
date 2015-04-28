@@ -1,0 +1,2 @@
+Idea is to port LightTwist to Mac OS, which would allow more people to use the application. It could also be beneficial, since Apple is having educational programs in North America, so porting it on Mac would allow to easily use it in schools (as Yuval mentioned the educational value of this project).
+In general, I am open to the possibility of working on any project within the Hugin/Panotools community.

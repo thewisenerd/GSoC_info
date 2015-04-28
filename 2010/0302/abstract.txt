@@ -1,0 +1,3 @@
+Apache Sling is a powerful Web Framework and provides to the developers a lot of interesting ways to build a web application. 
+It isn't always true that many features make a framework interesting, because a lot of features means more initial problems.
+This project will try to reduce the gap between Apache Sling and its new users, showing all its features.

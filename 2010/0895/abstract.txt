@@ -1,0 +1,2 @@
+Tahoe-lafs is a secure distributed file system which have unique security and capability access control property.By using security means such as cryptography,erasure coding,least-authority, it can provide security protection such as confidentiality,integrity and fault-tolerance. 
+In this project we plan to integrate some popular DVCS such as mercurial,git and darcs with tahoe-lafs.The integrated-DVCS can read/write storage grid directly and use the unique features which tahoe-lafs provides.

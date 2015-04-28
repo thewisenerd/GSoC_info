@@ -1,0 +1,3 @@
+Digital Photo Editing and Drawing is one of those multimedia applications which require a lot of user interactions to achieve a given task.This proposal is for a multi-touch based photo manipulator and drawing application that would take advantage of the speedier,fewer and more intuitive inputs of a multi-touch surface thus enhancing the productivity of the user.
+
+The focus is to explore new interactions & developing UI widgets for PyMT framework which would be reusable for other applications.

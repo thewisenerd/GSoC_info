@@ -1,0 +1,1 @@
+Currently XMMS2 only possesses a very basic selection of audio processes that can be added to the signal chain. Since LADSPA plugins offer complex functionality it will be important to enhance the configuration interface to support richer data interchange, through the development of a schema mechanism for properties and dynamic modification of effect chains.

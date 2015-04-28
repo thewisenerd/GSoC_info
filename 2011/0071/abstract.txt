@@ -1,0 +1,3 @@
+GDom will provide a GObject-based implementation of (initially) a subset of the standard DOM Level 1 Core API.[1] It will follow GNOME conventions and make use of GNOME libraries, such as GLib, to provide a naturally-integrating DOM library for GNOME.
+
+1. http://www.w3.org/TR/DOM-Level-1/idl-definitions.html

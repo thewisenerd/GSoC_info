@@ -1,0 +1,1 @@
+The aim of our project is to investigate and implement an extension that would collect statistics about users who are involved in the software development or testing using Bugzilla. The extension would help user to understand the related person’s information in Bugzilla and make bugzilla more “human”.

@@ -1,0 +1,6 @@
+Chart implementation in the following places of phpMyAdmin:
+charts in server status page, showing query type statistics
+charts showing query results
+charts showing query execution time structure
+
+Open Flash Chart project and GD library would be used for generating charts. Code structure would be modular allowing easy addition of new chart types and chart generating back-ends.

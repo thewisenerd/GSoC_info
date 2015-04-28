@@ -1,0 +1,1 @@
+What is proposed here is to write some files plugins (KML, DOT) to import/export, scripts include support and make Rocs be extensible (through plugins) to other data structures(like B* trees, linked lists). To keep rocs functional, also will be write the plugin to graph's data structure.

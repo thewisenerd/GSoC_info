@@ -1,0 +1,3 @@
+Btrfs is a new copy on write file system for Linux aimed at implementing advanced features while focusing on fault tolerance, repair and easy administration.
+
+Currently the xfs test suite is used to validate the base functionality of btrfs. It would be good to extend it to test btrfs-specific functions like snapshot creation/deletion, balancing and relocation.

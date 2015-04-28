@@ -1,0 +1,2 @@
+Codespeed is a web application to monitor and analyze the performance of one or more projects. It's now powering speed.pypy.org and this proposal should provide a great step forward to have the speed.python.org.
+This project consists in showing better status based on statistics like standard deviation and minimum and maximum values of benchmarks results. Also, as a second part, continue the multi-project feature. This will allow users to compare more than one project at the same time.

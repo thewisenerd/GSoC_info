@@ -1,0 +1,3 @@
+The goal of this project is to use the BeagleBoard as an USB sniffer. The host computer would be connected to the slave USB port of the BeagleBoard, and the device to be sniffed on the host USB port.
+The BeagleBoard would then forward USB data, while logging it.
+This presents the following advantages over a software-based solution: No software modification is required; support of proprietary OSes; allows debugging of new USB stacks; and possibly lower-level debugging of USB frames...

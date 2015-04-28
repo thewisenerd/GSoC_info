@@ -1,0 +1,7 @@
+I am proposing a WYSIWYG theme editor for WordPress. By the end of the GSoC, the theme editor would be capable of altering theme structure, assigning content location and import/export, and would be easily extendable.
+
+Overarching Goals:
+—Provide a GUI through which anyone (regardless of skill level) can edit Wordpress themes
+—Allow users to create any layout they choose
+—Allow content and widgets to be assigned positions and managed visually
+—Provide automatic cross-browser compatibility

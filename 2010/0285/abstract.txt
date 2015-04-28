@@ -1,0 +1,3 @@
+The goal of this project is to make getting Darcs repositories over network faster. Currently, getting large repositories is unacceptably slow. There are numerous complaints from Darcs users about poor network performance. To address this issue, I will make the following improvements:
+  * introduce feature to optimize a Darcs repository for fetching over a network,
+  * develop a smart server that can provide clients with only files they need in one request.

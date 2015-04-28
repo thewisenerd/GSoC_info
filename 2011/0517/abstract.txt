@@ -1,0 +1,1 @@
+NTP doesn't support non-English language at present, which limits the scale of its user group. As the functionality of NTP becomes much stable now, it's time to consider its internationalization.

@@ -1,0 +1,1 @@
+Some system software in Illumos are written in perl and due to which perl becomes its dependency. So to remove the dependency from it we have to rewrite the same system software in C.

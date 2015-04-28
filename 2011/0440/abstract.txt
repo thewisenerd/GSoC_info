@@ -1,0 +1,1 @@
+Currently DokuWiki supports revisions for pages only, old versions of media files aren't stored. The idea is to implement revisions for media files. This task includes designing interface, updating current uploading interface, changing the functionality in order to keep revisions not for pages only, but also for media files. In this important task is to avoid code duplication.

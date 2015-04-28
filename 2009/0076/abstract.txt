@@ -1,0 +1,5 @@
+Blender 2.5 Project has been in active development past 6 months.
+Many improvements have been made and it is a very big step towards
+robust architecture.  In the light of these great changes I propose a
+small help to the Blender team.  This project will help implement
+Python import/export API.

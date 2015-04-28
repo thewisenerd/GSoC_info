@@ -1,0 +1,1 @@
+Implement an instrumentation tool by embedding Parrot and providing hooks through the use of a custom runcore. In doing so, we can dynamically peek into the execution of Parrot op-codes. This is in the vein of current instrumentation tools such as DynamoRIO and DTrace, with a twist. By utilising another Parrot interpreter, instruments can be written using PIR.

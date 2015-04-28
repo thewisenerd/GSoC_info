@@ -1,0 +1,1 @@
+Qt GUI for aptitude. Currently, KDE users need to use Aptitude via the console interface, or install the newly developed GTK frontend, which does not fit well into KDE desktop. Making Qt frontend to Aptitude would solve this problem and bring an advanced and fully Debian-compliant graphical package manager to KDE.

@@ -1,0 +1,1 @@
+Rewrite the tool Object Viewer using Qt4. This program will receive an improved interface, additional features and cross-platforming.

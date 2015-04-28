@@ -1,0 +1,3 @@
+I would like to create a CI infrastructure and set it up to provide complete build services for one particular neuroinformatics project (NEST).
+
+Implementation would be such that further projects can be added by writing appropriate glue code, maintenance of the build slaves is automated, self-documenting and reproducible. A research question would be whether a compile farm can be provided using the same configuration of slaves (1) and if NEST can be built in parallel (2).

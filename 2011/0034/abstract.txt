@@ -1,0 +1,10 @@
+I propose to extend the JPF-Inspector tool with several new features, including:
+
+backward single stepping, 
+­batch execution from command-line, 
+program state modification,
+­introspection of the JPF internal state,
+simple integration with IDE, UI improvements,
+profiling info.
+
+The goal is to improve the JPF-Inspector and make it a mature and useful tool.

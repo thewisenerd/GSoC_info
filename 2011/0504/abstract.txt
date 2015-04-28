@@ -1,0 +1,5 @@
+This project aims to create a Python3 compiler and object system that works on parrot.
+
+The compiler would be written in Python itself as much as possible and reuse existing code as much as possible.
+
+The object system would be written either using 6model, or custom written in Winxed.

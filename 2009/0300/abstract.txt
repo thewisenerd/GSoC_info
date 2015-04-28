@@ -1,0 +1,1 @@
+This project would offer an alternative of in-line editing, where the page content is divided into paragraphs, sections and so on, and where a user can select to edit a block of text, an image, or another widget element individually.

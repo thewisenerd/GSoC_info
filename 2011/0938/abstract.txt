@@ -1,0 +1,1 @@
+The goal of this project is to develop tool collecting all JPF options and writing them in one popular data format – XML. The result of using this tool is list containing all potential options: key and type of each option (with annotation if available).

@@ -1,0 +1,3 @@
+This project will help ScummVM in various aspects. It will improve the SDL backend by refactoring it and the support of derived backends. It will also add OpenGL and OpenGL ES support as an option for the platforms that support them. OpenGL will make scaling and blitting hardware accelerated, and so a positive impact on performance will be achieved.
+
+Personally, I am really eager to join a big open source project like ScummVM and Google Summer of Code is the perfect opportunity for this.

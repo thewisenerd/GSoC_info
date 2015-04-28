@@ -1,0 +1,1 @@
+I wish to join the Syslinux project in this year's Google Summer of Code. More specifically I would like to take part in the rewriting of the command line interface from assembler to C.

@@ -1,0 +1,1 @@
+Improve the performance of the Gentoo Linux mirrors by reducing the overall bandwidth load, allowing people to fetch binary patches from the mirrors, instead of the full source tarballs, when updating some package. This proposal is partially based on GLEP 25, by Brian Harring.

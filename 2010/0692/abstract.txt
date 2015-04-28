@@ -1,0 +1,1 @@
+Given an input mesh, the surface is parameterized or a field is generated, and based on either a low-level or high-level method, remeshing is done which closely follows the overall topology of the input mesh, while maintaining good flow. The output mesh is then suitable for catmull-clark subdivision, sculpting, good deformations in animation etc.

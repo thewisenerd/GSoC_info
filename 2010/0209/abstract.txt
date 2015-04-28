@@ -1,0 +1,1 @@
+Even though Pidgin supports ICQ, it lags behind the official client in many respects. Some features are missing altogether; some are present, but their implementation is lacking. What I'd like to do with this project is to bring Pidgin as close as possible to the official client in terms of user experience.

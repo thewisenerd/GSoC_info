@@ -1,0 +1,7 @@
+Design and implement international text input support for SDL, mainly focused on Mac OS X.
+
+My aim is to:
+
+1. Complete a clean, SDL-style API for international text input, work with other implementors on other platforms, if there is any.
+2. Give complete implementation of the above API on Mac OS X 10.5.
+3. Make sure the API works well enough with all major input methods (including traditional text services manager based and 10.5 IMKit based input methods)

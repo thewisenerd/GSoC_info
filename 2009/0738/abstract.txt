@@ -1,0 +1,1 @@
+Netsurf is really a small & fast browser now, but there is no complete DOM implementation in it. Many modern web pages contain Javascript, which is mostly used to manipulate the DOM of the web page. So, it is necessary to add DOM support to Netsurf as soon as possible. And that is just what I want to do in this summer.

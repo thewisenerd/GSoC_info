@@ -1,0 +1,9 @@
+9load, the Plan 9 kernel loader, suffer from some problems: 
+- Since the code is not the same, kernel and 9load evolve at a different
+pace. For example, hardware configurations may be supported by the
+kernel and not by 9load. 
+- boot parameters must reside in plan9.ini. 
+
+The new boot process will be done by the kernel itself. It will then run a
+userland program which, in turn, will provide means of loading a configuration
+file or a final kernel.

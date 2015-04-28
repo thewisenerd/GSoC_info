@@ -1,0 +1,1 @@
+Integration to allow the Jokosher audio editor and PiTiVi video editors to be used alongside each other with synchronised content.

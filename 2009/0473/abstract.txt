@@ -1,0 +1,1 @@
+With the integration with Graphite to GCC4.4, a strong loop nest analysis and transformation engine was introduced. But now it does only non-parallel loop generation. My work is to detect synchronization free parallel loops and generate parallel code for them, which will mainly enable programs run faster.

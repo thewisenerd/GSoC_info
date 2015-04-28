@@ -1,0 +1,1 @@
+Given a GeoGebra construction, the goal is to generate the equations describing the construction in order to get (discovery) the condition that the locus point must satisfy through elimination theory.

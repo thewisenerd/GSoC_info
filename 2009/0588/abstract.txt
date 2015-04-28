@@ -1,0 +1,8 @@
+A proposal to implement the PTIDES programming model
+in Linux. Implementing PTIDES semantics in Linux is difficult
+because Linux hard-wires its scheduling semantics. A framework called
+Group Scheduling is presented that allows for the creation of arbitrary
+programming models in Linux, and offers solutions to achiving precise control
+of computations. This prospoal is intended to describe a possible
+implementation of PTIDES semantics in Linux using the Group Scheduling
+framework.

@@ -1,0 +1,3 @@
+The goal of my proposal is to add automatically-generated RPM dependencies for services related to KDE Plasma (e.g. Plasma script engines, Plasma data engines), and to add PackageKit hooks to use them to Plasma. (Idea by Rex Dieter.)
+
+Plasma widgets can be installed from distro packages or through OCS. They can depend on script or data engines. The need to be addressed is how to drag in those dependencies in an effective way. I will work on 1. dependency extraction and 2. PackageKit integration.

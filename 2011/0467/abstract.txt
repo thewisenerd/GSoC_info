@@ -1,0 +1,1 @@
+This project aims to build a GTK+ frontend for the command-line arm utility in order to increase its appeal for general users. To increase its usefulness in non-relay situations various client mode usage cases shall be implemented in both interfaces.

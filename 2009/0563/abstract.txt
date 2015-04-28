@@ -1,0 +1,1 @@
+The plan is to use the web services API I've developed (wsapi4plone) as the first step to building support for the other web service standards, including APP. I envision an APP solution as a web services gateway interface (WSGI) middleware application that uses XML-RPC to communicate with the Plone site.

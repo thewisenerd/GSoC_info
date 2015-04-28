@@ -1,0 +1,1 @@
+A easy to use GUI for the syncevolution akonadi backend that allows you to sync your PIM data onto a mobile device and a cloud based server

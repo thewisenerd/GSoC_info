@@ -1,0 +1,3 @@
+Currently Ember works single-threadedly, and there are areas where it could take advantage of multi-threading for performance reasons, and more important, to enhance the player experience by not having momentary freezes (when performing some actions or loading/processing data).
+
+The goal is to use multi-threading in Ember, starting by well-defined subsystems (such as network, sound, resource processing...) where independent execution makes sense, and always putting thread-safety first.

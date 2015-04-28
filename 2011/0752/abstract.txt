@@ -1,0 +1,4 @@
+Some ideas for models of Complex Adaptive Systems:
+-Flocking simulator: recreate the boids flocking simulator, with sliders for number of boids, distance to maintain from neighbors, response time to changes in direction, etc.
+-Ant foraging: a number of ants explore the map randomly until they encounter a food source. Foragers then find the optimal path to the food because of stochastic variation
+-others: penguin huddle, traffic, morphogenesis, cellular automata, three-bodies problem, ...

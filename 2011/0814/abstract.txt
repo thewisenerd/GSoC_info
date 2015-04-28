@@ -1,0 +1,1 @@
+To bring full integration of ImageJ to R and to expand the RImageJ into a fully functional R image analysis engine.

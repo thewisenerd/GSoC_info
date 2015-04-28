@@ -1,0 +1,3 @@
+The first part is a package(s) for handling OpenStreetMap data in convenient form, which will automatically translate between internal and XML forms, communicate with server, and give easy access to all objects. Also, it needs to have some abstraction to give ability to manipulate virtual ways (segments).
+
+The second part is an OpenStreetMap editor in Tk, utilizing the package(s) from the first part, and the segmented approach.

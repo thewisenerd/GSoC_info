@@ -1,0 +1,1 @@
+Simple Authentication and Security Layer is a framework dedicated to internet protocols for an authentication and a data security. SASL is widely used in many protocols i.e. SMTP, IMAP, XMPP. My proposal is to write robust client library focused on security and usability.

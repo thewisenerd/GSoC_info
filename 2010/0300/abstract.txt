@@ -1,0 +1,1 @@
+Intergrating FlexMonkey to Selenium as a plugin while providing support for automated testings for hybrid webapps that contains HTML with some Flex components inside . Care must be taken so that no isssues might be faced by user espescially during record and playback of both Flex and HTML components together .

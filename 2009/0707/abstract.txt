@@ -1,0 +1,1 @@
+This project proposes improvements to and extension of the Python3k testing framework by adding more test cases for increased code coverage, integration of the C code with the Python code coverage, and easy to generate integrated report.

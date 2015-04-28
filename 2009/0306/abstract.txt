@@ -1,0 +1,7 @@
+The goal of this proposal is to continue the work started last summer on Mono's ParallelFx component in 3 ways :
+
+1- Improving and keeping up to date the code to new Microsoft's ParallelFx version.
+2- Completing the unit test coverage and specifically testing ParallelFx correctness.
+3- Integrating the software in Mono Subversion which means making it comply to Mono guidelines and also maintaining it.
+
+Furthermore, the development of a parallel checker (much in the spirit of Chess : http://research.microsoft.com/en-us/projects/chess/) is planned to validate the above second point. This parallel checker will ensure that ParallelFx (or other parallel code) is correct and that no Heisenbugs are hidden inside it.

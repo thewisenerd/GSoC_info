@@ -1,0 +1,4 @@
+oauth [1] is an open protocol which describes the required steps for a client to authorize with an API. The goal of this project is to add basic support for oauth to openSUSE BuildService.
+
+References:
+[1] http://oauth.net

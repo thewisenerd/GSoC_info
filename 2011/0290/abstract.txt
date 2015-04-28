@@ -1,0 +1,5 @@
+In this we  have to develop/improve to develop already running Network scanner (UMIT)
+- to support  Ipv6 : Nmap already support Ipv6 so we to integrate it in gui form by checking address if it is Ipv6
+- improving scan detail for better view : To make better readable for user
+-improving RadialNet to see large topology: Able to display large topology clearly with information required to display
+-New profile add option for zion profile : Have to add profile option for zion profile

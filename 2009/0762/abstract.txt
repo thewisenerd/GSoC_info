@@ -1,0 +1,1 @@
+Current version of JATO compiler lacks support for exception handling. The following tasks shall be done to add such support: exceptions-aware CFG generation, correct exception handler's basic block conversion, exception manager implementation (throwing/catching), subroutine in-lining (jsr/ret elimination), writing exception checking code, NullPointerException check optimization.

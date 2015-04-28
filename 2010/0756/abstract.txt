@@ -1,0 +1,1 @@
+The goal of this project would be to create an API to allow Phonon application to display and access input devices, like webcams. The API would then be implemented in phonon-vlc and other backends, such as phonon-gst, as time permits.

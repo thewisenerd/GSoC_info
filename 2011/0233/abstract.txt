@@ -1,0 +1,1 @@
+This project aims at integrating the SlimThreading library into the Mono 				framework to optimize and facilitate its threading infrastructure, both at the VM layer and the managed layer.

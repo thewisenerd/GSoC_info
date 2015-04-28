@@ -1,0 +1,1 @@
+Currently the developers have been using the vector symbols concept for symbol generation in MapServer for  which there are some disadvantages.The main aim of the project is to add support for SVG as an alternate method to define vector symbols in a MapServer symbolset. .The usage of SVG helps MapServer symbolset to be defined in a more easier way

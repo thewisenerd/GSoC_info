@@ -1,0 +1,4 @@
+SUSE bug reporter is the tool that will help users submit bug reports to the developers,
+allowing even people with limited technical knowledge to fill out a relevant and useful bug
+report in a quick and simple way. This will reduce the delays, confusions and even
+frustrations between users and developers.

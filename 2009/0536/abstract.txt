@@ -1,0 +1,1 @@
+This proposal covers the extension of the Vysper XMPP (Jabber) server currently under development on Apache Labs with the XEP-060 "Publish-Subscribe" protocol extension (http://xmpp.org/extensions/xep-0060.html).

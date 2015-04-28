@@ -1,0 +1,1 @@
+The Tor project uses wml for the website and Pootle to handle translations for various projects like Torbutton and Vidalia. To make it easier for translators, translating the website should be possible via Pootle. I intend to use the po4a framework to convert the wml files to po files (and back) so that they can be handled by Pootle.

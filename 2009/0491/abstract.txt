@@ -1,0 +1,3 @@
+Today many services have web front-end interfaces. Web applications such as phpmyadmin, git-web, webmails provides many services over HTTP, making it accessible through web browsers. These applications might also be vulnerable to attacks, making web application scanning a very important task.
+
+The goal of this project is to develop a infrastructure that allows efficient web applications scanning through Nmap. The infrastructure consists in a group of NSE scripts and modules.

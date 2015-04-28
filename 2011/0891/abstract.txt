@@ -1,0 +1,1 @@
+The Goal is to create a fully working installer for Kde apps on windows using the OCS specifications for communication with server side.

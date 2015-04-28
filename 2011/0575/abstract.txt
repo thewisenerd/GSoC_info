@@ -1,0 +1,1 @@
+The goal of the project is to implement graphical functions into the BioRuby objects, which will allow biological data to be visualized and exported easily.

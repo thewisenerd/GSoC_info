@@ -1,0 +1,1 @@
+The proposed project is a GDI font driver, which can function as a replacement for the Adobe TypeManager font driver present in Window.

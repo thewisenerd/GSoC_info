@@ -1,0 +1,14 @@
+The goal is to improve the MacPorts GUI and make it an important part of the MacPorts project. Below is a list of features to be added:
+* Category fetching from MacPorts and Search by category
+* Growl support
+* Queueing of operations
+* Variants selection
+* Alerts when an error has occurred
+* Logging Support
+
+Secondary features:
+* Binary Support
+* Application Icon
+* Preferences
+
+These features will make managing multiple ports easier, complete with notifications and logging.

@@ -1,0 +1,1 @@
+I'd like to inroduce ability for calling .NET from Scilab and providing user with means for loading .NET-assemblies, getting info on types in this assemblies and methods, fields, properties and events of this types and invoking .NET objects. COM, CCW and .NET Reflection will be used.

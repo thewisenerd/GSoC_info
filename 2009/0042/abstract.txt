@@ -1,0 +1,6 @@
+Pf is quite a famous stateful firewall in BSD world, first written for OpenBSD,
+and then integrated into NetBSD, FreeBSD. For a lots of people, it has replaced
+the usage of ipf.  However, some features are still not available in pf. During
+this project, we want to provide a replacement for pf to the ipfs(8) tool, a
+tool which permit to get the state table of the firewall, and restore back, for
+example, after a reboot.

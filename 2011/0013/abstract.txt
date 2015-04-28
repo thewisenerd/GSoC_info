@@ -1,0 +1,1 @@
+(Project #13). A network sinkhole is designed to emulate existing services to analyse and log attacks. It must be able to take on large amounts of incoming connections and data without trouble as it is purposely put in the face of network attacks.

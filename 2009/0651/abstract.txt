@@ -1,0 +1,1 @@
+Currently PDT plugin uses JavaCUP to generate the parser for PHP grammar. This proposal is about using ANTLR to replace JavaCUP, rewrite PHP grammar.

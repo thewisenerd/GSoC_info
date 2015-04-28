@@ -1,0 +1,3 @@
+This project aims to clean up the existing IPv6 implementation in gPXE and continue implementing such features as autoconfiguration (via router advertisement and stateless autoconfiguration), DNS AAAA records, and DHCPv6.
+
+The project will also involve testing with several IPv6 network configurations in order to handle some of the unusual configurations that exist in the "real world".

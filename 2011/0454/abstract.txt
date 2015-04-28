@@ -1,0 +1,1 @@
+Integrate a zeitgeist based activity journal into gnome-shell.

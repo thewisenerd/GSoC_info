@@ -1,0 +1,1 @@
+My proposed project consists of implementing the DirectInput8 Action Mapping feature that is currently missing from Wine. This would enable many applications that make use of it, most of them games, to receive proper input from mouse, keyboard and joysticks.

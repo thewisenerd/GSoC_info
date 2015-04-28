@@ -1,0 +1,3 @@
+The current form rendering is very limited in its flexibility and needs some serious overhaul.
+
+I propose a new way of rendering forms more dynamically and refactoring it to use template based layouts, reducing the amount of hardcoded HTML in django.

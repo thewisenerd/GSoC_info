@@ -1,0 +1,4 @@
+The Neo FreeRunner (FR) is the first open-source smartphone, with all sources provided, including the schematics (but not the GSM part).
+Today, several distributions can run on it, and Debian is one of them.
+However, the current way of installing Debian to the FR is to run a shell script from a Linux distribution already running on the phone.
+I propose to write Debian Installer support for the FR.

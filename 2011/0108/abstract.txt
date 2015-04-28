@@ -1,0 +1,1 @@
+Currently, Mixxx’s audio-processing is run entirely out of a callback from the PortAudio library, itself called by the underlying host audio API. This proposal aims to move the engine’s work to a separate thread on a high-resolution, short-period timer.

@@ -1,0 +1,1 @@
+The aim of this project is to port Canola to Maemo 5, fixing problems that it shows. Also change some of the underlying libraries to adequate better to Maemo 5 infrastructure/guidelines. Moreover the project aims to prepare Canola for Meego.

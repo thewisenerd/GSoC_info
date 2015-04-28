@@ -1,0 +1,1 @@
+Create a username mapper with a UI on the identity. Get users to map their profiles on forum,dot,wiki... to map with the identity account. And help them manage it directly from identity.kde.org.

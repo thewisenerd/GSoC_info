@@ -1,0 +1,1 @@
+A proposal to continue work started last summer on a C++ interoperability framework for Mono.

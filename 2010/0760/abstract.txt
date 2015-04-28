@@ -1,0 +1,1 @@
+Model elements matching is the most critical phase during model comparison regarding performance and memory consumption. Further improvement of the current EMF Compare GenericMatchEngine and the adoption and integration of new ideas and concepts in this part of the EMF Compare framework can largely help to get better scalability.

@@ -1,0 +1,1 @@
+So far what ES used to draw graphics and texts in the screen is 'cairo',one kind of software library . To provide more flexible and small interface, I want to implant the existing SVG implementation to ES operation system.

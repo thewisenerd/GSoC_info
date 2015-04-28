@@ -1,0 +1,6 @@
+Thandy is the secure software updater developed by the Tor project
+to assist users with keeping their Tor related software up to date.
+I intend to resolve one of the issues that prevent deployment as
+of now, which is the content distribution issue. To achieve this
+goal, I will include libtorrent in Thandy; as well as set up a
+Tracker with the ability to learn about new Thandy packages.

@@ -1,0 +1,1 @@
+This proposal is to Conduit, a synchronization application, to work as a daemon, availiable to applications when required. For this, a core would be made separate from the GUI.

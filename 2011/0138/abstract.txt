@@ -1,0 +1,1 @@
+Create a mapped, readable file system for each and every internal firmware file system provided. The given SimpleFileSystem.h protocol will be followed and implemented.

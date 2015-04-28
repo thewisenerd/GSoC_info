@@ -1,0 +1,1 @@
+The goal of this Google Summer of Code -project is to develop an eBook reader for Maemo 5 using Qt 4.6 libraries. The eBook reader should be simple, easy to use and it should support at least most common eBook formats.T he UI should be touch-optimized and finger-friendly.

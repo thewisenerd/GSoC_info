@@ -1,0 +1,1 @@
+Nvi is a BSD-licensed re-implementation of the original vi editor. While most of the userland tools in the FreeBSD base system support multibyte encodings [1], there is no nvi fork comes with sufficient multibyte encoding (both Unicode and non-Unicode) support so far. My GSoC2011 proposal aims to add the complete iconv-based multibyte encoding support to nvi.

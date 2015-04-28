@@ -1,0 +1,1 @@
+For this project, I propose to implement features for the much-needed distutils2 library. Since it is of a great importance to the Python community, the sooner it lands the better. Additional engineering effort realised as a GSOC project would help to both create it sooner and evangelize its use.

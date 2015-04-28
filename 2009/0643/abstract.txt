@@ -1,0 +1,3 @@
+The idea is to add a screen to GNOME Shell's overlay displaying a journal of all used files, organized chronologically, and with filtering possibilities like searching by name, file type and perhaps even tags. This will make it much easier for users to find files they've worked on recently and will boost their productivity.
+
+This would be done using Zeitgeist's engine to get the required information about the files and then presenting it in GNOME Shell with a clutter interface.

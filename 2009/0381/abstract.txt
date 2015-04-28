@@ -1,0 +1,1 @@
+I will rewrite/refactor SQL::Translator. Over time, SQL::Translator has seen the addition of modules from varying developers, leaving an inconsitent API and coding style. The test coverage also leaves something to be desired and makes development difficult. I will implement a consistent API and coding style as well as extend the test suite.

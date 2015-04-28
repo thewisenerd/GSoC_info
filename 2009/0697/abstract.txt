@@ -1,0 +1,17 @@
+The goal is to provide an easy way, well integrated into the desktop, to setup DVB devices, record and watch TV shows. The foundation was established during last year's GSoC where I implemented basic features like recording shows and scanning for channels. However, there is still a lot of work to be done so that a non-technical user can make use of my work without problems, too.
+
+The first step is to fix outstanding major bugs. Scanning for channels does currently not yield the same results on every scan. The bug might be somewhere in GStreamer's mpegtsparse element. In addition, it's currently not possible to record or watch two or more channels that are part of the same transport stream simultaneously. Only the stream of the channel that is selected first works properly, all other streams are disrupted.
+
+Although, there's basic support for watching live TV (based on gst-rtsp-server) it is a relatively new feature that hasn't seen much testing, yet. First of all, the work should be based on the latest version of gst-rtsp-server. Currently, the biggest downside is that live TV and recordings are two separate parts of the program. Because of that conflicts between live TV and recordings are not resolved. If you are watching live TV and a recording is about to start on a different channel the daemon should automatically switch to the channel of the recording.
+
+Another major goal is to better integrate GNOME DVB Daemon into Totem. Only experienced users can make use of Totem's DVB features, because you have to generate the channel list with a command line tool and place the generated file in a special place. Additionally, it's only possible to use multiple DVB adapters if they are all of the same type. DVB Daemon already addresses all of the above issues, but it is not well integrated into Totem, yet.
+
+You should be able to access all features (scanning for channels, recording/watching channels, browsing EPG and recordings) of the daemon directly within Totem. Ideally, the user just plugs in his DVB adapter and the assistant to scan for channels is started automatically if the device is not configured, yet.
+
+Furthermore, Totem should use a ring buffer when watching live TV. This allows the user to pause live TV, rewind it and fast forward later. This feature will involve work on GStreamer's queue2 element.
+
+A simple channel list editor is currently missing, too. That's especially annoying with DVB-S where you have thousands of channels but you are only interested in a small fraction of them. It should be possible to select the favorite channels after the scan is completed.
+
+In addition, I want to provide a way to aggregate EPG data from different sources with additional metadata via a plugin system. Some channels don't provide EPG data in their transport stream or the data is incomplete. Retrieving the EPG informations from an online service would obviously fix this problem and may even provide additional metadata.
+
+Last but not least, I want to add a way to schedule reoccurring recordings so you can easily record you favorite TV show.

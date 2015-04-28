@@ -1,0 +1,1 @@
+The debbugs system allows Debian maintainers to manage existing bug reports and fix problems quickly. However, the primary method of interface with this API is e-mail. There is an existing SOAP API, but it is limited to read-only operation. This proposal would cover extending the existing SOAP API to cover bug submission and report manipulation.

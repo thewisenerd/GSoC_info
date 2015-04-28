@@ -1,0 +1,1 @@
+This project is to import Python and Numpy/Scipy object from the Scilab language. Python has efficient high-level data structures and Numpy/Scipy is the the fundamental package in Python for scientific computing. So importing them would make Scilab more powerful as a scientific computing tool. We would use the Scilab/C API, Python/C API and Numpy/C API to implement the project.

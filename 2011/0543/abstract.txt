@@ -1,0 +1,1 @@
+This project is about enhancing already designed API, making it more powerful and more flexible and ready for release. This new API was originally developed by UCOSP participants but was not completed.

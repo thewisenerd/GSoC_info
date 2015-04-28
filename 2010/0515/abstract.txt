@@ -1,0 +1,2 @@
+In a former GSoC project a class hierarchy to represent SQL queries for INSERT, UPDATE and DELETE was created. This class hierarchy lacks the support for joins and orders.
+In order to add this functionality some refactoring work has to be done.

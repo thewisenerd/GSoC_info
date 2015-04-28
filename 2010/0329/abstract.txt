@@ -1,0 +1,1 @@
+This project implement preallocation in ext2fs and update ext2fs to be able to read ext4 file systems and possibly add other functionality, such as write ext4 file systems.

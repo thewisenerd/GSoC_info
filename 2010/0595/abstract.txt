@@ -1,0 +1,1 @@
+G.723.1 is a speech codec yet to be supported in FFmpeg. This proposal aims to complete the decoder and implement an encoder for it.

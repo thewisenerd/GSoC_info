@@ -1,0 +1,2 @@
+Since I do not have in-depth knowledge of OTR internals yet and I do not want to just copy-paste description from xelerance.com I'll try to make brief description as I understood it so far.
+The basic idea is to implement OTRv4 feature for creation (and secure transfer) of temporary symmetric cryptographic keys which can be used to securely transmit large amount of date (voice & video streams, file transfer) between OTR clients.

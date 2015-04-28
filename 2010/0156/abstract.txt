@@ -1,0 +1,1 @@
+QEMU's built-in VNC server only supports the Hextile encoding. Hextile only uses tile-based compression. Other encodings are more popular such as Tight and ZRLE that use zlib-based compression. These encodings significantly reduce the bandwidth required by VNC.

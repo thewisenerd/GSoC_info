@@ -1,0 +1,1 @@
+I plan to reduce OpenInkpot's memory footprint by porting it to the uClibc C standard library. This could provide many benefits for the users and developers of OpenInkpot.

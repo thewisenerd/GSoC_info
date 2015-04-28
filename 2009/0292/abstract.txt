@@ -1,0 +1,1 @@
+Port a new Scheme implementation to Plan 9, extend it with an easy system interface for interacting with other processes, and optionally provide Acme with minor extensions to make editing Scheme code easier.

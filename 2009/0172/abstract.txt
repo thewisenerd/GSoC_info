@@ -1,0 +1,1 @@
+The main idea to deal with the subject is to collect infomation from the input first and then generate smallest JRE according to the infomation collected and harmony classes dependences.

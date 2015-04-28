@@ -1,0 +1,1 @@
+My aim will be to develop a web based visualization that will have 3D mesh structure with heatmap tiles. The visualization will have time based changes so that according to time-series event it will be possible to see the malware distribution/attack geographic distribution

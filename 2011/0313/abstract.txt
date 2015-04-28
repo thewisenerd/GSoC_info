@@ -1,0 +1,1 @@
+Addition of OpenGL/XRender compositing and desktop effects to fluxbox, similarly to what compiz and xcompmgr provide.

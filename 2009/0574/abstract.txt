@@ -1,0 +1,1 @@
+The idea is the creation of an algorithm that could stitch a very large number of airborne image tiles (4000x4000 pixels) based on geo-referencing information, forming a big one (about 30,000 x 50,000 pixels). This algorithm must be paralellizable, computing each segment of image separately, merging later resulting images until final image is created.

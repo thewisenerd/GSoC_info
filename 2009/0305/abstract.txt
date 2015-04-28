@@ -1,0 +1,3 @@
+The project intends to address a greatly missing feature of Joomla! that is a well structured Taxonomy Component to provide proper organization of content. A robust Taxonomy Component will eventually supersede similar but inferior implementations such as keywords, groups and other classifications, and eventually replace them with greater functionality.
+
+I propose the development of a Taxonomy Component that is scalable and robust so that it can be integrated into the core.

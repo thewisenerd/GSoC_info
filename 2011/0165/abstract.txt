@@ -1,0 +1,1 @@
+The goal of this project is to implement Seam-Forge plugins for generating CODI artifacts as well as simple application-templates which are using features provided by CODI.

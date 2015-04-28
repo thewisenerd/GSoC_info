@@ -1,0 +1,1 @@
+This project aims to remove the current component loading mechanism in Catalyst, which is very poor and simple, and replace it using Bread::Board, an IoC (Inversion of Control) framework providing a more customizable setup of the components. This will allow more control of how each component is instantiated and loaded, while also simplifying Catalyst code.

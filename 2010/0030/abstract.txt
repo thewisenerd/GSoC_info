@@ -1,0 +1,6 @@
+Non-relational databases tend to support some subset of the operations that are
+supported on relational databases, therefore it should be possible to perform
+these operations on all databases.  Some people are of the opinion that we
+shouldn't bother to support these databases, because they can't perform all
+operations, I'm of the opinion that the abstraction is already a little leaky,
+we may as well exploit this for a common API where possible.

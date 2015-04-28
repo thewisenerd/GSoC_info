@@ -1,0 +1,2 @@
+Gadgets integration with XWiki will allow users to quickly add any gadget from Google's Gadget Directory to any wiki page or the side panels. Gadgets offer the most diverse functionalities and will benefit many of the unanticipated user needs
+The OpenSocial Integration will add a more social dimension to XWiki by hosting OpenSocial apps, thus becoming the first wiki OpenSocial Container. Anyone will be able to install XWiki and instantly create their own social collaborative orientated network.

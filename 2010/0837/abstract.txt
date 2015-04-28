@@ -1,0 +1,1 @@
+Unladen Swallow offers some magnificent performance improvements over the CPython interpretation method. Unfortunately, the Just-in-Time compiler used by Unladen Swallow currently incurs a hefty memory overhead which needs to be reduced before Unladen Swallow can be merged into CPython.

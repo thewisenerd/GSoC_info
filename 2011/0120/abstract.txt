@@ -1,0 +1,1 @@
+Integrate PG_Manager, SL_Manager, Rt_Sql_Layer and other related python plugins to create DBManager, a multi-db manager easily expandable to manage other spatial DBs.

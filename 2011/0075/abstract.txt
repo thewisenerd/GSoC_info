@@ -1,0 +1,8 @@
+Extend 'git cherry-pick' with '--continue', '--abort', and '--skip'
+features.  This will ultimately be used to write git-sequencer, a new
+builtin command.  The sequencer will provide a uniform interface over
+which existing commands like 'rebase', 'rebase -i' and 'am' can be
+re-implented.  This should give the commands more functionality,
+improve their error handling, and make them faster.  The project can
+only be considered successful if most of the code written gets merged
+into upstream.

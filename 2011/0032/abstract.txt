@@ -1,0 +1,3 @@
+AppStream is an initiative of cross-distro collaboration, which aims creating an unified software metadata database, and also a centralized OCS (Open Collaboration Services) user-contributed content database, thus providing the best user experience.
+
+By this project, a PackageKit backend and integration with constructed metadata will be added to Software Center, providing a solid software management client for the AppStream.

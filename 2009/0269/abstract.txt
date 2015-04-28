@@ -1,0 +1,5 @@
+The TP server tpserver-cpp isn't in bad shape. However, there are 
+many places for improvement, especially if allowed to use the full 
+power of the Boost libraries. This project aims at a serious review
+of tpserver-cpp doing both high-level refactoring as well as fixing or
+addressing the smaller issues.

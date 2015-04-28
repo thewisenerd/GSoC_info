@@ -1,0 +1,5 @@
+This project includes development of hardware device and LINUX software for it.
+Hardware: USB microcontroller programmer unit.
+Software: IDE for open source code compiler (SDCC).
+
+This project is intended for Fedora Electronic Lab.

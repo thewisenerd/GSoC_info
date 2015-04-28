@@ -1,0 +1,1 @@
+Currently Apertium does not have a release-quality for the translation system of the Slovenian and Spanish language pair. I will expand the Apertium's functionality by adding it.

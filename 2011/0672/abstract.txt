@@ -1,0 +1,1 @@
+This project aims to improve DevCheck functionality in a way concerning full-fledged support for c++, automation of patch generation for LSB DB along with some sort of known problem filtering.

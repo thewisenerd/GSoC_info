@@ -1,0 +1,1 @@
+FreeBSD fuse kernel module was developed during Google Summer of Code 2005. Sadly it is not actively maintained since February 2007. Since than two forks of FreeBSD version where created: macfuse for Mac OS X and OpenSolaris fork. Nowadays fuse is not only actively used by desktop applications there are production quality server file systems built on top of fuse.

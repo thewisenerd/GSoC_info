@@ -1,0 +1,1 @@
+The goal of this project is to interface CGAL with the Eigen library. This project is about interfacing software, hence beyond C++ programming one has to care about the build system, cross-platform aspects. Depending on the progress of this project, an additional task would be to work on out-of-core functionalily.

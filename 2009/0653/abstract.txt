@@ -1,0 +1,1 @@
+I will create cross-platform Perl bindings for the full functionality of the wxWebKit library, implement the new bindings in an existing Perl project as a proof-of-concept, and provide all necessary documentation and tutorial material to allow people to start using the new components quickly and easily.

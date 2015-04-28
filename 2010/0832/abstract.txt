@@ -1,0 +1,1 @@
+This project aims on creating an extension for Upstream Tracker tool including scheduling main activities (installing library versions, API testing, ABI tracking, checking for new versions), sending e-mail notifications with daily run results to all interested parties (e.g., upstream developers or distribution maintainers) and other features.

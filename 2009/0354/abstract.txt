@@ -1,0 +1,3 @@
+I propose to develop the start of a simple e-mail framework for the GNOME desktop in a similar spirit to what the Telepathy project has done for instant messaging.
+
+It is meant to be a lightweight process, likely to be written in Vala, that would be activated upon start up and require no further user interaction.  It would provide access to folders and messages using a simple RPC interface over DBus.

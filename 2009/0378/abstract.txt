@@ -1,0 +1,3 @@
+This project proposes a common library for parsing and manipulating Debian Control files, including control, copyright and changelog. Main ideas include validating and parsing of these files, with both Strict and Quirks modes for the parser. The second idea is a new frontend for Debconf using Qt4 (for which Perl bindings will be written).
+
+Student: Jonathan Yu, Mentor: Dominique Dumont

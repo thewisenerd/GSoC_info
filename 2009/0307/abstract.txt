@@ -1,0 +1,2 @@
+Currently the CA in Dspace doesn't have many authorizations.For ex-if he wants to change the looks of submission forms,or alter the submission workflow he has to wait for the system admin to change the xml files .Also,there is no scope for item type based submission currently.Also,If he wants to add a new metadata schema he has to add each element one by one.
+We can solve this by implementing management of forms and workflow via db and developing UI for various tasks.

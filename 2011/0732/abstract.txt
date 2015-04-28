@@ -1,0 +1,3 @@
+This proposal is to extend the existing OODSS architecture to use the WebSockets protocol and to create WebSocket OODSS clients in Java, C#, Javascript, and Objective C.
+
+This will help making cross platform/language agnostic applications with client server communication simple and consistent, providing a tool for rapid development and consistent data representations.

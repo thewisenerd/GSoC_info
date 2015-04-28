@@ -1,0 +1,6 @@
+Drizzle is an open source project which is designed to be a light weight, easy to use database
+for web applications and cloud infrastructures. Drizzle projects mainly based on the popular
+MySQL DBMS that is decisive reliability and performance. It supports the number of database
+functionality. There is a need to design, implement and integrate the new functionality for storage of
+IPv6 Address to the existing Drizzle code base. This includes an optimal data structure to carry IPv6
+& IPv4 addresses and new address conversion functions.

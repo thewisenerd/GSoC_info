@@ -1,0 +1,4 @@
+FreeBSD Project , Reduced FreeBSD kernel size for embedded, 
+mentor is Warner Losh,
+sent by Mohammed Farrag,
+Developing new kernel structure for embedded.

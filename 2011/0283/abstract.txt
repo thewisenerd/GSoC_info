@@ -1,0 +1,1 @@
+gvSIG Mini is aimed at non-professional users, that means, casual uses such as localization, route calculation, map navigation etc. This project would spread the use of gvSIG Mini among professionals, providing access to vectorial data to the application. It’s a very demandant feature among Android professional users.

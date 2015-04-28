@@ -1,0 +1,1 @@
+Goal: To develop a mobile app that does host and port discovery with events about host availability and integration with the notification environment.

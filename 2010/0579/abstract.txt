@@ -1,0 +1,12 @@
+The WMA codec officially has 4 flavours :
+    - WMA
+    - WMA Professional
+    - WMA lossless
+    - WMA voice
+         
+The project aims primarily to add support for WMA professional in
+Rockbox, and streamline its power consumption and memory usage.
+        
+As a secondary goal, if time allowed, a port of WMA voice could be
+started too, but due to the size of such codec it's not guaranteed to be
+fully working by the end of the project.

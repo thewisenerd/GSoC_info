@@ -1,0 +1,1 @@
+Face Authentication is an alternative to the commonly used password authentication scheme. The only open source alternative for Linux Desktops was developed during last year summer of code http://code.google.com/p/pam-face-authentication/ , A KDE4 Port , and integration with KDM and some more features are needed , to enlarge the user base.

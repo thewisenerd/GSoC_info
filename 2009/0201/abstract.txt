@@ -1,0 +1,1 @@
+I propose an integrated distributed rendering system across a network to distribute and reassemble aqsis render jobs without the assistance of third party software. This system will allow acceleration of rendering and increase scalability.

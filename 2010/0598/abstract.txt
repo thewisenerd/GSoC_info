@@ -1,0 +1,5 @@
+Integration of open-source navigation tool kit Recast&Detour into Blender. Such tool enables:
+1) pathfinding for Blender Game Engine
+2) steering for Blender Game Engine
+3) creating and editing navigation mesh in Blender just after creating level geometry
+3) export final navigation mesh for using in outside game engine

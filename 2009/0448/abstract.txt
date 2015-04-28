@@ -1,0 +1,2 @@
+S/PDIF is mostly used to transmit compressed multichannel audio from a media player to an amplifier/receiver. It can be used with many compression format as defined by IEC 61937 (AC3, DTS, MPEG audio, PCM, AAC and WMApro).
+My goal is to write S/PDIF support for FFmpeg. It will make it possible to send multichannel audio to sound system in digital quality.

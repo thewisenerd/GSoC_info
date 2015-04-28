@@ -1,0 +1,1 @@
+Allow to KAlgebra draw the same types of functions that KmPlot does. To achieve this, it is necessary working to integrate KmPlot features inside KAlgebra, so we can reuse, adapt and improve the development achieved in KmPlot.

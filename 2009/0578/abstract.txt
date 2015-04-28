@@ -1,0 +1,2 @@
+There are over 250 Wikipedias and together they are one of the biggest and most popular websites of the world. MediaWiki, the software that supports Wikipedia, needs to be versatile in order to support the requirements of all those languages.
+With this project the aim is to make the localisation environment even better. The Translate extension which is used for example at translatewiki.net needs to be made fast to stop wasting time of translators and administrators.

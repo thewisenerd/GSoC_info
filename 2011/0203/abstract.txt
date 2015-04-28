@@ -1,0 +1,1 @@
+Write a Gtk+ Front end for Complete control and configuration of Samba with a simple clean GUI and Wizard to enable easy setup and Maintenance  Interface

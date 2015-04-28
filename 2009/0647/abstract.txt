@@ -1,0 +1,1 @@
+The aim of this project is to investigate and begin implementation of the new EcmaScript 3.1 language features in Rhino, based on the latest version of the EcmaScript 3.1 specification.

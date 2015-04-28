@@ -1,0 +1,2 @@
+I am frustrated by the lack of proper free Exchange support on Android and would like to implement it.
+Many of my friend use weird solutions to make Exchange ActiveSync work on their Android phones, so in addition I'm interested in helping them.

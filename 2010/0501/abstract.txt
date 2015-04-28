@@ -1,0 +1,3 @@
+The following application presents the GSoC proposal for the Nmap Security Scanner. It focuses on the development of a new feature for the Nping packet generator: the Nping Echo Mode.
+
+The proposal is submitted by Luis MartinGarcia, a Computer Engineering student at Carlos III University of Madrid, Spain.

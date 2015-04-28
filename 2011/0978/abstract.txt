@@ -1,0 +1,2 @@
+PostgreSQL foreign-data wrapper (FDW) functionality is still very rudimentary: there is no support for parsing complex quals and joined query is not supported by current version of FDW API.
+My plan for this year's GSoC is to firstly implement a CouchDB FDW, followed by developing a generic ODBC FDW for windows and one of the *nix platform (probably on Ubuntu), last but not least to add join pushdown support for FDW API (If time allows).

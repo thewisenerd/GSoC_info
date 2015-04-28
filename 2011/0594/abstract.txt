@@ -1,0 +1,1 @@
+This project will allow users of an ownCloud server to share files with each other.  Currently in ownCloud, users can only access their own data, and have no ability to share their data with the other users. This project will also allow users to share a space for their data in which a group of users have access to the files.

@@ -1,0 +1,5 @@
+My Name is Nils Gey and I want to help out GNU Denemo during the GSoC.
+I am a student of Music at the Music University of Cologne, Germany and I am a programmer as well.
+
+The Denemo Idea to add MusicXML Import (and probably more formats) is the right thing for me. 
+I fit perfectly in the description listed here http://denemo.org/index.php/Summer_Of_Code_2010 .

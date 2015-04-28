@@ -1,0 +1,4 @@
+Improve thousand parsec's KDE4 client Parsek to the point that it is possible to play a game with it.
+The improvement includes a user friendlier user interface which looks more like a game client than a chat client.
+Add missing client parts like star-map, proper account-manager, settings, chat.
+Also integrate the client more into KDE4.

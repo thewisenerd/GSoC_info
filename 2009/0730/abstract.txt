@@ -1,0 +1,5 @@
+Crawling for media content on the web is a special-case of web-crawling. The semantics of the feed (RSS, ATOM etc.) allows us to do a smarter pagination.
+
+Extracting story-text from a web-page can be done in many ways - word-density analysis (identify the section of the web-page that contains the highest density of words), page-layout analysis (identify the section of the web-page that contains unique content).
+
+Pig Latin can be used to provide rich APIs to the users of Media Cloud.

@@ -1,0 +1,1 @@
+Add the ability to export the current state of the system, and that of the failed change (changed IU(s), related metadata, etc.) from the perspective of p2.  Create a tool which is able to load an exported state and represent the problem visually.

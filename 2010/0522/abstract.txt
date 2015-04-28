@@ -1,0 +1,1 @@
+I'm gonna extend the set of bio-insipred meta-heuristic algorithm supported by paGMO. These would include bee colony, glowworm, firefly, ant colony, monkey search, Cuckoo search and their extensions (when possible) to integer, multiobjective, constrained optimization.

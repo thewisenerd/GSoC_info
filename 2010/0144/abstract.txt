@@ -1,0 +1,11 @@
+SQLH: SQL Handler
+
+This is a Hyrax plugin, useful to add SQL Query capabilities to the BES server. With the first release you can:
+
+* Use OLFS to set constraints
+* Set complex SQL (standard) query into the dataset file (Join, union)
+* Set constraints into the dataset
+* Set database password access (from dataset file OR using constraints)
+* Set different accessed database type (MySQL, PostgreSQL, Oracle, etc).
+
+It is coded in C++ using a ODBC driver (to query DBs).

@@ -1,0 +1,2 @@
+I am Eranda Sooriyanbandara from University of Moratuwa Department of Computer Science and Engineering Sri Lanka as a undergraduate for the B.Sc Engineering degree.Apache Derby is a java based database management system, people using it for online transaction processing.I did think to enroll in "Derby test and fix". Because I like and have the skill for working with databases. And also on some of our university projects are mainly based on databases.
+Now it's time do the real task.

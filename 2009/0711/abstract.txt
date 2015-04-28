@@ -1,0 +1,1 @@
+Currently, TurboGears does not have a functional Buildbot.  For this project, I will implement a Buildbot for TurboGears 2.0 and TurboGears 2.1.  Also, I will create a web interface that makes managing the Buildbot easy.  Users will be able to submit slaves and builders for the Buildbot to use and Admins will be able to accept builders and assign slaves to builders.

@@ -1,0 +1,1 @@
+Python backend for Cython (to interface with C code, this could use use ctypes or an API exposed by PyPy), the backend would either produce python code or python bytecode and will allow PyPy to use its just-in-time compiler to optimize the Cython extension.

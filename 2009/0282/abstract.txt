@@ -1,0 +1,1 @@
+The aim of this project to add grammar support for Turkish language, and write an Office Suite for Open Office. The suggested language checker, Language Tool is a corpus level rule-based language checker that will find errors for which a rule is defined in its XML configuration files. Rules for more complicated errors will be written in Java.

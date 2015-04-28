@@ -1,0 +1,4 @@
+The goal of the Project is to develop a new gPXE driver for the Broadcom 57xx(tg3) series of network cards.
+There currently already is a tg3 driver in gPXE but it is outdated and several years behind in development compared to the linux tg3 driver. This leads to many new tg3 cards not being supported in gPXE. The new driver is supposed to support all device variants the linux driver supports.
+
+If time permits we will look into additional drivers in need of porting/updating(atl1c comes to mind).

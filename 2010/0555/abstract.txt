@@ -1,0 +1,6 @@
+qemu has many commands attached to the monitor interface that are
+currently inaccessible over QMP (QEMU Machine Protocol).
+I intend to give continuity to this effort, converting the
+remaining functions to the QObject API. While doing this conversion,
+the QObject API can be updated to improve its functionality when
+required.

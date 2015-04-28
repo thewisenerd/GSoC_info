@@ -1,0 +1,1 @@
+RiverID is part OpenID server for centralized authentication and part RESTful server for distributed reputation. RiverID is built upon Google's AppEngine for scalability; serving user attributes, weighted reputations, and social data to numerous instances of SwiftRiver, various RiverID widgets and mashups.

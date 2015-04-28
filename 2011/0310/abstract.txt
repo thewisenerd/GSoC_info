@@ -1,0 +1,1 @@
+Improve and integrate existing PyDy code, which relies on SymPy, with the main SymPy module.  Will allow more people to use PyDy and fix the existing flaws in PyDy.

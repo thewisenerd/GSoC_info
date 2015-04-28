@@ -1,0 +1,3 @@
+Configuration of a Samba server is done by manually editing one main configuration file (smb.conf). This is usually done through a command-line (e.g. vi, nano) or a text editor (e.g. gedit, mousepad).
+
+Currently the Samba Web Administration Tool (SWAT) is basically a Web based editor for smb.conf. The new SWAT will provide users with a tool to actually manage and setup a Samba installation. The programming language of choice will be Python and it will make use of Samba4's Python API.

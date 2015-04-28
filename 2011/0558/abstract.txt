@@ -1,0 +1,1 @@
+Cleanup the osc code and refactor existing code into a new (osc independent) python obs library.

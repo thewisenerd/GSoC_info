@@ -1,0 +1,1 @@
+Add a 'sync' feature to globus-url-copy for optimizing data transfer required for synchronizing the source and destination files. It minimizes the amount of data transferred by sending only the changed or required sections of the file. This helps in effective bandwidth utilization by avoiding redundant data transfers and reduces the time taken for synchronization.

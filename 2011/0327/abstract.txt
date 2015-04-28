@@ -1,0 +1,1 @@
+The aim of this project is to isolate process-global state related to importing module and provide a modular way of handling the import functionality.

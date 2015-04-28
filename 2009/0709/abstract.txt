@@ -1,0 +1,1 @@
+I would like to achieve a MEMT program that uses MOSES and statistical merging with Apertium during the other half of the GSoC period. The goal is to provide better translations for all languages but I will particularly work with Welsh-English.

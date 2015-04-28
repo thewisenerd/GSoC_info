@@ -1,0 +1,1 @@
+I intend to extend the Tor metrics portal (specifically Ernie) to store long-term network statistics, as well as simplify the process of searching large data sets from the relay descriptors.

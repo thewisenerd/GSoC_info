@@ -1,0 +1,1 @@
+I will port Jokosher from PyGTK code base to PyGI (Python GObject Introspection) and new GTK+3 toolkit, fixing PyGI bugs and rewriting custom widgets for GTK+3. Additionally, I also will work on better Jokosher integration with GNOME 3 environment.

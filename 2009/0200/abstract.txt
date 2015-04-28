@@ -1,0 +1,2 @@
+Apache ODE(Orchestration Director Engine) is a WS-BPEL compliant business process executable work-flow engine. However ODE currently doesn't support for BPEL debugging and it is very useful to have a web based BPEL debugger for ODE.
+This project is to develop an web based BPEL debugger which is capable of showing a graphical representation of the process model and allows for adding breakpoints to activities, variable modifications and managing the debugging process for Apache ODE.

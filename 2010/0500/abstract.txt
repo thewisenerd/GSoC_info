@@ -1,0 +1,1 @@
+Routing algorithms use a path-cost function to find the fastest/shortest/most economical route. The path-cost function for searching the fastest route usualy estimates travel time by using speed limits or curvature of the roads. This project aims to provide more accurate travel time estimation based on GPS traces.

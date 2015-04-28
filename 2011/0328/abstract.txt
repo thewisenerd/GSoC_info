@@ -1,0 +1,1 @@
+Currently Libre office Calc's input bar is single lined accommodating very large cell contents horizontally. The aim of this project is to implement a multi-lined and re sizable text wrap feature in the existing input bar.

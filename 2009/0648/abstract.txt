@@ -1,0 +1,1 @@
+The OpenSyllabus project seeks to adapt to Sakai an easy to use tool to create and publish model-based syllabi that is currently used at HEC Montréal: ZoneCours.

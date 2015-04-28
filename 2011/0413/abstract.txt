@@ -1,0 +1,1 @@
+Project's goal is to implement monitoring feature in CernVM’s Co-Pilot system, providing its users with a both easy-to-use and detailed insight into system’s status and performance.

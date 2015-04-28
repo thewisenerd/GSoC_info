@@ -1,0 +1,6 @@
+In this moment Tux Paint is using the SDL_mixer lib to handle sound output. The lack of audio input in SDL prevents Tux Paint adding cool features like recorded audio comments and, in a future networked version of TP, voice chat.
+The idea is to port Tux Paint audio to Portaudio and libsndfile, two of the most important libraries used to handle sound and sound files.
+The first one is a portable audio library, which abstracts the platform specific tasks and gives a full I/O audio platform to work with.
+The second one is I/O library to handle wave files, it supports many different wave formats and frame rates.
+After porting to these useful tools we can easily add a voice comment facility.
+Another features like loading custom sounds to use as comments (instead of recording them) could emerge thinking on the possibility of having another sound file libraries like ogg / mp3, etc.

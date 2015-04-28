@@ -1,0 +1,1 @@
+Apertium tr-az is a new language pair using Apertium platform to translate from Turkish to Azerbaijani. The project will make use of a morphological analyzer for Turkish (already available as TRmorph), a morphological analyzer for Azerbaijani (I'm developing it starting from TRmorph) and a set of rules that I'm implementing.

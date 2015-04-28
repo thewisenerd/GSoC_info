@@ -1,0 +1,1 @@
+my proposal is to implement a library of heap data structures. the library should incude intrusive and non-intrusive implementations, node-based heaps and container adaptors.

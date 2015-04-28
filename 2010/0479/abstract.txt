@@ -1,0 +1,1 @@
+The current javax.imageio package in Harmony is incomplete. It is my goal to implement the remaining functionalities that are missing from this package. Not only that, I will be extending missing image plug-ins, such as JPEG, PNG, BMP, and GIF, for the Harmony JDK.

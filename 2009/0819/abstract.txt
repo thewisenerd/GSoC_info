@@ -1,0 +1,5 @@
+phpMyAdmin is a very popular web-based MySQL administration tool. With my mentor I want to develop a package of functionalities for tracking modifications on MySQL (meta) data made by users. This new feature would be very useful for various purposes.
+Typical use cases: 
+1) Developer changes testing database, pushes changes to production environment later. 
+2) Developer wants to roll back changes on database. 
+3) Administrator wants to be notified about changes in database.

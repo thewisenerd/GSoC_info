@@ -1,0 +1,2 @@
+Currently there's not an easy way to give the same animation to all the elements of a certain style. Sometimes we just think that all our important titles, besides the big bold Heading1 style, also deserve a big entrance with a swivel, a orange to pink colour change effect, and a boomerang exit.
+ This project would allow for easier, more generic animation adding to our presentation parts.

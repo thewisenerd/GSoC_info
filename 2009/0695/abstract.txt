@@ -1,0 +1,1 @@
+I am proposing tackling the usability and scalability of “large folders” (folder with many items within) in Plone in such a way that compliments existing community efforts. Areas of focus would include a dashboard UI and a faceted navigation structure as an alternative to folder_contents, and improvements to the scalability of FTP folder listings of large folders.

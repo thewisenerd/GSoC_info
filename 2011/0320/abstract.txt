@@ -1,0 +1,1 @@
+Creating a module is currently a laborious process that includes a lot of file renaming and copy/pasting from other module templates. A maven wizard (archetype) that walked a user through creating the different types of modules to create and naming things correctly would help to at least speed up the initial creation time.

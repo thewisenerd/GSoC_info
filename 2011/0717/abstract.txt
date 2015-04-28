@@ -1,0 +1,4 @@
+First proposal is to have in Empathy as much as possible of what’s available in Cheese :
+create an avatar from Cheese, use a subset of Cheese as the video source in Empathy (with effects too :)
+
+Second proposal is a Background substitution plug-in.

@@ -1,0 +1,1 @@
+This project brings many smaller improvements to the current implementation of software-center. Gdebi and apturl integration will be part of this project. The other components of this project are very flexible and can be determined on a week to week basis. Some suggestions are provided in the project proposal.

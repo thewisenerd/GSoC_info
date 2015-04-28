@@ -1,0 +1,1 @@
+HTML5 Support for Apache MyFaces2 will extend MyFaces2 core components and also deliver a new set of JSF components to integrate browsers with Java Server Faces server-side rendering technology.

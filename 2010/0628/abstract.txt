@@ -1,0 +1,1 @@
+Develop drivers for USB: OHCI (USB1) and xHCI (USB3), under BSD-license. These drivers shall fit in the USB driver framework and reuse the existing USB drivers in libpayload.

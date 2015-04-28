@@ -1,0 +1,1 @@
+My project aims to generalize the current Lucene Directory implementation by making it a UnixDirectory. This would be done by adding IOContext to the lower level API.  These are two existing Lucene tasks ( LUCENE-2793 and LUCENE-2795).

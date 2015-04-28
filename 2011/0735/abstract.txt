@@ -1,0 +1,1 @@
+This project aims to create a GUI-based toolkit that can be used to control motors and read/process IR sensor input using the open-source Arduino board.

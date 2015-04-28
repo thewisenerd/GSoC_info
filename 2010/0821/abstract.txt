@@ -1,0 +1,2 @@
+This is a project to extend the NSE infrasructure, and to write and fix NSE scripts. Extending NSE may take some time so we must identify the most interesting features that can be used by the most important scripts, taking into consideration the fact that some new NSE features may need a change into the NSE and Nmap base code.
+Writing and fixing nselibs and scripts may not take lot of time, this of course will depend on the nature of the task.

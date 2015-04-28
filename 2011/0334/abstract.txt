@@ -1,0 +1,3 @@
+During this summer, I will port Coreboot to ARM architecture. This is
+such a huge project. These include building basic ARM layout for
+coreboot and porting it to some available SOCs.

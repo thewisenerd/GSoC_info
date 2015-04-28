@@ -1,0 +1,4 @@
+The Project contains the following steps :
+1) Revisit the design of MMtk to faciliate support for concurrent and on the fly algorithms.
+2) Implementing an Efficient Mark & Sweep Garbage Collector based on the snapshot Mechanism.
+3) Implement a mark & sweep on the fly collector, based on the sliding views mechanism.

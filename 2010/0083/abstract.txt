@@ -1,0 +1,1 @@
+Robust generic implementation of sweepline algorithm for solving 2D Voronoi diagram and Delaunay triangulation problems.

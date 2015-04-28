@@ -1,0 +1,1 @@
+Goal of this project is initial working implementation of kexec/kdump for Linux pvops kernel.

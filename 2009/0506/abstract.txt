@@ -1,0 +1,2 @@
+With this project I will fully integrate tabs into the wxAUI interface, Both for drag and drop creation of tabs by users as well as for loading and saving of perspectives.
+Additionally provided enough time is left over after the primary goal I will integrate proper tested fixes for various other outstanding problems and minor feature enhancements in AUI.

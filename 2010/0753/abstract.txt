@@ -1,0 +1,5 @@
+This project aims to port GRAPHITE's CLooG interface to the official CLooG. GRAPHITE 
+uses CLooG to perform code generation for loops represented in the polyhedral model. 
+By porting the interface, GRAPHITE is able to use new backends for generating code 
+out of polyhedral program representations, the Integer Set Library (ISL) and a new 
+backend for the Parma Polyhedral Library (PPL).

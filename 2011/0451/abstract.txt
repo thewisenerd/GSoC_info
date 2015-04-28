@@ -1,0 +1,2 @@
+As core Capsicum libraries will appear in FreeBSD 9 anyway, I think it's possible to take several applications from the base system and modify them  to use Capsicum sandboxes. For example, the FreeBSD syslog daemon might be an interesting application to adapt to compartmentalisation model.
+This project may also include developing some services for sandboxes and improvements to the libcapsicum library.

@@ -1,0 +1,5 @@
+For this project, I plan to implement support for conference calls in the Kamailio SIP server.
+This is referenced in two RFC's:
+    * RFC 4353: A Framework for Conferencing with SIP
+    * RFC 4575: A SIP Event Package for Conference State 
+It would be great to have a VOIP conference call, and to see everyone who's on the call, see the person who is currently talking.

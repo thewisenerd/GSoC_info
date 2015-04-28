@@ -1,0 +1,3 @@
+The current configuration interface on the staff client is a mess.  More than a hundred settings in a list, it is only slightly better than about:config in Firefox, only due to its size.
+
+This project will bring search to that list, group the items in to relevant categories, and become smarter by being able to suggest similar items.  Contextual support will also be added so the user doesn't need to look in a manual for what settings they need.

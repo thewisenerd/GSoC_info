@@ -1,0 +1,4 @@
+The Amancay[0][1] project aims to be a new read/write web frontend to Debian’s BTS; allowing DDs and contributors to easily interact with bugs via an intuitive yet powerful interface, enabling new workflows and creating new contribution opportunities like triaging while upholding reporting quality.
+
+0 - http://wiki.debian.org/SummerOfCode2007/DebbugsWebUI
+1 - http://alioth.debian.org/projects/bts-webui/

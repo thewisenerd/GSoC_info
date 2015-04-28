@@ -1,0 +1,1 @@
+Add fingerprint authentication support to Pardus. Integrate fingerprint scanning into KDM through PAM, utilizing libfprint. Write plugins for both KDM and PAM to ensure complete interoperability. On top of that, make a GUI system that would be integrated into the existing TASMA user-manager app. Ensure that all of these work seamlessly through the existing COMAR backend.

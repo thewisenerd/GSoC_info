@@ -1,0 +1,2 @@
+I would like to continue my work on implicit curves, implement new methods and improve existing ones, espacially some cases which do not work well at the moment. (eg curves which are not “squarefree”)
+Another thing I would really like to work on are inequalities with implicit curves.

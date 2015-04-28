@@ -1,0 +1,1 @@
+Dynamic Paint is a new tool that allows a whole new way for Blender objects to interact. Basically you can make any object or particle system to become a 3D-brush that can paint on other objects. Dynamic paint will be a great help in making realistic animations where objects have to interact with each other or with the environment.

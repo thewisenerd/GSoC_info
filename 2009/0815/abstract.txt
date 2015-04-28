@@ -1,0 +1,2 @@
+Making PortageKit working with Gentto will help Gentoo to be used by more casual users than currently general Gentoo users.
+The project consist of developing the backend and adapt portage to make it more compatible with PackageKit rules which should be common package managers rules (or options). The choice of portage has been done because it's the main Gentoo package manager.

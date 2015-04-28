@@ -1,0 +1,5 @@
+libsa is the shared code for the bootloaders. currently, tftp is widely used to load the initial kernel if the block-device is not available yet (for example, for AoE/iSCSI).
+
+tftp uses udp by default, and the protocol itself does not define nor use any kind of authentication.
+
+having HTTP support would be a great ease for testing images. the project would involve writing/porting a minimalistic TCP stack.

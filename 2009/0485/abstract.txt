@@ -1,0 +1,7 @@
+The goal is to make some AviSynth video filters available as GStreamer pipeline elements. This would also bring AviSynth v3.0 vapor-ware closer to reality.
+The project consists of:
+1) Implementing frame number information extraction in demuxers
+2) Implementing frame-based seeking
+3) Implementing a video ringbuffer
+4) Implementing GstAVSynth wrapper library
+5) Implementing GstAVSynth headers/libraries for AviSynth filters to build against

@@ -1,0 +1,1 @@
+GNOME supports a great assortment of network file systems through the GVFS project. It however doesn't support the AFP protocol. This makes interopability with devices that export such shares suboptimal. Therefore I'd like to use the opportunity that GSOC offers to implement an AFP backend in GVFS so that gnome users easily can access files from such shares.

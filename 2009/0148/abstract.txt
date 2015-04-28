@@ -1,0 +1,3 @@
+This project will integrate the NeXML exchange standard into BioPerl, facilitating the adoption of this standard and easing the transition from the overworked NEXUS standard. A wrapper will be used to allow BioPerl native access to the preferred NeXML parser (Bio::Phylo), allowing Bio::Phylo and NeXML to co-evolve without being encumbered by BioPerl. Additionally, test cases and example sets will be developed that target real world uses.
+
+More Info: http://filebox.vt.edu/users/chmille4/G.pdf

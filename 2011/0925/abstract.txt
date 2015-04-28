@@ -1,0 +1,3 @@
+New visualization API will be designed and implemented altogether with user interaction, context menus and attribute modifications. 
+
+New spatial data structures will be implemented to make working with node selection more transparent and to allow easy creation of plugins.

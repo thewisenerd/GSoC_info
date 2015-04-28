@@ -1,0 +1,3 @@
+My project consists in working with Graphical User Interfaces for GAMBIT (firstly improving and extending the actual one used for representing games in their extensive form, afterwards creating interfaces for other models), as well as also creating conversion modules between file formats. 
+
+Under the "additional info" section, I included a link to this same application in pdf format, for better reading.

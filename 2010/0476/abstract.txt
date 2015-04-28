@@ -1,0 +1,1 @@
+This project will provide the option of managing OpenNebula via a web based interface, apart from currently available CLI and API based interfaces.

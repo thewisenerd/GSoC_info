@@ -1,0 +1,3 @@
+The goal of this project is to fix some issues with the poll system, already specified by Dreamwidth users, and to improve it.
+
+Also, in parallel, a usability study will be conducted, focused on the polling system, but also on other components of Dreamwidth.

@@ -1,0 +1,1 @@
+I propose to create a client side library for use with the ownCloud service, which can be used to "cloudify" desktop applications.

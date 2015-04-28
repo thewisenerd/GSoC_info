@@ -1,0 +1,3 @@
+This proposal focuses on implementing a set of fixers "lib3to2" for code currently written for Python 3.x to convert that code into a format that can be run in a Python 2.x environment.
+
+3to2 will be a tool that will encourage developers programming in Python to go forward confidently with developing in 3.x without worrying about backwards compatibility.  Possible future improvements will backport code to earlier versions, as many third-party packages are supported as far back as version 2.3.

@@ -1,0 +1,1 @@
+I would like to make a set of tools that will help Gentoo Council to work more effectively. I will prepare a website for Council will do work that is now done manually and an IRC bot that will allow to use meeting log on website. The Councils website will also allow more input from developers community.

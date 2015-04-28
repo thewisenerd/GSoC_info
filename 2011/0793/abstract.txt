@@ -1,0 +1,1 @@
+Create a great AVR development environment for GNOME by integrating avr-gcc, avr-gdb, simulavr and avarice into Anjuta, and displaying register and pin statusses in an extra window. Also provide a nice graphical frontend for avrdude, an open source AVR programmer.

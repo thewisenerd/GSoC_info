@@ -1,0 +1,1 @@
+The project involves extending Nmap to provide full support for IPv6. This includes making Nmap capable of creating and injecting raw IPv6/ICMPv6 packets, implementing new host discovery techniques and adapting the OS fingerprinting engine to operate over IPv6.

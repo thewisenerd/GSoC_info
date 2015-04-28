@@ -1,0 +1,3 @@
+My project consists of segregating the backend & UI logic for Login/Account Creation, tracking the "source avenue" for account creation & suggesting "exit activities" & enhancing the usability of forms. 
+The main purpose of this project is to ensure that the process of account 
+creation (or login) does not wildly interrupt the user's task flow. This will help Wikipedia (& other Wikis) in offering a better user experience & thus increase the number of 'converted' users.

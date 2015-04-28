@@ -1,0 +1,1 @@
+Any unseasoned user of phpMyAdmin can easily be confused and overwhelmed by the amount of information and the number of functionalities displayed on the interface. The goal of this project is to address and fix this problem along with other usability problems that may cause confusion, reduce efficiency and lead users to make errors.

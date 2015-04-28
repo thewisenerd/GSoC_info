@@ -1,0 +1,1 @@
+This project is aimed at cleaning up the translation methodology for Sahana-Agasti Vesuvius using Pootle. After the completion of the project, Pootle admins should be able to use a generated Pootle template to translate the Vesuvius UI into any language. The existing Resource Page system is to be integrated into the new methodology as well.

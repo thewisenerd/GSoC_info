@@ -1,0 +1,2 @@
+This proposal offers some improvements to OpenOffice Math, but focuses on fixing Issue 972, so that equations anchored as characters in Writer will automatically align its baseline with that of the line it is on... So that users need not manually edit this.
+This proposal offers several additional improvements should the first prove easy to implement, amongst them extra symbols, catalog/ symbol toolbox improvements and intuitive MathType-like input option.

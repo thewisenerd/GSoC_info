@@ -1,0 +1,6 @@
+Rules 2 is a module for drupal 7, that allows users implement workflows using actions that depend on events and conditions.
+The goal of this project is to extend the module by 3 points:
+- A Queuing should be introduced,
+- a costum links module should be implemented
+- and some usability improvements should be made.
+Especially sites with complex rule sets, like shopping sites or community portals, would benefit from such a additions.

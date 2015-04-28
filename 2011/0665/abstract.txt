@@ -1,0 +1,1 @@
+The aim of this proposal is to implement a new MediaWiki parser, in Python, using proper parsing techniques: generating a parse tree, manipulating it, and then outputting in HTML.

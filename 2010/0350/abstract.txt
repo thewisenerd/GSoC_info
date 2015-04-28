@@ -1,0 +1,8 @@
+The TorDNSEL project is concerned with identifying individual hosts
+  as valid and accessible Tor exit relays.  Each Tor exit relay has an
+  associated exit policy governing what traffic may leave the Tor
+  circuit and go out as requests to the internet.  A public database
+  that can be easily queried or scraped would be of huge benefit to
+  the Tor community and to services that are interested in whether
+  clients originate from the Tor network, such as Wikipedia and IRC
+  networks.

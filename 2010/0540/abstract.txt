@@ -1,0 +1,3 @@
+Interface that allows accurate seeking behavior for both audio and video. 
+ The interface will be implemented for a select number of formats deemed important.  These include MKV, AVI, MP4, MP3, OGG, FLAC, and potentially others.
+Implementation of avformat_build_index, av_seek_file, avformat_index_status, and av_export_index.

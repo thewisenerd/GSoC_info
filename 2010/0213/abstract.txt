@@ -1,0 +1,3 @@
+Goal to this project is to simplify the ThinkTank installation process and implement an auto-update feature so that current ThinkTank installations get notification when a new version is available.
+
+The updated propasal is written on http://wiki.github.com/ginatrapani/thinktank/dwi-widiastuti-installation-simplification-and-auto-updates

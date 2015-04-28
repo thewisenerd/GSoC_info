@@ -1,0 +1,11 @@
+For the project I'm applying to there are two jobs must be down and they are:
+  Add EXT4 Support in EXTLINUX ;
+  Convert the Filesystem Part Code to C.
+
+For the ext4 part, I should do:
+        Add extent feature support for EXT file system.
+        Handling 64-bit sector numbers.
+
+For the code conversion part, I should do:
+        Add necessary infrastructure ;
+        convert file system part like EXT, FAT, IS09600 and PXE to C language.

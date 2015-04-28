@@ -1,0 +1,7 @@
+ZFS is general purpose file system designed and written by Sun for Solaris operating 
+system. It was designed with support for high storage devices in mind. It is a 128bit file 
+systems and therefore it support Zetabyte partition size. This filesystem was released 
+under the CDDL license and his code is freely available. 
+
+My task during soc would be continue in effort of Andrew Doran and Oliver Gould and 
+eventualy get ZFS into the working state in NetBSD.

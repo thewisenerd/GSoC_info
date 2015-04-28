@@ -1,0 +1,2 @@
+Nowadays, netbook is getting popular increasingly. Also, more and more MIPS based netbooks are emerging. Gdium is one of the MIPS(Loongson) based netbook, running Mandriva G-Linux as its operating system. The goal of this project is porting OpenSuSE to MIPS architecture(here it is mips64el), providing more choices to MIPS based
+netbook users. Though it may just be a prototype, this project will be the base of further porting work.

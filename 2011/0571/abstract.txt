@@ -1,0 +1,2 @@
+New Apertium Turkish-Kyrgyz language pair is going to be developed. 
+As a part of this project Turkish-Kyrgyz bilingual dictionary will be extracted from StarDict dictionary. Morphological analyzer/generator for Kyrgyz language will be developed from scratch.

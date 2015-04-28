@@ -1,0 +1,1 @@
+When a package deliver configuration files, the problem of merging user data with new configuration instructions will arise during package upgrades on users systems. Sometimes merging can be done with 3 way merge, but this process does not insure that the resulting file is correct or even legal.

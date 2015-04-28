@@ -1,0 +1,1 @@
+I'd like to help with Protobuf support for Scala by writing a stand-alone compiler in Scala for serialization/deserialization to and from Google's Protobuf format. I believe I have the necessary experience and could help make Scala an even better language, even though I'm maybe only helping in a small way.

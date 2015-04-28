@@ -1,0 +1,1 @@
+openSIS-MySQL is a project started to move this very important education administration software to MySqL. With the completion of this project the software would be ready for integration with Moodle, international education database standards and languages.

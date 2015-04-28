@@ -1,0 +1,1 @@
+My aim is to combine the two plugins, CyAnnotator and CytoscapeEditor and create a fused editor. I will also design an improved CyNetworkView which can be exploited by this fused editor. I also intend to use some of this editor's functionality to load and save networks with annotations to a Neo4j graph database.

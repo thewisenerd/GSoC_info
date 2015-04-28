@@ -1,0 +1,6 @@
+The AIM of this proposal is to provide new functionalities to the VLMC project, in order to make it become an useful and powerful video editing software.
+Main points to develop are :
+- An extensible data format, in order to save projects as a file. We should have an extensible format, since features won't stop being added (hopefully) 
+- An effect API, to allow other developpers to submit their modules, effects, transitions...
+- Improving user interface.
+- ...

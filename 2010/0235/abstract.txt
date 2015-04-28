@@ -1,0 +1,3 @@
+Portage is a complex, full-featured package management for Gentoo Linux distribution. Many languages like Perl provide their own philosophy how Perl package distributions should be handled, for example CPAN. Python provides very similar service, the PyPi website, which can be queried for Python packages and their metadata.
+
+g-pypi solves fundamental problems converting pure Python packaged distributions to Portage's ebuilds format with accompanying metadata.

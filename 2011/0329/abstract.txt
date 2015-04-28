@@ -1,0 +1,1 @@
+The goal is, to define and implement a common node database shema for freifunk node databases, based on the existing node databases. This shema can then be implemented into the databases directly or as an API.

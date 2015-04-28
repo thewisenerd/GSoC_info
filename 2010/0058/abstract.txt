@@ -1,0 +1,5 @@
+Aim of the project is to include loop optimizations in GCC using Graphite framework, which will allow Graphite to act as unified framework to apply various transformations to improve optimization levels. The outline of work is to be done:
+1.Include various loop optimizations based on Graphite framework.
+2.Implement test cases to check functionality of transformations.
+3.Benchmark the performance of transformations added.
+4.Find heuristics for auto application of these optimizations.

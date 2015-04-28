@@ -1,0 +1,5 @@
+This is my proposal for the subject "Calls with Windows Live Messenger (MSN)" for the project SIP Communicator.
+
+I've chosen this subject because I would like to know more about how it works and can be set up.
+
+vmartinet (mofx71@gmail.com)

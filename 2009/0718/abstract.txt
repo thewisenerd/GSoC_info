@@ -1,0 +1,1 @@
+The project aims to develop a CAP reader for elevating the efforts done so far on CAP in Sahana and hence enhancing the pool of Sahana. Adding to the counter a Firefox extension to read CAP alerts and a PHP REST API for pulling CAP alerts are also proposed within the project to widen the user reach.

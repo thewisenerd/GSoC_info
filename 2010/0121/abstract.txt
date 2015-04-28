@@ -1,0 +1,1 @@
+This is a proposal for the Bits and Ints project listed on the boost wiki page. The proposal includes bit mask creation utilities and data structures which are extensions of those bit masks.

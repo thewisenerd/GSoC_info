@@ -1,0 +1,1 @@
+This is a proposal to include better control over animations in the BGE (mainly via a new Python API). It also combines the 3 old animation logic bricks into one new unified brick.

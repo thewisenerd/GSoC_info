@@ -1,0 +1,3 @@
+At the time being, all parts of the UI are created by the platform dependent code. This approach has some major drawbacks.
+    NetSurf is designed for resource constrained hardware but it doesn't work with restricted input methods. At the moment a mouse is necessary for browsing. This can be a barrier for hand held devices and a serious inconvenience for advanced users.
+    My intention is to remove the above limitations.

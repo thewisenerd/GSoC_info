@@ -1,0 +1,2 @@
+Scribus shows that professional desktop publishing is possible with Free Software. Scribus has many powerful features which are often mentioned in articles, eg. high quality PDF export and color management. But, its scripting features are not getting attention even after the complete redesign of its architecture.
+Scribus has a well designed API for its new ScripterNG, developed as part of GSoC 2008. But, this new generation scripter still lacks functionalities which are present in its old script

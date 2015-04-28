@@ -1,0 +1,2 @@
+The project's objective is to reduce the "en masse" promotion effect of the current generation collectors.
+To do so, the Hotspot's "Eden and Survivor" and the GHC's "Steps", young generations will be added as they postpone promotion of young generation objects to the mature generation.

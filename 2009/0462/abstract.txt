@@ -1,0 +1,3 @@
+The idea is to change the schema of the MusicBrainz database, preprare upgrade scripts and backend
+code to handle read/write operations on this schema. On top of this, I'd like to build a basic web
+interface for all operations necessary to maintain the database.

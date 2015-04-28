@@ -1,0 +1,1 @@
+I will add a Lua library to RTEMS, in order to support run-time scripting.  I will provide a Python translator, which will allow Python scripts to be executed in Lua without porting Python.  Finally, I will add support to Lua so it can act as an alternate shell for RTEMS.

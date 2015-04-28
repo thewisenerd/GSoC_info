@@ -1,0 +1,1 @@
+There are a number of problems with how user-specific network settings are handled by NetworkManager. For example, the current approach does not work with fast-user-switching, and it's difficult for applications modify user-specific network settings data without being responsible for *all* of the settings data. This project would address these problems.

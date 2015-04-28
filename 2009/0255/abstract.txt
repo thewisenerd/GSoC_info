@@ -1,0 +1,3 @@
+The x86-64 architecture is rather ubiquitous at the moment, as many personal computers currently run on such CPUs and OS support is readily available. Currently, Jato supports only 32-bit x86 CPUs, which is suboptimal when the aforementioned hardware and software support is present.
+
+This proposal aims to improve Jato by allowing it to emit x86-64 code. Along with proper documentation, the outcome will also serve as an example of how to port Jato to other CPU architectures.

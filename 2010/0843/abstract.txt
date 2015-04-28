@@ -1,0 +1,1 @@
+Building advanced post-editing tools for checking and improving the precision of Apertium translations, and include them into a user-friendly web interface to make common users able to use it and suggest their own corrections.

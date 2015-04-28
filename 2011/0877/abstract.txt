@@ -1,0 +1,1 @@
+I propose to integrate a uPnP server and client into Banshee, making it possible to both share media and consume media from other devices simply and dynamically. Banshee is already a very simple application to use in managing media and given that more and more portable devices supports uPnP, it can and should easily serve them with that media.

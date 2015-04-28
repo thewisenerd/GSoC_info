@@ -1,0 +1,1 @@
+MediaWiki allows registered users to personalize the aspect of its user interface by the insertion of personal user script (in JavaScript language, on a per-user basis) or by enabling “gadgets” managed by sysops (on a site-wide basis). This project aims to build a framework to make those user scripts configurable in an easy way.

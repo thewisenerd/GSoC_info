@@ -1,0 +1,5 @@
+Users spend significant amount of time reading the documentation. Providing some ways of interaction on this background is in the best interest of the user and wider community. 
+
+Instead of adding a simple commenting framework to Sphinx, I will create a platform of discussion as well as documentation enhancement.
+
+The benefits of this addition would be: better reviewed, more up to date, extended documentation, tighter community ties and eased procedures of submitting the documentation fixes.

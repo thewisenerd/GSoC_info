@@ -1,0 +1,1 @@
+Scilab currently lacks support for precise calculations, and only is capable of machine-precision computations. Using available libraries, support for arbitrary precision calculations can be added.

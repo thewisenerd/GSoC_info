@@ -1,0 +1,1 @@
+NaCl is going to be an extremely important part of Chromium OS. It is absolutely required to have client connectivity options such as SSH, VNC or Remote Desktop on Chromium OS. This proposal aims to fill the easiest part: SSH.

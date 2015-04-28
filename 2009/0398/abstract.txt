@@ -1,0 +1,3 @@
+This project aims to add support of Map-Reduce computation model to Pydra clustering system. This is one of milestone goals of the Pydra project for version 1.0.
+
+Map-Reduce is a computation model introduced by Google. It is best suited to processing large amount of data which can be presented in form of key/value pairs. Input data are partitioned into multiple slices and then processed in parallel by Map function and merged by Reduce.

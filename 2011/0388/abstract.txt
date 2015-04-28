@@ -1,0 +1,4 @@
+Enhance Blender’s weight painting tools:
+1) A bone’s weights will become lockable so that the relative ratios will remain unchanged during painting,
+2) Multiple bones will be selectable so that the ratios of the weights of the selected vertex groups will remain relatively the same,
+3) The automatic weighting system will be extended to post-process selected regions to avoid manual fine-tuning

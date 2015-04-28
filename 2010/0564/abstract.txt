@@ -1,0 +1,7 @@
+This project provided a Hudson Integration for Mylyn. The Hudson Mylyn connector will have the following features: 
+* Monitoring Build Statuses in Eclipse
+* Viewing Build Details in Eclipse
+* Running a Build from within Eclipse
+* Viewing Test Results in Eclipse
+* Viewing a Build Log in Eclipse
+* Adding a Task from a Failed Build in Eclipse

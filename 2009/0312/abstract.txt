@@ -1,0 +1,1 @@
+I think this project is exactly what I was looking for to participate in GSoC 2009, I really hope I get picked as a student and, if I have what it takes, to continue to contribute to SIP Communicator, and experiment with new ideas (file sharing for example?). Here are my thoughts about the OTR project.

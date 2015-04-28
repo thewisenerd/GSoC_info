@@ -1,0 +1,1 @@
+The recent addition of remoting and discovery capabilities to OSGI R4.2 (RFC 119) enables us to easily set up a distributed system. Combined with the well known JUnit, a testing framework for distributed application can be build on top. This test fw can then be consumed by ECF directly (eat your own dogfood) to prove its usefulness.

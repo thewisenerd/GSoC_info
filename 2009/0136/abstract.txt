@@ -1,0 +1,1 @@
+I want to work on the blog-style course format as described in the project ideas wiki page. Not every teacher plans out a course ahead of time. Some K-12 teachers only prepare a class a few days in advance. It is important for Moodle to be able to handle various styles of teaching. This project would also allow for year-long courses that don't have a specific end date.

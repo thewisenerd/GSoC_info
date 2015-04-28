@@ -1,0 +1,1 @@
+Single player has opened the doors for Thousand Parsec to expand gameplay for challenging preset scenarios and fleshed out campaigns. My proposal is to create the means to accomplish these features by adding a save and load feature leading to customizable scenarios and campaigns.  This can be accomplished by using SQLite and a user friendly interface to create scenarios.

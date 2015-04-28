@@ -1,0 +1,3 @@
+The goal of this project is to improve the existing Bengali - English Language pair to a release quality. Specifically, completing both the monolingual and bilingual dictionary and writing the necessary transfer rules. Finally, testvocing is also necessary to ensure correctness. 
+
+This project would be the continuation of the apertium 2009 project on "conversion of Anubadok to apertium platform"

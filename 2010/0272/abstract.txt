@@ -1,0 +1,1 @@
+Creating a repository where the users can deploy their artifacts and once the testing tasks are completed user can deploy the artifact to the common place where the we can use those artifacts as dependencies in pom files   or remove the artifact from the temporary repository if it fails during the testing phase.

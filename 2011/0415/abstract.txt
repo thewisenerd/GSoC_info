@@ -1,0 +1,5 @@
+This project consists on improving the HTML Form Entry module, by doing two major improvements:
+
+Use Schemas in HTML Form Entry module
+
+Update the WYSIWYG HTML Form Entry Designer module

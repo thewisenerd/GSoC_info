@@ -1,0 +1,2 @@
+The main goal is to provide a testing framework which allows both server-side and client-side assertions as well the posibility to run the test with different configurations.
+Manila is the implementation of the automated tests for webapplication as described in https://issues.apache.org/jira/browse/MYFACESTEST-47

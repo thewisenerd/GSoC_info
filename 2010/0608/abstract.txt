@@ -1,0 +1,3 @@
+KDE has been network aware from the very beginning. Solid and KIO are main components which provide this ability. This project will extend both to allow interaction with Universal Plug and Play Media Servers and provide KDE with the ability to access them.
+
+The second goal of the project is to use the above to allow Amarok to treat any UPnP MediaServer device as a Collection and provide indexing, playing and advanced meta-data based querying of the device's data/music.

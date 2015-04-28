@@ -1,0 +1,5 @@
+Recent changes in the Python interpreter ecosystem made it obvious that the Jinja2 templating engine took a too naive approach to template compilation to excel on JIT interpreted Python versions.
+
+On top of that changes in Python itself in regards to AST compilation make new things possible without falling back to hacks as Jinja2 currently does.
+
+Because Django's template engine internally has some performance problems I propose writing a new template engine backend for Jinja2 and Django.

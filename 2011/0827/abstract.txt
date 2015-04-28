@@ -1,0 +1,1 @@
+This project adds support for new languages on shogun, including Java, Ruby, and Lua. This makes shogun toolbox could use high-performance numerical library of these languages, which could make shogun more widely used and more powerful.

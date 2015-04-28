@@ -1,0 +1,1 @@
+Proposal to create an embeddable "All Our ideas" widget that will function on any general website. The embed should have some capability to change size and visually integrate well with the website on which it's being placed. Widget can then be modified so that it works in other contexts, like drupal and other content management systems, mobile devices, social networks, etc.

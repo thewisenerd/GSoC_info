@@ -1,0 +1,1 @@
+The current concept management system in openmrs is a very basic one. I want to improve the search by adding more advanced search features like search for certain criteria in order to increase the usability. Furthermore I want to redesign the concept viewer to display information in a more accurate way.

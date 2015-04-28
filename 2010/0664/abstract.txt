@@ -1,0 +1,1 @@
+Dspace currently lacks unit testing, which harms the development of the platform and makes easier to reintroduce past bugs while developing. This project is a proposal to add a set of unit test classes to Dspace, based on JUnit, plus some tools that detect issues in the code so we can improve its quality.

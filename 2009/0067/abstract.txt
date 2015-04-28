@@ -1,0 +1,1 @@
+Unify is a tool for creating packages across different distribution formats (deb , rpm, solaris packages) using standard portage Gentoo ebuilds as the specification for building the packages.

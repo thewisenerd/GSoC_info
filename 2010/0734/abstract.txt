@@ -1,0 +1,3 @@
+When a ZooKeeper server loses contact with over half of the other servers in an ensemble ('loses a quorum'), it stops responding to client requests. For some applications, it would be beneficial if a server still responded to read requests when the quorum is lost, but caused an error condition when a write request was attempted.
+
+This project would implement a 'read-only' mode for ZooKeeper servers that allowed read requests to be served as long as the client can contact a server.

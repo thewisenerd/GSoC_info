@@ -1,0 +1,1 @@
+This is a proposal to support hardware accelerated H.264 decoding in libavcodec using the Android Stagefright multimedia framework.

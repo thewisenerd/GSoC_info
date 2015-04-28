@@ -1,0 +1,2 @@
+Derby Test and Fix primarily entails of providing framework for converting store recovery harness tests to JUnit tests as well as the platform to convert the existing store recovery harness tests to JUnit tests.
+The project also entails of fixing the existing bugs in Derby by analyzing the cause behind the failures.

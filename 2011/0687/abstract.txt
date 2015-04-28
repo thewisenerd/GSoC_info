@@ -1,0 +1,1 @@
+Implementing support for Drizzle in phpMyAdmin, which will allow users to utilize this tool with new, hopefully successful database management system.

@@ -1,0 +1,5 @@
+Within GSoC challenge I would like to start the library development. While writing my application I have taken into account the projects mentioned on your website. I decided I will divide my work on the library into two stages.
+
+The first one will be porting the library to Windows systems family.
+
+The second stage would assume writing three plugins adding new formats service.

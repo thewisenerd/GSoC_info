@@ -1,0 +1,4 @@
+Native Client enables performance-sensitive code, written in C++ or other low-level languages, to be safely called from JavaScript.
+Applications can be written in a combination of JavaScript and native code.
+The goal of this project is to simplify and unify the debugging experience for this kind of hybrid application.
+Developers could use the Chrome developer tools window to step through NaCl code and view symbols.

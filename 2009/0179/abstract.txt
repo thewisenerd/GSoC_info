@@ -1,0 +1,5 @@
+BZFlag is heading towards 3.0 release since a few years already. It is not possible to release though : the code is too buggy, and some real effort has to be put in closing bugs to be able to get a stable release.
+
+I'll first start by explaining how I will handle bug fixing, then list all the bugs I intend to fix, show the order I chose for fixing those bugs, and finally presenting myself quickly.
+
+The goal is simple: remove all the show-stopper bugs so that a release can become reality.

@@ -1,0 +1,1 @@
+This proposal describes implementation details of converting ant based gephi to a maven based build, automating release cycle via shell scripts and creating an automated build system.

@@ -1,0 +1,4 @@
+SUMMARY: This project aims to speed up runtime code optimization on the Jikes RVM, by using multiple compiler threads on multi-core platforms.
+
+Jira issues - related to RVM-239 - restructuring of compiler phases.
+(We need to have explicit info about side-effects of compiler optimizations to know which phases can run in parallel)

@@ -1,0 +1,1 @@
+My idea is to implement file transfert via Jingle in the console jabber client "MCabber". This client, despite being one of the most popular console jabber client still lacks file transfert support.

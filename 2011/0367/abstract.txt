@@ -1,0 +1,7 @@
+The Sensor Simulator will be enhanced in 3 steps.
+
+Firstly, by polishing the GUI.
+
+Secondly, by extending the supported sensors with the gyroscope and with the rotation vector.
+
+Thirdly, by adding the feature to generate sensors output, giving a scenario for device movement. The user can choose a set of initial states and the time for transition between them. The scenario will be obtained interpolating the sensors values for the initial states.

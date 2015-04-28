@@ -1,0 +1,3 @@
+The Sequoyah project is focused on Mobile application development tools. One of the components of Sequoyah is the Localization Files Editor (LFE), which is a visual editor for handling parallel resources for multi-language projects. 
+
+We are proposing a feature for the Sequoyah Localization Framework, which is extending its support to Eclipse plugin projects. Such feature will allow anyone who develops an Eclipse application to make good use of our tools to easily localize their product.

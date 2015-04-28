@@ -1,0 +1,1 @@
+Create a generic "data get" layer for Asterisk components to be able to expose data that they maintain. Currently, modules implement specific code to implement CLI commands, manager interface actions, and so forth, while it would be much nicer to have this data available through a common interface being exported and retrieved using this API.

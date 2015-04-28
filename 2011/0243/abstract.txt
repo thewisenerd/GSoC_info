@@ -1,0 +1,7 @@
+Universal platform to enlarge Eclipse IDE functionality. It provides creation of custom embedded editor tools, including math evaluator and language translators.
+The main idea is to integrate specific engineers or educational tools to the powerful programming platform.
+Two main goals are raising up usability and effectiveness.
+The prototype is developed, it performs symbol evaluations and image insertion straight in java source code.
+In short-rate plans:
+math to java translator
+prolog to java.

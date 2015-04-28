@@ -1,0 +1,1 @@
+Apache PhotArk is an open source photo gallery application which is supplemented by many features. So for a such photo gallery application, the face recognition functionality will be another pretty handy key feature for PhotArk where this face recognition engine can be used to enhance and extend the scope of current gallery features in PhotArk.

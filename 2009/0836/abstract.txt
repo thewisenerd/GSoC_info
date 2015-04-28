@@ -1,0 +1,2 @@
+Main idea of this proposal is the construction of one Addin for the MonoDevelop project, in this case the Database Designer Addin.
+ I propose to this implement this addin accomplishing with the Model Driven Application (MDA) architecture and always thinking in the way to create a shared rendering mini-engine that can be use with the Class Designer Addin, under the philosophy of the model view controller (MVC) pattern, to allow or improve introduction of new features in the future.

@@ -1,0 +1,1 @@
+Currently AChecker works in a way that accessability validator returns report in HTML format that is displayed in the tool itself. The main goal of this project is to implement report export system such that the report could be generated and saved depending on user selection in various file formats as PDF, Excel, XML (both pure and EARL), CSV.

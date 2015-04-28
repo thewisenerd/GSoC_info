@@ -1,0 +1,2 @@
+Apache Vysper is an Apache MINA based XMPP/Jabber server. This project aims at implementing a Vysper extension that enables HTTP clients to be XMPP clients.
+The solution for communication with the HTTP clients is to use the Bidirectional-streams Over Synchronous HTTP (BOSH) protocol (in course of standardization  at XMPP as XEP-124 and XEP-206 draft standards).

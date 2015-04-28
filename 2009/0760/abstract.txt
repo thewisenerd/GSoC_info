@@ -1,0 +1,1 @@
+Make a program which control an LED display of 32x16 size of Akizuki by USB directly and display character string.

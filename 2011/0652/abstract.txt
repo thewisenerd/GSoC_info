@@ -1,0 +1,1 @@
+Implementing algorithms for identifying common features between multiple point clouds, designing a framework for efficiently comparing clouds and their features to quickly determine which pairs can be registered, and implementing a global optimization algorithm to solve the joint registration problem.

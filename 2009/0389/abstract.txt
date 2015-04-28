@@ -1,0 +1,1 @@
+This project is to develop an ID mapping plugin and publish the corresponding ID mapping API for other plugin developers. Different sources of ID information will be supported including local/remote files, databases and web services.

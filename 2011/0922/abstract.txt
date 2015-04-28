@@ -1,0 +1,4 @@
+NetBSD has pud - Pass-to-Userspace Device, which provides support for implementing character and block device servers in userspace.
+However pud doesn't have it's userspace library, leaving much work for the device driver implementer.
+Also NetBSD has puffs - a framework for implementing filesystems in userspace with it's userspace library, libpuffs.
+The goal of the project is to move generic parts from libpuffs to the separate library and provide libpuffs and libpud based on this library.

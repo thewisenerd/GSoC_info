@@ -1,0 +1,7 @@
+Distutils2 will replace DistUtils, adding new fonctionalities and bringing some
+backwards changes (about design), to distutils1.
+
+The goal of this summer of code is to work on the new distutils2 implementation,
+by working on some missing functionalities, and especially by implementing the
+PEP 376 [1]. See the list of task to have a complete overview of what will be
+done in this GSOC.

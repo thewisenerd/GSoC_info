@@ -1,0 +1,3 @@
+UPnP is a set of protocols which collectively implement the plug-and-play feature, allowing servers to announce their addresses and hosted services, while enable clients to automatically discover and use the announced services dynamically with minimal configuration.
+
+UPnP performs multicast messaging to discover services over the network, which makes its usage limited to the local domain. The project aims to extend the UPnP network reach, by bridging UPnP domains securely over the Internet.

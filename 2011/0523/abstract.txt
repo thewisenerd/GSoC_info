@@ -1,0 +1,1 @@
+Using the Sensor wich are build right into each phone for controlling some actions in catroid.

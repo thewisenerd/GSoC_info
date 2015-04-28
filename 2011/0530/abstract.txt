@@ -1,0 +1,1 @@
+The purpose of the project is developing an automated test suite for SDL. This will help developers to validate their work. During the project testing framework will be selected and tests to validate the library will be developed.

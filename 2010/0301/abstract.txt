@@ -1,0 +1,3 @@
+In Google Summer of Code 2006, the implementation of a library to handle process was proposed and accepted by Google and Boost community. Unfortunately, this  library was never finished.
+
+My proposal aims to recover the work already done, suggesting some alterations that can be done to improve and finish it.

@@ -1,0 +1,1 @@
+Through this project, I hope to integrate AJAX functionalities (using EXT JS library) into the next Generation List Module of the TYPO3 Backend. This project aims to enhance the user experience, accessibility, performance improvement in the system's functionalities.

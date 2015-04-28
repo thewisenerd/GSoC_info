@@ -1,0 +1,1 @@
+The project consists of developing a network framework in the form of an API and subsequently an implementation that can be distributed as a library for the development of client/server applications. This library will be used to implement Wesnoth's network stack.

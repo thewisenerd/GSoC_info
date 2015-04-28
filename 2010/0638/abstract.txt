@@ -1,0 +1,1 @@
+Allow gPXE to run as a usermode application under Linux on both i386 and x86_64. Hence opening new debugging possibilities and shortening the development cycle considerably.

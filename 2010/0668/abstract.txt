@@ -1,0 +1,1 @@
+The goal of this project is to eliminate Tornado's dependency on libcurl which is the biggest source of installation and platform incompatibility issues in Tornado. By removing the libcurl dependency, we can have a cleaner and more compact version of the Tornado Web Server.

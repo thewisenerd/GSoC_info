@@ -1,0 +1,1 @@
+In an effort to create a SQL optimizer for mod_ndb, I will work on Issue #46 and then #45.

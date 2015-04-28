@@ -1,0 +1,1 @@
+APE(analysis of phylogenetics and evolution) is an R package which facilitates the study of phylogenies. Among other features, it allows the user to reconstruct phylogenies from complete distance matrices. This project aims to extend APE with algorithms that allow for the inferring oh phylogenies from incomplete distance matrices

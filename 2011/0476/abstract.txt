@@ -1,0 +1,2 @@
+The goal of this project is to make a HTML 5 video player using Fluid's Framework easily accessible to anyone. This has to be an highly scalable and user friendly application and respect the IDI philosophy (see disability as a mismatch between the needs of the user and the service). 
+For more info please see the full up to date proposal in pdf at this link: http://goo.gl/UJZFT (It is published under creative commons By so feel free to do whatever you want with it).

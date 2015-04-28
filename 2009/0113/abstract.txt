@@ -1,0 +1,7 @@
+This project intends to build a simple and easy to use IM client plugin for Canola using Python-purple.
+The project objectives are:
+1) Learn how Canola works, its plugin interface and architecture
+2) Study about libpurple and python-purple binding
+3) Finish the development of the python-purple
+4) Develop the IM backend along with a simple interface to test it
+5) Improve the interface to allow things like message pop up, auto-login, etc.

@@ -1,0 +1,6 @@
+For ages now, Gentoo uses Portage tools as its main package manager. 
+Experienced users love the fine-grained customization it offers
+thanks to features like the USE flags, masking, etc..
+The idea is to port Portage on NetBSD; anyone should be able to download
+a stage tarball containing Portage, the tree, and its tools and to use them
+on NetBSD.

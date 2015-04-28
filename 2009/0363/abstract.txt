@@ -1,0 +1,1 @@
+Expand the JTIN module within OpenJUMP to support extra large TINs by developing a stream oriented tringulator and storing the resulting TIN within a spatial database in a multi-resolution format.

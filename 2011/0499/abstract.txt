@@ -1,0 +1,3 @@
+PYpi Testing Infrastructure is a project which aim to check python distributions uploaded to pypi.
+
+Checking includes installation of the distribution, detection of harmful comportment, test execution and quality check. It will help both distribution's developer and other developers who want to use the distribution.

@@ -1,0 +1,1 @@
+Using trellis optimization for motion estimation promises considerable savings while encoding motion vectors; however, if not done carefully, it can be very expensive.  In order to improve performance, we can use techniques like early termination and investigate heuristics for RDO cost.

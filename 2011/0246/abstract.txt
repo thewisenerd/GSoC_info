@@ -1,0 +1,1 @@
+Data Visualizations allow you to look at the information around you without getting overwhelmed by it. They allow you to look at it from different angles, noticing trends that you otherwise wouldn't have noticed. This was the motivation behind my interest in the Social Analytics Plugin project for StatusNet as a part of GSoC 2010.

@@ -1,0 +1,2 @@
+The goal of the project is to develop an Android Musicbrainz application, allowing users to easily find and display any information about any audio CD by scanning its barcode. Additionally, you can link pictures to artists and releases, by uploading them to flickr and matching them to entries in Musicbrainz' database.
+The barcode scanning functionality will be encapsulated as an Intent and can be reused by other Android apps.

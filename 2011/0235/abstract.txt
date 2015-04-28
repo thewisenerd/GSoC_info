@@ -1,0 +1,1 @@
+The aim of this project is to develop a linux kernel device driver for the Nintendo Wii Remote. This includes reverse-engineering the whole proprietary fake-HID protocol and implementing a clean input-device interface into the linux kernel. Additionally, a user-space library is developed to allow easy integration of Wii Remotes as input devices into existing applications.

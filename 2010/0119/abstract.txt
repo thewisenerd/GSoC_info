@@ -1,0 +1,1 @@
+KPresenter, the presentation program of KOffice suite, don't have animation like appearance, dissapearance of object. I propose to continue the animation framework development, and implement some animations. And in a second time implement user interface to manage them.

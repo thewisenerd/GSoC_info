@@ -1,0 +1,1 @@
+I intend to improve the C/C++ support in MonoDevelop IDE by adding C++ tasks to XBuild, Mono's MSBuild implementation, integrating MSBuild in the C++ project system and implementing support for Windows compilers.

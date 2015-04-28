@@ -1,0 +1,1 @@
+The work will consist on finishing Nokogiri JRuby support and help in other libraries people is using, like ar-jdbc and RMagick (the last one, continue with RMagick4J and explore the possibility of a ffi-based library).

@@ -1,0 +1,12 @@
+Implement features desirable for a flashrom 1.0 release.
+
+- Partial flashing for all chips with the best possible granularity
+- Support Nvidia MCP6*/MCP7* series SPI
+- Support multiple flash chips on the same board
+- Support non-x86 architectures
+- Support more external programmers
+- Automatic full chip test mode
+- Assisted recovery and better diagnostics in case flashing fails
+Optional:
+- Remote flashing for early coreboot recovery
+- Ability to run flashrom on top of libpayload

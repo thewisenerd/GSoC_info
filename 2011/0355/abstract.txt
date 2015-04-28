@@ -1,0 +1,1 @@
+Clean handling of Unicode throughout the Perl core, rather than in a certain selected areas.

@@ -1,0 +1,1 @@
+I would like to implement several methods of object detection in point clouds and improve them where possible. I believe I have technical and research background required for the project.

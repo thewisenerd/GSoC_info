@@ -1,0 +1,1 @@
+This project seeks to enable code written in parrot to run on the RTEMS platform.

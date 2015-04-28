@@ -1,0 +1,1 @@
+The aim is to use Lucene to store attributes on the disk and index them in order to be searchable. The system should have a well-designed cache system to handle heavy read access on some elements. Though the need is not as critical as the graph structure, several features in Gephi need in-memory attributes to work properly.

@@ -1,0 +1,3 @@
+Elgg has an extensible API for developing web services. Developers define functions and expose them through the general API. The API handles input, output, authentication, and security. There is not an available implementation of standard web services (posting a blog post, uploading files, getting status updates, notifications).
+
+In this project I aim to implement a set of web services methods using Elgg's API which can be used by developer’s to integrate their software with Elgg’s framework.

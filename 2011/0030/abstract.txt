@@ -1,0 +1,2 @@
+The Expectation-Maximization algorithm is well known in the machine learning community.
+The goal of the project will be a robust implementation of the Expectation-Maximization algorithm for Gaussian Mixture Models within the Shogun Machine Learning Toolbox. Computational tricks and techniques will be used to overcome computational problems inherent within the algorithm.

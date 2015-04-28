@@ -1,0 +1,2 @@
+This project aims to modernize the volume management in DragonFly. Currently our only volume manager is vinum, an ancient, unmaintainable pseudo-raid driver. DM has proven its efficiency on Linux for years and numerous targets were added, showing its growth potential.
+This project would eventually be able to replace vinum, providing flexible and maintainable volume management. The simple dm framework will also allow for easy extension in form of targets such as the intended crypto target.

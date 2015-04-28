@@ -1,0 +1,1 @@
+The goal of this project is to build a sophisticated search engine for the CPAN that knows how to return relevant results, by incorporating metadata from sources such as user ratings, user-added tags, dependency graphs, freshness, and test results. This service will provide both a front-end website, and an open REST web API which will allow others to mashup the data and innovate.

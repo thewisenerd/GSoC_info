@@ -1,0 +1,5 @@
+The host will be multithreaded:
+*a thread will take input audio, process it according to user pref. and throw it as output
+*a second thread will render a GUI, letting the user select the effects (and relative settings) to apply,interrogating NASPRO objects
+
+The main goal of the project is writing a JACK/GTK application, but I'll try to write code as modular as possible, so that as an extra(optional) goal it should be possible to select which GUI plugin and/or which audio I/O plugin to use

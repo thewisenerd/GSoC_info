@@ -1,0 +1,3 @@
+Jalview is an alignment editor highly used in different web pages (e.g. Pfam, Rfam). It can also be used as a stand alone application.
+However like most bioinformatic tools it was developed with protein sequences in mind and is not optimally prepared for use on ncRNAs, yet.
+The main focus of this years project will be to embed the VARNA (Visualization Applet for RNA) secondary structure display into Jalview’s desktop application. Additionally other structure features will be added.

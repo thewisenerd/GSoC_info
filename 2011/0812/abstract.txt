@@ -1,0 +1,5 @@
+A nice looking, intuitive, effect-oriented OpenGL interface for the VLC Media Player.
+
+It should combine the utility of the current Qt interface with the graphics of media centers. OpenGL will be used for all rendering operations for the interface, bringing a wide range of possibilities to develop pretty graphics. 
+
+All the user interface elements will be specialized according to the needs of the VLC interface.

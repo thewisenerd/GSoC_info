@@ -1,0 +1,1 @@
+This project aims to add wii-remote and android smartphone as alternative means of user input to a pysoy game. Major focus is on the motion-sensing capabilities of the two devices so as to create a different and more accessible user experience .

@@ -1,0 +1,4 @@
+As of last years GSoC, MoinMoin got a new abstraction layer for storage of data. That storage layer is not yet fully integrated.
+
+This proposal aims to improve the situation by adding things like support for ACLs and a routing middleware that can be used to set up different backends for different 'namespaces'.
+Additionally, a new backend will be provided that uses the SQLAlchemy library to store data in one of several supported database formats (SQLite, Postgres, MySQL, ...).

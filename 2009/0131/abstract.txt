@@ -1,0 +1,3 @@
+This project will largely improve sftp and turn it into a first class citizen for remote file management. It will have feature parity with scp, and will be able to replace scp seamlessly in existing scripts.
+Extra functionality such as tab completion and command improvements will also be implemented to make user's life easier.
+Some architectural changes will also be made, to improve sftp's performance in high-latency high bandwidth networks, and with transmission of a lot of small files.

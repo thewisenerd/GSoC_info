@@ -1,0 +1,3 @@
+TYPO3 has a great feature-set and many extensions for nearly every purpose. However, a field that is missing attention is the community: on the TYPO3 website, typo3.org, there is no possibility to connect with other developers/users that one met at community events like the T3DD.
+
+TYPO3 needs a community extension that is flexible and easy to use. The extension would have basic features like messaging, profiles and groups. Users of TYPO3 and the TYPO3 website would benefit from that extension.

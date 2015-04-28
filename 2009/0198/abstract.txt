@@ -1,0 +1,1 @@
+This project aims at adding support for debugging multi-threaded applications for the DragonFly BSD operating system. The way this will be accomplished is by extending the ptrace imlpementation to account for LWPs and modifying gdb to use this instrumentation.

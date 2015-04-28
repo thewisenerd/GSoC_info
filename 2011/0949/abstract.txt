@@ -1,0 +1,1 @@
+Help blender support multiple languages, other than English only. We'll complete the International module with GNU gettext.

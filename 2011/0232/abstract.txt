@@ -1,0 +1,1 @@
+Apply security engineering to open-source software, discovering vulnerabilities. Integrating with EFF staff, I will help with the pilot project of exploring security risks within instant messaging clients Pidgin/Finch and Adium, and their associated client libraries LibPurple, and libxml2.

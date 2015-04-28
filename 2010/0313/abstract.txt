@@ -1,0 +1,1 @@
+The 2to3 tool currently uses a brute-force algorithm for matching tree patterns. This is a proposal to implement a more efficient tree-matching algorithm using a modified version of Algorithm D developed by Hoffman & O'Donnell.

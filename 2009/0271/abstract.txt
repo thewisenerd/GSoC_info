@@ -1,0 +1,1 @@
+My project proposal is an advanced survey suite for the Joomla! CMS. The purpose of this extension is to replace the old Poll component with a feature rich, widely usable advanced survey extension. In spite of these features an important guideline is to provide an easily manageable and user friendly interface.

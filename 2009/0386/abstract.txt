@@ -1,0 +1,1 @@
+Being able to add formulas is a requirement for many users of an office suite like teachers or scientists. Koffice in Version 1.6 included a very good formula editor. The port to the new flake architecture in Koffice 2.0 is very incomplete and lacks several features. Therefore I would like to improve the formula shape and make it usable for navigating and editing formulas.

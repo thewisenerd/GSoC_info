@@ -1,0 +1,5 @@
+I propose an extension of Java Pathfinder (JPF) to verify a system under test (SUT) against linear temporal logic (LTL) formulae.
+
+This work will implement the double DFS algorithm to search the state space of the SUT, computed by JPF, and the Büchi automaton provided by the existing LTL2Buchi code, for violations of an LTL specification.
+
+Additionally, this work will provide the means to annotate Java code with LTL formulae in the style of the existing work in the jpf-aprop project.

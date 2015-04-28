@@ -1,0 +1,1 @@
+This project is intended to improve the convenience of users when using phpMyAdmin, particularly when browsing tables. This can be achieved by adding some features to phpMyAdmin.

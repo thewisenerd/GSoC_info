@@ -1,0 +1,1 @@
+Add the support for effects in the Pitivi Video editor. The main goal is to permit user to add effects to the video they are editing. I will permit to add all kind of effect easily in Pitivi and implement the most important ones.

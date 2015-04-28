@@ -1,0 +1,1 @@
+A colour database to allow clients to request or submit colour profiles for colour managed devices. Colour profiles are critical to ensure accurate colour reproduction on print and screen content.

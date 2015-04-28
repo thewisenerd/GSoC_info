@@ -1,0 +1,4 @@
+For the Google SoC 2010 I propose to work on porting OpenInkpot to a
+currently unsupported ebook reader. Thus collecting the necessary
+hardware specifications and writing or porting the relevant Linux
+kernel drivers for OpenInkpot to be usable on the new hardware.

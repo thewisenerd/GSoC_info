@@ -1,0 +1,3 @@
+Long Term Evolution represents an emerging and promising technology for providing a broadband ubiquitous Internet access. 
+Unfortunately, no ns-3 modules have been developed to simulate LTE networks. 
+This project consist of a development of a framework to simulate LTE networks on ns-3, composed by (i) a standard compliant LTE PHY layer, (ii) two LTE network devices (UE and eNB), (iii) a Bearer Manager and a MAC Queue structure, and (iv) a Frame Manager and a Downlink Resource Allocation.

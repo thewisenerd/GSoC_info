@@ -1,0 +1,7 @@
+Norwegian has two written variants, Bokmål and Nynorsk. The Apertium
+translation pair for Bokmål-Nynorsk has many available resources
+(morphological dictionaries, CG tagger) but work is needed to make it
+a full-blown translation system. This involves expanding the
+dictionaries with closed class words and adjectives, making transfer
+rules for the structurally different noun phrases and improving
+coverage of the translation dictionaries.

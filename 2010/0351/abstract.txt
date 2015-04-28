@@ -1,0 +1,1 @@
+If a developer currently wants to code a web project involving multitouch they must own a multitouch device to test, or not be able to test at all. The goal of this project is to give developers an easy way to test their code without owning a multitouch device. In addition, this framework could be used to run unit tests for multitouch-enabled projects.

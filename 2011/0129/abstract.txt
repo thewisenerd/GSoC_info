@@ -1,0 +1,1 @@
+Umbrello allows the user to draw UML diagrams. Umbrello was ported from Qt3/KDE3 to Qt4/KDE4 but the drawing functions still rely on the old Q3Canvas. Therefore, this project proposes the port of QCanvas resources to QGraphicsView by refactoring the code. The project also adds a few features, expects to fix a number of bugs and at unit tests & gui test scripts.

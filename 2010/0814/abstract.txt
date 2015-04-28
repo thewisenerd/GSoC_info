@@ -1,0 +1,1 @@
+The IUri introduced with the release of Internet Explorer 7 provides applications with means for validating and canonicalizing URI's which conform to the IETF standards for a URI. By implementing the IUri interface and corresponding function Wine's compatibility with many web applications will be greatly improved.

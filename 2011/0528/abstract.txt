@@ -1,0 +1,2 @@
+Our objective is to provide the Orange community with a unified and efficient
+interface to matrix factorization algorithms and methods. For that purpose we will develop a scripting library which will include a number of published factorization algorithms and initialization methods and will facilitate the combination of these to produce new strategies. Extensive documentation, working examples and visualization methods will be provided to help with the interpretation of the results.

@@ -1,0 +1,1 @@
+The notification emails are a rare case where WordPress is behind the times - there is a bunch of plugins allowing to send HTML emails, but it definitely should be a core feature. It is my goal to provide a working and customizable solution.

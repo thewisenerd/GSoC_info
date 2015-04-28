@@ -1,0 +1,5 @@
+The project objective is to build a framework for flexible Google Apps User management from drupal 
+
+# The Drupal-Gapps framework for user management
+
+   1. Complete Google Apps user management (CRUD) from Drupal . The part of framework will implement provisioning API , to synchronize Google Apps user data with current Drupal user management system and hence provide an easy and flexible management of Google Apps account from drupal.

@@ -1,0 +1,2 @@
+Mapbender is the software and portal site for geodata management of OGC OWS architectures.
+Currently, Mapbender interacts with the administrator through a web interface. I propose to design and implement a RESTful API for interaction with the administrator. Basic functionalities will include - Authentication with Mapbender and OGC WMS resource CRUD. The project will include design of the representation following the resource oriented pattern and the implementation of the API in PHP.

@@ -1,0 +1,1 @@
+Creating a POS-system which can be handled with touch screens and supports POS-Hardware.

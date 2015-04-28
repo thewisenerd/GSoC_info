@@ -1,0 +1,1 @@
+astobj2 is presently implemented using hash tables. Aim of project is to implement astobj2 using a sorted data structure (B-Tree) and restructuring code to provide support for other container types.

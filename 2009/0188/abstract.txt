@@ -1,0 +1,3 @@
+The mainly objective of this proposal, is to improve C++ Support for Cython (as the tittle says).
+I'll work on STL and polymorphism on Cython, and so, turning it more powerful.
+And with a little more work, improve C++ classes and functions wrapping.

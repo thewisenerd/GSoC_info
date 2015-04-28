@@ -1,0 +1,1 @@
+An application that allows scientists to cleanly represent views of their data in a pure python class and a javascript library to display and alter plots of this data with support for zoom/pan, multiple time-series plotting and ajax loading of new data.

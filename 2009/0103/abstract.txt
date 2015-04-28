@@ -1,0 +1,1 @@
+This project will add Python 3 support for Boost.Python. So the users of Boost.Python can migrate to Python 3 easily after this project completed. The goal is the Boost.Python library and users' codes can be compiled with both Python 2 and 3 without modification of code. So we can maintain just one version of code to provide extension module for either version of Python.

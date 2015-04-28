@@ -1,0 +1,9 @@
+Many embedded devices have onboard flash [MTD] as persistent storage.
+Example devices: Kurobox Pro NAS (256 MB) [KURO], the Neo Freerunner (256
+MB) [FR], the Sheeva Plug (512 MB) [SHEEVA], and the OLPC (1024 MB).
+
+For a sane Debian installation maybe 512 MB is small, still MTD flash is
+popular and capacity increases. Support for MTD partition/installation
+would make Debian even more interesting to a wide range of of devices.
+
+I propose that UBI [UBI] support is added to partman.

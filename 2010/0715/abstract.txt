@@ -1,0 +1,3 @@
+I would start by implementing the requested features of the idea-page. The repeating table header and the rectangular selections inside tables. If I would finish early ( and I really think I would ) I would like to add a feature I've seen once in Microsoft Office. I'll try to describe it in the "project details" section.
+
+If I would still finish early I would start ( and hopefuly finish ) splitting the librsvg.

@@ -1,0 +1,1 @@
+KStars currently lacks the ability to create well-annotated finder charts and observation logger forms, which are both features that are very useful for hobby sky-observers. The aim of my project is to implement these features in a way that ensures both simplicity and customizability for users.

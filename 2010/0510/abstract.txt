@@ -1,0 +1,1 @@
+I'm going to implement a new low-bpp xcb-based Evas engine and optimize Evas_Image Object. This will considerably reduce the overall memory usage of the OpenInkpot system, which suffer from out-of-memory problems.

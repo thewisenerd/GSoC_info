@@ -1,0 +1,1 @@
+Create a fedora events system to manage the events which is currently being done over the wiki right now

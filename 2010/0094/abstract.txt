@@ -1,0 +1,1 @@
+Many polyhedral optimization tools and libraries have been developed since the 90's. Our project aims to enable Graphite to take advantage of these tools by making it able to export/import internal polyhedral representation to the scopLib file format, a standard format used for communication between polyhedral tools and libraries.

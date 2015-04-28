@@ -1,0 +1,1 @@
+The goal of this application is the completion of several key features which the libgit2 library (a stand-alone git library which is being written from scratch) is currently lacking to interoperate with existing git repositories, namely, the revision walking mechanism and the functionality for index and reference manipulation.

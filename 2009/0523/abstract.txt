@@ -1,0 +1,1 @@
+Port Mnemosyne [1] learning tool based on spaced repetition technique [2] to Maemo platform. This program can help users to learn foreign languages, sound fragments, graphic information. The main advantage of using Mnemosyne on Maemo is its mobility: you can use it anywhere where you have free time and your tablet with you.

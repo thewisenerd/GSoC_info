@@ -1,0 +1,1 @@
+Develop a backend for Scilab, one of the leading scientific programming environments, to Cantor, the graphical frontend for scientific programming environments in KDE SC.

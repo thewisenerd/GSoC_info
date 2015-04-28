@@ -1,0 +1,1 @@
+My proposal is a web client for Thousand Parsec similar to tpclient-pywx but with a web feeling. The web client will be split in two parts, a backend written in python and a frontend written in html, css and javascript.

@@ -1,0 +1,1 @@
+Allow two users to collaborate on a file within a browser.

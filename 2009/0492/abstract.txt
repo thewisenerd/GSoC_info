@@ -1,0 +1,5 @@
+Biologists want to study interactions across multiple pathways. We propose to address some existing issues by implementing a Cytoscape plugin with following features:
+     -Use GpmlPlugin to query and load data from WikiPathways 
+     -Provide two methods for users to select a group of pathways to merge
+     -Present a novel layout to show pathways and the number of shared nodes among them
+     -Create interactions to help biologists make connections between the merged and origin pathways

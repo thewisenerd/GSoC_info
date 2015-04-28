@@ -1,0 +1,1 @@
+In order for Wayland to replace X.org it will need to be able to run remote clients like X.org can. The proposed project will pair a proxy compositing server with the client, a psudeo-client with the real compositing server, and enable communication over a network between the psuedo-client and proxy compositor. This will allow normal Wayland clients to be run remotely.

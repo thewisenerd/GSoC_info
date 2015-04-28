@@ -1,0 +1,1 @@
+DirectX Video Acceleration is a Windows feature allowing some computational intensive operations such as video decoding, deinterlacing, iDCT to be executed on the GPU. Surely VLC will profit from this API :)

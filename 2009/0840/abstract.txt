@@ -1,0 +1,1 @@
+In this project, I will make py.test compatible to Core Python3k test files and introduce some features to py.test, such that Python developers can run unit testing easier. Besides, regression test suite will be run over multiple platforms regularly on Snakebite, integrated with build-bot or other facilities.

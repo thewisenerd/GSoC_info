@@ -1,0 +1,4 @@
+Using the BSP dependent benchmark timer, and knowing that Tests have no interrupts and only do the activity under test.
+I will use the "BSP dependent benchmark timer" to test the Classic API Timing Tests, and POSIX Timing Tests (psxtests) maybe for the last one I will use additional calls like linux clock_gettime().
+The reports time measure will be microseconds under sparc/sis simulator.
+Basically I've to test each line of pxxtmtests_plan.cvs

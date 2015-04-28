@@ -1,0 +1,1 @@
+During this years Google Summer of Code I want to improve the performance of NetBSD’s regular expression library and add support to it for wide characters.

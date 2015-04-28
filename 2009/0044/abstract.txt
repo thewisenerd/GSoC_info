@@ -1,0 +1,2 @@
+This project aims to implement an interface to allow players to fish in oceans. The aim is not only to implement fishing, but to create certain base features that can then be reused for similar activities in the future.
+While the basic implementation will have one type of fish and one type of bait, this will be extended to have multiple species of fish, with different behaviours for each species, and different bait for different species, which would introduce the need to select bait carefully.

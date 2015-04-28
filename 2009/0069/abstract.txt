@@ -1,0 +1,3 @@
+Chromium currently lacks SOCKS proxy support. I intend to implement SOCKS support for Chromium and thus make it more usable by more users across the globe. 
+SOCKS, or "Secured Over Credential-based Kerberos Services", is a network protocol that allows routing of packets through a proxy server, using a server-client architecture.
+I will be implementing the client part of the SOCKS proxy, enabling it as a layer below http / ftp but above the socket layer, for windows, OSX and linux.

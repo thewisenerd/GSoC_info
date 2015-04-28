@@ -1,0 +1,3 @@
+I hate the current RTE, and indeed most of them -- which makes me perfect to find one for Dreamwidth! Because RTEs have bothered me for so long, I wouldn't stop until it was perfect.
+
+On the other hand, accessibility is part of my design philosophy, but I've never worked with it on this level before. (What I have done is write semantic code, provide thorough alt text descriptors or genuinely alternative text, and write CSS for screen-readers.) This is a challenge I would love to accept.

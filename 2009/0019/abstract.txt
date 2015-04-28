@@ -1,0 +1,1 @@
+My proposal is to properly spill and reload mimic stack at basic block boundaries, so Jato has System.out.println working, as it is release critical.

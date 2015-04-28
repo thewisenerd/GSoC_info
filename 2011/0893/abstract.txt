@@ -1,0 +1,2 @@
+This project proposes a new type of GitHub-style site aimed more towards programming classrooms. For example, teachers could create classes and projects, to which students could add repositories. This would allow teachers simple access to their students' work, provide them with automated testing and grading
+functionalities, and incentivize teaching their students about some of the joys (and of course, the pains) of working with SCMs.

@@ -1,0 +1,3 @@
+An initial contribution to Assignment Management: Consists of creation of a new "Java Assignment" entity (to support all actions related to Assignment Management), a drag-drop facility to make it easy for a student to import an assignment from an HTML page and also a facility for a student to chat with his TA from Eclipse.
+
+This initial contribution seeks to introduce to Eclipse IDE for Education, the concept of assignment management, keeping in mind the addition of more features in the future.

@@ -1,0 +1,5 @@
+Currently, only some aspects of OpenMRS support localization. These are:
+(1)The Concept Dictionary - localized concept names
+(2)Pre-defined pages that can draw from message resource bundles
+
+This project will support the localization of metadata which can be defined at runtime by end-user, e.g., EncounterType.name

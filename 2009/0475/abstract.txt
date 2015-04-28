@@ -1,0 +1,2 @@
+CXF supports SOAP over JMS, but it does not meet the current draft specification defined at (http://www.w3.org/TR/soapjms/) and instead uses some proprietary formats, headers, URL formats, etc. This project would update the SOAP/JMS support in CXF to be completely specification compliant.
+Upon sucessful completion of the SOAP/JMS project, CXF will become one of the very first Open Source implementations of the SOAP/JMS specificiation.

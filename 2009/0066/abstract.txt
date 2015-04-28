@@ -1,0 +1,7 @@
+The main goal of this project is to create a program which allows users to
+manage personal todo (or task) lists in easy and comfortable way with support of
+most the of modern features - synchronization, finger friendly interface, tags,
+integration with other applications.
+
+Program will be implemented as a plugin for Canola. Task lists will be available 
+locally on a tablet and can be synchronized with www.rememberthemilk.com service.

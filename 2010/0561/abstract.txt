@@ -1,0 +1,3 @@
+Provide a collection of tools for POI look-up (by location and/or text search) and presentation (clickable map overlay, human readable list).
+
+Most important part of the project is a high performance, live POI API that can be used by web applications, desktop applications and mobile devices.

@@ -1,0 +1,1 @@
+This proposal is about coding and testing of an idea from a WordPress developer. The idea is to implement MPTT (Modified Preorder Tree Traversal) technique, that consists in storing hierarchical data (trees) in relational databases, for get better performance in blogs with a lot pages and categories.

@@ -1,0 +1,3 @@
+Quanta+ used to be a very prominent application back in KDE 3 times. It was a powerful IDE for web development and I got to know many people using and loving it.
+
+Sadly, the core developers have no time for it anymore and the port to KDE 4 stagnated. While KDevelop is alive and kicking, I plan to finish the migration to KDevplatform and get Quanta+ for KDE4 into a usable state once again.

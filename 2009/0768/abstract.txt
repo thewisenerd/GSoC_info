@@ -1,0 +1,3 @@
+Permit gnome desktop users to handle their Google Documents without using the on-line Google applications.
+
+Basically it means that gnome users will be able to handle their google docuent directly in nautilus file manager after connecting via its 'connect to server' feature.

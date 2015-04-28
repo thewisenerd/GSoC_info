@@ -1,0 +1,9 @@
+gPXE currently features a limited command language. A more powerful scripting language would allow users to specify boot policies or other customizations as a script, without having to understand gPXE completely, or having to edit its code.
+
+The following features seem indicated:
+boolean operators
+bitwise operators
+conditional branches
+arithmetic operations
+temporary variables
+The exact structure needs to be identified and refined, so as to be intuitive and efficient at the same time.

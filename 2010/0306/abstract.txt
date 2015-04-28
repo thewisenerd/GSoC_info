@@ -1,0 +1,1 @@
+Implement a feature similar to Twitter's lists on StatusNet. Also provide for subscriptions and updates via OStatus federation and expose a Twitter-compatible lists API.

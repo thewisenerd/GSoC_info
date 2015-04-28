@@ -1,0 +1,3 @@
+The centerpiece of Sugar's collaboration technology is the Write activity's live shared editing.  However, Write is not tolerant of network disruptions, common on our mesh networks, because all traffic must pass through the initiating node.
+
+To provide a more robust system for shared editing, I will add to the Groupthink library a distributed editing system, using Operational Transformation to provide robust coherence.  I will then write a "gtk.SharedTextArea" widget and a demo activity.

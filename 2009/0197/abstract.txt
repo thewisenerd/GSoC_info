@@ -1,0 +1,5 @@
+Sometimes in our jobs, we need to perform some quick tasks and get the results fast with only more relevant information.
+Thinking about it, the “small version” of Umit idea born to perform tasks quickly.
+On the Quick Scan, with an easy and intuitive keystroke combination and a simple and fast interface, the users can do their scans with the same time of the command line.
+Did you think about a network admin tool like the Spotlight of Mac OS X?
+If not, you can start right now.

@@ -1,0 +1,3 @@
+The goal of this project is to lay the foundations for a ReactOS kernel-mode test suite.
+
+Inspired by Winetests, these tests will prove useful in verifying kernel completeness and compatibility with the NT kernel, and help prevent regressions. This way, the ReactOS kernel can benefit from test-driven development, just like the user-mode portion of the operating system benefits from Wine's test suite.

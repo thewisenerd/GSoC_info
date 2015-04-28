@@ -1,0 +1,5 @@
+Quoting [1]
+
+Webkit is a popular HTML rendering engine used in a number of browsers. Adium uses it for their message windows as well. Your task for this project is to rip out GtkImHtml and replace it with Webkit. This includes the input areas as well. 
+
+[1] http://developer.pidgin.im/wiki/FutureSOCProjects

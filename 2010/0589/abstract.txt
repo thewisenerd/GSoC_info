@@ -1,0 +1,1 @@
+The proposal is a walk through from my introduction to what are the features I would want to implement in BBB, proposed ideas and how would I go about achieving them, with a very specific time-frame for each.

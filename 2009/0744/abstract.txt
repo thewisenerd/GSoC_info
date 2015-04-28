@@ -1,0 +1,1 @@
+The project aims to rewrite the privacy subsystem (API as well as the UI), so as to be able to implement privacy features of various IM protocols, provide Pidgin the means to present an interface that is consistent across various protocols and also eliminate the confusion in the end user arising from supporting privacy features of so many different protocols.

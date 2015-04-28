@@ -1,0 +1,1 @@
+I would like to implement a version of Scilab based on the Eigen C++ Template Library. Upon implementation, the pros and cons of this implementation versus the current version of Scilab (based on BLAS/LAPACK could be weighed against one another and the groundwork for a possible switch to Eigen could be explored.

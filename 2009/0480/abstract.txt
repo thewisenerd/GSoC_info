@@ -1,0 +1,6 @@
+I've been desiring contribution to open source projects for a long time. Only because I have to concentrate on my academic business for the first three years in my university and can not spare enough time on open source projects, I did not pay much attention to them before. I've adopted MySQL as the DBMS in some of my projects and am strongly willing to make MySQL better in future. So I'll appreciate granting me the chance to participate in GSoC on MySQL projects.
+I am very interested in the following ideas:
+1. A Rewrite of the Pool of Threads Scheduler (which interests me the most)
+2. Implement memcache support for mod_ndb 
+3. MySQL Sandbox.
+4. MySQL Server parallel filesort

@@ -1,0 +1,2 @@
+The goal of this project is to reorganize as much of the Nmap code base as is desirable into a C/C++ library.  This could potentially increase usability and extendability.
+Once this is completed, existing Nmap and Zenmap code will also have to be ported to use the new library.

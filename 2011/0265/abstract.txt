@@ -1,0 +1,1 @@
+The goal of this project is to continue my work on the Python issue tracker and further improve it.

@@ -1,0 +1,1 @@
+This project is about the further development of the sip module for dionaea to support more scanning tools and also handle client registrations and calls. It is also important to capture the rtp data and to convert the captured data into an audio file like wave or ogg.

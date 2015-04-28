@@ -1,0 +1,1 @@
+This proposal aims at providing the base tools upon which a full Unicode environment can later be built, by proposing tools in a locale-agnostic context to categorize unicode code points, iteration of code points within an encoded form, as well as an unicode string type to accurately represent text.

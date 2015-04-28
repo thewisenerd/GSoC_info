@@ -1,0 +1,1 @@
+The OpenMRS community would like to automate (or at least semi-automate) the OpenMRS Atlas information, but do not want to force implementations to join the atlas or even allow it to happen accidentally; rather, it would like to create a way for implementations to opt-in to the joining the OpenMRS Atlas in a manner that is fun and useful to them.

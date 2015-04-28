@@ -1,0 +1,1 @@
+Develop a full featured menu editor for LXDE sticking close to LXDE's  philosophy and basing the GUI on Alacarte.

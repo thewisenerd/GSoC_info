@@ -1,0 +1,4 @@
+Complete the work on git-remote-svn, (re)implement git-svn on top of it.
+Major motivation is:
+- git-svn git repository is not cloned easily, with git-remote-svn it could be much more straightforward.
+- git-svn fetch is slow on huge repositories, especially when there are many branches.

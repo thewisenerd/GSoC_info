@@ -1,0 +1,1 @@
+Creating a stabile version of the Semantic Layers extension for Semantic MediaWiki: finishing current features, adding new ones, improve usability and thorough fully documenting everything.

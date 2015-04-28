@@ -1,0 +1,1 @@
+Kernel keyring is a key management facility that provide a mechanism by which the kernel call back to userspace to get a key instantiated. So that the kernel can establish CIFS sessions on the fly without needing to prompt for passwords with servers that use NTLM authentification method.

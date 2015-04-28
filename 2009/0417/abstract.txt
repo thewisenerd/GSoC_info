@@ -1,0 +1,1 @@
+I will introduce a unified development framework and consistent user interface for statistical models in Scipy. This goal serves two purposes: to make Scipy more user-friendly and to provide direction for future development of the statistical capabilities of Scipy.

@@ -1,0 +1,1 @@
+Implement a monitored print server in CUPS to allow graduate students and faculty to print to a network of  laser printers with a ticketed system hooked up to a monitor server with a front end GUI available on all platforms. This is in order to set printing limits and to meet budget constraints on toner and paper.

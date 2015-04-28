@@ -1,0 +1,1 @@
+Consistent, Efficient Source Steps. Currently to make different kind of builds, for example complete or incremental build we set different modes. But these modes doesn't match the users requirement. For that modes should have the facility to specify what exactly user want to do.

@@ -1,0 +1,4 @@
+Dimensionality reduction is the process of finding a suitable low-dimensional dataset from
+high-dimensional one by reducing its dimensionality. One of the most important practical
+issues of applied machine learning, it is widely used for preprocessing real data. Its importance
+is deriving from challenges presented by high-dimensional spaces, performance and other issues. Being large-scale, SHOGUN is missing preprocessors for dim. reduction and this project aims for implementation some of them.

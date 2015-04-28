@@ -1,0 +1,7 @@
+The objective of this work is to augment the TraceMonkey just-in-time
+compiler with a puzzle based register allocator specially tuned for
+just-in-time compilation.
+
+We expect that our new allocator will produce better native code than the
+current register allocator used by TraceMonkey, without compromising its
+compilation speed.

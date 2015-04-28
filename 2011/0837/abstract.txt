@@ -1,0 +1,1 @@
+investigate how unlocking of flash regions on newer ICHs work and implement it in flashrom.

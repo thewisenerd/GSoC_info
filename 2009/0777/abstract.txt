@@ -1,0 +1,1 @@
+Develop a plugin repository system that works much like Mozilla's Add-on system. As well, develop a plugin manager for the client side, that is modeled off Synaptic, that will allow addition and deletion of plugins, and a Update Manager to get any updates for the plugins.

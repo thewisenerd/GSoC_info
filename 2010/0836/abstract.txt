@@ -1,0 +1,3 @@
+Inkscape uses its own rendering library, called libnr, when rendering graphics on the screen and exporting bitmaps. This library is slow, single-threaded and does not have any hardware acceleration.
+
+This proposal is about converting Inkscape's rendering subsystem to Cairo. Using the hardware-accelerated cairo-gl backend and OpenCL-based filters will be investigated. The goal is to substantially improve rendering performance, so that very complex drawings can be edited easily.

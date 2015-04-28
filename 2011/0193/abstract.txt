@@ -1,0 +1,1 @@
+I will work with Tobias Burnus and other gfortran developers to advance support for Fortran 2008 coarrays to the point where real parallelization is possible. Specifically, I will use the Message Passing Interface (MPI) standard to build library-based support for coarray programs with multiple images.

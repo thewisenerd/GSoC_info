@@ -1,0 +1,1 @@
+A framework for customizable news feeds for various entity kinds (such as Clubs, Organizations, Programs, and Users) that can be formatted on various site pages, or used for email notifications and Atom feed output. (See issues 13 and 16 on the SoC tracker)

@@ -1,0 +1,3 @@
+An Extension Module that would allow Google SketchUp to receive TUIO and hence allow manipulations via Multitouch gestures. Adding multitouch ability to an easy to use
+CAD/modeling software - Google SketchUp would not only make the design process intuitive but also add a lot to the usability factor. An additional Bimanual Gesture support 
+that’d allow an IR Pen and hand simultaneously has also been proposed as an add-on.

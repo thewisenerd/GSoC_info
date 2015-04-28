@@ -1,0 +1,4 @@
+The goal of this project is to make some parts of plasma network transparent with as end goal the ability to:
+* have applets be able to use services and data engines on remote computers
+* move applets and activities over the network
+* share applets and activities between multiple computers

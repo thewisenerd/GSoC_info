@@ -1,0 +1,1 @@
+Currently most webradios rely on proprietary close source solutions for the scheduling of their radio programs. This is especially true for free webradios that want their listeners to participate to the radio schedule with their own broadcastings from home in a distributed fashion. These webradios could benefit from a distributed and automatic programme scheduler implementation.

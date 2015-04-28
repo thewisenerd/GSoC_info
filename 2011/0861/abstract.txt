@@ -1,0 +1,1 @@
+Implement lambda functions as defined in the new C++ standard.

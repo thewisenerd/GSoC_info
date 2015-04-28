@@ -1,0 +1,1 @@
+Ever since developers first discovered Django, the admin interface has been one of its most lauded features. However, over the last three years, its look and feel has not changed much. Some usability improvements to the admin interface would greatly improve the experience of our users.

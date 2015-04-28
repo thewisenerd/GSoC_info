@@ -1,0 +1,2 @@
+The goal of this project is to integrate the Media Library code in the GSoC repositories with the VLC master branch and to implement a Qt interface for the Media library.
+Secondarily, a basic host implementation of the LV2 will be completed.

@@ -1,0 +1,5 @@
+The task of computing nearest neigbours in n-D point cloud data is at the core of many algorithms in PCL,
+optimising this would result in a speed-up across many parts of PCL. 
+Parallellisation is the key to this speed-up, be it on CPU or GPU. The parallellisation a GPU offers is perfect for optimising this core bottleneck.
+The kd-tree data structure is not a straight fit for GPU parallellisation,
+so there is the need for an adapted kd-tree data structure that is suitable for a GPU implementation

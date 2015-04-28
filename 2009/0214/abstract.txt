@@ -1,0 +1,2 @@
+The Enlightenment Project currently has no support to the UPnP protocol. The actual market is increasingly deploying UPnP-enabled devices, such as set top boxes, media players, routers, firewalls and a whole more. However, these devices are demanding more control tools, named Control Points.
+This project's goal is to implement a Control Point library for the Enlightenment Project.

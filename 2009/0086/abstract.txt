@@ -1,0 +1,5 @@
+Implement an application test suite for Wine. Wine currently lacks any infrastructure to automatically test any real world applications (currently is a relatively large code based regression test suite, but real world applications still often regress).
+
+This will be done by using AutoHotKey (http://www.autohotkey.com) to test windows programs. Scripts will be made to install a program, verify installed files with SHA1SUM, then test running the application, manipulating a file, etc.
+
+The test suite can then be used by anyone as part of a nightly build script, by Wine as a precursor to releases, or as a pre-screener to test patches before inclusion.

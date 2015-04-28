@@ -1,0 +1,6 @@
+I am a graduate student from Singapore. My main reasons for participating are:
+1) My personal interest in IT security (hence my work in this field)
+2) I have the relevant knowledge and skills
+3) What better way to spend my free time!
+My proposed implementations for TraceXploit are explained. The proposals are realistic enough to be achieved in 3months. 
+It would be an exciting experience and challenge to look forward to if I could be selected as a GSoC-Honeynet 2010 participant.

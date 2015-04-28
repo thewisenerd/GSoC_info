@@ -1,0 +1,3 @@
+I will try to implement the WYSIWYG Form Designer for Html Form Entry Module, as described in your Unassigned Projects page.
+
+The first priority would be to use existing software (tinymce or fckeditor) for the WYSIWYG Designer, by developing a plugin (ideally) or by modifying the code to suit the project needs.

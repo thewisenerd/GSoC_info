@@ -1,0 +1,3 @@
+Introduce support for 'streaming' features into Shogun through a framework. Then integrate vowpal wabbit, which is a very fast large scale online learning algorithm based on SGD. 
+
+This framework will enable addition of further online learning algorithms into Shogun. The efficient implementation of this in VW will be borrowed and integrated into Shogun.

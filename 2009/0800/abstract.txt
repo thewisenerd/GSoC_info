@@ -1,0 +1,1 @@
+This project will do further developments of Capture-HPC and CaptureBAT. These developments include improving data logging and operational management, improving stateful operations, adding network API hooking.  Emigrating result data storage from flat file to a suitable database is also covered on this project.

@@ -1,0 +1,1 @@
+Appshell is an application framework that lets developers easily create application bundles of their applications.

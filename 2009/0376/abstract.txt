@@ -1,0 +1,5 @@
+The goals of my project are twofold:
+
+1. I want to complete my work on Procedure Pointers, which includes (a) some bug fixing as well as additional features, like (b) procedure pointer return values and (c) procedure pointer components. 
+
+2. I would like to continue working on outstanding Fortran 2003 OOP features. gfortran already has a basic level of support for OOP, but many things like the CLASS statement and polymorphism are still missing.

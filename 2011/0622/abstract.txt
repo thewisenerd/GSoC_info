@@ -1,0 +1,3 @@
+Apache Tuscany provides a comprehensive infrastructure to simplify the task of developing and managing Service Oriented Architecture (SOA) solutions based on Service Component Architecture (SCA) standard. Tuscany Java SCA is a lightweight runtime that is designed to run standalone or provisioned to different host environments.
+
+Task is to implement a tool which generates composite diagrams from the composite files to illustrate the SCA artifacts and their wirings.

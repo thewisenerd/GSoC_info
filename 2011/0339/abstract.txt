@@ -1,0 +1,2 @@
+Scala's new parallel collections framework is an extension to the standard collections framework. However, parallel collections are currently not thread-safe. This project proposes to  to extend the framework to allow concurrent read and/or write access to a parallel collection. 
+A goal is to extend concurrent hash tries and concurrent skip lists with parallel bulk operations. Another goal is add other currently missing parallel data structures (such as ordered maps and sets).

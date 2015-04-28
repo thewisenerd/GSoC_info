@@ -1,0 +1,3 @@
+Beginning with the Python documentation Sphinx managed to become the Python documentation generator for python projects, however as of now Sphinx requires Python 2.x to run. Also Sphinx has no support to allow the community of a project to participate in the documentation easily.
+
+The aim of this project is to change that by porting Sphinx to Python 3.x and by integrating sphinx.web, last years GSoC project around Sphinx, into Sphinx itself.

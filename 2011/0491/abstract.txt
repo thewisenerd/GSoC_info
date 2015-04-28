@@ -1,0 +1,3 @@
+A HTML5 backend for Caciocavallo, allows existing Java/Swing application to be used without any Java support on the client platform and to be deployed as an ordinary web application.
+This would open up completely closed devices like Apples IPhone/IPad for Java applications without porting effort.
+Idea mentioned on Classpath's idea list: http://developer.classpath.org/mediation/GoogleSoC2011

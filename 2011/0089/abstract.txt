@@ -1,0 +1,1 @@
+I would like to implement hierarchical permissions for Drupal 8 core. I want to provide modules with well structured, and accurately regulable rights that are easy to define and rework the rights management interface as well.

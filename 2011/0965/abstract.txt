@@ -1,0 +1,1 @@
+Plan 9 related software which runs on unix systems (9vx, Inferno, drawterm and p9p) use almost identical code to interact with X11. The first stage of this project will consist on unifying this code, removing any direct dependency on Xlib. On a second stage, a wsys device will be written to allow using the window managing facilities of the host system.

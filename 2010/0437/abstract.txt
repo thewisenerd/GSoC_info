@@ -1,0 +1,1 @@
+The goal of this project is to bring the virtual memory management in Hurd/Mach closer to that of modern mainstream kernels (Linux, FreeBSD and xnu), by comparing the implementation to other systems, implementing any worthwhile improvements, and general optimization/tuning.

@@ -1,0 +1,1 @@
+In this project I will continue the work started by Chris Johns, Joel Sherrill and continued by Reng Zeng. There will be three main goals to achieve: getting the previous code and creating a suitable patch for CVS, consolidate how a traceable application is created and provide a flexible way to filter the logged data.

@@ -1,0 +1,7 @@
+This proposal aims at providing debug binary packages for the packages in
+the Debian archive in an automatic manner, moving them away from the official
+Debian archive to an special one.
+
+This has the benefits of providing thousands of debug packages without any
+work needed from the developers, for all the architectures, without bloating
+the archive.

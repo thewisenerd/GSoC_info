@@ -1,0 +1,1 @@
+This project will focus on implementing full COLLADA animation support, which includes importing animation elements from a COLLADA document in to blender and exporting all animation elements to a COLLADA document.

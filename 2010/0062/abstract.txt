@@ -1,0 +1,1 @@
+FPROPS is a library for calculating thermophysical properties using helmholtz functions for pure substances. Currently FPROPS has very limited library for few components and it fails during saturation curve calculations.

@@ -1,0 +1,1 @@
+During last year's GSoC, a database frontend was developed using CakePHP. Limesurvey has since decided to switch to the CodeIgniter framework. As such, last years work needs to be ported to CodeIgniter. The final project has to comply with the API developed last year, changes have to be discussed.

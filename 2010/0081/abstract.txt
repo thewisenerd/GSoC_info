@@ -1,0 +1,2 @@
+Volunteer Management and Coordination is the most fundamental component during Disaster Management.
+As such, the Volunteer Management System(VMS) would provide functionality for achieving this to sahana-eden and would be comprehensive.

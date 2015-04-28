@@ -1,0 +1,2 @@
+The Media content element of TYPO3 is having a lot of features. The 'Media Content Element' is one of the core features of TYPO3.
+The main aim of this project is to make the 'media content element' more efficient by adding some new features to it like providing a feature called playlist, support to URLs for users to add just the exact URL of the video and not the URL in the 'embed' code (Custom URL),a preview option of video, displaying Video Info using API & wizard for the most used platforms.

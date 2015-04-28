@@ -1,0 +1,1 @@
+The aim of this project is to create an implementation that supports the Platform Layer API and Runtime API of OpenCL that can target the Cell Processor and CPUs.

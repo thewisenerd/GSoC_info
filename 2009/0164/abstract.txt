@@ -1,0 +1,4 @@
+Extension to SharpDevelop's debugger. Displays selected data structure used in the program as directed graph, which is updated live as the user steps through the code.
+Developers could understand code more quickly by immediately seeing how are the objects in the program related.
+Computer science teachers could use it to explain algorithms, and the students could visually "replay" the algorithms later just by having the code.
+There is no such tool available yet.

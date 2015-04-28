@@ -1,0 +1,8 @@
+As an operating system oriented towards users, it feels strange that
+Haiku has no support for internationalization and is only available in
+english. The goal of this project is to add a Locale Kit to the
+system, allowing all the bundled applications, tools and preflets to
+be translated to the correct language at runtime. The translation
+should be made simple with the use of a graphical tool, and the user
+should be able to select his language easily when installing the
+system, then switch to another one at runtime.

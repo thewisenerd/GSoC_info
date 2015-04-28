@@ -1,0 +1,1 @@
+Last summer, a big part of porting the alpha C api to a stable API/ABI of Oyranos Colour Management System was completed. Still, there are many things that need fixing, updating and more APIs imported for a fully functional port. This is a proposal for taking and completing the previous GSoC project's results, making it ready for wider use.

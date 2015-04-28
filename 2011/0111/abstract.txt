@@ -1,0 +1,1 @@
+Develop open source Code Libraries that can be used by developers to better work with government APIs. In particular developing Ruby Gems that can allow easy access to government data and information

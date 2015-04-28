@@ -1,0 +1,3 @@
+A use case:
+   
+    The user is involved in a webconference and using Evince locally. He would like to share the file with the conference.  Evince would send the file via File transfer to the conference attendees, opening Evince on their desktops. These Evince instances would be controlled by the local Evince instance. Actions performed on the local Evince instance would be sent via DBUS and then via Telepathy Tubes to the other evince instances.

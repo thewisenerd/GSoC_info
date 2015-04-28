@@ -1,0 +1,1 @@
+This project will focus on integrating node.js and DrupalChat modules functionality to Chatroom module. This project is planned for Drupal 7.

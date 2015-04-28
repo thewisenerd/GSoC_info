@@ -1,0 +1,6 @@
+Person Registry is a centralised location to collect person information. The objective of Person Registry is to add person information in one place and to share data with other modules such as Missing Person Registry, Disaster Victim Registry and Volunteer Management and etc. 
+
+Following are the advantages of Person Registry(PR).
+   * Search person for emergency purpose.
+   * Track person for various needs.
+   * central location to collect person information.

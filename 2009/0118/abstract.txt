@@ -1,0 +1,1 @@
+I propose creating a Microsoft Management Console snap-in for Windows. This will better integrate OpenAFS with existing Windows management technology and fits in an overall strategy of improved Windows integration.

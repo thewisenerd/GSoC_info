@@ -1,0 +1,1 @@
+My project will bring to AbiWord  ePub export/import filters. Export  and import filters for EPUB formats version 2.0.1 will be developed. After that, if there is enough time, export/import filters for EPUB 3.0 format will be created, so it will be possible to create electronic publications from AbiWord without using any external software.

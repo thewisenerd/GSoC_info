@@ -1,0 +1,1 @@
+This project aims at cleaning up the swscale library, which is now an integral part of FFmpeg, so that it will become easier to understand, optimize, and maintain the code.

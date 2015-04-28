@@ -1,0 +1,1 @@
+Develop an automatic update mechanism for Scilab. The idea is to use efficient binary patching algorithms in combination with regular diff for text files to make the amount of transferred data as small as possible.

@@ -1,0 +1,1 @@
+Improve win32 and bsd specific parts of olsrd, especially kernel routing interface.

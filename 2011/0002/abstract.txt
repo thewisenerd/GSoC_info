@@ -1,0 +1,1 @@
+This project creates a wizard for Sahana Eden, which helps in changing the modules’ status, content on the landing page, settings of database, mail server & languages etc. without getting into the real code or any Python file. This is done by creating a co-application in web2py for the Setup which would change a couple of files in Eden.

@@ -1,0 +1,6 @@
+* Continue unfinished work from last summer.
+* Improve performance in some specific areas.
+* Cross port features from sculpt and paint.
+* Work towards refactoring and unifying sculpt and paint.
+* Miscellaneous new features.
+* Other cool stuff.

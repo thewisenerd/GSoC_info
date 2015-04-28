@@ -1,0 +1,4 @@
+The three main tasks under Scriptgen Coding Tool Enhancement are- 
+* Amazon Mechnaical Turk Integration - I propose to achieve this using the Ruby plugin for AWS and the 'Amazon Mech Turk API
+* Automating Script Generation - This can be achieved using JavaScript Frameworks like script.aculo.us and then graceful degradation
+* Data Reporting - XML generation would be done natively, RSRuby plugin would be used for R language.

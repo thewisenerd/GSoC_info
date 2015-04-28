@@ -1,0 +1,1 @@
+This project will experiment with the use of JPF for checking properties of systems involving humans, user interfaces and the machine being controlled. It will focus on expressiveness of relevant properties, as well as analysis capabilities.

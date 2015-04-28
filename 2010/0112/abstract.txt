@@ -1,0 +1,1 @@
+Creating an awesome extension management platform for MediaWiki, facilitating the installation, updating, removal and configuration of extensions.

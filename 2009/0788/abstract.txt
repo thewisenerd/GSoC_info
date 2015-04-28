@@ -1,0 +1,1 @@
+The Node tool can only be used to edit one path at a time. This project intends to allow it to edit several paths at once. If there is some time left, a GUI for transforming sets of nodes will be investigated.

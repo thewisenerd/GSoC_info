@@ -1,0 +1,1 @@
+I am proposing to implement better and faster downsampling and resampling in GEGL

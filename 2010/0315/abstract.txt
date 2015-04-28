@@ -1,0 +1,5 @@
+Goal to this project is to improve current Configuration GUI. The improvement tasks will be broken into three parts.
+
+1. Define Config Groups and Access Control
+2. Improve Config UI Elements
+3. Port Existing JavaScript Code into JQuery Code

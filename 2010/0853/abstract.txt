@@ -1,0 +1,1 @@
+The distributed collections project aims at implementing the capability in Amarok to browse/search/play music collections of Amarok instances on a LAN/Internet.

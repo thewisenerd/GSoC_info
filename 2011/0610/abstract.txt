@@ -1,0 +1,1 @@
+Update of Dirac support to the new specification. The development of the Dirac codec support inside the libav was done during the SoC in 2007. Although the decoder has a good status the encoder needs much work on it. In addition RTSP/RTP support for Dirac will be implemented.

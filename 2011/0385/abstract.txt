@@ -1,0 +1,3 @@
+Project Description: Provide a way for languages besides C++ to access the Haiku API.
+
+Project Goals: Expose the necessary elements from the Application and Interface Kits to allow Perl (and maybe Python) scripts to use a GUI.

@@ -1,0 +1,1 @@
+OpenSatNav is a new open source navigation application for the Android mobile platform. My proposal outlines several medium size improvements to OpenSatNav that would bring it up to the class of commercial satnavs.

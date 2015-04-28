@@ -1,0 +1,2 @@
+Proposal for improvements in Diff Viewer, in order to enhance user experience e diminish mistakes during review process.
+For admins a Policy System implementation, with a customizable interface with a Domain Specific Language backend. Advanced users can then write policies based on the DSL and a hook-based system supporting arbitrary rules on any actions.

@@ -1,0 +1,1 @@
+I will introduce several features which will make Drupal more user friendly and more interactive. My proposals will be able to fill up the raging gap between the capabilities of HTML5 and Drupal.The basic change will be made in the working of the editor, preferably the WYSIWYG editor support of Drupal, as well as the Media module of Drupal.

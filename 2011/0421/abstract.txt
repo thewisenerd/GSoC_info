@@ -1,0 +1,1 @@
+This idea is about providing an example of application of the modeling project tooling through a whole chain, from Ecore domain model, to code generator and going through model to model transformations and textual DSL. Basically taking the "Modeling Project as a DSL Toolkit" book examples, updating those and integrating them in the Modeling discovery UI available in the package.

@@ -1,0 +1,1 @@
+Implement Google's SPDY protocol specification for the Manos server.

@@ -1,0 +1,1 @@
+The idea of this project is to upgrade CGLAB- the CGAL toolbox for Scilab to the current version of Scilab and CGAL. This useful module is no loger available for Scilab users, because some major changes have been made in both of this projects. My task will be to apply this modifications and make CGLAB useful again.

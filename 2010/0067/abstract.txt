@@ -1,0 +1,1 @@
+The target of this project is bringing Ubuntu One awesomeness to the KDE workspace. Combining the very best online services suite with the very best free desktop technologies.

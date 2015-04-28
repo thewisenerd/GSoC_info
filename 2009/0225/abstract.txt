@@ -1,0 +1,1 @@
+Dragon's History is a Czech adventure game implemented in Pascal. The aim of this project is to reimplement its engine from scratch inside the ScummVM framework in order to make it playable over a wide variety of systems.

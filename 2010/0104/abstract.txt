@@ -1,0 +1,3 @@
+At present, remotely debugging a NetBSD kernel requires a RS-232 serial connection. New computers are sold without serial ports, but always have integrated network interface cards. Being able to debug NetBSD kernels remotely using an Ethernet NIC is highly desirable.
+
+The goal of my project is to add support for remote kernel debugging over Ethernet interfaces for i386 and amd64 (without deliberately obstructing implementation for other ports).

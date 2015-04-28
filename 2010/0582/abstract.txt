@@ -1,0 +1,1 @@
+This project aims to complete the proposal put forward by the Nimbus project for the use of HDFS as back end storage for VMs.  Two major aspects of this project will be the development of an adapter to the workspace-control allowing HDFS locations to be used when staging VMs, as well as the development of a security scheme to control user access to the file system.

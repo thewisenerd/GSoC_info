@@ -1,0 +1,1 @@
+Currently, Oyranos has a big part of it's API in an alpha state. That includes the object oriented part, modules and devices API. The objective of this project is to work on the necessary parts of oyranos, so that by the end of summer, at least the most wanted functionalities will have a stable API/ABI and be ready for wider use.

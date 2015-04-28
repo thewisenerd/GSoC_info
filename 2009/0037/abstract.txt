@@ -1,0 +1,1 @@
+The project will implement a web viewer for mercurial repositories, an admistration panel for users and rights and social capabilities(wikis, issue tracking etc)

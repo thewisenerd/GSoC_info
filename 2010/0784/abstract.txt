@@ -1,0 +1,1 @@
+The objective of this project is to enhance the ScummVM unit testing infrastructure by implementing a "Test Engine".Unlike unit tests, a test engine would enable testing on all the ScummVM ports.Using a test-engine would help in testing various features like (game detection, filesystem navigation, graphics, audio.. etc) in an integrated and non-isolated manner.

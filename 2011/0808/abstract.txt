@@ -1,0 +1,1 @@
+The industry standard for raster graphics applications is still Photoshop. This file format is closed. This project will entail bringing together the freely available information on the PSD file format and build an import/export filter upon the existing framework in Krita.

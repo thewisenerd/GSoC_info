@@ -1,0 +1,2 @@
+This project is an Android mobile application, which would utilize databases to access information about food products found in a grocery store. The user interface will initially consist of a barcode scanner. The user will photograph a barcode of the product in question, and a message will be received as to whether or not that product 
+is found within known allergen-free database(s).

@@ -1,0 +1,2 @@
+Drawing is a central part of a game and media library like pygame. Nonetheless the the drawing capabilities of pygame are severely limited. Just a few basic shapes to draw, no flexibility and mostly ugly output.
+The anti-aliasing methods in the new gfxdraw module can only be used with shape outlines (width=1), not with filled shapes. All in all, the drawing functionality of pygame is too restricted to be really useful. (Not to mention the missing documentation of the gfxdraw module.)

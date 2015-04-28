@@ -1,0 +1,1 @@
+Develop and implement a UI for the upcoming Mailman 3.0. This includes design of DB for UI used in Django, building Django models, templates and views and different kinds of testing.

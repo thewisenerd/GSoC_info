@@ -1,0 +1,3 @@
+RTEMS is used in several critical missions and we need to ensure that it is tested to the maximum possible extent. RTEMS uses code coverage as the method for testing and 100% coverage would imply 100% tested, though it is worth noticing that it does not ensure the correctness of the software.
+
+Since RTEMS is a moving target, there are good amounts of code that are uncovered by the present test-suite. The purpose of this project will be to cover 100% of the cpukit

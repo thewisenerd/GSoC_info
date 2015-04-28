@@ -1,0 +1,1 @@
+This project aims to provide bindings for all integer functions in the GMP library as well as associated documentation and tests.

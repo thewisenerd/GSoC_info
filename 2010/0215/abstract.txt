@@ -1,0 +1,1 @@
+Plasmoids are really powerful plugins for the Plasma environment, so we should provide a system to notify the user whether the downloaded plasmoid can be considered secure or potentially harmful.

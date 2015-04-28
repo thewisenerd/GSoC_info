@@ -1,0 +1,1 @@
+Currently no library is available for client side visualization of reaction networks. As a result a JavaScript library for interactive reaction graphs is to be designed and developed. Besides presentation the framework should provide functionality for scrolling, dragging, zooming, modification and export to JPEG, PNG, SVG and PDF.

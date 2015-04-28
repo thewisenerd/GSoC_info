@@ -1,0 +1,1 @@
+Since .Net framework 3.0 release, WPF is being used extensively for designing user interfaces. SharpDevelop lacks a good designer for that in terms of editing features, adorners for layout panels and controls, using resources, shortcuts provided, Document outline preview etc. The project intends to improve the current WPF Designer by improving upon the above.

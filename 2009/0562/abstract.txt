@@ -1,0 +1,6 @@
+Rockbox already supports a wide range of codecs, it still, however, does not have support for RM. The main aim of the project, thus, is to add
+support for RM format, and to have enough fixed-point decoders to handle the commonly available RM files.
+
+Primary goal : Have at least one target play cook encoded audio in RM container.
+
+secondary goal : addition of another codec(s).

@@ -1,0 +1,4 @@
+Project aims for creation of website, which can be used by any user for creating and downloading
+customized boot images, system tools, utilities and network installation images based on needs.
+It will also support HTTP based booting with PXELinux and allow users to customize the system using
+the flexibility of interface provided be Syslinux and boot from it without installation. We plan to enable normal users to experiment with different tools, utilities and system images without any hassles.

@@ -1,0 +1,1 @@
+The goal of this project is implementing SMB2 protocol. It has big expansion and such a client is essential for Linux.

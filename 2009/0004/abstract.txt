@@ -1,0 +1,1 @@
+Bio++ is a C++ library for phylogenetics algorithms. Unfortunately, few bioinformatics scientists work in C++. The plan is therefore to translate the library into multiple other languages, including Java and R. (Perl, Python, and Ruby have been done.) Doing so should allow us to reach the majority of active bioinformaticians.

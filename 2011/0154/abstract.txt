@@ -1,0 +1,3 @@
+UTO will allow connections to tolerate long periods of "silence" without being torn down. 
+
+TCP UTO is fully described by RFC 5482.

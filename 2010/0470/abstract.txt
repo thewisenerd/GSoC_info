@@ -1,0 +1,8 @@
+Recent mobile devices show that it is sometimes not sensible to replace the
+entire factory operating system with Rockbox on them, for example if
+they have features Rockbox does not offer currently.
+As many devices come with the ability to run third party application, we want
+to be able to extent them with Rockbox' most stunning features by running
+as an application.
+The goal of this project is to lay the groundwork for running Rockbox as an
+application and to port it to a device.

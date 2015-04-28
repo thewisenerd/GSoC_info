@@ -1,0 +1,5 @@
+Currently inkscape has an incomplete CSS2 implementation, missing features like font fallback support. W3C SVG suite is -ve for multiple CSS tests. This project will:
+1. Evaluate Inkscape's current CSS parsing library (libcroco) against other possible libraries such as htmlcxx, csstidy, and mozilla/webkit.
+2. Either improve libcroco or replace it.
+3. Fix CSS support problems, including font-fallback support.
+4. Locate, create, and/or supplement test suites for CSS support in SVG.

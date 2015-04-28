@@ -1,0 +1,1 @@
+There are two standard ways to load kernel off the GPT: use EFI, or use legacy BIOS boostrtapping with GPT support. This project is about implementing GPT aware bootloader for the NetBSD operating system by extending its MBR/disklabel based multistaged kernel loader.

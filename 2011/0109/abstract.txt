@@ -1,0 +1,2 @@
+Elgg is a super flexible social networking engine. The current user interface has limited AJAX support.   The main idea of this project is to update the user interface for adding  AJAX support and implementing it in the base installation completely.
+I am going to spend my summer to AJAXify the pagination section, writing AJAX views for plugins, preparing documentation and manuals for writing plugins to use the new interface.

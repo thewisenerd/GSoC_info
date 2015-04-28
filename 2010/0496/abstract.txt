@@ -1,0 +1,1 @@
+I will write or complete BSD-licensed replacements for the tools man, diff, sdiff, and sort.  The rewrite of man will be necessarily be accompanied by integrating the FreeBSD mdocml port into the system base and configuring it as a replacement for the entire groff suite of tools.

@@ -1,0 +1,5 @@
+My proposal is about making possible to write GEGL operations in OpenCL.
+
+There are two tasks: 
+- Automatic memory management and migration of tiles from GPU to the CPU and the other way around.
+- Make some GEGL operations in OpenCL.

@@ -1,0 +1,1 @@
+There are many filesystems implementing FUSE API: ntfs-3g, fuse-unionfs, fuse-cddfs, etc. Main goal of this project is to make these filesystems available in MINIX 3 without any changes or at least with very minor changes (which can be sent to the upstream).

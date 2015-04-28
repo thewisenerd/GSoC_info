@@ -1,0 +1,2 @@
+Amarok has a strong brand and a good reputation as the ultimate music player for GNU/Linux systems. Features where Amarok has been an innovator include web services integration and smart context-sensitive information. This can be taken advantage of to make a successful entry into mobile markets.
+During this GSoC I would focus on MeeGo, and possibly traditional desktop-derived mobile environments, and I would deliver the foundations for an Amarok player for tablets and handsets.

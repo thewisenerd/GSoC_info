@@ -1,0 +1,1 @@
+Currently there isn't a proper installation process for Vesuvius. The user has to do all the steps manually by following the "INSTALL" file that is in the Vesuvius directory. By completing this project the main objective that can be accomplish is to have a proper installation process using the same technology that is used in Mayon.

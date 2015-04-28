@@ -1,0 +1,1 @@
+The aim of this project is to improve reporting for the complete 1.2 scorm test suite for Moodle. This project also aims at taking Moodle a step further towards compatibility with 2004 test suit.

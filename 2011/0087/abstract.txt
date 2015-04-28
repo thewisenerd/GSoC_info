@@ -1,0 +1,3 @@
+I am interested in the Linux/Cross-platform Installer Framework, proposed on the Review Board's GsoC Page.
+I plan to start this project in Ubuntu, then move onto different distributions of Linux, and finally to Windows. After finishing the project in each distribution, I will have a short testing period. 
+Making it possible for the user to interact with the software from command line and a graphical interface. Followed by an update option for the installed packages.

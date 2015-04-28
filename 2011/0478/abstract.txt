@@ -1,0 +1,2 @@
+Right now PlaneShift’s combat seems to be very basic; if you’re doing melee or range combat everything is pretty much sit and watch while the server makes all of the decisions. It seems to be completely turn based and there don’t seem to be much you get from progression of levels, at least nothing very exciting.
+I would like to change the combat system up to make it more exciting.

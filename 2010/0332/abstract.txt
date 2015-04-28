@@ -1,0 +1,2 @@
+Many people have requested the split window feature in Writer for a while now.
+This project's focus would be to create/continue work on new docking windows which would open up a list of new and invaluable features like split views and tabbed windows. A lot of work will be needed in order to complete this first task. This project will then be able to focus on implementing a split view using the new layout manager.

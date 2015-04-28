@@ -1,0 +1,1 @@
+In this project the REST webapp is to be developed, making possible easy integration and communication between DSpace and and other languages, remotely.

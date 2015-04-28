@@ -1,0 +1,1 @@
+Through this project, I wish to implement all the features necessary to make Anjuta into a Python IDE. Features like autocompletion, autoindentation, building, syntax highlighting. All changes will be in the form of a plugin to Anjuta.

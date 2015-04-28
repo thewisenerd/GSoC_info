@@ -1,0 +1,2 @@
+The goal of the project is to implement the Compressor heap compaction algorithm as described in the article "The Compressor: concurrent, incremental, and parallel compaction".
+The article suggests a novel algorithm to eliminate memory fragmentation in long-running applications while reducing the pause time of the application. The compressor required only one heap pass to perform compaction.

@@ -1,0 +1,3 @@
+Galaxy is a popular web based interface for integrating biological tools and analysis pipelines. HyPhy provides a popular package for molecular evolution and sequence statistical analysis. Integrating those tools will make Galaxy even more powerful and useful. Hence probably increase its popularity.
+
+The goal of this project is to integrate the relevant tools into Galaxy. Functional tests will be developed for tools and workflows, along with high level documentation for end users.

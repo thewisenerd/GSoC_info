@@ -1,0 +1,1 @@
+Implement a Library wrapping around the DBus API and Data model using C/Vala. Use GObject-Introspection for support of other Programing languages.

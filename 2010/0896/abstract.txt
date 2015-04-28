@@ -1,0 +1,1 @@
+Social Networking is as popular as ever. This plugin will bring a whole new layer of communication to Geeklog. It will be seamlessly integrated into the Geeklog core to work with securely and efficiently with other Geeklog code. It will allow users to communicate and collaborate in groups as well as increase site customization and popularity.

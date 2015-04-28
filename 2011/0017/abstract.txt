@@ -1,0 +1,1 @@
+The project involves porting GNU Debugger to MINIX 3 and implementing core dumping support for MINIX 3.

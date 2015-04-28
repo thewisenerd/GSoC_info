@@ -1,0 +1,5 @@
+Until recently, the combination of a print dialog and color management has met very little attention in Linux.  
+
+But given the significance of the current progress being made to the Common Printing Dialog (CPD), and the potential for more users to take printing on Linux much more seriously, there is simply no better time than now to extend CPD to include color management.  
+
+This project hopes to accomplish such a task by bridging together the Oyranos CMS with the Common Printing Dialog.

@@ -1,0 +1,1 @@
+Creating a central public web-based malware information service, based on continuous data aggregation from the Honeynet Project sensor network and related third party malware information services.

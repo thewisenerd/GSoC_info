@@ -1,0 +1,1 @@
+This project aims to build upon the GeoDNS infrastructure to provide better a load balance solution by implementing per resource weight so that the DNS server could return answers that result in a better sharing of load among the mirrors.

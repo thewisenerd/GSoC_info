@@ -1,0 +1,4 @@
+There is ongoing work for integrating Python scripting into GDB. One of the most wished features PythonGdb lacks is being able to control the GDB inferior. I propose to develop an inferior control API expanding on the work by GDB developers.
+
+This feature will help in such use case:
+<LimCore> how to run gdb from command line, so that it will run ./foo.bin with arguments: foo bar baz and it will run it instantly without waiting for 'r'; And if program segfaults then it will do 'bt' without waiting for the command. (and if program terminates normally then it will also just quit)

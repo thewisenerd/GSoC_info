@@ -1,0 +1,3 @@
+The goal of this project is to implement functionality to output metadata to
+make certain things on the map clickable. I'll add tools to make the common
+use cases very easy for the user.

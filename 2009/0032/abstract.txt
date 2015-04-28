@@ -1,0 +1,3 @@
+This project involves delivering a working solution to the licensing problems in FreeBSD for the end of this SoC, such as automatically identifying GPLv3 ports, restricted distfiles, incompatible licenses, etc.
+
+It consists on committing the (already working) code from the start with minimal/normal functionality, and enabling advanced features (which are automated) later, when the respective requirements are met (i.e. FOSSology works on FreeBSD).

@@ -1,0 +1,3 @@
+When using GIS software like uDig you often need detailed background layers for a better visualization of your spatial data. There are many free-to-use maps available, but actually it is hard to import this data in uDig.
+
+The aim of this project is to develop a plugin for uDig that makes it easy to integrate online-map-services (street/aerial) such as OpenStreetMap, Google Maps, Microsoft Virtual Earth or Yahoo! Maps into your GIS projects as raster data.

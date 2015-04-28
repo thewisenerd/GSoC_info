@@ -1,0 +1,13 @@
+The libiconv library is an important piece of I18N software. It implements library routines to convert files from one encoding to another. There is also a command line interface for this library, which provides a convenient way of encoding conversion. Currently, FreeBSD lacks of these pieces of software in the base system. In the Ports Collection, we use GNU libiconv but this is such an underlying tool that we should have an own, customized version that is:
+
+    * Located in the base system. Currently, we can't use libiconv from the base system and it is a big limiting factor in I18N.
+
+    * Licensed under BSDL (preferably 2-clause).
+
+    * Efficient.
+
+    * Clean. Does not contain a lot of platform-specific ugly hacks. It is optimized to FreeBSD and its coding conventions.
+
+    * Supports the most important encodings, the more the better, but it must support the following ones: ASCII, ISO8859-family, UTF-family, CP1131, CP1251, ISCII-DEV, ARMSCII-8, SJIS, eucJP, PT154, CP949, eucKR, CP866, KOI8-R, KOI8-U, GB18030, GB2312, GBK, eucCN, Big5HKSCS, Big5. These are the encodings that are supported by our locale subsystem, so an acceptable level of their support is a requirement.
+
+    * Provides a good level of compatibility with its GNU counterpart. This doesn't only mean standard conformance, but implementing the most common extensions so that we can use it as a drop-in replacement for the Ports Collection, as well.

@@ -1,0 +1,3 @@
+Mind maps are used to generate, visualize, structure, and classify ideas, and as an aid in brainstorms, study, organization, problem solving, decision making, and writing.
+
+Today the most usable mind mapping software is XMind. But it is written in Java, has non-kde UI and can't be integrated with kde. The idea is to bring mind mapping elements to Koffice and XMind-like functionality to Braindump.

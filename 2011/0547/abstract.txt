@@ -1,0 +1,1 @@
+The aim of this project is to enhance LibreOffice's svg export filter, for instance by supporting the possibility to create a svg from an Impress presentation: the exported svg document would contain multiple slides with support for slide navigation, transition effects, and other features.

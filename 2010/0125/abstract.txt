@@ -1,0 +1,1 @@
+The project would focus on adding features to the newly created application, FaceBrick. Apart from FaceBrick, there is only one Facebook widget for maemo and it does not provide a whole lot of functionality. Judging by the responses from the community, there seems to be an interest for a full Facebook client.

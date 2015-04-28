@@ -1,0 +1,7 @@
+Overview
+
+This project objective is provide all tools to make it easy a possible drupal.org migration to another Version Control System(aka VCS). By the way, after this, drupal VCS's interaction will be improved, so it provides more flexibility to use it as project managment system for development.
+
+This propose started like a jpetso propose[1].
+
+[1] http://groups.drupal.org/node/19469

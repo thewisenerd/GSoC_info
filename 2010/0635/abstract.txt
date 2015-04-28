@@ -1,0 +1,1 @@
+My name is Peteris Krisjanis, I'm 29 years old IT specialist/student from Latvia, I'm in second year of my CS bachelor’s degree program, and this is proposal for completing Jokosher Telepathy VoIP support, create basic Telepathy Tubes support for Jokosher and high quality sync after recording upon it.

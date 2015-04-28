@@ -1,0 +1,1 @@
+This proposal will enable Freeseer to work via command line, this way users will be able to interacting with the application by typing commands to perform specific tasks. The implementation of this task will provide some extra automation power to the application, since customized tasks may be scheduled and performed separately without any graphic interaction.

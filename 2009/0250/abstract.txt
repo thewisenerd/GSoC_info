@@ -1,0 +1,1 @@
+The more.brlcad.org website (MoRe as in Model Repository) will help build a common repository of BRL-CAD models, which will allow BRL-CAD users to share their models and to easily locate useful models. An advantage of using Drupal both for the repository and the main site is that we can integrate the two sites (use the same code base, share users accounts, etc).

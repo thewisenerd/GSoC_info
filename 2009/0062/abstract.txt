@@ -1,0 +1,2 @@
+Plasma's soul resides on Plasmoids and so it ought to be treated with love. An important concern about the delivery of these applets to the users should be "how do we deliver such applications so that they can make the best use of it?". These questions have been made and the answers are not all satisfactory.
+This proposal is all about enhancing the user experience when dealing with plasmoids - proposal of a brand new interface to be used by hundreds of users every day.

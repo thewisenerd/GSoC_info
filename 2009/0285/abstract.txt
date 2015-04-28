@@ -1,0 +1,2 @@
+This project proposes to develop a one step Bluetooth setup wizard that can simplify the device setup process by using a single 2D DataMatrix symbol containing device MAC address, SDP record etc. This is contrary to the traditional setup where a device setup relies on a time intensive inquiry and service search. A GUI and a BlueZ plugin is  also planned to be developed for importing symbols from  image file or webcam. 
+More: http://ril.newport.ac.uk/sarker/pubdata/BlueZOneStepWizard.html

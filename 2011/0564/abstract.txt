@@ -1,0 +1,1 @@
+This project will enhance user experience when it comes to viewing and browsing large amounts of layers within the catalog. The project will integrate the Java Browsing Perspective with innovative grouping of layers to the catalog view

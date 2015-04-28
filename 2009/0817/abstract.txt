@@ -1,0 +1,2 @@
+The next version of HTML standard (HTML5) brings a new feature: What You See Is What You Get (WYSIWYG) editors support. It's already widely used on the web for different rich text editing (wordpress, gmail, etc). 
+The default KDE layout engine, KHTML, is currently not good at supporting editing features. My project is to adapt and extend the existing framework to have full-featured and standard-compliant implementation of WYSIWYG editing.

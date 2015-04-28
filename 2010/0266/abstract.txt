@@ -1,0 +1,3 @@
+As an operating system with a short boot time and a small footprint, Haiku is looking very interesting.
+With WebPositive well on it's way to becomming a great browser, users will want a great media experience to go with it.
+I propose to work on Media Player, in order to improve and give it new functionalities: DVD playback, streaming support, tray icon controls...

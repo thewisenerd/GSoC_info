@@ -1,0 +1,1 @@
+This project would implement using gettext alone for localizations.  This would have advantages to both developers and translators, would reduce redundancy, etc.

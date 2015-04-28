@@ -1,0 +1,1 @@
+The goal of my project will be to implement STUN (Session Traversal Utilities for NAT) support and Jingle Relay Nodes as a module in prosody. These modules will help admins to set up Jingle Relay Nodes and STUN on their servers with ease. I would also add CAPTCHA support which will have to be validated before entering a MUC room or before registering an account.

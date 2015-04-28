@@ -1,0 +1,1 @@
+S4 is the new medialib backend for XMMS2. It has turned out to work pretty well, but it still has some bugs and shortcomings that needs to be fixed before it can be the new official backend. It would also be desirable to add Collections 2.0 (a more expressive collections framework) to make it even more usable.

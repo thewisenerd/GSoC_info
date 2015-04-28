@@ -1,0 +1,6 @@
+This project will add support for ANSI/ISO compliant sequence generators to the Apache Derby RDBMS with the following features.
+1. Creating/dropping a Sequence generators with optional clauses
+2. Granting and revoking permissions to users or roles to use a sequence generator
+3. Invoking a sequence generator
+4. Altering an existing sequence generator
+Also two new system catalogs to store sequence descriptions and usage permission records will be added, along with upgrade logic for older databases.

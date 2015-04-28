@@ -1,0 +1,1 @@
+In this proposal, I demonstrate my specified ideas on how to detect infected hosts through DNS analysis, including using a bad domains list, IP reputation records, infected hosts list etc. The goal is to build up an efficient and accurate detection mechanism.

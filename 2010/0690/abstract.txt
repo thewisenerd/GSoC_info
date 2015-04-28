@@ -1,0 +1,1 @@
+A lot of customization is possible for window managers, with each customization tailored down to the users needs. And all this customization cannot be provided by configurations alone and hence in this project, KWin would be made scriptable in the ECMAScript language using which users can tweak the behavior of their windows to their liking.

@@ -1,0 +1,8 @@
+This proposal is to work on the new project under consideration at
+CSCS@UMichigan, Developing Libraries for GPGPU Agent-Based Models. I
+wish to begin developing a library of GPGPU tools based on a
+reimplementation of the ABM in "Neighbourhood Choice and Neighbourhood
+Change" (originally implemented in REPAST in Java) by Dr. Elizabeth
+Bruch. I am flexible on the exact ABM chosen, but envision developing
+the model in either CUDA or PyCUDA, as OpenCL is not yet an available
+alternative.

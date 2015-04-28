@@ -1,0 +1,1 @@
+I will introduce several features in “Marble” to make it more user friendly and main stream application, leading to better user experience. These features will add functionality of managing the data with better understanding and visualization using “Marble”, with it's main goal i. e. exploring the world.

@@ -1,0 +1,1 @@
+Currently, the Journal irrevocably overwrites existing entries (which happens automatically upon activity exit unless the user explicitly changed the name). The purpose of this project is to add a new version to the entry instead, thereby preserving both the old and the new content.

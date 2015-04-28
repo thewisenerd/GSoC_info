@@ -1,0 +1,1 @@
+G-PEAR will generate and install PEAR packages on the fly, using a special Portage overlay with auto-generated ebuilds for each package. The ebuilds will be generated on an as-needed basis, but stored for later in case the user wants to uninstall or upgrade a package. This way PEAR and Portage will be kept in sync while external dependencies will be handled (semi-)automatically.

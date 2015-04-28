@@ -1,0 +1,1 @@
+Last.fm is a fantastic tool for browsing and listening to music, unfortunately Rhythmbox's current Last.fm plugin has an unintuitive user interface. It also uses an old and deprecated API. This project will port the plugin to use the current API, as well as making the user interface more intuitive and rewarding to use.

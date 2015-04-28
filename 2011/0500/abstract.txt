@@ -1,0 +1,1 @@
+Animated effects in PiTiVi. A possibility to transform clips with panning, zoom and rotation. Procedural clips like text and shapes. A final goal might be to have a PiTiVi where you can make rotating stars, becoming unfocused with a animated blur effect without the use of external assets.

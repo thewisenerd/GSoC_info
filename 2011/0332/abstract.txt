@@ -1,0 +1,2 @@
+The goal is to Implement H.264 MVC stereo high profile encoder for x264 encoder. This will enable x264 to author 3D blu-ray discs. The initial approach will be to implement SHP 
+without interlaced content and constant QP and once the initial skeleton is up, then the rate control will be added followed by interlaced content.

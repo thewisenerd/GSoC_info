@@ -1,0 +1,2 @@
+I am Ganath Rathnayaka a student of University of Peradeniya, Sri Lanka. Apache OFBiz is a enterprise automation software which used by lots of companies for achieving their goals easily.
+In OFBiz code the source code and the functional tests are in the same package makes the source code more complected. My project is to separate the source code and the test to different packages and integrate a webdriver to add functional testing in OFBiz.

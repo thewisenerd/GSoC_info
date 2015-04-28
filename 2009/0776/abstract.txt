@@ -1,0 +1,6 @@
+The goal of this project is to implement support for the System V ABI
+in the PowerPC backend of LLVM. Since this is the ABI used on 32-bit
+PowerPC Linux, this will effectively bring LLVM to the 32-bit PowerPC
+Linux platform. At the moment PowerPC Linux is not officially
+supported by LLVM, however the PowerPC backend is considered to be
+stable on Darwin.

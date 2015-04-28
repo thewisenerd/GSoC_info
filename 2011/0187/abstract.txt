@@ -1,0 +1,2 @@
+A ebuild generator written in python.
+It will look at file structure and file contents to generate ebuilds.

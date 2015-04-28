@@ -1,0 +1,1 @@
+The first release of Orion is going to provide a simple but fully functional support for git. The idea behind this proposal is to identify missing bits and address them.

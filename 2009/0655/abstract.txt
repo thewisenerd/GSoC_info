@@ -1,0 +1,1 @@
+The project aim is to get a file-system image of maemo built in OE for the N800/N810 with all the Maemo software stack components - including the hildon UI environment. The work done for this will also include making the platform itself portable - i.e. being able to port Maemo components for a device over a given base, say angstrom.

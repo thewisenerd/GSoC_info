@@ -1,0 +1,3 @@
+Currently x264 is constrained to encoding videos with a sample depth of 8 bits. This often suffices for consumer needs, but for production purposes and high quality video encoding, it may not be sufficient.
+
+The primary goal for this project is to prepare the code base for encoding H.264 video with user defined sample depths.

@@ -1,0 +1,3 @@
+PhyloXML is an XML format for phylogenetic trees, designed to allow storing information about the trees themselves (such as branch lengths and multiple support values) along with data such as taxonomic and genomic annotations. Connecting these pieces of evolutionary information in a standard format is key for comparative genomics.
+
+A Bioperl driver for phyloXML was created during the 2008 Summer of Code; this project aims to build a similar module for the popular Biopython package.

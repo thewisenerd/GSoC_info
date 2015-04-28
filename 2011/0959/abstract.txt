@@ -1,0 +1,1 @@
+The purpose of my project idea is to integrate an rdfa compliant semantic search engine named Fise from the Apache Stanbol project into the Plone CMS.

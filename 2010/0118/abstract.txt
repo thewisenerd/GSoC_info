@@ -1,0 +1,1 @@
+The goal of this project is to add to OpenCV a tool that offers storage and analysis methods for trajectories. Such a tool should read and write trajectories (using SQLite), visualize trajectories and analyse them. For the analysis process, different distance metrics should be implemented.

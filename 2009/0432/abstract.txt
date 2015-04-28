@@ -1,0 +1,8 @@
+I am Kashyap R Puranik from Bangalore, India, studying Computer-science in IITM (Indian Institute of Technology Madras, India)
+
+I am proposing to add the molecular calculator widget for Kalzium, which can do all the common calculations that a chemistry student would like to do.
+
+I have already been contributing to Kalzium for the past 4 months.
+I have added a few small features (details in my blog)
+
+I blog at http://www.kashthealien.wordpress.com. also check out my posts at Planet KDE

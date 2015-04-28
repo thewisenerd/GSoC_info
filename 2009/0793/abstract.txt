@@ -1,0 +1,1 @@
+I hope to implement a whiteboard into the jabber client Gajim.

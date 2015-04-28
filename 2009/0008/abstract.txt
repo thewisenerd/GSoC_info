@@ -1,0 +1,1 @@
+WinLibre Package Manager is an application to serve Open Source software to Windows users. The basic idea is to allow Windows users to get a catalog of the available applications and download and install them if they want to. This proposal shows my ideas on repository server that will hold the packages description.

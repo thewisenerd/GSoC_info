@@ -1,0 +1,1 @@
+Selecting articles (and sane revIDs) for offline distribution is mostly a manual process right now. This project aims to automate that process as much as possible - doable by anyone over a web interface hosted on the wiki itself as an extension.

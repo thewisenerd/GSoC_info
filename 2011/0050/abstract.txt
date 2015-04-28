@@ -1,0 +1,3 @@
+This project aims at integrating ontologies as a source for data structures. This includes automatic creation of database tables and form descriptions as well as possibilites to share these data structures between installations.
+
+The main goal is to ease creation of new data types by reusing existing ontologies, and reducing the number of redundant data types that exist among different extensions (de-coupling of data structures and plugins)

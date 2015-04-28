@@ -1,0 +1,4 @@
+Redesigning/Changing NTP's logging/debugging system.
+Writing a common debugging/logging interface for NTP. 
+
+A revision/improvement of NTP's logging/debugging system is necessary to provide better and finer logging/debugging capabilities.

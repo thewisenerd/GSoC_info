@@ -1,0 +1,2 @@
+Ogre's Post Processing (Compositors) framework, while being quite powerful, is still lacking some features. Numerous users have said that they found themselves implementing their own custom post processing solution because they couldn't do what they wanted with the compositor framework.
+This project's aim is to address this problem, adding options for more advanced chain setups and more flexible composition options, enabling advanced rendering techniques like deferred rendering to be easier to set up, more flexible and more reusable.

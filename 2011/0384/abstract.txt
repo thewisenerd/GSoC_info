@@ -1,0 +1,4 @@
+I will work on extending wireshark with three proposed plugins: WireShnork, WireSpade and WireViz.
+
+
+If time permit I'll try to build WireTables plugins, which work like WireShnork but use iptables rules

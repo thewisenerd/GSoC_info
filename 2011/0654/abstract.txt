@@ -1,0 +1,1 @@
+Create a data model browsing package for FLOW3. The browser allows to view the data of a FLOW3 installation, do CRUD-operations, search and filter it, regardless of it's underlying database.

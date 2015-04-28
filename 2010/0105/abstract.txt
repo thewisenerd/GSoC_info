@@ -1,0 +1,3 @@
+The project aims to implement a type of multicast similar to Reliable Blast UDP. The idea is to achieve as high reliability as TCP, with less overhead. Another part is to test reliability and performance of the solution.
+
+The main deliverable will be the source code for the driver. Other deliverables are a performance/reliability study and a user guide. The reliability tests will simulate lost packages. The performance study will compare the driver to round robin file transfers and udpcast.

@@ -1,0 +1,5 @@
+TAP and SubUnit are simple text-based protocols allowing communication between test scripts and a test harness.  They allow a single test script to run several distinct checks.
+
+Primary objective of this project is the implementation of a TAP/SubUnit consumer testsuite harness in Automake-generated Makefiles, allowing more granularity in the report and count of checks.
+
+A secondary objective is to enhance Autotest-generated test scripts to make them able to produce TAP and/or SubUnit output.

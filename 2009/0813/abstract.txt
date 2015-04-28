@@ -1,0 +1,6 @@
+SWIG's directors allow "callback" functionality to be wrapped.
+Essentially this enables a user to inherit a target language class from
+a C++ class enabling cross language polymorphism. SWIG currently only
+supports directors for Python, Ruby, Java, C#, and Ocaml. In particular,
+PHP support is lacking, but it's certainly possible to implement - and
+this summer I would like to work on this.

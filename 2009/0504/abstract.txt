@@ -1,0 +1,3 @@
+I propose to build a tool that would make user single authentication with Systers valid for accessing resources like CMS, wiki also. 
+Evaluate the relevance of existing standards for decentralized user authentication and access control eg. OpenID and openLDAP in context to the implementation of Systers services and decide the more suited standard that would be scalable and robust.
+Extend the standard support to Systers, providing modularity and flexibilty in terms of applications supported.

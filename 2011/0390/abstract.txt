@@ -1,0 +1,1 @@
+I would very much like to participate in GSOC this year, and help my community port the Pyramid web framework to Python 3.  Please take a look at my inaugural blog post for further details at jayd3e.com.

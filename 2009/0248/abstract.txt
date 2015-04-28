@@ -1,0 +1,8 @@
+The goal of this project is to migrate the GDB graphical interface in
+Emacs to completely use GDB's Machine Interface (GDB/MI).
+
+Currently a mixture of GDB annotations and GDB/MI are used to provide
+GDB UI in Emacs. Dropping deprecated annotations in favor of
+machine-oriented GDB/MI protocol will make underlying codebase more
+robust and easier to maintain and improve. Switching to GDB/MI will
+also allow using new features of GDB from Emacs.

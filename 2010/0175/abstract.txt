@@ -1,0 +1,1 @@
+Developers often spend time on many mechanical tasks with which the IDE could help. I would like to implement features helping to save developers' time and making coding more enjoyable.

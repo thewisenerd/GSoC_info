@@ -1,0 +1,1 @@
+The Sahana Agasti project (the Mayon platform) has a scheme with lot of modules. Each module has other dependencies and they are connected with others, but we can build a way through web services to make available only a few desired entities of the scheme, so that another software can consume it (a different project, like Sahana Eden) in an easy way, with a simple HTTP request.

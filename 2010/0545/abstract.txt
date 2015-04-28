@@ -1,0 +1,1 @@
+This application proposes to improve packaging and installing support for projects using the Python programming language by extending support code, user-visible commands and related documentation, according to existing design documents (Python Enhancement Proposals).

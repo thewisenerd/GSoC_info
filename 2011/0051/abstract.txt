@@ -1,0 +1,1 @@
+This project aims to improve AbiWord's look and feel, by eliminating some  drawing issues.

@@ -1,0 +1,6 @@
+Digital photography has been advancing rapidly in terms of hardware.
+All introductory priced DSLR camera models now support more than 8bits(up to 14bits)
+per color channel in raw mode (HDR images). Since LCD/CRT displays support 8bit
+per channel only, this extra color depth information cannot be presented to the
+user with current technology. The solution is to compress (tonemap) the image
+in color space so as to produce an LDR image, suitable for display.

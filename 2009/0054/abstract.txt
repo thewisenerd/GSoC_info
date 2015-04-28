@@ -1,0 +1,9 @@
+This proposal aims at optimizing blender raytrace.
+
+Including:
+	* Making it faster
+	* Support for render instancing
+	* Added support for generic objects (used to implement instancing but later can be expanded into LOD)
+	* Script to measure performance
+	* Removing worst-cases
+	* Make it easier to try tweaks and different data structures.

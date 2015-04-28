@@ -1,0 +1,1 @@
+Design and implementation of an output driver in MapServer to generate KML 2.2 output for use with Google Earth

@@ -1,0 +1,2 @@
+TaskForce for MonoDevelop is designed for teams with large codebases and bug trackers. TaskForce helps deal with information overload by monitoring your work, and changes the MonoDevelop interface to show only relevant information. This reduces scrolling and searching, and increases productivity.
+It readily integrates with bugzilla and trac, and allows you to edit and comment on bug reports from MonoDevelop, and improves collaboration in the team.

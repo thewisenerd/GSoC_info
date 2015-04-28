@@ -1,0 +1,2 @@
+Create the components Tapestry Drag and Drop Palette and SelectWithAutocomplete.
+In case I have time intend create others components the issue TAP5-1071.

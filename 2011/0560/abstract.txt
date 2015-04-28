@@ -1,0 +1,8 @@
+Idea:
+The goal is to implement a live on-canvas iWarp like tool.
+
+Behavior:
+The basic usecase of this tool would be:
+1. The user select the iwarp tool. Nothing is displayed on top of the image.
+2. If needed, the user select a particular behavior for the tool (drag,shrink, grow, whirl, pinch ..)
+3. The user do a stroke on the canvas. The image is updated accordingly.

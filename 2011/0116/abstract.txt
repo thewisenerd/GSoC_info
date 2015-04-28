@@ -1,0 +1,1 @@
+Improve Guile's Emacs Lisp support and begin work on Emacs integration

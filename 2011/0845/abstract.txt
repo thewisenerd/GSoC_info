@@ -1,0 +1,1 @@
+This is a proposal for KDE-Nepomuk project called Project Integration. The project is about creating a back-end using Semantic Desktop technologies and a front end for it, which can be used to keep track of different projects the user is working on.

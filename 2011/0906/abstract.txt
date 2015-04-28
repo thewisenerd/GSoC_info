@@ -1,0 +1,1 @@
+I am planning to complete boost::coerce, a library which builds upon boost::spirit to create a cast-like operator aiming to provide an alternative to boost::lexical_cast providing greater speed and flexibility.

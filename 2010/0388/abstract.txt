@@ -1,0 +1,1 @@
+AMD 780 has initial been supported by coreboot.  But there is only one kind of 780 mainboard --mahogany is sucessful  ported. It is neccsary to port coreboot to series AMD 780 mainboards.

@@ -1,0 +1,18 @@
+Screen is a widely used terminal multiplexing program. 
+This project aims to add scripting support to screen so
+ as to 1) improve the configurability; 2) make it more 
+flexible and effective to use.
+
+Documents and demonstrative scripts will be provided to
+ show how would it be useful.
+
+==========
+Benefits:
+==========
+First, it improves the configurability of screen.
+
+Second, it enables the interaction between applications
+running inside and screen itself, which opens many possibility.
+
+Third, it enables complex conditional/iterative user
+actions that wasn't possible before.

@@ -1,0 +1,1 @@
+The project is about extending the Media Library(ML) for VLC Player. The media library will allow users to manage all their local and network media. The project will use the basic structure that already exists for the ML and will focus on extending the features. New features include Search, Smart playlists, Annotations and "Just play music".

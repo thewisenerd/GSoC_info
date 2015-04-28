@@ -1,0 +1,1 @@
+Extend multi-resolution tools to support more than vertex coordinates. This will be accomplished by creating a new type of CustomData that stores a grid of arbitrary CustomData. I will use this new grid CustomData type to implement multi-resolution vertex colors and multi-resolution masks for the paint modes.

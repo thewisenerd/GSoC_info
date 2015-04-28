@@ -1,0 +1,3 @@
+I will introduce several features that make WXGUI more user-friendly. These include adding WMS layer support for WXGUI. The selection features will be displayed as per 
+
+the  based on service GetCapabilities response.  The parameters and the layers are to be displayed are extracted out of the xml response. This will be done dynamically.

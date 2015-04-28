@@ -1,0 +1,3 @@
+The goal of this project is to implement an interactive demo program for CGAL::Triangulation_3. We will provide application file (for Windows/Mac), source code, documentation to users.
+I'm a graduate student with 4+ years of C++ experiences and also graphics project experiences.
+I am confident I will convince you that I have the technical skills for as well as the intangible qualities – enthusiasm, energy, dedication, sense of mission, and intellectual curiosity.

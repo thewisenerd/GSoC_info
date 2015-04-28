@@ -1,0 +1,1 @@
+Project relate DNS analysis, implementation of algorithm and data structures, detection of various types of anomalies that can happen while looking on dns traffic.

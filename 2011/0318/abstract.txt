@@ -1,0 +1,1 @@
+My primary goal for this project is to write examples and tutorials for existing classes and methods that do not already have documentation.  I also will be improving upon the existing documentation and tutorials that are currently provided by the Point Cloud Library.

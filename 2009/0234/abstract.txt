@@ -1,0 +1,2 @@
+I will make GNOME application-aware by defining and implementing a programming interface that that will allow applications to populate a menu for each window, modify certain applications to support the new interface, and develop an application-aware window-switcher for the GNOME Shell project. To accomplish these goals I will work with GNOME developers, designers, and users as well as developers of applications that would benefit from this interface.
+(full abstract below)

@@ -1,0 +1,2 @@
+The idea is to Port QGIS to Android and improve the GUI for using it on a Tablet PC. Qt, the
+base library of QGIS has already been ported to Android recently under the name Necessitas.

@@ -1,0 +1,5 @@
+My proposal include:
+
+1) Better error handling (not just interrupt tranfer because of any error).
+2) Intelligently adding tasks to queue instead of running them instantly (this will highly increase transfer speed when a lot of tasks started).
+3) Transferring files and scanning directory in parallel (users will save their time)

@@ -1,0 +1,1 @@
+ECF has been supporting multicast based discovery for a while now allowing for zero configuration remote services. However, multicast discovery is limited to the local subnet only. Thus it's time to bring discovery to wide area networks (WAN) by implementing functionality for DNS-SD based discovery which will enable a complete new range of use cases.

@@ -1,0 +1,1 @@
+The release of GTK+3 in March and GNOME 3 in April is a big event in the open-source desktop community this year. Adopting GTK+3 as soon as possible is strategically important to the entire wxWidgets project. This GSoC 2011 project is to port wxGTK from GTK+2 to GTK+3.

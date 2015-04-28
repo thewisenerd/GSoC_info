@@ -1,0 +1,12 @@
+We are going to focus on improving and extending Ncrack with additional features. 
+Key areas:
+* Major extension of the core engine.
+* Expansion of the protocol modules:
+  -- HTTP-form auth
+  -- SSHv1 support (extension of the OpenSSH library)
+  -- SMB
+  -- rdp 
+  -- SMTP/IMAP/POP3
+  and possibly more
+* Further usability features (more options)
+* Bugfixes

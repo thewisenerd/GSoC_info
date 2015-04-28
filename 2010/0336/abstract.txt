@@ -1,0 +1,3 @@
+XCAP Client implements rfc4825 and rfc4826. It provides full functionality for create/delete/modify contact groups and contacts. It will be integrated in SIP Communicator infrastructure as Server Stored List.
+Mode detail information can be found at 
+http://socghop.appspot.com/document/edit/user/gridorii_balutsel/xcap_client

@@ -1,0 +1,1 @@
+I propose to extend CernVM-FS with an interface allowing user plugins for various kinds of cryptographic function support required by the filesystem. The focus will be on providing a stable, well-designed base for extension.

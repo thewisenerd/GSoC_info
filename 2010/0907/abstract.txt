@@ -1,0 +1,1 @@
+The Berkman Center's Open Network Initiative has been using specialized software carried around in portable media to determine the openness of internet at a specific location. The project aims to create a next-generation tool, addressing existing usability concerns while introducing new functionalities.

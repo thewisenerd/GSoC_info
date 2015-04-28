@@ -1,0 +1,1 @@
+LibreOffice is a large project and there are many problematic sections where could be done size and speed savings. The aim of this project is to find and understand parts that may be done better way either by using better algorithms or technologies. I'd like to do some profiling with tools like KCachegrind to identify bottlenecks in the code and try to improve them.

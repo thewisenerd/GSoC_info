@@ -1,0 +1,3 @@
+In my experiences of building enterprise applications (Tourist Portal and Video rental system) my JSP pages were often “peppered” with scriptlets containing certain business logic. 
+
+I am interested in taking on this project because I have witnessed for myself how logic at the presentation layer could create tight coupling scenarios and obstruct the evolvement of the front layer coding, thus impairing the quality of my code.

@@ -1,0 +1,1 @@
+This project will improve NetworkManager integration with Gentoo. NetworkManager is a very popular tool making network configuration much easier which is used in many popular Linux distributions. However, it can’t deal with Gentoo network configuration files which make it quite useless out of the box. This project will make it work properly in Gentoo.

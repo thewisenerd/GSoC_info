@@ -1,0 +1,4 @@
+The goal of this project is to produce the necessary language extensions to facilitate programming of GIS systems in Tcl. In particular:
+ * Reading files in popular GIS formats
+ * Presenting GIS data visually
+ * Helper procedures to zoom in/out, etc.

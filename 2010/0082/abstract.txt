@@ -1,0 +1,3 @@
+Overview
+
+My goal is to make pluggable type systems an ease to use for any Java developer. In order to do this, I propose to integrate the Checker framework into Eclipse so that it can automatically run type checks, detect problems in usage of types, and suggest corrections while possibly also inferring types.

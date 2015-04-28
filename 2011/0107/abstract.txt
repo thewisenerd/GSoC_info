@@ -1,0 +1,1 @@
+Create packages Debian, Fedora and Arch Linux packages of Evergreen and OpenSRF, and their dependencies, so that evergreen can easily be installed on these systems. Using the packages, I would then create an Evergreen LiveCD/Installer and Virtual Machine image generation scripts, along with a testing setup for carrying out in the virtual machine.

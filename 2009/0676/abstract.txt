@@ -1,0 +1,1 @@
+Analyzing data from a simulation and interacting with it can be a quite difficult task. The goal of this project is to provide scientists with a mean to visualize their simulation and interact with it. It will focus on interfacing an epidemic simulation with a virtual world environment.

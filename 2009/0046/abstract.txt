@@ -1,0 +1,1 @@
+Develop a barcode reader that  makes shopping a new experience. The  application will read the bar-code of products using the camera on ITT devices and compare the price with other local stores, see product reviews and also build and share shopping lists, wish lists etc..

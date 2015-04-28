@@ -1,0 +1,5 @@
+Due to the large amount of packages available for R, it can be hard for users to get an overview of available packages. The goal of this project is to remedy this by providing users with tools for browsing the package repositories in intuitive and useful ways.
+
+I've done some work on the site already, viewable on http://github.com/Chrononaut/crantastic/tree/master
+
+A PDF version of my proposal is available at http://obvcode.net/r-gsoc-application.pdf

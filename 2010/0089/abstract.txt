@@ -1,0 +1,1 @@
+This project will deal with creating intersection oracles for the direct evaluation of subdivision surfaces from their initial control mesh. The oracles will provide means to recreate limit surfaces for several subdivision methods without actual subdivision.

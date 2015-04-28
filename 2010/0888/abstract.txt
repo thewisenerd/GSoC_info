@@ -1,0 +1,1 @@
+The HTML Form Entry module allows anyone capable of writing HTML to design a data entry form. Many hospitals and clinics use this as their primary tool for data collection.

@@ -1,0 +1,1 @@
+The HTML Speech Incubator group has proposed the implementation of speech technology in browsers in the form of uniform, cross-platform APIs that can be used to build rich web applications. The aim of this project is to implement these API's as a part of the Mozilla Firefox Browser.

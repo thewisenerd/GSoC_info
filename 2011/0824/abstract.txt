@@ -1,0 +1,1 @@
+This project is about optimizing the playback of audio and video (AV) in Gnash. In particular, I will change AudioDecoder to a more efficient push/pop/pull model like already implemented in VideoDecoder. I will also track down unneeded copy operations and memory allocations in the IO pipeline to further reduce CPU usage, which can be quite high.

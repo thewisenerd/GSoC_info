@@ -1,0 +1,1 @@
+In short I want to implement the Remote Class Loading feature for Akka. I wish to be inspired by Martin Elwin's prototype (http://goo.gl/QEfmg) and put things to a new level. Namely figure out how to properly do class reloading and resolve all the problems involving class hierarchies. My goal is to make this thing production grade.

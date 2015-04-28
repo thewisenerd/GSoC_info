@@ -1,0 +1,2 @@
+Article Manager is the place in the back-end where one can add/manage all the articles of his/her website. This project aims at developing an Article Manager using Adobe Flex/AIR, which interacts with existing Joomla! Installation using xmlrpc.
+This will be a cross-platform application which will eliminate the need of an internet browser for Article Management. Once configured a user can easily add/manage new/existing articles without even using Joomla! interface.

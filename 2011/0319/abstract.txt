@@ -1,0 +1,1 @@
+This project aims at enhancing an existing subset of a library, nt2, in order to submit it for review as a boost library. The library will provide abstractions for SIMD instructions in C++. Some of the goals of the GSoC project are, enhancing the STL interoperability, documenting the library, writing unit tests etc.

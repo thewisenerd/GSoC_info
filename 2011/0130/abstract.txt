@@ -1,0 +1,3 @@
+To the sadness of many, there is not and has never been any form of AA supported in any of the free drivers.
+
+This project aims to change that, by making MLAA available to all Gallium drivers.

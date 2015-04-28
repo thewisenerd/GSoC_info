@@ -1,0 +1,1 @@
+The ringmap project has drawn a lot of interest from several research groups. I would like to continue my work on this project in order to improve and extend the developed software for production use in the open source community. I also would like to establish contacts to other software developers and use the opportunity to take part in GSoC for further development of ringmap.

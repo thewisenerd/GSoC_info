@@ -1,0 +1,3 @@
+I want to add JavaScript support in Anjuta. The main missing parts
+are autocompletion and auto-indentation. I want to implement them using
+an GObject-based JavaScript engine.

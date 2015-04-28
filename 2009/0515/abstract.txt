@@ -1,0 +1,13 @@
+* changing the file properties (name etc.) while downloading
+* option to manually add download sources to multithreaded transfers
+* improving Nepomuk support
+* passing digital signature to KGpg
+* repairing downloads
+* gui to create Metalinks
+* multi-source downloads
+
+Depending on my progress I'd also add more features.
+* easy file tagging
+* support for downloading videos from mms sources
+* checking of md5sums
+* enhance the Import Links dialog

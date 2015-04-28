@@ -1,0 +1,1 @@
+This module will integrate with the upcoming Google Analytics API.  It will connect on the server-side to the Google Analytics server either periodically or on request, and format data in an interesting an accessible way to the Drupal website administrator.

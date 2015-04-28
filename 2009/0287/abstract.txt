@@ -1,0 +1,12 @@
+Very interested in the implementation of DTMF with RTP. 
+
+Last year of a French Engineering University: INSA-Lyon specialized in Telecommunications. I will be graduating in July 2009. 
+
+My training is split in : 
+- Network : TCP/IP, VoIP... 
+- Signal Processing : Codec, modulation, ... 
+- Computer Science : C and Java 
+- Project management 
+
+
+I hope we will work together

@@ -1,0 +1,1 @@
+An Eclipse Plugin, built for IDE4EDU, to enable students and professors to emulate a assignment workflow scenario directly from the workbench. Assignments can be created, uploaded or downloaded to or from a server and get installed directly in the eclipse workbench.

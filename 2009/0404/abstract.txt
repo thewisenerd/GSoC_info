@@ -1,0 +1,2 @@
+To ensure that every build of the Mifos project remains free from regressions I propose to implement a new set of Build Validation Tests (BVTs). 
+I will also model key features of every page in its page object (see http://code.google.com/p/webdriver/wiki/PageObjects for more information about page objects) to enable more in-depth testing and make further test-writing easier.

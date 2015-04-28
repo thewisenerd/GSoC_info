@@ -1,0 +1,2 @@
+WTV is the new container format used to record television shows in Microsoft Windows Vista (or 7) Media Center. User can record TV program to the file with .wtv extension and played back by Windows Media Center (WMC). 
+FFmpeg/Libav already has a WTV demuxer, I’ll add WTV muxer module into FFmpeg/Libav in order to the both project can generate WTV files worked with WMC.

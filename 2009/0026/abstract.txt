@@ -1,0 +1,3 @@
+If a user is unsatisfied with one of the inbuilt Sahana themes, he should be able to select the theme and change its colors, fonts, sizes, site-logo and other site elements to his liking using a web-based GUI (palates, images, upload-boxes etc) w/o having to delve into CSS.
+
+Moreover, the site admin can customize the theme to his liking and specify if normal users be able to do so or not. If allowed, each user may customize the look and feel and view the Sahana page page as they customize it.

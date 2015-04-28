@@ -1,0 +1,4 @@
+The project is about writing a decoder for the AMR-WB audio format, used
+in modern mobile telephony. It provides excellent sound quality through 
+reasonably small bitrates. If possible, the specifications should be
+improved, mostly in terms of performance and quality to bitrate ratio.

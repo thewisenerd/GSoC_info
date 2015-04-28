@@ -1,0 +1,1 @@
+I am interested in the object tracking project. My main motivation for working on this project is that I am interested in Augmented Reality. Hence, alongwith the proposed approach I would also like to propose an addition that the algorithm can take a prior model.

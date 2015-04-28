@@ -1,0 +1,1 @@
+Flash is of the widely-spread multimedia formats on Internet and there is a streaming protocol for it called RTMP. FFmpeg lacks support for it and we should add it for (at least) completeness sake.

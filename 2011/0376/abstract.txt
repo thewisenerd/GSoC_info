@@ -1,0 +1,2 @@
+Provide a wrapping of Matlab MEX-Files headers on API Scilab to make Matlab toolboxes easier to port to Scilab.
+Also, provide a simple way to use Python code in Scilab, like a C or C++ extension, using GIWS, a code generator to handle C++ comunication with other languages.

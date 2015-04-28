@@ -1,0 +1,7 @@
+Here is my application for the Google Summer of Code of Selenium IDE. I'm a student specialized in Web Technologies and very interested in the Selenium project.
+
+Please find all details below.
+
+Looking forward to hearing from you,
+
+Raynatou.

@@ -1,0 +1,3 @@
+The aim of my summer project is to create an SML library to aid in transitioning from machine generated proofs to legible proofs containing justifications at a higher level of abstraction.  That is, I propose to develop a graph-based proof representation and manipulation library for the purpose of:
+ 1) automatically improving the legibility of human and machine-generated proofs alike
+ 2) improving the performance of bridges between interactive and automatic theorem provers such as Sledgehammer

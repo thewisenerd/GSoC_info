@@ -1,0 +1,1 @@
+Build up the functionality of the message tray in gnome shell, that is, move status icons to the tray and add useful controls/menus to them.  Improve the tray's interaction with programs like telepathy, gwibber, and rhythmbox.  Also, provide more configuration options for the message tray's behavior

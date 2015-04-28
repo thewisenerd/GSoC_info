@@ -1,0 +1,9 @@
+Playlist/Concatenation Support
+- interface will use commandline switches.
+- interface must support every input format FFmpeg support
+- interface must work with different input stream parameters (different
+    formats, codecs, video resolution, audio sample rate, audio
+    channels, etc..)
+- interface must support track selection
+- interface must support existing playlist format files .m3u, .pls,
+    xpsf.

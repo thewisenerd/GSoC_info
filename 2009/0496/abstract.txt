@@ -1,0 +1,3 @@
+I wish to implement a task-based work flow for Melange, where the program administrator, organization admin and mentors will
+be able to define tasks, tag them, set difficulty levels and track students' progress for each task. Also students will be able to look
+at tasks, claim them, work on them, indicate their progress for tasks claimed and submit their work. Also I wish to provide Melange some automated features for processing student submissions and selection of students for prizes.

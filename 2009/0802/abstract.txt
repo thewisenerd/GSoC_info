@@ -1,0 +1,3 @@
+Native Client has been on my radar since it's public inception a few months back because of the promise that it holds as a platform to achieve native code performance in the context of a secure web client. 
+
+I am currently a graduate student in the Music Technology Department at McGill University in Montreal and am in the process of creating a prototype to advance my research into user interaction schema and interfaces for the mediums of interactive music and adaptive audio synthesis.

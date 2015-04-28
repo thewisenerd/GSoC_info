@@ -1,0 +1,2 @@
+Mocapy++ is a machine learning toolkit for training and using Bayesian networks. It has been used to develop probabilistic models of biomolecular structures.
+The goal of this project is to develop a Python interface to Mocapy++ and integrate it with Biopython. This will allow the training of a probabilistic model using data extracted from a database. The integration of Mocapy++ with Biopython will provide a strong support for the field of protein structure prediction, design and simulation.

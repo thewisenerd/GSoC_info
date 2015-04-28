@@ -1,0 +1,3 @@
+Irradiance Caching is a technique for computing global illumination on diffuse surfaces reasonably fast.
+
+IC can be used inside Yafaray's two-pass photon mapping algorithm, specifically for improving the speed and quality of indirect illumination on diffuse (Lambertian) surfaces, which is the most costly component to compute in a Monte Carlo ray tracer (this is the case even if we only compute the first bounce of diffuse illumination, like in Final Gather).

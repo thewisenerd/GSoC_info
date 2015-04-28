@@ -1,0 +1,1 @@
+I picked up idea 22 from the ideas page. Currently the installation of new plug-ins for PathVisio is cumbersome and does not work for the Java Web Start version. So I would like to develop a plug-in manager for the PathVisio OSGi version that makes the installation of new plug-ins as easy as possible for the user.

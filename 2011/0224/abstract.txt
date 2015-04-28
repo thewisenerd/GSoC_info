@@ -1,0 +1,3 @@
+TinyMCE integration with Plone is very important for an end user. Since TinyMCE was adapted as default editor, a lot can be done to improve it.
+
+Work is aimed mainly on revamping UX of image/link browser. More clean separation from Plone and editor itself, providing an API between. Fixing current bugs, upgrading to latest TinyMCE and add end user ability of switching between different presets of buttons is also a priority.

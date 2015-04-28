@@ -1,0 +1,1 @@
+The goal of this project is investigate the use of Bayesian methods on corpora of mail messages and implement a JavaScript algorithm to suggest the most likely candidates for useful filters.

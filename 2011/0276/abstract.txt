@@ -1,0 +1,1 @@
+Although AbiWord has an outdated version to OS X (2.4.5, when the current version to linux and windows is 2.8.6), all we would like to see the port to OS X walking together with the others port, combining the simplicity and power of this editor with the beauty provided by X Code.

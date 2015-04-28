@@ -1,0 +1,3 @@
+This is the Persistent Gameworld idea from wesnoth's wiki.
+If accepted, I would communicate extensively with the community to determine a solution that provides gameworld persistence with the greatest ease of access and implementation for the established community of world and campaign builders for Wesnoth.
+Currently, I expect that this will involve extending WML, and creation of some system of communication about the extended WML for multiplayer games.

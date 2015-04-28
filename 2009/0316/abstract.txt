@@ -1,0 +1,2 @@
+The project consists in a crossplatform, lightweight and easy to use framework for user authorization and authentication.
+The new library will use a modular design with different backends for each platform, for example polkit-qt on Linux and Authorization Services on OS X. This will allow the integration with KDE applications of the recently introduced PolicyKit/KDE and polkit-qt. Additionally, the project will include new GUI widgets and actions in kdeui and will extend kcmshell, to allow KDE applications and kcmodules to easily take advantage of those technologies.

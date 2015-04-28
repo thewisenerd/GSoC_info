@@ -1,0 +1,1 @@
+I am going to deprecate Pod::Parser by replacing all uses of it within perl's core with Pod::Simple.

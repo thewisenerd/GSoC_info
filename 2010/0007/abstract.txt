@@ -1,0 +1,2 @@
+In this project I will create new colour choosers for the drawing application Krita and the vector drawing tool Karbon, which is part of KOffice. 
+Currently these two programs use the same colour chooser as KOffice, which doesn't provide the functionality an artist would expect. Both programs would benefit from a colour space aware chooser with extended features.

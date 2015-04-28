@@ -1,0 +1,3 @@
+PostGIS has a large number of built-in geoprocessing functions, making it a popular choice for geoprocessing within the database.
+
+If we support a similar range of geospatial functions as postgis, it would make neo4j very appealing to the GIS crowd. This could include both standard spatial operations like st_buffer, st_interects, etc. (some of which are effectively supported already, but needs a more standard API), as well as topology functions for increasing connectivity. For example, there was

@@ -1,0 +1,13 @@
+Primary goal: improve receiver compatibility
+-X-Qt/quicktime depayloader
+-SVQ3 and QDM2 depacketizers
+-support Quicktime http tunnel mode
+-support RTCP/Bye as end-of-file
+
+Secondary goal: improve application integration
+-Provide an API to expose the RTCP layer (and the equivalent in RDT dialect)
+-Support subtitle streams
+-Make VideoLanClient, MPlayer, Xine use FFmpeg RTSP
+
+Tertiary goal: improve other protocols
+-RTMPE support for FFmpeg's native RTMP implementation

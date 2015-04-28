@@ -1,0 +1,1 @@
+To extend an ASCEND in order to support real-time input data from data acquisition hardware like Arduino Duemilanove.

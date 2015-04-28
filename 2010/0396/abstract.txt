@@ -1,0 +1,3 @@
+The PyPy JIT, which has shown substantial performance improvements over other implementations of Python, including CPython and Unladen Swallow, does not currently support the x86-64 instruction set, making it impractical to use on 64-bit x86 systems.
+
+My proposal is to extend the existing x86 JIT backend to support x86-64 as well.

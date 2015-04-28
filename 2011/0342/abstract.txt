@@ -1,0 +1,1 @@
+OpenLearn module for ATutor is integration of two excellent systems. This project will create a search functionality in ATutor which will search OpenLearn's repositories for content. OpenLearn contains a lot of articles on a variety of subjects. So this can be utilized by ATutor via my project.

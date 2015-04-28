@@ -1,0 +1,1 @@
+Create a community dashboard for any Drupal website. The dashboard will display the key performance indicators of your community: number of new members, number of active users, number of new posts, of new comments, etc. The design will be modular and allow plugins for data sources so that any module can publish statistical data.

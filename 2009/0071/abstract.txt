@@ -1,0 +1,1 @@
+The goal of project JDevlTools is to make Joomla easier to develop for. Currently developers creating components, modules or plugins go through a lot of tedious task setting up files and writing boilerplate that can easily be automated. My aim is to provide tools for developers to automate these task, so they can focus on what's important: Creating quality web sites with Joomla.

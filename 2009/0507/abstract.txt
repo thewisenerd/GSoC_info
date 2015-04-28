@@ -1,0 +1,2 @@
+Git is distributed version control system focused on speed, effectivity and real-world usability on large projects. Its highlights include:distributed development, strong support for non-linear development, cryptographic authentication of history.
+	This project aims to implement user mode file system to present revisions, branches, tags and so on in a git repository as a file tree.

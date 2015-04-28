@@ -1,0 +1,2 @@
+Last year, for the Google Summer of Code 2009, I completed an alpha release of lib3to2, a set of fixers for backporting Python 3 code to Python 2.  Since then, I have put in some effort in improving the tool, but major improvements are necessary before I feel comfortable releasing a version deemed "stable".
+This GSoC proposal aims to improve the quality and completeness of lib3to2 through extensive testing.

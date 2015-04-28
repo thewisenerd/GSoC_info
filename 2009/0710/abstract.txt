@@ -1,0 +1,1 @@
+My job will be to extend the XAML backend binding. I will implement a folding engine, context-sentive syntax highlighting, context dependent code completion for mark-up extensions and other XAML tags. Code insertion and code generation for templates, styles and other tasks to reduce time spent within repetitive tasks.

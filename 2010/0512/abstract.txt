@@ -1,0 +1,9 @@
+Implementation of two new chat interface plugins for StatusNet.
+
+Windows Messenger
+Windows Messenger is very popular among those with less technical skills who may otherwise not use the chat interface functions. Implementing this plugin would open the chat interface functions to a new audience of users.
+
+IRC
+After discussion in the IRC channel, it is clear that there is demand for an IRC plugin.
+
+Both the plugins will use the same commands as the existing XMPP plugin.

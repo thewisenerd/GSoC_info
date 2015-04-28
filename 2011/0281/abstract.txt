@@ -1,0 +1,3 @@
+Crypto Stick is a safe storage for private key. It allows to store private key as easy as on USB dongle, but it prevents private key leak.
+One of standards for PKI storages is PKCS (Public-Key Cryptography System), which is made by RSA.
+My goal is to adapt OpenSC libraries (whose implements PKCS#11) to work with Crypto Stick.

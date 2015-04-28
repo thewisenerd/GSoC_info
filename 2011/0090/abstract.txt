@@ -1,0 +1,1 @@
+To solve this problem, I will develop a new plug-in that can meet any function call requests. When calling the GetIDsOfNames, it can return the ID based on any name of function. Meanwhile, this plug-in need return different class factory objects to simulate different plug-ins, so that meet the identity .COMSniffer use object address as object id.

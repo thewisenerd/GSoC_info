@@ -1,0 +1,1 @@
+This project aims to enhance the currently available Cassandra Column Storage driver as well as create a new Column Storage driver (for a NoSQL database which will be decided during the term) for Sakai's sparsemapcontent. The new driver created will be well tested with unit tests, integration tests, soak tests and some performance tests.

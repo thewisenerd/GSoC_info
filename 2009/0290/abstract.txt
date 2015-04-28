@@ -1,0 +1,4 @@
+I propose to add a new graphical component to Gephi,
+that will use the current slice-based storage of Gephi to provide an intuitive temporal graph navigation.
+
+This implementation will be designed with performance and ease of use in mind.

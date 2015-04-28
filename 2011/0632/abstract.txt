@@ -1,0 +1,1 @@
+WordPress Web Services allow you to modify your blog remotely. WordPress supports XMLRPC And Atom protocols. Most of the clients use XMLRPC methods including  WordPress mobile clients. However the current XMLRPC implementation have some limitation. The goal of this project to extend XMLRPC functionalities of WordPress.

@@ -1,0 +1,1 @@
+Project aiming to create a prototype of a web-standards-based implementation of Cytoscape Web in HTML5 and JavaScript.

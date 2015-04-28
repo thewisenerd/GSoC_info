@@ -1,0 +1,1 @@
+With this proposal I’m proposing to improve the usability of some identified important features in phpMyAdmin by applying ajax behavior using jquery library. After improving those features, they will be able to provide a quick and consistent flow of operations to the PMA  users.

@@ -1,0 +1,3 @@
+OAR RMS is a Software that manages Reservations,access granting etc..of Cluster Resources so that users can connect & use them.
+It requires a TestSuite to verify if the installation of software is successful and if the entire system functions as desired.
+A Framework is required that will perform test cases on OAR functions. TestCases to be developed using Plugin-Technology so that more testcases can be added or modified to incorporate more error-resistant ideas.

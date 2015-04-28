@@ -1,0 +1,3 @@
+The data collecting and entering process can be considered as one of the most pain full exercises with manual handling during a huge disaster situation. Therefore Sahana OCR is  recognised as a great tool in solving such problems. 
+
+When it comes to OCR module, reliability and consistency are major areas to be addressed. By focusing and improving these two characteristics, Sahana OCR module can be optimally utilised when ever, where ever a disaster situation occurred.

@@ -1,0 +1,1 @@
+Implementing streams internally in order to improve the percentage of network traffic that is payload. A new packet format will build on this, enabling the use of smaller packets, thus possibly solving problems with MTU, and allowing a more flexible transport layer.

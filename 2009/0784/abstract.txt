@@ -1,0 +1,1 @@
+Currently on Geode LX hardware there is no video output until after an operating system has loaded. During this project I would create a VGA Bios to provide video hardware initialization and standard legacy video modes at boot time. This will allow simple payloads/programs and power on debugging data to be displayed on geode video hardware.

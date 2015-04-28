@@ -1,0 +1,1 @@
+I plan on implementing support in Phonon for exporting raw and processed audio data, so that applications easily can implement visualizations and analyzers.

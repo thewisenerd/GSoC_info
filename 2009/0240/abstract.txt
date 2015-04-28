@@ -1,0 +1,5 @@
+Limesurvey is a tool for data collection and not a tool for data analysis.A general overview is very helpful for users who don't want to use expensive tools for data evaluation.
+
+      * Extend the question type plugins so they can deliver methods for computing a result summary
+      * Create a report generator so users can put together their own reports with their own graphs or let a wizard do it
+      * Establish filter properties so user can filter results to a certain scope

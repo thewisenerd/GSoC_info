@@ -1,0 +1,1 @@
+The aim of this project is to research and integrate Quick Look support into Thunderbird, i.e. allowing quick preview of attachments.

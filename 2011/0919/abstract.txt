@@ -1,0 +1,1 @@
+I would like to approach the implementation of the algorithms described in RFC 6056 into the NetBSD kernel.

@@ -1,0 +1,1 @@
+In preparation for eventual integration with GNU Emacs, I will work on Guile's Emacs Lisp implementation to improve Emacs Lisp compatibility and to take advantage of Guile features introduced during the past year.

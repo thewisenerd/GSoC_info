@@ -1,0 +1,4 @@
+The main idea is to create a powerful logging system for macports. Goals:
+- Provide good and simple logging interface for future use. For example for graphical interface.
+- Make ports bug tracking easier for port maintainers.
+- To run some time-consuming processes (for example update all ports) and easily track all changes, errors etc.

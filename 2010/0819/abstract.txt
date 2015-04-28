@@ -1,0 +1,5 @@
+I will develop an Eclipse Plugin which will enhance the UMC content for "Battle for Wesnoth". The plugin will have some features like: 
+- Editor with autocomplete, syntax highlighting and other editing features for the WML language.
+- Background checker for the written code.
+- Wizards for creating the campaigns/scenarios/etc.
+- Upload the created UMC content to the wesnoth website.

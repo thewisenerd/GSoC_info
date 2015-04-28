@@ -1,0 +1,5 @@
+I am going to implement a Scilab database module, representing two-layered architecture.
+
+The feature will be available to user as a set of Scilab functions for connecting/disconnecting to/from database, managing transactions and executing queries against a database.
+
+To make more use of database interfaces, I will also provide the ability to construct fuzzy queries to databases.

@@ -1,0 +1,1 @@
+I will add initial support for C++0x so Swig can parse the header files written in new version of C++. This includes new syntax additions and usage of new types and classes in the standard C++ library.

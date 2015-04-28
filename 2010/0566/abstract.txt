@@ -1,0 +1,4 @@
+I would write a module for Guile that will compile Parsing Expression
+Grammars (PEGs) into VM instructions, using macros at syntax-expansion
+time or a procedural layer according to the user's tastes.  This would
+be used both for both parsing and matching text.

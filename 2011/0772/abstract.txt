@@ -1,0 +1,5 @@
+From : http://fedoraproject.org/wiki/Summer_coding_ideas_for_2011#Fedora_Medical
+
+The idea behind Fedora Medical is to eventually create a Fedora based distribution that would be useful out of the box for people involved in the health care industry. 
+
+The initial steps would be to package up and make the open source software available in the fedora repositories after which compilation of the "spin" can be done.

@@ -1,0 +1,1 @@
+This project will be an extension to Moodle and TinyMCE which will allow users to seamlessly edit any image inside their HTML documents. The implementation will make use of the new HTML 5 Canvas API in order to ensure the long-term technical viability of the project.

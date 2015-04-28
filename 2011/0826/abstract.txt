@@ -1,0 +1,1 @@
+The project concerns the construction of a complete automated benchmark suite for implementations of standard linear algebra libraries such as BLAS or LAPACK, which will allow the user to choose the best implementation for his machine. Compilers, compiler versions and flags are taken into account for this.

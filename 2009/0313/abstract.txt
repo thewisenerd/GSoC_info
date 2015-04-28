@@ -1,0 +1,3 @@
+The OGC GeoXACML specification describes a standard for access control for geospatial data. GeoXACML is an extension to the OASIS XACML standard. A full compliant GeoXACML implementation should be integrated into the geotools/geoserver project. 
+Geoserver should be able to work as GeoXACML Policy Decision Point for other systems and use this module for its own access control.
+A short introduction is here: http://geoserver.org/display/GEOS/GeoXACML-Integration

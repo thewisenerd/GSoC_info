@@ -1,0 +1,1 @@
+Kate is a KDE text editor. The goal of this project is to redesign the code folding feature. The actual implementation contains many bugs and is hard to be maintained. I would like to redesign this feature using the knowledge gained from the current implementation and add a new feature as well – code folding preview.

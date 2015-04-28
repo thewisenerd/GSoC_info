@@ -1,0 +1,1 @@
+Web services are now being widely used in practice. For example many scientific functions are offered by web services. However, how to use these web services conveniently is a problem, especially among those with limited IT expertise. This project intend to build a "google map" for scientific services and workflows to make them more useable.

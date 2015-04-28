@@ -1,0 +1,3 @@
+The SGI Irix operating system introduces the concept of jobs, which are set of processes handled as a unit. The Irix API provides system calls to set collective resource limits on jobs, which are then enforced by jobs-aware schedulers.
+
+This application proposes the implementation of kernel-level and userland support with an Irix-compatible interface for better portability. The efficiency of the implementation is considered a crucial point of this project.

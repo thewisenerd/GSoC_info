@@ -1,0 +1,1 @@
+Canola is media center like application for Nokia tablets with Maemo. It has good capabilities for extending it's functionality via plugins. I intend to write BitTorrent plugin with RSS-feed reader which could be used to download legal media from Legal Torrents.

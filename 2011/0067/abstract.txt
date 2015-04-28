@@ -1,0 +1,1 @@
+The ATutor Calendar module will gather dates from other modules in the system and compile them into a personal calendar that lists all relevant dates from all courses an individual user is enrolled in. The calendar module also features a personal calendar where users can record personalised events. The calendar can also export/import calendar data.

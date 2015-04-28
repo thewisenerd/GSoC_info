@@ -1,0 +1,1 @@
+Currently, Groovy is not able to run on Google's Android mobile platform. The goal of this GSoC project is to work with the Groovy core team towards the goal of making any Groovy program to run on the Android platform, so that apps for such mobile phone can be written fully in Groovy.

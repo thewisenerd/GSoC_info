@@ -1,0 +1,2 @@
+The goal of this project is to design and implement a Tcl Micro-benchmarking extension with commands to interact with the CPU's hardware counters. 
+We first plan to code an extension in C that works under Linux. Linux's Perf tool that provides access to hardware counters will be used to interact with the OS to get the hardware information.

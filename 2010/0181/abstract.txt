@@ -1,0 +1,1 @@
+Implement the JDB command line debugger tool in Java using the Eclipse JDI library and extend it with other features that add value to the Harmony JDB implementation.

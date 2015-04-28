@@ -1,0 +1,3 @@
+GEGL does not currently contain methods which assist in HDR workflows which have become quite popular. I propose to develop three native GEGL tone-mapping operations.
+
+I also propose to target an image matting operator, allowing the straightforward decomposition of an image into foreground and background components. I will implement the `matting laplacian'.

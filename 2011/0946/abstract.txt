@@ -1,0 +1,1 @@
+Hedgewars is a Worms-like game which runs on a variety of Operating systems. At the end of this summer Android too will experience Hedgewars!

@@ -1,0 +1,1 @@
+This project implements an efficient trie-based data structure representation for the symbolic execution tree for Symbolic Pathfinder. The goal is to define a data structure that compactly represents symbolic execution tree and can be maintained on-the-fly, as the program undergoes changes.

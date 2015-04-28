@@ -1,0 +1,1 @@
+Checking software termination is, in general, undecidable, but has been shown decidable for certain classes of programs.  In particular, termination checking for loops with linear assignments is decidable.  This project aims to create an extension for Java Pathfinder which can determine whether non-terminating loops of this form are present in a given program.

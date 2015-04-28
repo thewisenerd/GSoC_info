@@ -1,0 +1,1 @@
+I will implement several feature in the Worldforge Mason game world which will make  the gameplay more engaging and entertaining. This will include implementing simple functionality like trenches to a complex castle fortification by gathering raw materials available in the mason world.

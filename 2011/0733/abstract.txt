@@ -1,0 +1,1 @@
+This is a proposal for the project Tryton belonging to PSF Umbrella Teams. Currently editing text on the Tryton client is based on a simple TextView. This idea aims to implement a WYSIWYG text editor for the client Tryton.

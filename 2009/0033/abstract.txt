@@ -1,0 +1,4 @@
+Create a Network Manager vpn-plugin, which provides easy setup and management Openswan / Xl2tpd network access for users of Linux desktop. Plugin consists of:
+1) service, which is the bridge between the Openswan / Xl2tpd and dbus-interface of Network Manager. It uses configuration files of Openswan / Xl2tpd.
+2) auth-dialog, which requests user-authorization when connecting;
+3) gui, a settings page for nm-applet. Also provides import / export of the settings.

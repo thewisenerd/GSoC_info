@@ -1,0 +1,1 @@
+This project proposes implementing full text search of  records and attributes in Tryton ERP using Sphinx Search Sever ( http://sphinxsearch.com/ ) in a pythonic implementation.  The idea is to improve Tryton search capability to a more flexible, scalable and powerful option.

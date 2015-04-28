@@ -1,0 +1,4 @@
+Currently the Plugin manager is not very intuitive for a new user.
+This project is an attempt to make the plugin manager a little feature rich and more intuitive for the end user(s) and add new features optimize existing ones.
+At this moment, the plugin manager's design is very simple and does provide all basic features in place.
+With the new plugin and template manager, the aim is to make using and adding plugins almost 1 click without loosing the simplicity in design.

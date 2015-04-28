@@ -1,0 +1,2 @@
+Geoserver (www.geoserver.org)  authentication is based on Spring Security and offering a user id / password log in. After a successful log in process, the user has some predefined roles. Based on these roles, authorization takes place.
+Spring Security offers many additional authentication mechanisms. (Http Basic, Http Digest, X.509 Certificate, openID, ...). Based on these mechanisms a more powerful Geoserver authentication architecture should be developed.

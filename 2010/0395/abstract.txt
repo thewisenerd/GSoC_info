@@ -1,0 +1,6 @@
+The aim of this project is to provide a generic, flexible framework
+for initiating and controlling DMA transfers using General Purpose
+DMA engines, found in most of embedded SoCs - along with tests and
+documentation. There are analogous frameworks for NetBSD (dmover(4))
+and Solaris (ddi_dmae(9F)), but they are not well suited for embedded
+targets and don't offer all required features.

@@ -1,0 +1,4 @@
+Improve the upstream Linux Kernel tracing implemented by the perf events and ftrace subsystems.
+The relationship between those two subsystem is still young and misses various features like
+making the syscalls tracing usable, or instrumentation on finer grained contexts than just tasks
+or cpus.

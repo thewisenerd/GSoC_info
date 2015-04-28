@@ -1,0 +1,1 @@
+Javascript Infovis Toolkit implement a lot of different visualizations to various types of data. At the moment, it implements three types of charts: Area, Pie and Bar. This project aims to refactor Area implement algorithms and rendering for  three new types of chart visualizations: Scatter Plot, Line Charts and Radar Charts.

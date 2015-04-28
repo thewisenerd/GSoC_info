@@ -1,0 +1,3 @@
+Nibble currently uses a GdkDrawable object onto which it draws a huge quantity of SVG images. This implementation work great but begin to show its age. Rich and useful canvas library such as Clutter have made its apparition and provide an optimal solution for this kind of game. The Clutter library provide an OpenGL canvas which combined with texture and drawing capacity of Cairo make the perfect set of tools to re-implement a game like Nibbles to a rich 3D environment.
+
+This proposal aim to explain how I would re-implement Nibble with using Clutter library.

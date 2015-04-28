@@ -1,0 +1,1 @@
+Offer the possibility of not only tagging entire photos, but also tagging people or objects in them --plus face detection using OpenCV and integration with Shotwell's publishing system.

@@ -1,0 +1,1 @@
+This project aims to create an AI player for Unknown Horizons. The AI will create and maintain it settlements but not engage in warfare.

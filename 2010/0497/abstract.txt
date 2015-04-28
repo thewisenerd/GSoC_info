@@ -1,0 +1,1 @@
+Tracking of patterns(blobs) specified by user through another template selection tool. Therefore we will be able to detect and track objects of different shapes or particular shaped devices such as mobiles on the surfaces.

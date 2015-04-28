@@ -1,0 +1,1 @@
+The project's idea is to reclaim idle CPUs to form a high-performance cluster using OAR desktop computing feature inside virtual machines

@@ -1,0 +1,1 @@
+The main idea of WML Validator is  validator with tags hierarhy data on C++. I propose to provide source annotations. Schema generator tool will look through annotations in source and generate schema file. And another tool to validate user-made WML files and return user friendly errors, containing number of line, type of error, and place in tag hierarchy.

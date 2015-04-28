@@ -1,0 +1,2 @@
+MODIS data are free geodata and they are crucial to derive ecological indicators. The two NASA satellite systems, Terra and Aqua, significantly improve the current data availability for scientific purposes. 
+I am facing the challenge to develop a module  which will be able to i)import data from a downloaded file or ii) directly download MODIS data from a FTP server and then load the file(s) in a GRASS GIS location.

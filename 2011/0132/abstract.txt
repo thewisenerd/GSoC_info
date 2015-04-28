@@ -1,0 +1,1 @@
+The aim of this project is to design inclusive data representations using HTML5 canvas and Fluid Infusion to create visual and aural representations of data sets to address the diversity present in cognitive principles of human interpretation and understanding.

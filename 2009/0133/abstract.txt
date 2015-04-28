@@ -1,0 +1,1 @@
+This project will seek to thoroughly test and improve the resize_ffs utility as well as to potentially extend it to support features such as live resizing. The primary goal is to make resize_ffs stable through a thorough regression test suite and code review, fixing bugs where encountered and improving on areas such as resource utilization.

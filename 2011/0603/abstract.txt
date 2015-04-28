@@ -1,0 +1,4 @@
+NPF is a recently committed firewall for NetBSD, but it currently lacks IPv6 support.
+The goal of the project is to add this support.
+
+This will include updating the userspace tools and documentation too.

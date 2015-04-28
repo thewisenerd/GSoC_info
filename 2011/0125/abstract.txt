@@ -1,0 +1,1 @@
+Main idea is to develop/extend new data source (backend) for Phone Book Access Profile. For now there are two (fully functional) backends -- Tracker and Dummy (based on filesystem). Because MeeGo developers  recently decided to use Evolution Data Server (once again) as central data store, there is a need to write appropriate data access module.

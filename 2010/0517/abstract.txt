@@ -1,0 +1,3 @@
+Proposals:
+
+Application Tracker - An application tracker programmed in Ruby on Rails, and compatible with both PostgreSQL and MySQL.  The application tracker provides both applicants and administrators a suite of tools useful to the job application process.

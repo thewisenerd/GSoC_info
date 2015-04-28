@@ -1,0 +1,1 @@
+Following up on the popular Dingux project, I would like to create the Linux kernel support for a new, low-price handheld game console.

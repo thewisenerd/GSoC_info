@@ -1,0 +1,1 @@
+Smart Upload Server Proposal from Petr Jasek. It's about making packages upload smarter, more interactive and painless for uploaders. Test early, report early. Save devs time.

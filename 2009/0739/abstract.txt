@@ -1,0 +1,1 @@
+Of course, eclipse support ant. But now, in mdern project ant build files became to difficult to maintaine and refactor. Goal of this proposal - to implement an infrastructure to support refactorings for ant files, provide more clear and visual tool for working with ant tasks ant targets.

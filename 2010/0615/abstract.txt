@@ -1,0 +1,3 @@
+This project aims to enhance an existing MT component framework eg. Lux. By separating the user interface from back-end application code, complexity may be reduced and development opened up to multiple languages and platforms.
+
+Proposed is a simple markup language designed to streamline user interface specification, and a server-client model to allow remote state management from back-end applications. Basic details are provided to aid understanding.

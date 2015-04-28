@@ -1,0 +1,1 @@
+Both FIFO and pipe are ways for interprocess communication. FIFO and pipes are similar in many aspects and it is likely that the FIFO implementation can be merged with pipe implementation. I would like to do this for FreeBSD.

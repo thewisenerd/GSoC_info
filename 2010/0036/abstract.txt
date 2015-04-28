@@ -1,0 +1,1 @@
+This is a proposal to develop set of mobile themes for ATutor based around Web a11y standards & mobile best practices.

@@ -1,0 +1,3 @@
+Kivy abstracts from platform specific APIs to allow it to run on many different platforms, such as Mac OS X, Windows, Linux and Android. For every platform, specific 'providers' can be implemented that provide a certain piece of functionality (video, audio, text rendering, etc).
+
+On OS X we currently ship things like gstreamer in our portable package, which is not really easy to handle. This proposal aims at improving the situation by adding support for native OS X APIs such as Core Video/Audio.

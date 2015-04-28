@@ -1,0 +1,2 @@
+The goal is be to develop a web application that runs on mobile devices and acts as a client for an XMMS2 daemon. The application will be a remote the user can use to control playback, manage playlists and query the media library. A web client is a good approach because with the new HTML5/CSS features it's now possible to create great user experiences using only portable web technologies. 
+The two deliverables for this project are the python xmms2 client and the mobile web application.

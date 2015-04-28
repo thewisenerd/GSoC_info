@@ -1,0 +1,1 @@
+The aim of this proposal is to give the freedom to XHP developers to develop in HTML5 without waiting the browsers to support it. This will be done by implementing the HTML5 syntax in XHP and rendering it to HTML/CSS/JS that will be behaving similarly and be compatible with all the major browsers.

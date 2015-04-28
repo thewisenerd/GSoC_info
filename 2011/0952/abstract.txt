@@ -1,0 +1,1 @@
+This project seeks to rewrite the ILASM backend to use the Mono.Cecil library, which is more reliable than PEAPI. In addition, if there is enough time, a managed (C#) version of ILDASM will be written.

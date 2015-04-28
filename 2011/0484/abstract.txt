@@ -1,0 +1,1 @@
+In this project I want to implement the exporting of Catroid projects as apk files. For this I will upload the project files to the Catroid web-server, and run it through a program which will generate the corresponding Android project. This program will synchronize with Catroid repositories in order to always have an up-to-date list of bricks with their functionality.

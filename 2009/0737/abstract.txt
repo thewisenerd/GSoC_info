@@ -1,0 +1,2 @@
+The Video Acceleration API is an API designed to provide hardware acceleration for graphic application using the processing power of graphic cards. Drivers exists for Intel graphic cards. A backend for the VDPAU API (by nVidia) has been released and the same is under way for ATI cards. 
+Thus, this project aims to implement a decoder and the corresponding video output for VLC, using the power of VA API to reduce CPU consumption while reading h.264, VC-1 and MPEG-4 videos.

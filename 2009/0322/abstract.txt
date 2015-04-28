@@ -1,0 +1,3 @@
+Hello, my name is Soren Berg and I want to design and implement a scriptable API for Inkscape.
+
+The API could be used for a variety of things including scripting, regression testing (see attached proof of concept), or more complex batch processing. Inkscape currently has two ways of extending Inkscape, but neither is appropriate as a general purpose API.

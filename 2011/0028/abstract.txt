@@ -1,0 +1,1 @@
+Currently GiST index don't have any bulk load functionality. It have to create new index by entry insertion one by one. This makes new index creation relatively slow in comparison with btree and even GIN. I propose to use some R-tree bulk techniques which seems to be applicable to GiST in order to accelerate GiST build.

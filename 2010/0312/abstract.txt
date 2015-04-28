@@ -1,0 +1,3 @@
+The main goal of this project is to create a global robust caching system to replcae the old caching system of the logic service to improve performance of this service and the whole system. 
+
+The new caching system will be implemented with existing widely used cache framework like ehcache, jcs, oscache, jboss cahce or any other.

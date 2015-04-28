@@ -1,0 +1,1 @@
+My proposal is to implement a scalable and multi-threaded web crawler in Java with extension points that enable the development of new components in other programming languages or the reuse of the existing code. The solution proposed addresses the problem without using external libraries and can be deployed in one machine or in a distributed environment.

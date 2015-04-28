@@ -1,0 +1,3 @@
+Support for LAN multiplayer mode. This is probably the most ambitious, as it will require 
+     restructuring the game into client and server programs. Networking to be accomplished using 
+     SDL_net.

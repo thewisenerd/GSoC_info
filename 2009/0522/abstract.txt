@@ -1,0 +1,3 @@
+My objective is to enable a common NetBSD user to configure and execute a bulk install of NetBSD on any number of networked machines using PXE booting. The user will be able to create custom defined machine configurations for application to different machines.
+
+The PXE Bulk Install system has already been created, but is in a rough, virtually undocumented state. My work will involve simplifying the process of configuration as well as writing extensive documentation.

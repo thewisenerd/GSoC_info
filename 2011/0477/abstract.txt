@@ -1,0 +1,1 @@
+OpenNMS is equipped with over 25 numbers of daemons. According to the community, these daemons make the heart of OpenNMS. The possibility of dynamically managing these daemons is a very important functionality. Further, this functionality should be available in both locally and remotely.  The Java Management Extensions (JMX) technology can be used to accomplish this task.

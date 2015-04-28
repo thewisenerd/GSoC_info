@@ -1,0 +1,1 @@
+This project's aim is to move Pydra towards a 1.0 release through the implementation of wishlist features.  The focus is on the addition of cloud provisioning, batch optimizations, and task runtime statistics.

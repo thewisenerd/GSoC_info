@@ -1,0 +1,1 @@
+I'm interested in improving visualization techniques and/or semantic processing. I'd explore libraries like flare (http://flare.prefuse.org/) and linguistic techniques like probabilistic latent semantic analysis. (http://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)

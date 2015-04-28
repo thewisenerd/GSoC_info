@@ -1,0 +1,2 @@
+This project will add a feature to Gentoo to use Linux-Capabilities instead of setuid/setgid, which would be a security enhancement. Gentoo allows some security features already and Capabilities will make a useful addition.
+The user will be able to choose, if he/she wants to use Capabilities by setting a USE-Flag or selecting an appropriate profile.

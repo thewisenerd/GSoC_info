@@ -1,0 +1,5 @@
+This project aims to add support for CUnit test format to API Sanity 
+Autotest tool. The tool currently supports only Template2Code format which is quite
+complicated and is not very popular. A support for other test 
+formats like CUnit (which is the most popular nowadays) is neaded to
+extend the API SanityAutotest framework audience.

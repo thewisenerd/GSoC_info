@@ -1,0 +1,1 @@
+The Castor project is a quite popular and ongoing data binding and persistence framework. It demonstrates its strength in a wide variety of usage scenarios, embedment in powerful frameworks and a highly participating community. This project intends to add support for StAX for un-/marshalling to the XML data binding framework.

@@ -1,0 +1,1 @@
+Geographic vector data is naturally structured like a graph, network and topological analyses view GIS data as graphs, but so far no-one has tried to make use of a real graph database as the backing store for a GIS.

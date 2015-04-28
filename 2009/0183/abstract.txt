@@ -1,0 +1,3 @@
+GEGL (Generic Graphics Library) is a new back-end to replace GIMP's old code for handling various image processing tasks.
+
+GPUs nowadays are capable of massively accelerating graphics tasks, there is an ongoing movement to harness this power in general computing.  However, because of the nature of GPU parallelization, not all code can be executed in the GPU.  GEGL's architecture of pixel operations yields itself to GPU parallelization, making it a good candidate for GPU acceleration.

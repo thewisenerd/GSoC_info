@@ -1,0 +1,1 @@
+Implement a layout manager, mutiple static layouts and one dynamic layout to Nemiver.

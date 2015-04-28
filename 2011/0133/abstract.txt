@@ -1,0 +1,1 @@
+A fault tolerance detector functionality that periodicaly query backend nodes for VM status. This mechanis will update those VM status at the Nimbus frontend's database and avoid the problem of VM that unexpectedly died but is still considered as running by the frontend.

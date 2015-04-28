@@ -1,0 +1,3 @@
+This proposal focuses on separating the different aspects of the whole project and achieving a simple and clean design for each of them.
+Defining an intuitive and declarative API for building diagrams will be a main concern. The graphics will be built using Morphic. 
+I would prioritize building the UML diagrams programatically through the diagram API over autogenerating them, because the scope of the project is quite big for the given development time.

@@ -1,0 +1,5 @@
+Proposal of improvement the Triangulation API by: 
+Taking the user data types to be attached directly as parameters of the triangulation class instead of using Triangulation_vertex_with_info_3 class
+Extending the triangulation classes to manage data attached to facets and edges, even if those elements are not always represented in memory
+Extending triangulation classes to enable attaching combined data 
+This proposal is an effect of exchanging thoughts with Sylvain Pion.

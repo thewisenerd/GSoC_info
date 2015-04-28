@@ -1,0 +1,5 @@
+every time git-daemon handles a fetch, it must (re-)enumerate and (re-)pack all the required objects.  this is often very inefficient.
+
+I propose maintaining an updated list of commits/objects reachable from HEAD.  this would eliminate our need for extensive tree traversals.
+
+further, 'partial packfiles' could be used to cache slices of the object list.  due to the nature of packfiles, these could more-or-less be coalesced to form the majority of the pack.

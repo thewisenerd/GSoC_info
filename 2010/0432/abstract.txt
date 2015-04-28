@@ -1,0 +1,1 @@
+In this project, I am going to work on the speckle removal and edge detection part for SAR processing tools. I am going to try the refined Lee filter for speckle removal and wavelet transform based edge detection/noise removal. Also I hope to try texture segmentation for SAR images if there is enough time

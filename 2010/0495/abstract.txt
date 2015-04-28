@@ -1,0 +1,1 @@
+I'm going to add new features to Sonar project. The main idea is create architecture for easy addition of existing plugins to Sonar Dashboard and also capability for user to manipulate widgets and edit layout of the Dashboard. It can bring many benefits for comfortable use Sonar in production environment during software development.

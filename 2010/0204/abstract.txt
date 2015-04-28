@@ -1,0 +1,2 @@
+While PyMT already contains several widgets and facilities that can be used for UI creation, text input, 3D drawing and user interaction, few of these fully utilize the potential of MT hardware. Actually, most of the already existing widgets are a reimplementation of what we already know from the WIMP world.
+The goal of this specific proposal is to design and implement advanced text input methods.

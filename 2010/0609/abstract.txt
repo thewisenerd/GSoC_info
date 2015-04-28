@@ -1,0 +1,1 @@
+webapp-config is the web application installer and updater on gentoo. it currently has many issues and bugs, and its design has some serious flaws. fixing the current mess would be a waste of time. instead it should be reimplemented, possibly in a distro-agnostic manner. (- shamelessly copied from the gentoo wiki, because it says it all, very well)

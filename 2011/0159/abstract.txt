@@ -1,0 +1,1 @@
+Extend wireless driver support to include Atheros 802.11n interface cards.

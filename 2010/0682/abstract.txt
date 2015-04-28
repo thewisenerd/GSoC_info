@@ -1,0 +1,1 @@
+Mercurial is growing in popularity as more and more software projects are adopting it. Knowing that the future of Python development will be on Python 3 branch, and that the adoption of Python 3.x depends on the availability of tools and libraries for it, this project proposal intends to implement a mercurial port so that it can run on Python 3.x.

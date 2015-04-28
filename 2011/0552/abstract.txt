@@ -1,0 +1,2 @@
+The project aims to finish the the migration to using Hibernate as the ORM framework that the OpenNMS has started.
+The project consists of two parts. Firstly it is a necessity to create the VO Java classes accordingly to the specific database and also the Hibernate DAO layer.  The second part of the  soc project consists of the integration of the newly created dao with the webui and the daemons.

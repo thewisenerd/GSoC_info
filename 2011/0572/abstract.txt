@@ -1,0 +1,1 @@
+The LDV projects currently has some issues concerning analysis of code handling implicit memory locations. This project aims to add support for such analysis using model checking with predicate abstraction. More particular, a tool should be developed for interpolation between quantified logical formulas over the theories of linear arithmetic and uninterpreted functions.

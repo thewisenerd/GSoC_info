@@ -1,0 +1,4 @@
+This project has two parts:
+
+1. Design and implement a browser engine abstraction layer in Python with two backends: hulahop/xulrunner and pywebkitgtk/webkit.
+2. Port Browse to this new abstraction layer, complete with SSB support.

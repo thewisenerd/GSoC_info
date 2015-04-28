@@ -1,0 +1,4 @@
+A HistoryService would be associated with a database containing different tables corresponding to each History. The fields(columns) present in each table would depend upon the HistoryRecordStructure for the History and each HistoryRecord would be represented by a row in the table. Records would be read, written and searched using the appropriate SQL queries.
+
+
+.

@@ -1,0 +1,3 @@
+AMD has designed and implemented an IOMMU that benefits virtualization by providing a means to assign devices to virtual machines. Also, by design, the IOMMU lends itself to emulation in a VM. The emulation can provide IOMMU capabilities to guests, making it possible to assign devices to nested guests.
+
+This proposal aims to implement an emulated AMD IOMMU in QEMU/KVM.

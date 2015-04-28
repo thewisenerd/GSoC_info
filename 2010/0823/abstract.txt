@@ -1,0 +1,3 @@
+This project is about improving the reliability of the XMPP stream between Psi and XMPP servers and user interface improvements.
+Implementing XEP-0198 and XEP-0184 will hopefully improve reliability and redesigning the MUC user interfaces will highly improve
+overall user experience and make it easier for users who are new to instant messaging to chat with other people.

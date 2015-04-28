@@ -1,0 +1,8 @@
+The project paves a way to combine the demands in high performance
+computing with the dynamics of compute clouds with Debian.
+Combining the Eucalyptus cloud computing infrastructure
+with the TORQUE resource manager and preparing the components for
+dynamically added and removed instances provides the user with a
+attractive high performance computing environment.
+Such a system allows users to share resources with large
+compute centers with minimal changes in their workflow and scripts.

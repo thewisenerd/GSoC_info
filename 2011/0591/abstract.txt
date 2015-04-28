@@ -1,0 +1,1 @@
+We encode the formalism behind Event Spaces, Probability Distributions, and Random Variables into SymPy, an open source Computer Algebra System in Python.

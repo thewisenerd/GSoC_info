@@ -1,0 +1,3 @@
+A proposal for a Java port of the Apertium runtime.
+
+The reasons for undertaking such a project include making it easier to run on non-*nix platforms, enabling it to be run in embedded spaces, and encouraging more involvement in the engine's development at a low level.

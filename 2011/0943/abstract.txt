@@ -1,0 +1,4 @@
+In Rekonq managing a lot of tabs is a troublesome task.
+This projects aim to make organizing tabs into sessions possible by supplying an attractive GUI called the panorama view. From panorama, a user can load a session [group of tabs], store a session, or modify the tabs in it.
+
+This way, a user can organize tabs into sessions like 'study', 'mail and contacts', 'web apps', and 'work', and load and store them individually. It will reduce the hassle of managing many unorganized tabs at once.

@@ -1,0 +1,2 @@
+In many environments, cloud resources spend much time unoccupied due to a low demand on the cloud infrastructure. One way to maximize the utilization of the cloud infrastructure is to allow clients to bid on unused cloud capacity, and thus obtaining lower allocation costs.
+This project's goal is to extend the Nimbus Workspace Service to allow clients to bid and allocate cloud resources in an Amazon EC2 Spot Instance's fashion, targeted for science needs.

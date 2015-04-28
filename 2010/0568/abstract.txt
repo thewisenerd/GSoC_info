@@ -1,0 +1,5 @@
+GSOC 2010 Proposal - Matthias Nick:
+
+Implementing automated top-down tests for asterisk:
+ - Implementing a top-down test for call-parking
+ - Implementing a top-down test for various dial-options

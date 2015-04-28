@@ -1,0 +1,1 @@
+SonATA (SETI on the ATA) is a signal processing software system that controls the operation of the Allen Telescope Array, collects data, and performs signal analysis. This project involves making changes in SonATA source code and build infrastructure to have ease of building and running the SonATA and thus, enabling the new users to contribute to it.

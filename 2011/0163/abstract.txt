@@ -1,0 +1,3 @@
+After this implementation, users will be able to specify there requirements for new or improvement in subtitles of one or more language for a video. 
+
+The system would let the volunteers find videos to work on easily using the subtitles requests which are posted.

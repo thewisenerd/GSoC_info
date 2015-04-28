@@ -1,0 +1,1 @@
+Debian GNU/Hurd is currently installed either using outdated CD images, or from an existing Debian GNU/Linux system using the 'crosshurd' package. The goal of this project is to modify debian-installer and the related packages to produce working Debian GNU/Hurd installation images.

@@ -1,0 +1,3 @@
+I propose the creation of an interface for version control systems for the templates which integrates the display of revision information into the theme editor page. This core functionality will then be extended to include support to display diffs across versions.
+
+Upon creation of this interface, adapter plugins will be created for various VCS including a custom post based VCS using the WordPress database.

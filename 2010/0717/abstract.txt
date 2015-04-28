@@ -1,0 +1,1 @@
+Xerces2 is a XML parser written in java which allows to parse,manipulate and validate XML documents.Xerces XPointer xpointer() scheme lets users to select document fragments using the XPath expressions.The objective of this project is to improve the Xerces' streaming XInclude processor so that it provides support for a streamable subset of XPointer xpointer() scheme.

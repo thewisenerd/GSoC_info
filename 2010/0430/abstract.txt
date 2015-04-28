@@ -1,0 +1,4 @@
+Masked Edit Control is used to help user to write a string in the good format.
+It may be usefull in ip configuration for example. Administrator acces is required
+to install or to modify critical files. This two project is very usefull for the user
+and for the dvellopers.

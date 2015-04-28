@@ -1,0 +1,1 @@
+I will work to implement the end-user documentation reader as proposed by Carl Mäsak[1] in his Userdocs For Christmas project (u4x). I will also make a plugin for the Perl GUI editor Padre which uses this application to access documentation. Finally I will write new documentation for Perl 6, as well as port documentation from others.

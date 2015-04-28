@@ -1,0 +1,1 @@
+DragonFly BSD is one of *BSD families. It is known for HAMMER which is a file system that provides several new features and rivals ZFS in the future. The idea is to make it possible to use Portage on DragonFly BSD/HAMMER, to create ebuild packages for DragonFly's core system and to make simple desktop work on Gentoo/DragonFly BSD.

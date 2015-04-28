@@ -1,0 +1,5 @@
+GridSweeper is a tool for automating parameter sweeps of computational models on grid systems such as the Sun Grid Engine. Developed from the beginning as a Summer of Code project, it has been used by researchers and students at the University of Michigan Center for the Study of Complex Systems to aid in the study of a wide variety of complex systems.
+
+This year, I propose to work on two major tasks:
+(1) Complete a 1.0 release of GridSweeper that can be deployed easily by other grid administrators.
+(2) Work on improvements for future releases, focusing on finishing the adaptive parameter sampling work begun during Summer of Code 2008.

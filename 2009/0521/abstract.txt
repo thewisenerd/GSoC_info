@@ -1,0 +1,5 @@
+This project aims to produce a driver for Globus XIO that will checksum data streams. The driver will have two modes of operation:
+
+1) Checksum the stream of data as it passes through the driver and report the final value on close. The endpoints will then verify out-of-band that the checksums match.
+
+2) Checksum each block of data and add the checksum to a block header before it is transmittet. If the checksums do not match the driver will either close the connection or request retransmit.

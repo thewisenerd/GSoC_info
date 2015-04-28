@@ -1,0 +1,1 @@
+The idea of this project is to prototype a completely new implementation of the Mifos user interface (UI). The goal is that the UI should look the same as the current user interface, but use Groovy, Grails, GSP pages and HTML based on CSS and the Blueprint CSS framework.

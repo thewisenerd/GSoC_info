@@ -1,0 +1,5 @@
+I'm goint to improve TDBC driver to make it more versatile by:
+* Implementing new drivers and adapters to existing interfaces
+* embedding other connectivity projects under TDBC and using it as a slave below others. 
+
+I was brought to Tcl/Tk by Tomasz Kosiak and I have a face-to-face contact with him as I work part time for a DAC System. Tomasz assured me, that he can give me positive references for work I have done for him.

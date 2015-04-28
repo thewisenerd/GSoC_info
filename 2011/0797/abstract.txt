@@ -1,0 +1,1 @@
+VC-1, along with MPEG-2 Part 2 and H.264/MPEG-4 AVC, is one of the mandatory codecs that all compliant Blu-ray Disc players are required to support. Libav VC-1 decoder currently does not implement interlaced video sequence decoding and range mapping. The primary objective of this project will be to implement support for these features in the Libav VC-1 decoder.

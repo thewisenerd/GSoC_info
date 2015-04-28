@@ -1,0 +1,1 @@
+I propose to improve the Kawa REPL by implementing some common editing commands, such as copy/paste, and save. I also plan to allow for a graphical indication of where read/evaluation errors have arisen in the REPL. I plan to extend the Kawa writer to incorporate the SRFI-38 extension, the writer's PrettyWritter should be incorporated into the GUI and possibly a web REPL.

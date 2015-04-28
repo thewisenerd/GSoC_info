@@ -1,0 +1,3 @@
+Theme Framework for Wordpress will users to create their own themes from the a very friendly UI this project will offer, instead of using a free theme or buying a new theme.
+
+Project will have a scratchpad, enabling users to drag-drop elements to it. A CSS Framework will be used to ease the development of themes. HTML and the files will be generated automatically.

@@ -1,0 +1,15 @@
+Overview:
+Create a social framework in Drupal that ties existing contrib modules together so that Drupal social sites can be more easily rolled out
+
+Motivation:
+The Drupal community has built a number of contrib modules to add interactivity into multi-user Drupal sites. Aggregated, they represent most of the features needed and wanted for building a social site. Unfortunately, finding, evaluating, and integrating these modules together is very time-intensive due to the varying quality of contrib modules.
+Creating a social framework in Drupal will pull together these modules into a cohesive package.
+
+Goals:
+* Non-technical (ie. no coding knowledge) administrators should be able to roll out a social site using this framework
+* Where appropriate, allow admins to choose which module to implement a particular feature (ie. the various profile modules) like wysiwyg with text editors
+* Create custom code to bridge contrib modules together and close feature gaps unfilled by existing contrib modules
+* Document how the contrib modules fit together to form the framework and how custom code bridges these modules together
+* Create an install profile to configure the framework initially
+* Create an administrative section to coordinate the configuration of the different framework modules (time permitting)
+* Include UI and usability improvements like Popups API or Ajax submit to improve the user experience (time-permitting)

@@ -1,0 +1,3 @@
+This project is about creating an extension for the most advanced wiki module for the e-learning environment DotLRN.
+
+The main part of this project is an implementation of the import and export mechanisms for SCORM content packages, as well as the development of a SCORM compliant run-time environment and authoring platform based on XOWiki.

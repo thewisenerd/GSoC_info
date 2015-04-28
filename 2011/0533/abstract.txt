@@ -1,0 +1,1 @@
+The main goal is to optimize video and audio filters of VLC, add SIMD x86 instruction using functions and clean their C code up. Next step is profiling of main VLC.

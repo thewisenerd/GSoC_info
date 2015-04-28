@@ -1,0 +1,3 @@
+All though how great software might be, if we can't use it, it's value deteriorate.
+One of the most common questions of people that want to try or expand their usage of plan9 is: does it work on x or y?
+As the mobile devices get more and powerful it would be intressting to see the usage of plan9 in this area. Adding support for IGEPv2 , Cortex A8 and armv7 is a first step in this direction.

@@ -1,0 +1,1 @@
+Will correct display errors in later Humongous Entertainment games utilizing the Scumm engine with a combination of 8 and 16 bit graphical resources, in accordance with outline provided on the Summer of Code '09 ideas page.

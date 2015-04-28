@@ -1,0 +1,3 @@
+ScummVM is a Virtual Machine for several old games. While compatibility is quite good, not all versions are fully supported - particulary support for special sound-formats is missing.
+
+My work would be to implement those missing sound-formats to improve the experience playing those games.

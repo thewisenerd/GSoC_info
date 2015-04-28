@@ -1,0 +1,7 @@
+My GSOC application would extend the current Worldforge GUI by adding an additional five features.
+
+1. Dragging items from inventory to world
+2. A quick help system
+3. Minimap entity tracking
+4. Implementing inventory containers
+5. Implementing action bars and buttons

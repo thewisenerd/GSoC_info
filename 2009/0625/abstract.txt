@@ -1,0 +1,8 @@
+What we really need is a Distributed Small Storage System, so save and receive small information pieces.
+- find a DHT lib that fits embedded systems
+- design a data structure which fits most purposes. 
+  This should include future features like crypto signed values for validation, etc
+- implement (re)distribution algorithms suitable for a mesh
+- lua bindings
+- implement a example usage. If there is enough time, implement something useful like
+  distributed DNS

@@ -1,0 +1,2 @@
+The trace compilation technique was invented by Andreas Gal and Michael Franz, who used ideas from previous works, like trace scheduling and the Dynamo Compiler.  Many papers have been published on this subject since the debut of the technique, in the early 2007, and the area is still a hot research topic. The objective of this project is to increase the performance of the binaries produced by the TraceMonkey JIT compiler, used by the Mozilla Firefox
+browser to compile JavaScript programs

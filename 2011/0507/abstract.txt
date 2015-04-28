@@ -1,0 +1,1 @@
+This proposal aims to develop a port of the Gython language, originally developed by the GUESS project, as a scripting plug-in with a console user interface for Gephi. The Gython language is a Domain Specific Language which is completely based on Jython and has additional operators that make it easier to handle graph structures.

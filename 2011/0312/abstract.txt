@@ -1,0 +1,1 @@
+I propose to extend ino_t to 64-bit, nlink_t to 32-bit and add directory offset field to struct dirent, implementing all necessary compatibility wrappers to preserve backward compatibility at both kernel and user level.

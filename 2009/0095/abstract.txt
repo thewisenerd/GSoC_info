@@ -1,0 +1,2 @@
+Graph partitioning is an important problem with extensive application in scientific computing, optimization, VLSI design, and task partitioning for parallel processing. 
+My GSoC project would be to implement several graph partitioning algorithms on the existing BGL graph types, and then, depending on the availability of a hypergraph data structure, either look at partitioning algorithms on hypergraphs, or attempt to implement those partitioning algorithms in The Parallel BGL.

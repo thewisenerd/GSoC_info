@@ -1,0 +1,1 @@
+Sabayon has a fork of Anaconda suited for installing a Gentoo-based distro. We should take it and make it install a real Gentoo.

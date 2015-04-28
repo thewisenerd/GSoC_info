@@ -1,0 +1,1 @@
+The experience of creating or customizing a Plone theme needs to be simplified. A designer should be able to create and package a new theme completely TTW. This project aims to simplify the experience of through the web (TTW) theme customization and theme redistribution.

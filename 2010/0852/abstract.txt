@@ -1,0 +1,1 @@
+The next MoinMoin version will use an internal DOM tree to store document. At this time some conversions are missing, especially between DOM Tree and DocBook format. I am offering here to carry out this task during the next summer.

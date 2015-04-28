@@ -1,0 +1,2 @@
+AbiWord is a free and open-source word processing program runs on various platforms while available with different languages as well.
+AbiWord now provides features like paragraph borders and shading, some new set of features for tables and text boxes. But AbiWord has not a proper mechanism to set these properties yet. The goal of this project is to implement a GUI dialog based mechanism to expose these features.

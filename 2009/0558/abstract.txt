@@ -1,0 +1,3 @@
+Currently, the X server manages one monolithic root pixmap, which each screen uses a portion of for scanout and display. However, this causes many problems related to various hardware limits and memory management.
+
+This proposal would implement Adam Jackson's shatter, a proposed technique in which the server creates one root pixmap per screen and manages inter-pixmap rendering through a series of redirections in the rendering pipeline.

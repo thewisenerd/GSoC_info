@@ -1,0 +1,1 @@
+The target of this project is to improve the Blender 2.5 Game Engine Python API, the GE in general and port Yo Frankie! to work with it.

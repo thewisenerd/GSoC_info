@@ -1,0 +1,5 @@
+The scikits.image library aims to provide a complete image processing environment for Python, by complementing the functionality already available in packages such as scipy.ndimage and the rest of the SciPy toolstack.  We propose four focused efforts for improving key aspects of the library:
+adding multiple computational backend support,
+enabling video input and output,
+implementing select image processing algorithms and
+writing good introductory documentation.

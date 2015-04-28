@@ -1,0 +1,3 @@
+Apache Derby relies on the open standard Distributed Relational Database Architecture (DRDA) to implement the abstraction between SQL and a standard DRDA language. Its implementation on Derby is currently limited to ASCII characters.
+
+There is an actual and current need to support Japanese and Chinese characters as requested by the community. My task will be to refactor and improve the code so that these characters are supported by the DRDA engine on Derby.

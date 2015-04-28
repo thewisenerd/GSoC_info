@@ -1,0 +1,3 @@
+A new mode in Stage to make a single canvas (SVG)
+presentation: The user can jot down his ideas on a single infinite canvas and mark out sections of the canvas as frames.The presentation will proceed from frame to frame. Different zooming levels can be set for the frames: you can
+emphasize on a point and then zoom in, to show the finer details, in the next frame. So, you can make the presentation as you think and think as you make and the audience follows your chain of thought when you present!

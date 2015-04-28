@@ -1,0 +1,3 @@
+The RSA algorithm cannot (or at least should not) be used „plain“ for real-world applications. It needs some kind of padding. Earlier RSA implementations used a naive approach to do this padding, which also caused security issues.
+Today there are methods for RSA-padding that have „proven“ security, called RSA-OAEP (encryption) and RSA-PSS (signatures). But usage isn't very widespread yet.
+The purpose of this proposal is the implementation of RSA-PSS for X.509 certificates in nss.

@@ -1,0 +1,1 @@
+This project will improve the support for Python 3 in Cython, and use the new features in Python 3 to improve Cython's user-friendliness in its pure Python mode. This includes several bug fixes, as well as the use of Python 3 function annotation and class decorators to provide type information for Cython's pure Python mode.

@@ -1,0 +1,1 @@
+I'll improve TextSymbolizer by adding new placement options and by rewriting the text engine to support versatile formating without the need to use multiple TextSymbolizers.

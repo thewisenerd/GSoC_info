@@ -1,0 +1,5 @@
+Educators are given many tools to assist in teaching today's youth. However, 
+some of these tools are very expensive, difficult to use, or are not easily 
+accessible. This project would create an open-source solution to aid in 
+connecting teachers at multiple levels by sharing quiz data and providing a 
+consistent game interface for asessing students.

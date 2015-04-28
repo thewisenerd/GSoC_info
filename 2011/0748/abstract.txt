@@ -1,0 +1,6 @@
+To be successful an international version of the website is important. I
+would like to do the internationalization of the Catroid community
+website. This can be done together with the internationalization of the
+MesswordFilter which was mentioned in another suggestion. It is also
+necessary to provide a usability recommendation for the main target
+group.

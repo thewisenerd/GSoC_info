@@ -1,0 +1,5 @@
+An ability to store arbitrary pieces of tabular data, in the same way that PHP CMSes often have their databases abused for other things.
+
+A simple intranet solution for everything that is now uploaded as Excel files: equipment lists, book loans, etc.
+
+It's a list of items where members can add/edit columns and rows and of course data.

@@ -1,0 +1,3 @@
+Synapse provides a large number of samples to help developers get started. Currently these samples have to be manually set up and run which is a tedious and time consuming process.
+
+Aim of this project is to develop an automation framework which can handle all the tasks involving trying out the samples enabling new users to get started quickly.

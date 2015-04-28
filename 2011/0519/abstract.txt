@@ -1,0 +1,1 @@
+Adding a collection of image transformation algorithms. In particular: arbitrary rotation, shear mapping (transvection), translation, reflection and Thin Plate Spline.

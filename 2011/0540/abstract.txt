@@ -1,0 +1,2 @@
+This Project aims at automating all ADL SCORM 1.2 tests and some ADL SCORM 2004 tests and generating a user friendly HTML report displaying the results of the test. 
+The results of the ADL SCORM 2004 tests will be used to find the ADL SCORM 2004 test failures and report bugs and write patches for the same.

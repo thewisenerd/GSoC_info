@@ -1,0 +1,1 @@
+This proposal intends to create an open-source implementation of the DACP protocol, aka iPhone/iPod Remote app, as a plugin to the Rhythmbox music player as the "server" and a proof-of-concept GObject-based "client".

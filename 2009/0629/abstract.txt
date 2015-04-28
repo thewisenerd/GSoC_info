@@ -1,0 +1,1 @@
+KStars is a wonderful Desktop Planetarium and it serves as a very useful tool for Amateur Astronomers. But it currently lacks a good, versatile observation planner. I propose to create an observation planner for KStars to make it a better software and hopefully increase the user base.

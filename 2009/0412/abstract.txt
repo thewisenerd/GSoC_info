@@ -1,0 +1,1 @@
+Finish the remainder of the ActiveModel todo list (observers, callbacks, validations, scoping, and serialization) in addition to associations. Also wire up ActiveModel up to ActiveRecord and ActiveResource.

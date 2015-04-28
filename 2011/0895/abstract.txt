@@ -1,0 +1,1 @@
+A LALR parser generator will be developed that will convert declarative specifications into Winxed code to parse an input stream of tokens.

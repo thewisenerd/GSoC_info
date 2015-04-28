@@ -1,0 +1,2 @@
+The first step would be to stub the affected functions. After that I would implement the file loading routings to make it possible to load the most common file formats. Of course there need to be test cases for everything, too.
+As it's often used in the DirectX SDK samples, it is sensible to implement the ID3DX FontS interface, too. With this groundwork it's a good idea to make about 5-10 samples compileable with WINE-libs and running with WINE. This would prove that our implementation is solid

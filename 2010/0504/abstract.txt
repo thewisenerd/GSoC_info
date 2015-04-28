@@ -1,0 +1,1 @@
+The implementation of the support for SQLite and SpatiaLite would provide gvSIG users with a handy and platform independent data management system without having to be based on any external DBMS application allowing them to manage geographic and topological data in an easier way.

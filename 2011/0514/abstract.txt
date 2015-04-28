@@ -1,0 +1,3 @@
+OpenGIS data types are supported in MySQL since version 4.1. It’s high time that phpMyAdmin add support for these data types. Support needs to be added in number of areas, data browsing, data insertion, data editing, searching based on relevant criteria, data exporting being few of them.
+
+In the proposed GSoC project I present my suggestions, plans and proposed schedule on adding the necessary functionality to phpMyAdmin for it to effectively support OpenGIS data types.

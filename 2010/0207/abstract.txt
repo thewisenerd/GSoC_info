@@ -1,0 +1,3 @@
+I wish to further SDLs support of international end-users.
+This feature will add support for Windows input methods.
+This will allow the input of CJK and other complex scripts in SDL programs in Windows, using the IME. It may also provide a framework to support more exotic input methods such as handwriting and speech recognition.

@@ -1,0 +1,1 @@
+Object Oriented paradigm doesn't need to be justified for its importance and with more modules getting in inkscape and many being deleted, a flexible and efficient way of doing things is required. Hence the importance of C++ifying the codebase, with the first amendable set to be the SP Layer, with focus on privatizing the XML nodes.

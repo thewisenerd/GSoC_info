@@ -1,0 +1,1 @@
+We need a posix_spawn implementation which combine fork() and exec() in one system call. This will benefit the growing amount of multithread applications and make NetBSD more posix compatible.

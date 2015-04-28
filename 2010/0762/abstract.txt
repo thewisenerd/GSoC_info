@@ -1,0 +1,1 @@
+Libavfilter is the ffmpeg framework for video post processing filters and replaces the earlier vhooks framework. This project involves extending the libavfilter framework for audio post processing with minimal changes to the current video interfaces and adding volume, resampling and format conversion audio filters.

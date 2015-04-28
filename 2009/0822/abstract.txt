@@ -1,0 +1,2 @@
+The implementation of savegames in "Battle for Wesnoth" supports singleplayer, multiplayer and replays. However, the format for these types is not unified. Games are saved differently, lots of information is stored redundantly. The savegame code is spread accross multiple files and hard to maintain. Additionally, there are problems with multiplayer campaigns, which become increasingly popular in "Wesnoth".
+The goal of this project is to develop a new design of the savegame mechanism.

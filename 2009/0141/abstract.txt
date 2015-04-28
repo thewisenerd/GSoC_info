@@ -1,0 +1,1 @@
+In KDE3, there were a few useful menus users could have pop up when they clicked on the desktop with different mouse buttons. I want to bring this to KDE4/plasma by writing a plugin framework and some plugins that can be assigned to mouse events.

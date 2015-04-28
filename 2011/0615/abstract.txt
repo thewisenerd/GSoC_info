@@ -1,0 +1,1 @@
+This project will improve audio in blender further by improving the current system and adding new interesting features. The main goal for this project is to enable the user to place speakers into the 3D scene and render their animations with positioned audio sources and velocity dependent doppler-effects.

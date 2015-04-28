@@ -1,0 +1,5 @@
+This project is about implementing a larger set of features specific to vim and to integrate them in Kate. Among the improvements:
+
+* a feature that limits the effects of crashes by creating swap files
+* a visual diff for visualizing the changes that happen to a file while editing
+* extend Erlend Hamberg's work - the "Vi-mode" and add new features such as visual block selection and improve others such as searching and the whole interaction between Vi-mode and Kate's interface and commands

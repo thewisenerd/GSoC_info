@@ -1,0 +1,1 @@
+The project aims at adding support for interception of callback operations in the KEDR framework. Added functionality should be tested on the real-world kernel modules.

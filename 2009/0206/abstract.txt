@@ -1,0 +1,1 @@
+This project aims to improve audacious interfaces support.

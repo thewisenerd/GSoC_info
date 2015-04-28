@@ -1,0 +1,1 @@
+Apache Tomcat is an implementation of the Java Servlet and JavaServer Pages technologies. It is famous and widely used. It is also a component of an Application Server named JBoss Application Server. My task in this project is to convert current Tomcat valve based implementation into Servlet Filters which is consistent with the Servlet Specification.

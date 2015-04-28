@@ -1,0 +1,1 @@
+The goal of this project will be to add read-only support for the ext2 filesystem to Tianocore. This should come as an alternative to the existing FAT-driver.

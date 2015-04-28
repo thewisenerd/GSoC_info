@@ -1,0 +1,4 @@
+Eclipse is one of the most popular IDEs in our days. EclipseFP is a project developing a plug-in for it that supports Haskell. Now, it has syntax highlighting, integration of GHCi and supports some properties of Cabal files. My idea is to extend the set of tools available, at least with:
+- Autocompletion and better links to documentation,
+- A way to run unit tests within Eclipse,
+- More support for editing Cabal files visually, including a browser of the available packages.

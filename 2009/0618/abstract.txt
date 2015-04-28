@@ -1,0 +1,1 @@
+Review Moodle's overall user interface, to keep Moodle's User Experience (and User Interfaces) consistent. As an intermediary step, create a lightweight Human Interface Guidelines style documentation for Moodle. After having gathered the principle interaction styles and elements, discuss them with the community and fix the most obvious inconsistencies found.

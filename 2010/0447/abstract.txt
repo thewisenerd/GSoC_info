@@ -1,0 +1,1 @@
+The current mutable file design in Tahoe-LAFS does not scale well to files of arbitrary size. This behavior is inconsistent with user expectations.To fix this, I will implement the "Medium sized Distributed Mutable Files" scheme described in ticket #393.

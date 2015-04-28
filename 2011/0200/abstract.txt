@@ -1,0 +1,3 @@
+I would like to add support for PSD/PSB and WebP image formats to oiio.
+PSD and PSB are, of course, very popular and their support would greatly benefit the users of oiio.
+WebP is still in its infancy but may become a popular image format in the future.

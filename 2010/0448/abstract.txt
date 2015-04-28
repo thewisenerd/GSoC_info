@@ -1,0 +1,1 @@
+Improve the Enthought reStructure Text Editor by redoing partly the interface and adding many basic tools that are missing but who should be in most basic text editors. Also create installers for some majors operating system to make the editor much simpler to install than it currently is.

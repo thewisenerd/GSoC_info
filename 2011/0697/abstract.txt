@@ -1,0 +1,1 @@
+Digital imagery is collected using high resolution electron microscopy, but it is difficult to manage these data and especially to reference higher zoom levels to each other. This project will use the techniques developed for georeferencing satellite and aerial photography and apply it at the microscopic level using open source GIS tools.

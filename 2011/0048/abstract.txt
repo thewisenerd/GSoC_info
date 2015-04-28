@@ -1,0 +1,1 @@
+This proposal aims at implementing several 'next-gen' illumination techniques, that are related to, or benefit from, deferred rendering.

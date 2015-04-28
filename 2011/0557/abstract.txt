@@ -1,0 +1,1 @@
+The project aims to create and maintain a comprehensive test suite for Package Managers to check their compliance with the Package Manager Standard. These tests could be used by Package Managers as regression tests as well.

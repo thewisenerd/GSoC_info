@@ -1,0 +1,6 @@
+The goals of this project are:
+* Standardize the XML encoding of gene tree reconciliation data by extending an existing standard
+* Implement this encoding in a standard bioinformatics library (BioPerl)
+* Modify the iPlant GTR database to support import and export of GTR trees using the new encoding
+* If time permits, modify the iPlant tree visualization tool so that it internally uses the new encoding
+* If time permits, use iPlant's taxa resolution to populate taxonomic name strings

@@ -1,0 +1,1 @@
+In this project, I will highly improve the perfomance of the mesh generation produced by the ViennaMesh library. With considerably big hull meshes, obtaining a volume mesh results in a very exigent task. To overcome this problem, I propose distributing the processing of the volume mesh so it can be executed either in domestic environments or in large clusters.

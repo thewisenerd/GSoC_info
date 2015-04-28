@@ -1,0 +1,3 @@
+Easy administration is one of the crucial feature for better usage of every software. PhpMyAdmin provides an easy way of controlling MySQL through web interface. However, it lacks one of the advanced features provided by MySQL; support for controlling and setting up replication. 
+
+Backup of data and high availability become more important in these days. This gives me the  motivation to design and implement these features into phpMyAdmin in simple and easy-to-use way.

@@ -1,0 +1,2 @@
+Gephi offers great features to its users, for it to be generally useful to the public it still needs to lower the barrier to entry further, which can be done by displaying interactive graphs in web browser.
+With my proposal I plan to develop a WebGL-based graph rendering library with interactive controls so that users will be able to interact with graph without the need to install anything. In short, I plan to make a library that will make graphs on internet that what Google Maps did for maps.

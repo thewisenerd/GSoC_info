@@ -1,0 +1,5 @@
+CS currently has a partial implementation of Imposters and no easy-to-use LOD solution for Genmeshes.
+
+The first goal is to finish this implementation and provide a system for the management of imposters (dynamic creation, updating and removal).
+
+The second goal is to implement a progressive LOD solution (runtime or precalculated) for Genmeshes.

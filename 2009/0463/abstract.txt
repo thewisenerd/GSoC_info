@@ -1,0 +1,1 @@
+I am going to be working on a standalone 3D battle viewer that will eventually be included in the main 3D client. This viewer would enable space battles to be accurately played as per the BattleXML file describing the battle. I will be using python along with python-ogre for its ease of use and for easy integration into the 3D client.

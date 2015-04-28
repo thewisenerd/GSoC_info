@@ -1,0 +1,1 @@
+Conversion of information to a format compatible with RDF is a cumbersome endeavor. Though a complete automation of the conversion process would be a goal which is hard to achieve it can be made lot simpler with a wordpress plug-in. The plug-in will enable the users to convert a generic HTML in to a RDF compatible format with ease.

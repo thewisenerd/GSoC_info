@@ -1,0 +1,1 @@
+To develop native mobile app for ATutor Social that runs on smartphones and hand-held devices running on iOS, Android and other mobile platforms using PhoneGap and web-technologies.

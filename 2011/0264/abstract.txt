@@ -1,0 +1,1 @@
+A graphical interface for viewing/editing/refactoring class hierarchies in MonoDevelop projects.

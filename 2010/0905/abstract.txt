@@ -1,0 +1,1 @@
+The purpose of my GSoC project would be to polish, stabilize and generally make ready the layout API for public consumption. This is an important project as the layout API helps simplify developing for Haiku, making it easier to create the third party applications that any OS needs.

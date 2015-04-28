@@ -1,0 +1,3 @@
+This project builds simulation and modeling tools used for spatially-explicit multiscale integrative modeling using a Plan 9 reimplementation of the Hierarchical Patch Dynamics Modeling Platform (HPD-MP).
+
+Successful completion will include a series of multiscale modeling examples running on 9vx and/or Inferno in a distribution that focuses on ease of use and accessibility for non-computer scientists.

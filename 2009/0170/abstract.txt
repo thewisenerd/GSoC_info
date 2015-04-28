@@ -1,0 +1,5 @@
+I would like to reorganize the current AI subsystem to allow different people collaborate more efficiently on creating new AIs and improving AIs.
+
+Also, I would like to make the Wesnoth AI better.
+
+See http://www.wesnoth.org/wiki/SummerOfCodeProposal_AI_Improvement_Crab for all the info.

@@ -1,0 +1,2 @@
+At the moment, the only way to build software for use in HelenOS is to cross-compile it as part of the operating system's source tree from another operating system.
+The intent of this project, should it be accepted, is to provide a functional C compiler for use natively within HelenOS, as well as to improve the native C library and to provide a compatibility layer for legacy POSIX software.

@@ -1,0 +1,1 @@
+Project that aims for a more functional and interactive GTG, with smart search capabilities and integration on gnome-shell

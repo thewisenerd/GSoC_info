@@ -1,0 +1,1 @@
+The objective of this project is to implement mailman archives with advanced search capabilities and improved user interface(UI) to display archived messages. We would like to cover the use cases developed for the Systers archive project last year.

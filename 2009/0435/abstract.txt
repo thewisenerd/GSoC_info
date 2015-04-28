@@ -1,0 +1,1 @@
+Implement the SOAP optimized TCP transport developed by Sun and supported by Metro and WCF (via an external plugin). The spec is available at:  http://java.sun.com/webservices/reference/apis-docs/soap-tcp-v1.0.pdf The optimized transport would support using a stateful fastinfoset grammar to optimize the transmissions increasing performance.

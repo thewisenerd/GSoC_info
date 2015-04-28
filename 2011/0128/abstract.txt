@@ -1,0 +1,3 @@
+RTEMS is already able to interract with multiple filesystems (IMFS, FAT, ..). The goal of this project is (in the long term), to let RTEMS read CD, DVD and/or other medias using the ISO9660 filesystem.
+
+  ISO9660 is indeed a standard for read-only media and could be used in various situations in a real-time system.

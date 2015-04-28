@@ -1,0 +1,1 @@
+The objective of this proposal is to develop a set of tools to enhance the user experience of Etoys, a media-rich authoring environment that encourages children to use the computer to express themselves in creative and scientific ways.

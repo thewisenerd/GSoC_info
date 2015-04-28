@@ -1,0 +1,2 @@
+This proposal describes a project for integrating new features introduced to the Windows API with Windows Vista and 7. Some will be implemented as native implementations for existing components, and some others would introduce new generic components along with a native implementation like the Task Dialog.
+The benefit of this project is to allow wxWidgets to stay modern with newer GUI components.

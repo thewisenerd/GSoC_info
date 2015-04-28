@@ -1,0 +1,7 @@
+Currently in Asterisk CLI, there's no way to debug real-time a specific channel.
+This causes a lot of problems, cause when you're having more then 10 channels on your system, it's really hard to track-down a specific channel.
+This project is to implement a channel-specific filter in the CLI.
+This is also to switch from the single verbose level to a multiple verbose level.
+
+Here's a link which contains more details:
+http://www.asterisk.org/node/48443

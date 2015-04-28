@@ -1,0 +1,4 @@
+Apache Nuvem defines an open API which abstracts common cloud platform services to help decouple the application logic from the particulars of a specific proprietary cloud.
+
+Highly scalable and distributed structured key-value data services are essential features for todays enterprise applications.
+The key deliverable of this proposal is to Implement a key-value data service component that abstracts cloud data services and standalone data services.

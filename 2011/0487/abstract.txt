@@ -1,0 +1,3 @@
+Direct cloning of parts from one image to another, usually ends in bad results because of different lighting conditions and other settings (such as white-balance) which causes the color of the cloned part not to match the source image and look out of place. There are some techniques to solve this, by using poisson equations and some other methods.
+
+This suggestion allows a fast (realtime) solution for allowing to paste seamlessly parts from one image to another.

@@ -1,0 +1,1 @@
+This end result of this project will be to rewrite the Mailman 3 Pipermail implementation to support SQL in the backend using the Storm (storm.canoincal.com) ORM layer instead of the Python Pickle API.

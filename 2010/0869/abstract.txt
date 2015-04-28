@@ -1,0 +1,1 @@
+The recent rework of OpenOffice’s binary MS Word .doc (WW8) export filter made it easy to extend for other MS Word formats, like DOCX. In particular, using the advantages of the shared code to implement a new RTF export filter based on this rework is certainly possible to implement - and this summer I would like to work on this.

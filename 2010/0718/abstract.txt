@@ -1,0 +1,6 @@
+The proposal shall involve working on the following aspects of the SGen garbage collector.
+
+   1. Garbage Collector Safe Points
+   2. Precise Scanning of Stacks
+
+As evident, the tasks will also involve working with a fair amount of JIT code.

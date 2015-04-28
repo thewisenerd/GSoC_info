@@ -1,0 +1,1 @@
+The proposed project will bring buflib from the plugin library to the core, enabling dynamic memory allocations.

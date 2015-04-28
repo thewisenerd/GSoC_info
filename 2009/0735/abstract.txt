@@ -1,0 +1,7 @@
+I would like to create a complete filtering architecture for the Akonadi KDE Personal Information Management system.
+
+Filtering, in this context, stands for “applying conditional changes to the attributes of the data items coming into the akonadi server”. E-mail messages that come from a specific sender may be moved to a special folder. Other messages with a subject matching a particular regular expression might be treated as spam: beside moving them to a special folder one might want to add a “spam” tag and possibly mark them automatically as “read”.
+
+In the Akonadi architecture these operations will be performed by a filter agent process. The agent will apply a sequence of filtering rules defined in a configuration file. The configuration file, in turn, will be edited by applications by using the GUI facilities provided by a shared library.
+
+The project will focus on filtering of e-mail messages but one of the goals will be to provide a framework that is generic enough to allow easy development of filtering agents for different kinds of personal information data items.

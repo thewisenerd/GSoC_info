@@ -1,0 +1,1 @@
+This project focuses on handling node conflicts. Currently when a user tries to save a node that has been edited (and saved) before they have submitted, an error appears and the edit is blocked. This module aims to resolve these issues automatically if possible. If not, it will provide tools and an interface to interactively merge the two different versions of the node.

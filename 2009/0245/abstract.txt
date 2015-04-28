@@ -1,0 +1,1 @@
+The system management interface or 'dashboard' will help the system administrator monitor tasks, notifications, and general system health. The crawler will support new source/feed discovery and automatically adapt to feed update frequency.

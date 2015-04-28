@@ -1,0 +1,3 @@
+For Windows users, SCons currently provides a simple installer to install it into a Python distribution on the user's machine. Currently, there are several drawbacks, such as the dependence on a Python installation and the lack of integration with Windows itself.
+
+The project will improve on this by combining a self-contained SCons executable, documentation and Windows Explorer integration into a convenient installer. Users will only need this installer in order to use SCons in their projects.

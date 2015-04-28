@@ -1,0 +1,2 @@
+Pgpool-II has query caching functionality using storage provided by dedicated PostgreSQL ("system database"). This has several drawbacks however. 1)it is slow because it needs to access disk storage. 2)it does not invalidate the cache automatically. 
+This proposal tries to solve these problems.

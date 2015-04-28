@@ -1,0 +1,2 @@
+Surveys are one of many methods used in creating more usable software. Surveys allow designers to collect information about user's experiences and usability problems with software.
+A Usability Survey Framework would allow designers and developers to create small, custom surveys that can be attached to events or services. Users could subscribe to the Usability Survey Service and opt in to current studies. Survey studies could be one-time surveys, or several survey entries over a period of time.

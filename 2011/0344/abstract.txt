@@ -1,0 +1,1 @@
+Gentoaster is a tool I’d like to write that allows users to create Gentoo virtual machines on demand via a web-based interface. This idea was inspired by the VM builder idea suggested on the Gentoo wiki.

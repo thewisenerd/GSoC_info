@@ -1,0 +1,1 @@
+Minix 3 is on its way to be a fully POSIX-compliant system.  The lack of the features of IPC hinders developers from porting useful programs which take advantage of IPC from other platforms.  Therefore, I would like to perform a proposal to implement the functionality of shared memory.

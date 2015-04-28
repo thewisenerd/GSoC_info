@@ -1,0 +1,1 @@
+GUI Overhaul (Fronted and Administration Interfaces). Goal to this project is to improve the newly melange UI so anyone who want to make a program similar to GSoC would benefit the easiness without any knowledge / hacking into the codebase.

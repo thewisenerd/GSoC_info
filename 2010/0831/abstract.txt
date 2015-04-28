@@ -1,0 +1,1 @@
+The goal of this project is to increase the number of GLSL features supported by the R300 driver.  GLSL is an important part of the OpenGL specification and is widely used by modern graphics programs. Increasing the number of GLSL features that the R300 driver supports will ensure that users can run the programs they want.

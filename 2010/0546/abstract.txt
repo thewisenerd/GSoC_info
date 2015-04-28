@@ -1,0 +1,2 @@
+Design a fully featured PCM I/O API for Phonon, and provide an implementation for the Phonon-VLC backend and one other (either MPlayer or Xine). This API will allow developers to capture PCM data from devices like a sound card, or to play back raw audio from memory, or elsewhere. This will provide some important
+missing features in Phonon, and open the door for many applications waiting to make use of an API like this.

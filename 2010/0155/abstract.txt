@@ -1,0 +1,1 @@
+Apache Synapse[1] is an Open Source ESB and a Mediation Framework which Support some Enterprise integration patterns.This document propose to implement a feature to support dead letter channel enterprise application integration pattern.

@@ -1,0 +1,1 @@
+I will work on web-based translation tool for Ryzom Core project.

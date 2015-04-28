@@ -1,0 +1,1 @@
+One of the reason people avoid to fix errors or implement new features in msn-prpl is because the code is a really mess.

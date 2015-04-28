@@ -1,0 +1,6 @@
+Force Directed Layout does not perform very well for a dense graph with large number of edges (possibly >1000) due to visual cluttering. This means that cytoscapeweb’s key network visualization tool cannot function for networks with large number edges. Hence, 
+
+•	Geometric - Based Edge Clustering 
+•	Forced – Directed Edge Bundling (FDEB) 
+
+Are offered as solution to this problem to reduce visual complexity.

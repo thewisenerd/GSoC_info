@@ -1,0 +1,1 @@
+Implementing a new web-based userinterface for the administration of Mapbender.

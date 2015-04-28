@@ -1,0 +1,1 @@
+The aim of this project is extending OpenCV Python examples with a comprehensive set of new nontrivial samples.  Also I want to improve the Python interface. Project is based on extensive personal OpenCV Python experience.

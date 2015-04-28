@@ -1,0 +1,2 @@
+SSA is a representation where an index is attached to every variable so that every definition of each variable in a program becomes unique. Many optimization algorithms are easier to implement using the SSA form rather than using the CFG directly.
+The purpose of this project is to implement algorithms for converting LIR to SSA form, back translation to LIR form for code emission stage and at least one optimization based on the SSA form as a proof of concept that SSA works as expected.

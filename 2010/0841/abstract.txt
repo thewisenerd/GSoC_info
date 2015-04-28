@@ -1,0 +1,1 @@
+This project will create a MyFaces Application Builder (MAB), an application builder for MyFaces which enables the user to easily generate a MyFaces application. The MAB will use the OpenWebBeans CDI implementation to enable the users to create add-ons and to render the MAB as flexible and extensible as possible.

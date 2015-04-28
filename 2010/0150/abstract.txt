@@ -1,0 +1,1 @@
+Gaurav Chandrashekar, Computer Engineering student at the National University of Singapore. The outlined document proposes my interest and inclination in contributing to CGAL for my GSoC Project. I hope to work with Mr. Efi Fogel to create a web-service for solving geometric problems.

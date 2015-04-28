@@ -1,0 +1,2 @@
+All globals in Smalltalk are visible to all code in the image. This works fine on a small scale but it becomes a problem when code originates from many different individuals or teams. 
+In any large system there is likely to be overlap among the names chosen (e.g. Person, User, Preferences, etc). The typical approach is to preface class names with an abbreviation of the module name. While this works, it is cumbersome and tends to make names either cryptic or cumbersome.

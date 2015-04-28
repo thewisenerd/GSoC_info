@@ -1,0 +1,3 @@
+Melange data needs to be exported to/imported from Google Docs using Google APIs. There are various data types to be exported and imported. Melange represents plural data with lists. These lists are already exportable to CVS and should be exportable to Google SpreadSheets too. Documents and proposals also needs to be exportable to GDocs. All exported data should be imported in a similar way if required.
+
+This project aims to integrate Google APIs with Melange via OAuth authentication.

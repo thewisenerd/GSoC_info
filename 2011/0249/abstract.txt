@@ -1,0 +1,1 @@
+The goal of this project is to write a Gallium3D state tracker capable of hardware accelerated VP8 video decoding through the VDPAU API. This would allow every graphic card with a Gallium3D driver to be able to decode VP8 videos, and every VDPAU enabled multimedia software to play these videos. Hardware acceleration will be built upon graphic card’s shaders units.

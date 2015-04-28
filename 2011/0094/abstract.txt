@@ -1,0 +1,1 @@
+Implementation of a quality control framework using Python, with modules for: statistics, graphing, regression testing, corpus generation, corpus testing, coverage testing and average ambiguity.

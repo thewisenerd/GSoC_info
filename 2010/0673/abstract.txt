@@ -1,0 +1,1 @@
+The Octave-Forge packages can be managed using an internal package manager from Octave, but it is better for Gentoo users to manage the packages with their usual package manager, i.e. Portage, Paludis or Pkgcore. In other words, we need ebuilds for these packages. Thus I created g-octave, which generates fresh ebuilds "on-the-fly" from the Octave-Forge packages.

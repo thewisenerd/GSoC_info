@@ -1,0 +1,6 @@
+Currently, all graphics in TuxMath and TuxType are stored in raster image formats, which do not behave well while scaling. The positioning of graphical elements is done via hard-coded values, which causes problems while changing video modes or extending game menu.
+
+My project aims at:
+1.Implementing SVG support via libRSVG and cairo.
+2.Redesigning the menu rendering system and making it more flexible and extensible.
+3.Designing and implementing a set of scaling and positioning algorithms.

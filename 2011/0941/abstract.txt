@@ -1,0 +1,5 @@
+SL# is an IL-to-GLSL translator that makes it possible to write shaders as CIL bytecode.
+The runtime translator will then transparently derive a shader script from the CIL.
+The shaders thus look, and can be interacted with, as if they were part of the managed code.
+
+For an overview and examples see: http://igniteinteractivestudio.github.com/SLSharp/

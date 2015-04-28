@@ -1,0 +1,2 @@
+Gccpy is a Python front-end to gcc from my last years GSOC (2010), I was mentored by Ian Lance Taylor
+who continues to be a great inspiration to me with his work on gccgo and his help on gcc-help to the community of users and developers.

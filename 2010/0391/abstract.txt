@@ -1,0 +1,1 @@
+A port of wxWidgets to the Qt toolkit already exists but is at a very basic state. Implementing the basic widgets (buttons, labels, etc.) should make the port suitable for developing small applications with it.

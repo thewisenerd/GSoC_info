@@ -1,0 +1,7 @@
+The aim of project is to implement following features in Boots tool.
+* curses-ui
+* better-input-parsing
+* syntax-highlighting
+* server-indexing
+* tab-completion
+Completion of these features will help in providing a better user interface to users of drizzle and other databases.

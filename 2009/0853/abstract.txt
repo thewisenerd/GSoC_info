@@ -1,0 +1,1 @@
+VLC is a wonderful media player and streaming server. Adobe is about to publish the RTMP protocol spec in the first half of this year, so I think it's about time to add and improve flash streaming function in VLC.

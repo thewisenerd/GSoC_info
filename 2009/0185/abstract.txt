@@ -1,0 +1,2 @@
+Because of easier and quicker access to the account information LDAP can be used as centralized information store. So, multiple applications can use the same account information for their authentication and authorization.
+It also allows hierarchical grouping of the similar elements, which can be used for organizing users into groups. The proposal is to develop the plugin for Joomla to support LDAP Users, and LDAP Group mapping and discovery.

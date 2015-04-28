@@ -1,0 +1,5 @@
+The inotify extension relies on Linux file system event notification features to provide a fast access to the directory state: registering the watched directories with inotify, it is able to keep track of the repository status without walking the repository itself. This extension greatly improves performance on large repositories.
+
+It is however still experimental, and lacks support for windows and Mac OS.
+
+My project is to improve inotify extension reliability, and to port it to Mac Os.

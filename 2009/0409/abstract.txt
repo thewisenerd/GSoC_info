@@ -1,0 +1,1 @@
+Implementation of a limited read-only GDAL driver for the coming WKT Raster extension to PostGIS. The idea is to create a prototype, a proof of concept to allow further development

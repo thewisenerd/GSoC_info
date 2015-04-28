@@ -1,0 +1,1 @@
+This project involves designing and implementing a new web interface for the astrometry.net service. This new webpage should be feature-rich, easy to use, and relatively "pretty" in order to attract new users and help promote a thriving community around astrometry.net. The web interface will be built in python, using Django.

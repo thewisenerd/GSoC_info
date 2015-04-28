@@ -1,0 +1,1 @@
+The Mono runtime does not currently use SSE for floating point math in the x86 code path. My Summer of Code project will address this issue by modifying the runtime to emit the proper SSE instructions for floating point math operations, as well as augment the register allocator to take into account the SSE registers.

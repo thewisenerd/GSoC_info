@@ -1,0 +1,3 @@
+Currently, the NTP project does not have any testing framework. My project would be to implement unit tests to test the code in the project. The top priority would be to test the libntp part of the project, and after that move on to the other parts.
+
+The tests should be written in a way, so that a single test only test a single module of the codebase at the same time. The tests should also be grouped together by which module they are testing.

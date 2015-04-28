@@ -1,0 +1,3 @@
+Multithreaded implementation of a SOAP server for Scilab is suggested. The implementation will be written in C using the gSOAP library. 
+The SOAP server will permit execution of only those commands that have been registered using a soap_register() command. soap_register() itself will be a remote (SOAP) method that will only be available to administrators of Scilab SOAP Server.
+Polymorphic capabilities of the gSOAP toolkit will be employed for handling different return types of a remote method.

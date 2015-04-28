@@ -1,0 +1,1 @@
+Improving several elements of the Darktable user interface.

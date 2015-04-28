@@ -1,0 +1,5 @@
+SVG is, with html5, one of the open standards for graphics on the web, that seem to be the technologies that will power the Internet in the near future(as even IE9 will support SVG).
+
+In order to make SVG interactive, scripts are to be used, which is supported by the SVG specification.
+
+This project will improve the javascript support on Inkscape's SVG, enhancing its UI in order to ease its inclusion and change. It will go along the lines of the scripting blueprint, but not limited to it.

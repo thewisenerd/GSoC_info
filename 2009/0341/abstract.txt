@@ -1,0 +1,1 @@
+Jython is an implementation of the high-level, dynamic, object-oriented language Python seamlessly integrated with the Java platform. Apache Axis2 is a core engine for Web services. It is a complete re-design and re-write of the widely used Apache Axis SOAP stack.This project will provide an extension to Jython to support Web services using Apache Axis2 middleware engine.

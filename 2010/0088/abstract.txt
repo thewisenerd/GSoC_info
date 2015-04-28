@@ -1,0 +1,5 @@
+This set of tools will allow grassroots activists to better organize projects and campaigns. Existing tools for Drupal are lacking key features, often not very user-friendly, and usual not packaged for easy setup. I will address these problems by creating by:
+ * Adding functionality to existing task tracking modules
+ * Creating the capacity for subgroups
+ * Allowing for discussion listservs to integrate seamlessly with groups
+ * Creating a module to plan, track, and document meetings

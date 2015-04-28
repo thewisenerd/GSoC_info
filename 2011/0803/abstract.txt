@@ -1,0 +1,2 @@
+Roller is a full-featured, multi-user and group-blog server suitable for blog sites large and small. It has features such as multi-user and group blogging, comment moderation, spam prevention, RSS 2.0 and Atom 1.0 support. 
+This project will modify the Roller blog rendering system to support mobile-ready blog theme templates, and providing one example theme that uses these features in combination with HTML5 to show full-sized pages to desktop browser users and small format pages to mobile users.

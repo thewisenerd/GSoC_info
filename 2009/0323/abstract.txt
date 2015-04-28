@@ -1,0 +1,3 @@
+Project mainly focuses on improvement of pwytter to make it efficent.It mainly adds features like notification (i.e Growl) , supoort of XMPP ,IRC bot.It will provide notification on Mac using Growl, on windows using growlforwindows and on linux it does the same task using libnotify.
+Support of XMPP can be given by collaborating some of features of gajim to pwytter that will make it to work like IM for twitter.
+IRC bot will help to publish tweets on IRC channels.

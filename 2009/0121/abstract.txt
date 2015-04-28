@@ -1,0 +1,1 @@
+Redesign the Object Code writers in LLVM, trying to be generic enough to support the widely used object formats: ELF and MachO. The ELF writer at the end of the project must be a complete replacement for an external assembler.

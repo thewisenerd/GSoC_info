@@ -1,0 +1,1 @@
+The main idea of this task is to create Scilab module, that will allow users to import Simulink diagram to Xcos. This project is very valuable to Scilab, easy migration of Matlab projects with Simulink simulations to Scilab/Xcos, is a big step in migrating from Matlab to Scilab as a development environment.

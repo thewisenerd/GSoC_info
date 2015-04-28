@@ -1,0 +1,2 @@
+OpenMRS web-app includes initial setup and update wizards those greatly simplifies DB creation, configuration and update on web-app startup.
+The main aim of this project is to provide ability for user to run these wizards in their selected language. Localization style must be alike desktop's application with choosing preferred language at 1st step of setup wizard, with ability to move back and change it while wizard is running and with storing that selected language by app for further using it.

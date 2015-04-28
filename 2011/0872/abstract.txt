@@ -1,0 +1,5 @@
+My Scenario is the following:
+Use of HBase to hold an adjacency list (or matrix) of graph nodes and weights.
+Then implement a Dijkstra that is distributed.
+
+Look at the additional info link to get a better formatting. (PDF)

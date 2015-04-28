@@ -1,0 +1,1 @@
+I propose to add support, where possible, for the OS X built-in dictionary to the Mac port of Chromium.

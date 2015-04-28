@@ -1,0 +1,3 @@
+Open311 offers free web API access to existing 311 services.  It's most common uses are for the reporting and tracking of non-emergency issues associated with public spaces.  The site http://www.seeclickfix.com/ is an example of a site implementing the Open311 API specification.  A goal of Open311 is to establish a standard for interacting with 311 services so that applications developed for one city can be easily built upon for another city's 311 services.  
+
+Ushahidi is a non-profit company th

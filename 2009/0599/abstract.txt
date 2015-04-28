@@ -1,0 +1,3 @@
+My project would include adding navigation buttons to Go OpenOffice applications. 
+It's a feature people are used to because of everyday use of Internet browsers, and according to http://qa.openoffice.org/issues/show_bug.cgi?id=5608, they are really missing it in OOo.
+My plan is also to create an (optional) additional feature, back/forward buttons with Recency with Temporal Ordering Enhancement, inspired by the paper on this link: http://zing.ncsl.nist.gov/hfweb/proceedings/greenberg/

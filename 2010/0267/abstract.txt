@@ -1,0 +1,1 @@
+When using OpenNebula and Haizea together, Haizea does not react to unexpected changes in the physical resources or the VMs. OpenNebula's new hook mechanism should be used to make sure that Haizea is aware of when an unexpected change happens.

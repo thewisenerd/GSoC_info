@@ -1,0 +1,1 @@
+This proposal aims to improve speed and responsiveness of Quantum GIS when doing commonly used operations such as map browsing. This should be achieved by adding threading support to the process of rendering and by optimizing related routines. The user interface should feel snappy even when browsing large datasets.

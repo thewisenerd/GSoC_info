@@ -1,0 +1,3 @@
+Implement the TPL Dataflow extension, part of the new async facility introduced with .NET 5 CTP.
+
+TPL Dataflow helps developper builds data processing applications with an actor-like model and based on what ParallelFx already offers in .NET 4.

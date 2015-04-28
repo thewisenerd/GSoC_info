@@ -1,0 +1,1 @@
+This project tends to develop a next-generation Web user interface for the Linux Driver Verification project. This Web application will significantly simplify verification results analysis that will lead the Linux Driver Verification project to become more user-friendly and usable.

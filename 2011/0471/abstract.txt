@@ -1,0 +1,1 @@
+Propose changes to enhance BRL-CAD shader systems. Study other open-source softwares code to learn new features that can be incorporated.

@@ -1,0 +1,3 @@
+After years of work, the next version of C++ has reached FDIS status and will henceforth be known as C++ 2011. It comes with various new features, both syntactically as well as semantically.
+
+As compilers support a subset of this standard even today, proper support in KDevelop becomes more and more important. During this GSoC I hence plan to implement the required changes to provide a smooth C++-2011 experience for our users.

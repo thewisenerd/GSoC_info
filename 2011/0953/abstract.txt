@@ -1,0 +1,1 @@
+Develop the fluent API to HttpClient based on code currently maintained by Apache Stanbol and Apache Sling projects to create a more convenient way to use the HttpClient package.

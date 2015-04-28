@@ -1,0 +1,5 @@
+The goal of this project is to make the Eclipse Rich Ajax Platform more accessible by using WAI-ARIA. 
+
+Since RAP applications run in a web browser, they do not provide the same level of accessibility as RCP clients do.
+
+ARIA can be utilized to enhance RAP widgets with additional information that can be exposed to assistive technology (like screen readers).

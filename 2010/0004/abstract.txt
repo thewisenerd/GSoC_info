@@ -1,0 +1,6 @@
+The global cache acts as a giant patch pool where Darcs first looks for a patch when
+grabbing new patches. This saves time by not downloading the same patch twice from a
+remote server. It also saves space by storing the patch only once, if you ensure your
+cache and your repositories are on the same hardlink-supporting filesystem. Although,
+being the global cache on the biggest performance enhancing tools, there are issues
+which affect it in certain circumstances negatively.

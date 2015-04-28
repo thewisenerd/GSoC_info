@@ -1,0 +1,1 @@
+GStreamer currently supports Microsoft's ASF demuxing and RTP depayloading, but there is no support for muxing and payloading in the 0.10 series. There was an ASFMux in the 0.8 that has never been ported forward. This project's goal is to write a new and featureful ASFMux and an ASF RTP Payloader.

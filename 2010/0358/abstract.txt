@@ -1,0 +1,1 @@
+The goal is to make pip less error-prone, work well in python2.x and python3.x, make the tests more internet-independent, run platform independently, add needed features by developers, write more documentation and make people love it and see that easy_install's age has gone.

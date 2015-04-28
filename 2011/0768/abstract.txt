@@ -1,0 +1,1 @@
+The dpkg-divert command should be replaced with a new control file with a declarative syntax which dpkg will parse and process directly as part of the package unpack and removal phases, eliminating the problems resulting from non-atomic handling of diversions.

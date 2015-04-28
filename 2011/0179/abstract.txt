@@ -1,0 +1,1 @@
+Smarthphones become more and more popular these days. People want to use the same programs as they do on their PCs. There is already a version of Marble for the Nokia N900 (Maemo5), but this is just the very first step and more improvements are needed in order to provide a pleasant user experience.

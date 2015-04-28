@@ -1,0 +1,1 @@
+Yeloong, also known as "rms laptop" is a Chinese-designed netbook based on Loongson 2F CPU. It's popular among Free Software enthusiasts and people who want a small yet powerful netbook and don't care about windows being available. FreeBSD could profit much from thismips relaunch. When this port is done porting to other Loongson-based device should be relatively easy.

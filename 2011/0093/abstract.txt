@@ -1,0 +1,5 @@
+Gentoo has ~15 000 packages only in official tree. Almost each package has a dependencies. Presently, developers of packages specifies them manually. 
+
+I intend to build a tool for generating a list of dependences automatically and  checking a fullness of existing lists.
+
+This tool will be useful for developers of packages and will enable them to make user's experience better.

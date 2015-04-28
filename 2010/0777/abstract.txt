@@ -1,0 +1,8 @@
+This proposal identifies Java serialization and blocking IO as 
+the two main potential performance bottlenecks in the current 
+implementation of remote actors in Scala, and suggests separate, 
+but relevant summer projects to deal with each issue. 
+Other relevant existing open source projects are discussed, 
+and while some ideas are borrowed, the main idea is that 
+these projects do not address both of these issues together, 
+which makes this particular summer project proposal unique.

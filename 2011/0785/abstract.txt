@@ -1,0 +1,8 @@
+My proposal is for a rewoking of the kerneloops.org webpage, which includes but may not be limited to:
+-Cleaning up structure
+-Cleaning up code
+-Encapsulation of modules
+-Migrating perl code to PHP
+-Benchmarking different NoSQL databases
+-Migrating MySQL to the most suitable database from the above benchmark
+-Extending site making it more user friendly

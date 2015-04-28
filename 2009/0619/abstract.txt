@@ -1,0 +1,1 @@
+Wine has recently added JScript implementation. JavaScript specification contains a lot of builtin APIs that are used by scripts. Most of them are missing in Wine. It's the most common reason why scripts don't work in Wine and I'd like to fix it.

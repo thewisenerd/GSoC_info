@@ -1,0 +1,3 @@
+The aim of this project is to allow Cytoscape's users to benefit from
+igraph. This would be achieved by providing both a straightforward way
+of invoking igraph from Cytoscape, as well as a plugin featuring it.

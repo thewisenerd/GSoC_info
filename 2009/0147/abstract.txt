@@ -1,0 +1,4 @@
+COLLADA is a flexible and versatile digital assests exchange format
+created by the Khronos Group consortium. It is supported by the top
+commercial DCC tools like Maya, 3ds Max, Lightwave 3D, Cinema 4D and
+Unreal Engine. This project is about improving COLLADA import/export support in Blender.

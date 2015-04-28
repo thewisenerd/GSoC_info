@@ -1,0 +1,3 @@
+The idea of GTK+3 is around since 2007 (when GTK+ 2.12 was released). We have GTK+ 2.20 now and seems that there'll be another GTK+ 2.x release.
+
+It's time to change this and help to make GTK+3 (finally) possible.

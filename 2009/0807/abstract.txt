@@ -1,0 +1,5 @@
+OggPlay library is designed to allow software developers to easily add playback support of various Xiph.Org media formats in their applications. It abstracts away from the complexity of libOgg's encapsulation pages, codec packets, and encoded data, giving the programmer the freedom to work with audio-visual streams, video frames, and audio samples.
+
+The student proposes to add the following features to the library:
+ - Dirac support
+ - chained Ogg file support

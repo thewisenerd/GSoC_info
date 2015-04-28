@@ -1,0 +1,1 @@
+Currently in Rakudo (the most actively developed Perl 6 implementation), when you try to open a file which happens to contain non-UTF-8 data, it dies with "Malformed UTF-8 string". The project aims to fix this, as well as add support for the Buf type to Rakudo. The Buf type in Perl 6 is slated to be able to hold arbitrary binary data.

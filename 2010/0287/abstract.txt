@@ -1,0 +1,1 @@
+It is written that SDL Video 1.3 should support rendering into non-rectangular windows.  I propose to add support for those, along with support for rendering into such windows via OpenGL or Direct3D, on Linux, Windows, and Mac OS X.

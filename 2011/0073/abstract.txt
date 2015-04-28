@@ -1,0 +1,1 @@
+The manipulate package in RStudio can be used to demonstrate mathematical ideas intuitively through interacting with sliders and watching a corresponding graph shift. I will create a variety of applets written in R to show basic calculus and statistical concepts for Professor Daniel Kaplan and J.J. Allaire's contribution to Project MOSAIC.

@@ -1,0 +1,1 @@
+Improve the NCI framework by linking to a commonly used cross platform library that supports foreign function calls, libffi. Also, develop a LLVM based stack frame builder for the Parrot Virtual Machine. The LLVM libraries can let you effectively build dynamically generated code and has a number of built in optimizations it can run on the code to improve its efficiency.

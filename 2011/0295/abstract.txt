@@ -1,0 +1,1 @@
+The purpose of this project is to implement all the missing functionallity that is needed in order to enahnace reactos user interface by using visual styles. Even though the bulk part of the themes support already works, the rest of the operating system neither utilizes it yet, nor lets the user configure it.

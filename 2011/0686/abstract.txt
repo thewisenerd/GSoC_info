@@ -1,0 +1,3 @@
+Implement a QGIS plugin that makes it possible to run the versatile "System for Automated Geoscientific Analysis" (SAGA GIS) modules from Quantum GIS.
+Generate a GUI on-the-fly and run the modules using either the SAGA command-line application or the SAGA Python API, if available.
+Automate the process of information exchange between those two systems.

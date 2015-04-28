@@ -1,0 +1,1 @@
+This proposal suggests an extension to the existing Boost.Random library. Currently, Boost.Random lacks low discrepancy sequence generators, even though low discrepancy sequences are particularly important for quasi random Monte Carlo integration approximations, because they enable algorithms to converge approximately the order of magnitude faster.

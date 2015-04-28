@@ -1,0 +1,1 @@
+Hibernate Search brings the power of full text search engines to the persistence domain model. It provides easy way to enable users to search through database data and find what they need. It works in clustered and non clustered environments. Currently clustering is based on JMS. It would be good to explore alternative solutions compare them to existing and choose the best one.

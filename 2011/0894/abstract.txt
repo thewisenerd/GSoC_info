@@ -1,0 +1,1 @@
+This project builds on the work done during GSoC2010 as part of the project "Cairo rendering in Inkscape". The aim is to improve the performance of Cairo software rendering by implementing several forms of caching.

@@ -1,0 +1,1 @@
+BioLib brings together a set of opensource C/C++ libraries and makes them available to all Bio languages: BioPerl, BioPython, etc.  Biolib utilizes SWIG toolkit to map (wrap) the C/C++ programs to Bio languages. Libsequence is a C++ library for modern popular genetic simulation. The objective of this project is to build BioLib mappings for libsequence.

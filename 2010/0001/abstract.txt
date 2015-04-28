@@ -1,0 +1,1 @@
+Software/hardware co-design, the main goals at hardware level is to interconnect a set of custom hardware modules (peripherals) that follow the wishbone specification to the target platform processor bus, at software level is to provide the corresponding Linux device driver.

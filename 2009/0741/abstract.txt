@@ -1,0 +1,4 @@
+The main idea is to boost educational Web Develop. 
+
+This project will allow activity designers to quickly build activities utilizing widely-used tools. Karma will enable web designers to quickly build activities for the XO without having to learn a whole new skillset. 
+The objetive is to provide a single prototype activity which could be used as a template for sugarizing AJAX activities.

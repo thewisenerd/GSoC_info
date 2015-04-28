@@ -1,0 +1,1 @@
+The Rules module is designed to support actions that are executed depending on events and conditions (ECA rules) in Drupal. This proposal is about extending and enhancing Rules module with new features and ideas.

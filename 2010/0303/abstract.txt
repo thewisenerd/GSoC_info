@@ -1,0 +1,1 @@
+2 Buddypress plugins: add multimedia capability and upload from remote to bp-album plugin; code a moderation plugin that adds "report this" links to posted contents, so members can easily report unappropriate content and site admins can easily take action on reported contents from wp backend.

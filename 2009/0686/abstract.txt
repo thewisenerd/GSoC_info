@@ -1,0 +1,1 @@
+Provide means for Akonadi to synchronise it's PIM database entries with other software/devices through the SyncML protocol.

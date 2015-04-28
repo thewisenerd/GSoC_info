@@ -1,0 +1,1 @@
+The existing packages have included necessary tools/functions to construct and apply trading strategies. More functions related to trading a portfolio, testing of parameters and evaluation of strategies can be added. This proposal is focus on some of the targets related to these new developments.

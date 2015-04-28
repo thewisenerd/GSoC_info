@@ -1,0 +1,1 @@
+The purpose of this project is to provide Crystal Space a full support of OpenGL GLSL shaders, including geometry and tessellation shaders.

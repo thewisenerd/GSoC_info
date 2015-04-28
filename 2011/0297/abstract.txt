@@ -1,0 +1,5 @@
+The goal of this project is to produce the necessary language extensions to facilitate programming of high-performance computing (HPC) applications in Tcl, and to better take advantage of modern hardware. In particular this project delivers:
+ * A Tcl binding to HWloc using the TEA build system.
+ * Comprehensive testing and examples.
+ * Documentation.
+ * Proper hosting.

@@ -1,0 +1,1 @@
+The  document contains a proposal for a project listed  in Berkman Center. It proposes  development  of  a  distributed  web crawler  with   features  from mediacloud and  stopbadware. The proposal detailed gives the  timeline for the project and  technolgies used.

@@ -1,0 +1,1 @@
+My proposed project is to upgrade WordPress’s existing Flash-based multi-file uploader, integrating an existing open source project with the current APIs to provide a more modern solution to file uploading (HTML 5, Drag-and-Drop, Canvas processing, etc - based on browser support).

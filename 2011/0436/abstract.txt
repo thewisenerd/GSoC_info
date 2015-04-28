@@ -1,0 +1,1 @@
+Given  a system of DAE, I intend to find the mass matrix and consequently the solutions using RADAU5.

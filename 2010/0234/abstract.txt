@@ -1,0 +1,1 @@
+A stack based interpreter implementation in Tcl. Working as a back-end for the XMLVM bytecode cross-compiler. This would all JVM bytecode producing languages and .Net languages to be translated to Tcl.

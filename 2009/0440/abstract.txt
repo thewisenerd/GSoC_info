@@ -1,0 +1,1 @@
+Taxonomy and tagging are among the most intuitive ways to manage the content. Geeklog2 (Aptitude CMS) is aiming to be the next generation CMS, but it lacks of these functionalities. Implementing taxonomy and tagging into Geeklog2 would make it closer to its first release.

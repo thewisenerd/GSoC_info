@@ -1,0 +1,1 @@
+Improving and extending the Foci web stats application, which has the core logic in place, but there's still work to be done on the interfaces and on the performance to allow it to withstand heavy loads.

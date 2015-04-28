@@ -1,0 +1,1 @@
+The project is about making enhancements to the PyGTK GUI of ASCEND. The PyGTK GUI is relatively new and needs some polishing.

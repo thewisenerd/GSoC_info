@@ -1,0 +1,8 @@
+The goal of this Project is to develop a software system for use in OpenWrt
+based firmwares which makes hardware which telephony and networking hardware easily accessible.
+It will involve designing and implementing a Linux kernel framework which provides a common
+API to such hardware devices.
+Then the next step then is to develop userspace tools making use of that API
+for call management.
+
+The hardware which will be used for this Project as an example platform will be the AirTies WAV-281.

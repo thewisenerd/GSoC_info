@@ -1,0 +1,5 @@
+Gallium3D can be used to implement many client APIs on top of hardware- or software-accelerated pipe drivers.
+
+This proposal is about implementing the OpenCL API on top of Gallium 3D, to enable user to enjoy GPU-accelerated computing using Free Software technologies and no proprietary drivers or pieces of code.
+
+The project will be built on the Clover branch of Mesa, and will use Clang as the compiler.

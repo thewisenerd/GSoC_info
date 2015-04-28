@@ -1,0 +1,1 @@
+The project would be to implement paravirtualized audio in Xen, in some form. Two approaches are proposed: a high-level approach over PulseAudio and a low-level split device driver, similar to the existing.

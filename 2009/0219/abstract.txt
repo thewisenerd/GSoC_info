@@ -1,0 +1,5 @@
+The first project is Modular group handling. Currently, information about groups is stored in group pages. Some users need opportunity to use external storage for groups. This allows them to integrate MoinMoin with a company database. For my SOC project I'm going to refactor existing Group code to provide modular group handling.
+
+Also, I will implement rights visualization plugin which visualization access rules.
+
+I'll also work on layout of the xapian search results.

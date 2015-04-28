@@ -1,0 +1,1 @@
+This project aims to create a Pidgin protocol plugin that will handle Telepathy connections. This will allow Pidgin to use any protocol supported by the Telepathy framework and benefit from the advantages provided by the Telepathy stack

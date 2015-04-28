@@ -1,0 +1,1 @@
+Sympy currently does not have much of the functionality of combinatorics packages such as Combinatorica or Combinat of Maple. These packages have applications not just in engineering but also fundamental sciences. My project aims to implement the features of these packages.

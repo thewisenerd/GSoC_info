@@ -1,0 +1,6 @@
+My project proposal consists of a set of improvements in the user interface that would improve user workflow when dealing with CMYK color space and ICC color management.
+
+    * store CMYK color values using icc-color
+    * default target device color profile settings
+    * automatically color transform the color palettes and color picker widgets
+    * brainstorm and implement "out of gammut" colors user interface

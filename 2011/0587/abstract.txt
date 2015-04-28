@@ -1,0 +1,1 @@
+We aim to create a “People panel” for Gnome-Shell that will show the user’s contacts list and a list of his recent conversations. These can be ordered by frequency or recency, as well as searched, and will allow for the user to launch new conversations with his contacts directly from Gnome Shell itself, whereupon they will be handled by the user’s preferred Telepathy client.

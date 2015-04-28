@@ -1,0 +1,7 @@
+Problem description
+
+After the discussion with my mentor, I chose to work on making Anjuta faster to operate using the keyboard. As for now, many of the main menu items have keyboard shortcuts and many things are doable only by mouse. 
+
+Problem solution
+
+Researching and analysing the most used features and check if the default keyboard shortcuts are convenient for them, or if they have a keyboard shortcut at all, and then assigning better or new shortcuts to them.

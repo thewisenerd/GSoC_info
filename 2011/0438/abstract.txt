@@ -1,0 +1,1 @@
+This project enables the ability to natively use Apache Maven in Java packages in the main tree. With this, packagers who use Apache Maven as the project management tool gain the ability to write Ebuilds easily and it will provide the complete support for the existing maven-to-ant feature.

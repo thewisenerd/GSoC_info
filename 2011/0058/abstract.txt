@@ -1,0 +1,1 @@
+The idea is to port the netmd python scripts from the linux-minidisc project (for communication with sony netmd minidisc player) to a c-based library that could be used by vlc and other applications. The library should be based on the unmaintained libnetmd, that is available on sourceforge.

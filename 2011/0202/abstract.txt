@@ -1,0 +1,1 @@
+Further develop the boinc-server-maker package in debian, create a template application package, apply BOINC to in-silico screening of molecular compounds using autodock.

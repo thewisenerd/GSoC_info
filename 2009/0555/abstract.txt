@@ -1,0 +1,5 @@
+The GIS, as both a modeling and publication enviroment, seems to be a mandatory framework to support visualization and modelling of timedependent datasets.
+This project proposes to:
+- implement the netcdf-cf support in the uDig/JGrass GIS
+- create a time navigation GUI part for visualization and consultation of timedependent data
+- creation and implementation in uDig/JGrass of the netcdf-cf writing drivers

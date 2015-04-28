@@ -1,0 +1,3 @@
+This is the inline caching project mentioned in Jato ToDo page http://www.jatovm.org/projects.html
+
+Inline caching is an optimization technique used in  virtual machines. The technique replaces a vtable lookup for a virtual call (very common in Java) by a 1-entry cache at the call site and a single call instruction. Statistics show that this 1-entry cache hits more often than not leading to a significant performance gain with very little overhead for caching logic.

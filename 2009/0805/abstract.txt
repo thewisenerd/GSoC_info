@@ -1,0 +1,2 @@
+XEclipse, which itself was initiated as a GSOC project, is a desktop tool that helps in viewing, editing and deleting XWiki pages. GSOC projects have been a major contributor in extending XEclipse.
+XEclipse has a basic navigator which shows only the pages, objects and spaces in the Server. The GSOC project shall aim to improve this navigator significantly, by adding features like drag&drop, display of attachments/translation, state persistence, better integration with the workbench, and editor

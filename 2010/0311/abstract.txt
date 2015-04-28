@@ -1,0 +1,1 @@
+The current Minix package manager - packman - does not scale to managing the growing number of packages being ported to Minix. The Minix community has expressed the need for a new package manager. Pkgsrc seems to be the favorite. Pkgsrc, orginally written for FreeBSD has already been ported to several platforms. This project proposal is to port pkgsrc to Minix.

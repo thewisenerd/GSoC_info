@@ -1,0 +1,3 @@
+When creating or using a texture map, a 3D model needs UVs.  One way for making that is UV unwrapping. Ttil now, the process of creating those UVs has been a time consuming challenge for the artists.
+
+Currently blender uses ABF and LSCM( Least square conformal map ) which is a good way for doing that. Here I am proposing a better way that is semi-automatic with some interactive controls. This method works well for complex models also.

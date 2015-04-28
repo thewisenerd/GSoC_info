@@ -1,0 +1,3 @@
+The current user administration is done through the list module, and it is very limited because that module handles only the back-end users and groups.
+
+My project will come with some improvements on the design, the back-end users and groups administration and also add some missing features such as front-end users and groups administration.

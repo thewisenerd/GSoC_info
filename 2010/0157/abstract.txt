@@ -1,0 +1,7 @@
+Goal: to further develop libt4kcommon into a stable, usable library, and to integrate it with TuxMath and TuxType.
+
+Rationale: There has been a good deal of "cross-pollination" between the two apps, where code written for one game is brought into the other; a common library streamlines this process.
+
+Deliverables: 
+libt4kcommon to be compiled natively as a shared library on Windows and Linux
+TuxMath and TuxType link libt4kcommon by default

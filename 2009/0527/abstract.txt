@@ -1,0 +1,3 @@
+XCB lacks support for X Keyboard (Xkb) and X Input (Xi) extensions.
+These extensions are not perfect, and there is ongoing work on their successors - Xkb2 and Xi2.
+The goal for this project, is to, implement XCB binding for Xkb,Xi,Xkb2 and Xi2 extensions.

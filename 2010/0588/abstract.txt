@@ -1,0 +1,1 @@
+Currently, programs like Portage or Repoman must rely either on ugly hacks or slow methods (regular expressions for parsing) to access Bash functionality.  A library that allowed access to bash through both method calls and ASTs instead of the current hacks and regular expressions would improve the efficiency and neatness of current programs.

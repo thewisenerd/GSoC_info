@@ -1,0 +1,3 @@
+Apache axis2 is a light -weight Web Services engine, which has been implemented in both Java and C .It provides a better SOAP processing model, with considerable increase in performance.
+Pastry is a generic, scalable and efficient substrate for peer-to-peer applications. Pastry nodes form a decentralized, self-organizing and fault-tolerant overlay network within the Internet.
+By integrating free pastry in to the Apache axis2, we can inherit the capabilities of free pastry's network overlay.

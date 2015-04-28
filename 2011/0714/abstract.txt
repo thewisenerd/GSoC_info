@@ -1,0 +1,1 @@
+A large hospital might use OpenMRS for the clinical patient record, and a separate Laboratory Information System to store detailed information about specimens and samples. Or a national-scale medical record might have OpenMRS running as a centralized database-of-record, with multiple mobile applications connecting to it.

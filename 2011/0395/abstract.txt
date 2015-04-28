@@ -1,0 +1,1 @@
+This project aims to port FreeBSD to NXP LPC32x0 ARM9 system-on-chip family. LPC32x0-s are found in many single board computers and evaluations boards.

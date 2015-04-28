@@ -1,0 +1,3 @@
+1st Year Masters student with aptitude for GTK+ to add functionality to NetSurf Browser GTK Interface, improve details of current interface, code the basis functions as necessary.
+
+I have hand coded a GTK+ interface for an othello programme as my final year undergraduate project, as well as working with glade, so would definitely hope that my knowledge of GTK is sufficient for the project. My C ability is generally good too, particularly with a mentor encouraging my style.

@@ -1,0 +1,1 @@
+The project is an extension for OpenOffice, which allows users to browse, create and edit wiki documents, or upload and download attachments, all from inside OpenOffice Writer.

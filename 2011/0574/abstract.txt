@@ -1,0 +1,4 @@
+Tapestry is a component oriented framework for creating dynamic, robust, highly scalable web applications in Java that lacks a built-in mechanism to protect web applications against cross-site request forgery[1]. 
+The goal of this project is to create a Tapestry built-in protection mechanism that secures Tapestry applications against CSRF attacks.
+
+[1] The Open Web Application security Project - http://www.owasp.org/images/4/42/RequestRodeo-MartinJohns.pdf

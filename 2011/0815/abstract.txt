@@ -1,0 +1,3 @@
+Build out the gambit python interface in cython. Make it such that one can develop new gambit applications in python instead of c++. This might include cleaning up parts of the c++ interface. 
+
+The goal would be to provide a mechanism to build and transform any finite game programmatically. Based on the progress made up to that point other things such as links to solution algorithms, a framework for regression testing, or fully worked integration example.

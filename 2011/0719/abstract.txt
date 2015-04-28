@@ -1,0 +1,3 @@
+Apache Woden is an open source framework that implements the W3C WSDL 2.0 specification which is used for WSDL 2.0 manipulation in popular frameworks such as Apache Axis2.
+
+OASIS XML catalog defines a standard catalog format for XML URI and Entities and it also defines a resolver mechanism.  . The main objective of this proposal is to replace Woden’s simple URI resolving mechanism by OASIS XML catalog and resolving existing issues reported by users of Woden and Axis2.

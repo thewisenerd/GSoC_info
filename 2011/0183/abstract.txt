@@ -1,0 +1,1 @@
+This project will integrate the Recommender modules with Apache Mahout for better performance and scalability to compute content recommendations for large Drupal sites. The second part of the project helps Drupal integrates with any data-intensive computing programs written in any programing languages running on a remote computer.

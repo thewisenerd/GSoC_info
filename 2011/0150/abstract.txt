@@ -1,0 +1,1 @@
+Update the web service at http://live.astrometry.net, by "reframing" the service within the Django framework, and creating user profile registration capability to the service.

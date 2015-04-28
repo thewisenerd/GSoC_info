@@ -1,0 +1,3 @@
+The OAuth protocol enables a service consumer to access protected resources from a web service provider through an API. The API gives service consumers access to services without requiring that users disclose their service provider credentials. 
+Apache CXF is an open source services framework. CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS. 
+The project purpose is to secure CXF services with OAuth protocol.

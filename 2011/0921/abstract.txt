@@ -1,0 +1,3 @@
+Dictionary learning, also known as sparse coding, is one of the planned features in scikits.learn. This project will integrate into the scikit state of the art methods in matrix factorization and dictionary learning, with test coverage, documentation, examples and benchmarks.
+
+Dictionary learning is state of the art matrix factorization problem that aims to find the best set of "concepts" to use to sparsely represent certain data.

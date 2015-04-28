@@ -1,0 +1,1 @@
+Code changes will reduce database load by caching pages as static files. The server will load the cache file rather than even looking at the script so as to dramatically increase performance on high traffic sites.

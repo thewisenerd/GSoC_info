@@ -1,0 +1,3 @@
+The project idea represents an added functionality of performing jobs on cloud compute resources to the project 'Rapid' of OMII-UK. 
+Rapid is a unique way of quickly designing and delivering web portal interfaces to domain-specific applications that require computational resources, such as utility/high-performance computing infrastructures.
+The project goal is to adapt Rapid to generate intuitive interfaces that submits jobs to cloud infrastructures using Open Source Cloud solutions.

@@ -1,0 +1,1 @@
+The 2010 GSoC project that revamped kqueue/(2)kevent(2) and reimplemented select(2) and poll(2) on top of them was a success, but a number of issues and opportunities have been recognized since that time. This project aims to address these remaining issues and fully round out the kernel event notification mechanism in DragonFly BSD.

@@ -1,0 +1,1 @@
+Implement missions for guilds. The missions can be accepted by a specific guild role and completed by any member, by the entire guild or by a specific number of members from the guild. These missions will have more actions related to the guild itself.

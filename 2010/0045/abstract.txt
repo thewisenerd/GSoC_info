@@ -1,0 +1,1 @@
+To extend an existing prototype of GeoGebra3D, which is a view in GeoGebra that allows for the creation and modification of 3D objects.

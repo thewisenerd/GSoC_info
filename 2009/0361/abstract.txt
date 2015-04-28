@@ -1,0 +1,1 @@
+One of the biggest weaknesses of Blender is the inability to render high polygon counts while modeling. I believe the way blender uses OpenGL API is the biggest cause: it does immediate mode rendering. Using VBOs and vertex arrays, sometimes called the retained mode, would speed up the rendering substantially and provide a user with a more responsive interface.

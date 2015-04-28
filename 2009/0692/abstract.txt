@@ -1,0 +1,4 @@
+Storage engine goals:
+1.Storage approach. When MySQL server startups, read data from disk to memory until server closes. When MySQL closes, write the new data back to disk. During server is running, the data are kept in memory, which can use HEAP storage engine's experience;
+2.Privileges manager. Each user can see only the rows in the tables that users has the proper access privileges;
+3.The concurrent control. For during the server is running, databases' metadata will change concurrently.

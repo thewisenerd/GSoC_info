@@ -1,0 +1,2 @@
+By adding this features I'm pretty sure that we could extend the user audience. A feature like this is implemented in tools like ettercap but these solutions are limited to static situations.
+The goal of the project is to provide a general framework to create general attacks, with the help of UmitPlugins infrastructure, XML and schema files and Python language. The project will also include a complete set of common attacks, with point click and pwn semantic.

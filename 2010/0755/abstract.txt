@@ -1,0 +1,5 @@
+This project is aiming for a re-implementation of the Boost.Phoenix library.
+While already accepted as a main citizen of Boost, there are several things to consider before all conditions are met.
+The main requirement is a rewrite with the help of Boost.Proto.
+This proposal summarizes the requirements and previous ideas, which will be necessary to port phoenix to proto.
+Additionally a schedule for possible milestones will be proposed.

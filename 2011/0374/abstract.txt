@@ -1,0 +1,3 @@
+The Salvo project can be used to communicate through newsgroups. It provides an underlying decoupled API to access news servers and provide offline storage of newsgroup articles.
+
+Currently Salvo is available as a RCP application. The main goal of this project is to provide the salvo functionality within the eclipse workbench.

@@ -1,0 +1,1 @@
+The UMPA library from Umit project is a very useful packet generation and dissection tool. However, many of its features were not finished. I'd like to breathe life into it and code all the incomplete or missing functionalities, making it a complete and easy-to-use tool.

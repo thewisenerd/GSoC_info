@@ -1,0 +1,1 @@
+The project focuses on implementing and improving all components of Pydra needed to run MapReduce tasks conveniently and efficiently. This includes implementing the new data-source API, adding support for non-relational databases as storage back-ends, implementing a resource API, and ideally reworking the current MapReduce code to make use of the new functionality.

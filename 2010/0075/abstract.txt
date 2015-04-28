@@ -1,0 +1,2 @@
+The project addresses the portability of vector operations in C considering efficiency and correctness. The starting point of the project is GCC general vector extension. I show that sometimes GCC ends-up with a wrong code because memory-alignment issues are not considered. I introduce a set of
+desirable interfaces for vector operations which are not currently supported. Finally I introduce several test-cases and discuss future work.

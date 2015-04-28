@@ -1,0 +1,1 @@
+Overview: I propose to increase the accessibility of important Drupal interfaces for people with various impairments. Specifically, I want to modify and sub-theme Drupal 7's core themes, the WYSIWYG module's TinyMCE configuration options, and View's interface and output to be more accessible.

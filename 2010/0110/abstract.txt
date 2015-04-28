@@ -1,0 +1,5 @@
+OpenImageIO is a library for reading and writing images.
+
+I would like to take up the "Socket communication" project. It's aimed at adding socket support for OpenImageIO. This means that one of my goal will be adding plugin for writing and reading images from sockets. What will increase the library flexibility.
+
+Another part of this project is integrating socket plugin with OIIO's image viewer, which offer a new ways of use it.

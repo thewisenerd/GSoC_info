@@ -1,0 +1,2 @@
+The web2py crud - a backend for rest provided by the web2py framework has limitations. It can only represent/function on single table at a time. As such this creates problems for SahanaPy developers while working on compound resources.
+The S3XRC backend does support compound resources, provides results in JSON & XML, but it lacks an HTML interface. This summer I would like to write a reusable, generic frontend for S3XRC that solves many interesting problems.

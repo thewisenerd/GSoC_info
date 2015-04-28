@@ -1,0 +1,3 @@
+This project is from the idea list http://community.kde.org/GSoC/2011/Ideas#Project:_Plasma_media_center_first_release
+
+The idea is to make Plasma Media Center ready for first release so KDE can have a shiny new Media Center with QML UI. People can then use it to relax and take a break from their work, all using KDE on their netbooks, laptops, desktops, or even TVs :)

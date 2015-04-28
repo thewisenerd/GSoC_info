@@ -1,0 +1,1 @@
+The main goal of this project is to offer a utility capable of  merging configuration / sysconfig files, and then integrate it with openSUSE in order to replace  fillup, the tool which is currently used. This new utility will deal with any existent problems and will offer many new benefits, like better maintainability, support for more types of configuration files etc.

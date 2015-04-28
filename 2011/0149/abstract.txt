@@ -1,0 +1,2 @@
+The goal of the project is to be able to store the structure of arbitrary complex MIME messages in the database for easy access and to be able to reconstruct a byte-identical copy of the original message. This is needed for common email encryption systems like PGP/MIME and S/MIME; but also for seemingly simple tasks like export of a single message or viewing the message source.
+Additionally the database abstraction layer will be changed to better utilize the help Android provides with it's API.

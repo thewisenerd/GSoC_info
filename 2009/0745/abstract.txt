@@ -1,0 +1,5 @@
+This project aims to build a minimal script editor for ImageJ which includes 
+1)Writing text and scripts ,compiling and running Java,Javascript and other scripts like Jython and Jruby.
+2)Syntax Highlighting and auto-indentation feature for Java,Javascript,Jython and Jruby 
+3)Autocompletion for the above mentioned languages
+4)Minimal debugging features like higlighting the lines which could not be compiled.

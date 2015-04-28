@@ -1,0 +1,1 @@
+This project will focus on making SciPy.signal more maintainable and filling in the gaps between Matlab's signal processing toolkit and SciPy.signal

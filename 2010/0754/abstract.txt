@@ -1,0 +1,1 @@
+Proposal to implement in x264 adaptive interlacing support that works on a macroblock level.

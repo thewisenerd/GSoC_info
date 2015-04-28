@@ -1,0 +1,3 @@
+Errors in Linux device drivers are responsible for a significant amount of kernel faults.  The drivers are frequently changed,  and incremental quality control of only those drivers that are affected by the change is necessary.
+
+The goal of this project is to utilize LDV (Linux Driver Verification tool) to incrementally find errors in Linux drivers as changes are committed in the GIT repository containing the sources of the drivers.

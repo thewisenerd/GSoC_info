@@ -1,0 +1,1 @@
+Apache Xerces2 is a high-performance XML processor which implements a collection of standard APIs. The objective of this project is to design and implement a parser and an evaluator for schema component designators (SCD) that can be used to identify and retrieve XML schema component(s) from the XML schema data model used by Xerces.

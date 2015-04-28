@@ -1,0 +1,3 @@
+Lots of useful information helping to understand software can be obtained by analyzing code that used a given API or can be provided by users sharing their knowledge with others.
+
+However, appropriate means to enable users to provide and refine existing documentation or to display information automatically extracted from example code is missing in Eclipse. Providing those means by introducing extended, crowd-sourced and context-sensitive Javadoc views and pop-ups is the goal of this project.

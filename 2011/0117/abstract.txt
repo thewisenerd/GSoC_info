@@ -1,0 +1,1 @@
+This project will involve porting the VIX tools from Xen to KVM as well as developing tool to dynamically determine the location of kernel structs.

@@ -1,0 +1,1 @@
+Development of the transparent OpenGL distributed rendering system for Liquid Galaxy hardware.

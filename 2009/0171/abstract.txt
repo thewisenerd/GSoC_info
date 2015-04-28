@@ -1,0 +1,11 @@
+This will be a port of the X86 Mono.Simd hardware based intrinsics to work on the Amd64 platform.
+
+My previous experience in with the Simd intrinsics are studying the Simd jit code x86 architecture, starting work on a math library that uses the intrinsics, and researching how to inline intrinsics that have are not supported on the cpu or when the hardware optimization is disabled. 
+
+The work will fall into three stages: fixing the register allocator(s) and reworking the code gen macros to support 16 regs, and other miscellaneous tasks that might remain. Each stage will end with running the simd test suite to make sure the code works (creating test suites as needed).
+
+By the midterm, code gen marcos should be modified to support 16 regs. Also by the end of the term, the register allocator(s) should be finished along with zero or more miscellaneous tasks.
+
+I have read and accept the rules and provisions at www.mono-project.com/SVN
+
+I will commit code at most on a weekly basis to be reviewed and discussed with my mentor.

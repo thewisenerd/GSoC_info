@@ -1,0 +1,7 @@
+The playlist view in Amarok has become much more configurable recently, allowing the user to customize the format of each item. However, there's still no way to sort these items according to the content of the fields.
+During this GSoC season I would deliver:
+-multilevel sorting for the playlist
+-singlelevel grouping with configurable grouping category
+-inline sorting scheme selection or configuration interface
+-sorting scheme configuration interface
+-integration with the layout configuration interface I already worked on

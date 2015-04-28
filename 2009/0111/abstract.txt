@@ -1,0 +1,1 @@
+As SDL grows and more ports are made, the need for a test suite for SDL increases.  This project would consist in making an assortment of testing applications which would use the SDL API to do things and compare with the expected output.  This would allow finding of regressions and issues in a much more easy automated way.

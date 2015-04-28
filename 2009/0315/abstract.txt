@@ -1,0 +1,3 @@
+UMPA is a library for packet manipulations. It's being used as a backend for Packet Manipulator GUI. The main feature of the library is to prepare and sending packets over the network. I would like to extend the library to make it really useful in many other cases, also to provide long and short terms of simulations.
+
+There are 4 main features which I would like to implement: sniffing (receiving packets), asynchronous scheduler, template system and additional protocols support.

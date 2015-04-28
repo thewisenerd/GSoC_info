@@ -1,0 +1,9 @@
+This project will add multiply to GNOME-Sudoku, using the Telepathy
+communication framework, so you can play sudoku with your IM contacts.
+
+The current single-player mode will remain and two new multiplay mode are to be
+added: competitive and collaborative.
+
+This project will combine game and instant messaging on the GNOME desktop.
+Hopefully, it will serve as an example for further adoption of Telepathy, either
+for the other GNOME-Games or other modules in or outside GNOME.

@@ -1,0 +1,1 @@
+This project is meant to implement a subset of the API provided by the d3dx*.dll, used by many Windows programs, mainly videogames

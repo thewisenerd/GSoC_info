@@ -1,0 +1,1 @@
+Improve the pre and post-editing Apertium translation web environment where the user has a range of tools available in order to modify the text before sending it to Apertium and after getting its translation.

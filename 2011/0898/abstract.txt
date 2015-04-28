@@ -1,0 +1,2 @@
+Selenium IDE is an integrated development environment for Selenium scripts. It includes the entire Selenium Core, allowing you to easily and quickly record and play back tests in the actual environment that they will run.
+This is will extend the Selenium IDE by adding a feature to capture an image from the existing web page.It will identify the image captured and perform an event like a click on it when playing the record.In addition it will add the captured image base locator to a list.

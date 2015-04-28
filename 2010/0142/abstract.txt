@@ -1,0 +1,5 @@
+I will revive the currently dead portage GUI Kuroo.
+It will be ported to Qt 4, and to the new portage API.
+The goal is to have a Qt based portage GUI again as most of the current ones
+are GTK+ based. That will give KDE users a better solution when they want a
+graphical user interface for their gentoo.

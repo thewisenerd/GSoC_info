@@ -1,0 +1,1 @@
+The project aims to develop a set of new consistency checkers (and enhance the existing) for the LSB database and improve automated generation of templates for inconsistency fixes. These upgrades will help to improve maintainance of the LSB database and thus avoid issues in different products partially created from the db (e.g., LSB SDK).

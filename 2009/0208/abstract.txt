@@ -1,0 +1,1 @@
+OIIO currently has a really nice C++ interface. The goal of this project is to provide Python bindings (through Boost::Python) so that image operations could be scripted and Python programs would have access to all of OIIO's functionality while maintaining the core's C++ speed.

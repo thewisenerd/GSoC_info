@@ -1,0 +1,1 @@
+This project will make users able to install Pardus directly from Windows(tm) without partitioning and coping with bootloaders etc. by creating a virtual disk image on Windows file system. My aim is to create a user-friendly installation wizard and prepare a stable release which is compatible with different Windows releases, different hardware and architectures.

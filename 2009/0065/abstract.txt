@@ -1,0 +1,2 @@
+This project is primarily a ‘BugFix Superstar’ application where I commit myself to help Audacity team to fulfil its main objective, reach a stable state for 1.4 release.
+Being myself an Audacity user as a DJ and producer I propose to create a new simple and useful feature for automatic volume detection during a record session.

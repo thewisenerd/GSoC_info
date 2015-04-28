@@ -1,0 +1,3 @@
+This proposal concerns integrating an unit testing framework with Drizzle and creating unit tests for the main parts of the project.
+
+  Drizzle uses a regression test suite which allows a fairly good detection of newly introduced bugs. However, it has also its limitations. Most of them could be eliminated with the complementary functionality of an unit testing suite. With the numerous additional benefits it provides, I think it is worth taking the effort of putting the project into practice.

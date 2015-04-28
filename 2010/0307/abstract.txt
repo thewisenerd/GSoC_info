@@ -1,0 +1,3 @@
+I intend to rework the current Wesnoth interface by introducing a planning system or "whiteboard" that will allow the player to give orders and modify them before executing them as a real action. 
+Among immediate benefits, players will be able to share their plans with allies in real time. They will also be able to plan moves during idle time when it's not their turn.
+Future benefits include suggesting moves to allies, and displaying advanced battle stats taking multiple units into account.

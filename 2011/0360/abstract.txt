@@ -1,0 +1,1 @@
+Mercurial's primary stable API is its command line interface. Creating a tool and library to communicate with this API over a pipe or a socket will help improve performance for third-party tools that use Mercurial.

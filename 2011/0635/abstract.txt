@@ -1,0 +1,2 @@
+I want to add a new way of interacting with contacts and the way they are displayed to the user.I first came up with the QML integration idea around my first week in kde-telepathy as the guys were 
+thinking about something new to bring to the chat. Well, I have some good ideas for this

@@ -1,0 +1,1 @@
+I want to apply for GSoC about “Allow Commit from multiple working copies”. In the proposal I present my rough ideas to solve this problem and a schedule of this 3 months project. I appreciate it very much if I am chosen to work out the issue.

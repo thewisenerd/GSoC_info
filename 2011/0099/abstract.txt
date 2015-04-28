@@ -1,0 +1,3 @@
+Mailman project within the Python foundation,
+
+I'll join Florian and Anna building a Django based webUI for the new mailman 3

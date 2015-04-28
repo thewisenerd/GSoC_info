@@ -1,0 +1,5 @@
+Implement a subset of .NET4 code contracts in Mono, with full testing and documentation. This will consist of:
+1. A full implementation of the  classes in the namespace System.Diagnostics.Contracts in corlib.
+2. The ccrewrite and cccheck tools for runtime and static contract checks.
+3. Unit tests.
+4. Documentation.

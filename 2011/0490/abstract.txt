@@ -1,0 +1,1 @@
+Last year an initial framework for unit tests was implemented for the NTP project. My proposal would be to continue with this work, both finishing parts that wasn't done last year, and also create tests for other parts that doesn't have any unit tests.

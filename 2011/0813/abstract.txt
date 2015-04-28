@@ -1,0 +1,1 @@
+Replacing the newlib and porting an already existing POSIX compliant libc to Xen PV platform. This  implementation to allow at least few already existing applications like qemu-dm to be ported. And porting Xenstored to this new platform.

@@ -1,0 +1,1 @@
+Universal Select Tool is an utility to manage system configuration. This tool is similar to the unmaintained eselect utility of Gentoo or Exherbo's eclectic. The idea is to create a tool that  manages both system settings and user settings with profile creation possibilities. The utility will use mostly concepts from "modules", "softenv", and both "eselect" and "eclectic".

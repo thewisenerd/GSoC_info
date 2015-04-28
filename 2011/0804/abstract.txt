@@ -1,0 +1,2 @@
+Computational Linear Algebra is numerically mastered by numpy/scipy. But there is no open source library which handles Linear Algebra for matrices with symbolic content. My project is to write sparse matrix algorithms for symbolic matrices. 
+Matrices will majorly support exact ints, rational numbers, real numbers, polynomials, rational functions and finally algebraic expression as its elements.

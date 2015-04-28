@@ -1,0 +1,1 @@
+The artificial intelligence module of Battle for Wesnoth is written in C++ and is pretty complicated for scenario developers to configure. That's why Wesnoth developers decided to extend it and allow users to write AI configurations in Lua, which is not possible at the moment.

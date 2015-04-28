@@ -1,0 +1,1 @@
+A web based application comprising of a rich ajax driven interface for creation and manipulation of tags, a query page with advanced filtering options for image retrival through tagging, an API for fetching of tag metadata and a Ruby based Server side backend that manages the complete version history of tags and associated metadata.

@@ -1,0 +1,4 @@
+Pippy offers a good place to practice inside a familiar environment. I would give it more functionality by adding:
+a) more examples of Python code
+b) an interactive Python tutorial
+c) a game which checks your Python knowledge

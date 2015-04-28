@@ -1,0 +1,1 @@
+As a long-term member of the GeoGebra development team I hereby propose to implement the GUI extension project. I already implemented a prototype of this system which is used in the trunk, for GSoC I would like to enhance and strengthen this prototype.

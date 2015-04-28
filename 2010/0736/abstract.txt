@@ -1,0 +1,2 @@
+Gluon is a cross-platform free and open source 2D game engine from KDE. It aims to make life easier for game developers by providing a simple but powerful API to handle 2D objects, sounds and inputs.
+The aim of this project is to develop a Plasma applet for KDE which can used to play Gluon games, fetch new games and other activities supported by the Gluon online service.

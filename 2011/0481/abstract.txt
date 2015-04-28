@@ -1,0 +1,3 @@
+pkgng is a project that aims to provide an alternative to pkg_install. It is based on libpkgng, a new library dealing with package management tasks.
+
+My goal is to implement a new sub-command to pkgng so it will be able to convert .rpm and .deb archives to .txz ones (the pkgng package format).

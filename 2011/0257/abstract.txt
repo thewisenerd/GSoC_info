@@ -1,0 +1,1 @@
+Apache Cayenne is an open source persistent framework which is providing object-relational mapping (ORM) and remoting services.Idea of this proposal is to create an Eclipse plugin in order to  integrate Apache Cayenne Modeler and Eclipse IDE.

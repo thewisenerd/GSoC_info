@@ -1,0 +1,5 @@
+Dakota (http://dakota.sandia.gov/index.html) is a software very used and usefull.
+It permits to apply optimization tools on complex systems for some worldwide company.
+Nevertheless, it doesn't use a Scilab interface, but just has only a Python / Matlab interface.
+Scilab and Dakota are open source solutions for lot of companies.
+So, it should be interesting to be able to launch a Dakota computation via a scilab interface.

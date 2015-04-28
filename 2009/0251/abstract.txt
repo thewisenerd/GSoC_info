@@ -1,0 +1,3 @@
+Implementing a set of Dtrace probes in a Rack module serves as my project for this year's Google Summer of Code. These probes can be used to track and analyze a web app's performance, with disregard to the web framework or web server in use for Ruby projects. 
+
+Adding the probes would likely not take up the 3 months GSoC allows. The remaining time will be spent working on visualizations for the probe data. Imagine having a web app's activity statistics baked right in with Rack!

@@ -1,0 +1,1 @@
+I plan to make an application for the Nokia n900 to allow blind and visually impaired people to read books, newspapers, magazines, signs, and other printed text on their own. The user simply opens the app and takes a picture of the document. The app then processes the image with an OCRFeeder-based backend and reads it aloud via text-to-speech software.

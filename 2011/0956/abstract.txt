@@ -1,0 +1,1 @@
+I hope to address several of the shortcomings in the wine's current explorer implementation, winefile. To do this I wish to implement an explorer for wine based on the IExplorerBrowser interface.

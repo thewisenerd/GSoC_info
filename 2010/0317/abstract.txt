@@ -1,0 +1,1 @@
+The aim of this project is to improve Cytoscape's ability of dealing with labels, by providing two new label layout plugins based on the force directed and spring embedded approaches, and also by providing the capability to show and hide certain labels as the user zooms in and out.

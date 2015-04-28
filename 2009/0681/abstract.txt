@@ -1,0 +1,1 @@
+The idea is to develop a framework which would dispatch keyboard gestures to appropriate commands with scope and context in mind. As for the user a new panel will be added in options dialog. This panel would allow configuring shortcuts as well as assigning short scripts to them. After all is implemented I also plan to adopt existing add-ins to new functionality.

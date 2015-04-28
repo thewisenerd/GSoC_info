@@ -1,0 +1,6 @@
+The core issue faced by teachers in schools regarding including Tuxmath and Tuxtype in their
+curriculum is that they cannot assess the kids as they want.A configuration/administration 
+program Tux4kids-admin was thus developed for teachers.But it does not integrate with 
+Tuxmath and Tuxtype.My project is to add/modify code in Tuxmath and Tuxtype so that
+the Tux4kids-admin program supports them while simultaneously working on improving the
+Tux4kids-admin program by mentor.

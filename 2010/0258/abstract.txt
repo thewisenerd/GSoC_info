@@ -1,0 +1,1 @@
+In this GSoC project, I propose to develop DSpace 2.0 storage service implementations based on semantic content repository (TripleStore).

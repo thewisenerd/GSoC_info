@@ -1,0 +1,1 @@
+Porting GNU linker and GNU assembler to the HelenOS environment. Implementing necessary HelenOS libc functions that are currently missing or POSIX incompatible.

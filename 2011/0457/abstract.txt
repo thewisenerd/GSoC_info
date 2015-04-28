@@ -1,0 +1,1 @@
+This project aims to create agent-based models using Repast Symphony for demonstration purposes, as well as how-to videos to show users, both potential and existing, the capabilities of the tool.

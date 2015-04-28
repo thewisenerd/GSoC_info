@@ -1,0 +1,1 @@
+I want to add additional functionality into Gephi project. The main idea is to add support for querying Neo4j database and ability to transform a part of Neo4j graph into Gephi representation.

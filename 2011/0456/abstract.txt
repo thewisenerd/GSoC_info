@@ -1,0 +1,1 @@
+Work on integration NHibernate with MonoDevelop database addin. Improve experimental GTK# designer and add databinded GTK widgets.

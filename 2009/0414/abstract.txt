@@ -1,0 +1,5 @@
+StopBadware Project is an effort to regulate the cyberspace with the aid of community participation. BadwareBusters.org, a site already created by for this purpose has just been launched. Additional functionalities can be added to this site help the cause of regulation
+In this project, I propose to -
+1. upgrade existing forums at the BadwareBusters.org
+2. create an innovative rating for the posts and community users
+3. Release the existing code to open source.

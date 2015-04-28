@@ -1,0 +1,11 @@
+This proposal is based on
+
+http://techbase.kde.org/index.php?title=Projects/Summer_of_Code/2009/Ideas#Project:_Code_regression_test_suite.2C_implemented_with_QtScript
+
+The main idea is to create a unit testing framework (and tests using it) to be able to detect regressions early in the development process. QtScript should be used for tests to reduce compile time. Also this framework should have no effect on release builds, if possible.
+
+This includes:
+* cleanup of scripting infrastructure
+* enhanced scripting infrastructure for tests
+* test framework itself
+* as many tests as possible

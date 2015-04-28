@@ -1,0 +1,2 @@
+This project aims to convert the Java wizard menus into Python.
+The reason is, basically, because the current wizards cause some nasty problems on machines with mis-configured, or not present, Java and of course it presents a serious performance challenge

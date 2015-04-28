@@ -1,0 +1,3 @@
+KHangMan is a part of KDE Edu software. It is a game which helps children in extending vocabulary and learning new words. Player can choose difficulty level (usually it determines the average length of word to be guessed). Most words are common-used. Additional category is “Animals”.To me KHangMan is useful as a tool to improve my skills in foreign languages.
+
+While reading TODO I thought there's still much to do. Below you can read how will I improve KHangMan during this summer.

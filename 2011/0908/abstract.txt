@@ -1,0 +1,2 @@
+The reason why I chose this project is due to my passion for both networking and programming. The SAMBA project as a whole has both these elements incorporated, however this particular area seemed most appealing due to idea of remote configuration.
+As SAMBA can use a registry database to store it's configuration in order to facilitate sharing for larger deployments (where the share count is large and the clients are many), having an easier way to modify said configuration and access it is needed

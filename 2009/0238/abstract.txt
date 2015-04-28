@@ -1,0 +1,7 @@
+Doogg es la variant of the cortado applet java  by embedding this applet in your website, you can give viewers access to streams from either streaming server or play a local file from your server without the need for a locally installed media player supporting the correct formats on the visitor’s computer applet for Ogg formats (Vorbis, Theora).
+
+# Suport OGG Theora and Vorbis 
+# Embeddin in the Website - 
+# Access to fullscreen
+# Control Bar for navigating  
+# Playlist Xpfs, m3u

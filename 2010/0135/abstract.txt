@@ -1,0 +1,1 @@
+This project will provide a Clould-based Storage Engine for Drizzle - allowing storing and retrieving of data from Cloud Storage Services including both AWS S3 and Rackspace Cloud Files.

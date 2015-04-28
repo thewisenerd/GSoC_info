@@ -1,0 +1,1 @@
+This project was started in 2008 as a GSoC project with the goal to automate NTP Project documentation process. Besides the fact that NTP – Documentation Automation Project aims to automate NTP documentation process, it will also contribute entire open source community in documenting sources in a variety of different formats.

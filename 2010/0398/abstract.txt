@@ -1,0 +1,1 @@
+Design and implementation of a MusicBrainz mobile application for the Android platform. The application will use ZXing to scan release UPCs and then retrieve/browse MusicBrainz info allowing rating, tagging and association of UPCs which are not already stored.

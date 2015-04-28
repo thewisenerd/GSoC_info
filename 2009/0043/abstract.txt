@@ -1,0 +1,1 @@
+Currently, it is not good to have two or more people editing the same page at the same time, with warnings being issued and, sometimes, raising conflicts. The goal of this project is to integrate a real time editor, such as Synchro Edit, to MoinMoin.

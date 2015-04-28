@@ -1,0 +1,1 @@
+Spatialization plays an important role in rendering networks, specially when the size of the networks are huge and the complexity of current spatialization techniques starts to dominate. This proposal is about developing and implementing a highly scalable distributed spatialization algorithm, so that Gaphi can ideally spatialize [and render] massive networks (~1M nodes).

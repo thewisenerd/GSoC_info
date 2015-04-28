@@ -1,0 +1,3 @@
+My name is Emanuel Costea, I am from Romania and 20 years old.
+My proposal is for the OVQT Translation Plugin from Ryzom community.
+Is my first time when I participate to GSoC and this is my only proposal.

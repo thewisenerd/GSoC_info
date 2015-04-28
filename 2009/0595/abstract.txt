@@ -1,0 +1,4 @@
+The idea is to integrate in a single application GeoReport and Spatialytics in PentahoBI platform
+using CDF extenstion in order to setting and creating GeoDashboards as easy as possible both
+for spatially navigating (multidimentional) cubes and for displaying charts, diagrams, indicators
+directly from the map click, depending on user needs!

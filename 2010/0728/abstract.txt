@@ -1,0 +1,1 @@
+Enable sorting by column and AJAXify all controls on list-type screens: pagination, sorting, filters, bulk-delete etc.

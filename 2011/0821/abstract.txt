@@ -1,0 +1,1 @@
+The Unicode String Adapter is a template class that wraps around any string types to provide encoding semantics to the strings. The adapter ensures encoding correctness through type safety when strings are passed between libraries, and enables transparent conversion between different string types with different encodings that are wrapped by the adapter.

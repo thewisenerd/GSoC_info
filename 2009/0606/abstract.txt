@@ -1,0 +1,2 @@
+Currently in Audacious the tagging of various formats is done in the correspondent input plugin. The problem is that in some of the plugins the handling is incomplete and some do not support metadata writing.
+The purpose of this project is to implement a unified tagging library that will remove the overhead of tagging from the input plugins and offer a more complete and proper handling of the song's metadata.

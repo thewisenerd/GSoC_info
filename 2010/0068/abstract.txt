@@ -1,0 +1,1 @@
+This project aims at the development of a new 3D graph visualization engine for Gephi. The current engine uses legacy OpenGL features to be as portable as possible, whereas the new engine will use the best features to draw as many nodes as possible. It will be based on OpenGL 2.1 (or OpenGL 3.0) using JOGL as Java binding.

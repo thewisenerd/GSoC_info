@@ -1,0 +1,5 @@
+This application proposes a number of modifications on Django, with the aim of providing web developers with more tools to localize their projects.
+
+Django already provides some i18n features, but it lacks many others such as date and number formatting, and translation of dynamic content.
+
+Developments detailed in this application will make Django projects easily localized. Also these changes will be useful for implementing future i18n features, inside Django or as external applications.

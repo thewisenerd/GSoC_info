@@ -1,0 +1,1 @@
+This project will look towards making Chromium on Linux a pleasant experience.  Ensuring the browser starts as fast as possible, doesn't leak memory, stays asleep when it's not busy, and does it's work as efficiently as possible will the goals.

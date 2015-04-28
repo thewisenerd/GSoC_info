@@ -1,0 +1,3 @@
+Proposal for the “libpurple detachable sessions” project: details of the project and my proposed approach, the scheduled timeline, my motivations for doing this, and who am I and what I have done.
+
+The goal of this project is to allow a user to have several running libpurple based applications simultaneously, all sharing the same the same data and connections.

@@ -1,0 +1,3 @@
+Analyzing Instant Messaging Spam (Spim) is a very complex task. Spim is distributed using the current victim's contact list and some sort of social engineering. This facilitates the fast and rapid spread of Spim. 
+
+This new type of honeypot should help us to get some first insight into malware distribution and client infection using instant messaging protocols and social engineering.

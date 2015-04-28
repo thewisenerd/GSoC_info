@@ -1,0 +1,3 @@
+TB uses mbox file format for storing local mail. This is a flat file that represents a message folder. It works fine for add/read and mark message as deleted, but is bad at actually deleting the messages and needs modifications to support indexing.
+It'd be great to try another mail format w/o abandoning the mbox.
+This project aims to design a mail store interface to abstract access to particular mail store, update the TB code to use it, and implement the interface for mbox and MailDir.

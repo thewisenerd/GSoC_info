@@ -1,0 +1,1 @@
+A client for xmms2 on Emacs that puts an interestingly strong weight on searching and (mis)using collections as search results. The goal is quickly finding out what the user feels like playing.

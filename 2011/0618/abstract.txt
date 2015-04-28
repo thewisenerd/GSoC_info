@@ -1,0 +1,1 @@
+This project aims to display a subsurface layer over an existing 3d virtual world application. The development would take place on the World Wind open source 3D interactive world viewer created by NASA.

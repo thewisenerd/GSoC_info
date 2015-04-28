@@ -1,0 +1,1 @@
+This project aims to enhance the Freimap mesh network analysis tool by adding ability to actively interact with the network nodes through SSH channels. Another goal is to port the UI to Java-Gnome in order to separate presentation & model. This will provide a position from which a major enhancement of the existing UI will be made.

@@ -1,0 +1,3 @@
+Wikipedia is pretty clear about it: "The R language has become the /de facto/ standard among statisticians for the development of statistical software [...]." With the introduction of bioinformatics, R has got another scientific backing. Many statistical, mathematical and biological research groups publish R code for their findings.
+
+There are a several repositories for specialized R packages. The goal of this project is to integrate support for these repositories into Gentoo package managers.

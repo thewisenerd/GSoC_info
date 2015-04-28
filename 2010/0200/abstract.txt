@@ -1,0 +1,1 @@
+Using the Coq theorem proof assistant, we will connect a javascript based web editor that allows new students of logic to write and verify proofs. This will give instant feedback to students, allowing a more efficient learning process, and make the grading of these results easier on instructors.

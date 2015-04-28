@@ -1,0 +1,1 @@
+In my project I will create simulation mechanisms to observe the usefulness of different clock models for NTP.  I will also propose and study a several methods for simulation of different clock models.

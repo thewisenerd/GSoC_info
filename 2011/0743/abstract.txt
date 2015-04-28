@@ -1,0 +1,3 @@
+I'm currently enrolled in Polytechnic University of Bucharest, Romania.  I'm a first year student.  I have participated in IT project and math contents during high-school and also this year. I enjoy working in a team. 
+The main point of my GSoC 2011 project is to port GIMP plug-ins to GEGL, because GEGL API supports higher pixel depth, has a smart job and memory management, allows non-destructive editing.
+I am very enthusiastic about being an active contributor of GIMP not only  this summer.

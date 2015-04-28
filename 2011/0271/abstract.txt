@@ -1,0 +1,1 @@
+The Mac OS X interface is in a bad shape for quite some time. Now it's time to rework it, to embed the video output within the playlist window and to add the missing features from the Qt4 interface. This is what I'll do.

@@ -1,0 +1,3 @@
+The aim of the project is to implement a bytecode verifier for the Jato VM.
+
+The role of a bytecode verifier is basically to make sure the code a VM is loading is not malicious by running checks on it.

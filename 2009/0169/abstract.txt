@@ -1,0 +1,1 @@
+This project implements Perl binding for Xapian using SWIG. At present Xapian's Perl binding is hand-written using XS. However, updating XS code for API changes is more work than SWIG-based one.

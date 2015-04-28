@@ -1,0 +1,1 @@
+The goal of this project is to create a new Plugin Architecture for the phpPgAdmin and a complete and documented plugin example, to show how to create one.

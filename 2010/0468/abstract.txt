@@ -1,0 +1,6 @@
+This project aims to implement the following bug-triaging improvements in Launchpad and subsequently use them in Arsenal:
+
+ * Attachment Search (Text searches for attachments in bugs of a particular project)
+ * Automatic Upstreamer (Forwarding bugs to remote trackers)
+ * Bug Matchmaking (Search remote trackers for matching bugs)
+ * Automatic Patcher (Generate packages automatically packed from bug attachments)

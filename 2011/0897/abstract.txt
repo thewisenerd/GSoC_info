@@ -1,0 +1,1 @@
+The project aims to enhance the status page of PMA by the following features: Live status variables and history keeping, Query statistics & charts: Extraction of useful data from the slow query log to help identify slow or suboptimal queries and restructuring of  the page to add more interactivity to it.

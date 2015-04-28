@@ -1,0 +1,2 @@
+My proposal involves the Geek Communicator. A interface accessible directly from the console.
+The purpose of this console is to enable fast access for both the user and scripts to use SIP Communicator.

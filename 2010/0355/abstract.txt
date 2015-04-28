@@ -1,0 +1,3 @@
+I will introduce very magnificent features to help the demonstration of dynamic view
+of database structure by using PHP,MYSQL and XML, having ability to export Relations schema
+in SVG,EPS,PDF,MS Visio and Dia's XML file formats. The features, I am catering will possibly be available in phpMyAdmin schema tab along with other tabs.

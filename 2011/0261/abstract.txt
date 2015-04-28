@@ -1,0 +1,1 @@
+Adds some scripting features, like enter level event hook, support for enemies spawning from script, ingame and real video cutscenes and others.

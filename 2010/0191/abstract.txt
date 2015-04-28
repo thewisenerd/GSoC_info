@@ -1,0 +1,5 @@
+This proposal aims to implement NFG for Parrot strings, as specified
+on PDD 28 "Strings". This was explicitly designed as a way to get
+strings that can represent the full Unicode character repertoire
+without resorting to variable-byte encodings and prevent expensive
+look ahead en every operation.

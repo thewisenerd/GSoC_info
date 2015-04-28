@@ -1,0 +1,1 @@
+My goal is to add the power of random/regression forests to Mahout. At the end of this summer one should be able to build random/regression forests for large, possibly, distributed datasets, store the forest and reuse it to classify new data. In addition, a demo on EC2 is planned.

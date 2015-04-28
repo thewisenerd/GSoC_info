@@ -1,0 +1,1 @@
+I want to add support for creating new virtual machines to the XCP web-interface. I want to add some other futures like creating storage devices. Managing of existing virtual machines and storage devices.

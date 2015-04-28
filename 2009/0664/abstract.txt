@@ -1,0 +1,4 @@
+The idea is to Create a generic logging framework which saves your conversations in Akonadi. The storage codes of his framework will be generic and could be used to integrate other services also, like twitter conversations or Konversation IRC logs.
+In this project i will Create a Telepathy watcher which will use this framework to log the contents of all text chats done using Telepathy IM clients into Akonadi, with the feature of going 'off-the-record'.
+Modify the Kopete logging Plugin such that Kopete logs can be saved in the same Akonadi collections, resulting in a common chat storage space.
+A Migration tool to migrate all your old Kopete logs to the new Akonadi collections.

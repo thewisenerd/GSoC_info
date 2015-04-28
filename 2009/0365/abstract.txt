@@ -1,0 +1,5 @@
+Bulletin boards are a valid product that came up in 1977, and remain approximately the same until today. This type of forums are generalistic as they could satisfy every need, but the web progresses and expand itself, and it become a little worst with spammers, troll, flame war and other horrible things.
+My project consists in developing a forum system based on the classic Drupal core forum which uses peer review to highlight better content, penalize worst content and make better moderation with users itself. 
+
+More on this project:
+http://groups.drupal.org/node/20098

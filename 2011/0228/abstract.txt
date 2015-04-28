@@ -1,0 +1,7 @@
+This project consistst of two parts.
+
+The first part will produce a generic and powerfull Right Click Menu (also known as Context Menu) component for Tapestry5. The Right Click Menu component is meant to be highly configurable ready for enterprise scenarios.
+
+The second part will provide enhancements for the existing powerful t5 grid component: bookmarkable URLs with sort parameters of the grid, page number and number of items per page.
+
+Also two optional tasks are proposed.

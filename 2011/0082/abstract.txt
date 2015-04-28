@@ -1,0 +1,1 @@
+In this project we will contribute some newer, state-of-the-art object tracking algorithms to OpenCV.

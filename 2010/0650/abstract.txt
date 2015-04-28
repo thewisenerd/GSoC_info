@@ -1,0 +1,7 @@
+To prepare a Functional Symbian<S60 specifically> VLC <1.1.0> Port
+
+Project includes following : 
+
+1.Source code should be merged in the platform independent code of vlc
+2.Port the minimum needed modules to showcase the functionality of the port (Other modules can be ported later after GSoC)
+3.Eliminate the need of Symbian Build system , Create Make based Build system , If possible do necessary arrangements so that port can be compiled on GNU/Linux also.

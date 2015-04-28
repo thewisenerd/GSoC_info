@@ -1,0 +1,7 @@
+The aim of this project is to enable users to save the searches they may make, revisit them and be able to subscribe them so that they are able to get notifications for updates in the searches that they made. The project can be divided into two parts -
+
+ i) Save Searches,
+
+ ii) Subscription
+
+The save searches part will deal with saving of searches and providing a UI for the user to review the saved searches. The subscription part deals with providing notifications to the users through email/twit

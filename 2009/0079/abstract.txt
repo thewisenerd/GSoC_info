@@ -1,0 +1,1 @@
+This proposal discusses the idea of supporting a new target language with SWIG i.e. Objective C to allow the generation of Objective C wrappers over C++ libraries.

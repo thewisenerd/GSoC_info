@@ -1,0 +1,1 @@
+This project aims to create a destroot-test phase, just after destroot, that test the destroot package in order to identify this behavior. This new phase will be very useful for package maintainers, since they can test quickly an universal package to match all architecture binaries.

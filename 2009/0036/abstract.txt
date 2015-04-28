@@ -1,0 +1,1 @@
+The directional pad on the HTC Touch Pro (and other phones) is touch sensitive. That interface could be used to control zooming in Fennec.I can also guarantee support for Samsung Omnia.

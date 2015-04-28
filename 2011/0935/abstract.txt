@@ -1,0 +1,1 @@
+Implementing a Module and Theme Browser in Drupal 8 Core which would allow users to search for and install Drupal extensions from the admin area of their Drupal sites, similar to how WordPress currently works.

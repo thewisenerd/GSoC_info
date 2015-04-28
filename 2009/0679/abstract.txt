@@ -1,0 +1,3 @@
+The current Quest system provides a non-standard FSM and regular users have raised a number of issues with the current implementation. I aim to fix the issues raised as part of refactoring Quest so that it and its subsystems (triggers, rewards etc) become standard CEL property classes available to other systems via the standard CEL messages and actions.
+
+To illustrate the usefulness of this and to bring new functionality to CS, I will implement a behavior tree.

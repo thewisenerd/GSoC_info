@@ -1,0 +1,1 @@
+I am working on a web application to help the hundreds and thousands of people who have indicated in CfA that they would be interested in volunteering to improve their local digital civic infrastructure to collaborate with each other to deploy one of CfA's finished applications, a public art mobile app, in their city.

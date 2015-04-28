@@ -1,0 +1,1 @@
+This project aims to contribute a highly configurable, generic, efficient implementation of Bloom filters for the Boost libraries. This library will support different compression, deletion, and hashing schemes through a policy-based design.

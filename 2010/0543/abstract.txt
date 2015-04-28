@@ -1,0 +1,3 @@
+I propose to create a simplified map editor for beginner users. The editor will concentrate on a limited set of useful tasks, and the main design goals will be speed and simplicity.
+
+My proposal is based on the idea posted by Graham Jones on the OpenStreetMap wiki.

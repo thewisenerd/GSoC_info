@@ -1,0 +1,11 @@
+The goal is to have a instance of the Build Service where users can log in with an OpenID.
+
+The specific requirements are:
+
+    * Enabling users to login and register with OpenID
+    * OpenID UI for the Web front end
+    * Associating an API key with user
+    * Extending the Authentication mechanism of API to support login via API key
+    * Evaluating/Implementing OAuth to provide access to API 
+
+Login through OpenID will provide a better user experience to the Web Front end users.

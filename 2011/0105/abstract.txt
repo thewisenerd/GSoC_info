@@ -1,0 +1,2 @@
+Current API in the Preview module provides too many granular methods and classes. It also lacks abstraction to how users may extend the component. We approach this problem by following a generalized visualization design model:
+Raw Data -> Data Tables -> Visual Structures -> Views. The interface structure in the Preview module should indicate how the API should be used. In this work, we aim to bring modularity and extensibility in the new Preview module implementation.

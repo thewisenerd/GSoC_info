@@ -1,0 +1,2 @@
+Plugin-based euristic system for extracting metadata from various internet sources.
+The system can work independently and refer to the user in case of uncertainty or work under the full control of the user

@@ -1,0 +1,1 @@
+The Internet Connectivity Monitor is a cloud system offering the inspection of the entire global Internet, across different continents, countries and regions. We have to gather data from peers spread all over the world. A hybrid P2P network will be used to ensure the connectivity.

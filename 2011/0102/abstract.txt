@@ -1,0 +1,1 @@
+This project entails migrating/redesigning existing commands from MGED to Archer, and a cleanup of existing Archer commands. A set number of the commands selected will be migrated in each of four milestones. Two weeks of the coding period – one in the middle and one at the end - are allocated for cleanup, review, and handling unanticipated issues.

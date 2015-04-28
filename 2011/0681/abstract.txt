@@ -1,0 +1,1 @@
+This is a project to re implement all the tests of MoinMoin for py.test 2.0 and improve the test coverage.

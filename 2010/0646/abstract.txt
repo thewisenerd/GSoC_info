@@ -1,0 +1,1 @@
+SMB2 kernel client send readpages and writepages requests serially now. The goal of the project is to add ability to issue calls in parallel and handle read/write responses asynchronously.

@@ -1,0 +1,1 @@
+I would like to implement the Astronomical processing tools that includes noise filtering, image enhancement, brightness measurement and if time available, image registration

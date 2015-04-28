@@ -1,0 +1,1 @@
+By improving support for other FAT formats, HelenOS will be able to mount them and access data stored on them.

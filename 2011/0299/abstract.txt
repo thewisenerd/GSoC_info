@@ -1,0 +1,2 @@
+Currently the administrator in Dspace doesn't have authorization to alter the submission workflow.He has to wait for the system admin to change the “item-submission”xml file .
+We can solve this by implementing management of workflow via db and developing userInterfaces for various tasks.

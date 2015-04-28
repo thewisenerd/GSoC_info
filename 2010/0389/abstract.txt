@@ -1,0 +1,6 @@
+Being a compiled language with a strong static type system, Haskell stands a
+good chance of surpassing traditional languages used for web applications
+(php, Python, Ruby) in terms of speed, correctness, and developer productivity.
+My proposal is to write a high performance HTML generation library using the
+Data.Text library, focusing on correctness, efficiency, composability and ease
+of use.

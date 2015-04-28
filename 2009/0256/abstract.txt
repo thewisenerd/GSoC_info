@@ -1,0 +1,3 @@
+This is a kind of Subversion for Joomla! live site.
+
+http://docs.joomla.org/Summer_of_Code_2009_Project_Ideas#Working_copy_of_Joomla.21_live_site

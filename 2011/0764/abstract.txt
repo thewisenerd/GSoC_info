@@ -1,0 +1,1 @@
+This project aims to support Lua on Xapian. Lua is a powerful, fast, lightweight, embeddable scripting language.  It has been used in many industrial applications and games. So support for Lua could allow Xapian to be more widely used and more powerful. Also many Lua projects could benefit from  such binding as they could use Xapian as a highly adaptable Search Engine library.

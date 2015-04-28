@@ -1,0 +1,1 @@
+Quantum computation is an exciting new field that promises to turn many hard problems into computationally practical ones. Sympy is a powerful symbolic library for python that produces highly human-readable code. Using the symbolic framework of Sympy, I plan on creating a set of libraries that will symbolically simulate a quantum computer in a notationally clear way.

@@ -1,0 +1,3 @@
+Hi, I'm Michael and I'm 4th year undergraduate in Gdansk University of Technology at faculty of Electronics, Telecommunications and Informatics (ETI) in Poland.
+
+What I am going to do is to extend existing solutions with wide set of functions/algorithms to make TCL well-equipped with Graph Operations and to become attractive language from another point of view.

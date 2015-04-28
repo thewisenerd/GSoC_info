@@ -1,0 +1,1 @@
+To extend the current default Django admin theme for Review Board and add more interactivity, information, and ease-of-use to the administration section.

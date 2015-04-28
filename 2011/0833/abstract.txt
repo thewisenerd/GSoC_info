@@ -1,0 +1,1 @@
+My tasks during google summer of code would be to develop an engaging user-experience by extending GCompris to kids between the age group(2-10) letting them to explore a variety of interactive activities theming braille.

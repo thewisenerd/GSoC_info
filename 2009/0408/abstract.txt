@@ -1,0 +1,5 @@
+I propose a learning environment for Ruby based on the actual usage of the language in a challenging environment : programming robots to compete in a simulation.
+This project will be built on top of modern robotics middleware and simulator. Thanks to this, the Rubots API and bindings can also be used for serious purposes like programming real robots.
+The goals are:
+- Open a new field for Ruby (robotics).
+- Create the most interesting introduction to a programming language available.

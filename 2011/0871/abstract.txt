@@ -1,0 +1,1 @@
+There are many Nmap bugs and desired features which are quite important but take much less than a whole summer to implement. Some may only take hours, while others could take weeks or even a month. This is a project that will try to handle many such tasks during the summer, with a special focus on the Nmap Scripting Engine.

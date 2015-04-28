@@ -1,0 +1,1 @@
+I find this project very interesting. There are already several tools which provide finding duplicated code(PMD, Simian...), but neither one of them can not check code on internet. This will be the greatest difference between them and Apache RAT. This is something completely new and I would like to be a part of it.

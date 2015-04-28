@@ -1,0 +1,3 @@
+The next generation of the JDK will contain a number of updates to better host dynamic languages. These updates aim at improving the performance of dynamic languages as well as the interoperability in between languages.
+
+These do not come for free. Invokedynamic is implemented as a new opcode and a new set of APIs to manage method handles and call sites. Interface injection is a new set of APIs. To be able to benefit from these additions, Jython needs to be adapted.

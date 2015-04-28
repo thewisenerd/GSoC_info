@@ -1,0 +1,7 @@
+The goal of my project is to enhance the Python Issue Tracker:
+
+* Creating a new tracker where to test changes, possibly available to all the core developers.
+* Implementing new features listed in the metatracker;
+* Fixing issues marked as 'bug' in the metatracker;
+* Integrating the Issue Tracker with Mercurial;
+* Improving its accessibility/usability.

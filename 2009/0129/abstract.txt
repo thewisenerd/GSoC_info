@@ -1,0 +1,2 @@
+Page Versioning - I will extend the one developed in 2008, get very familiar with the Joomla! Framework by developing features like HTML code differences, search possibility (date, time, user that made the changes and content). 
+Extension Versioning - A generalized versioning possibility (of any component). I will implement a versioning extension for the content component so that users could easily simply revert. After that I will design a general way to store information for any extension.

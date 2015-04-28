@@ -1,0 +1,1 @@
+To help developing coreboot code, we have to set-up remote diagnostics (also flashing) interface in coreboot. We will be a able to renew bricked board through serial port or even do some research through registers in case of panic(). This will enable easier development of CAR, chipset, payloads code.

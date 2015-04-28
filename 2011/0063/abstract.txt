@@ -1,0 +1,1 @@
+This project aims to provide cabal-install with an 'repl <source>' command by adding to the Cabal API. This would allow package developers to use GHCi and Hugs from within packages requiring options and preprocessing from Cabal.

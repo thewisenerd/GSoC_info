@@ -1,0 +1,4 @@
+This project's target is to reprogram the way tribes behave in PlaneShift.
+The end product will feature tribes that will react quickly to outer factors of the world (diplomacy with other tribes/players, expanding, resource managing, etc) and organize themselves based on certain targets.
+All tribes will feature unique treats and each tribesman will have different behaviors based on the assignment he gets from the leader.
+Besides, an unique mood system will simulate the way tribe members react.

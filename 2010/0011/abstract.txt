@@ -1,0 +1,6 @@
+This project intends to enable Drupal importing data from various existing WebAPIs (e.g. Twitter, Facebook, XML, RDF, etc) and further save it into Drupal's objects (e.g. nodes, users, database, etc)
+
+This is achieved by utilizing and integrating both Views and Feeds module in Drupal.
+
+The process of importing external data from WebAPIs will be:
+external WebAPIs -> Views -> Feeds -> Drupal (nodes, users, comments, database, etc)

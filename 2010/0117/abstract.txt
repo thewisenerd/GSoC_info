@@ -1,0 +1,1 @@
+A new-generation affiliate module for Drupal 7, with integration for Drupal Commerce. Using Rules and Views

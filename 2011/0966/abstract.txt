@@ -1,0 +1,2 @@
+“The basic idea of conditional text is to evaluate an expression, and display text if it's true. “
+In short, this is what my proposed module will do.

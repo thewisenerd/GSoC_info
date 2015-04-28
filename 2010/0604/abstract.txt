@@ -1,0 +1,2 @@
+Apache Derby, an Apache DB sub-project, is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0, and is a very interesting piece of software. Derby is based on Java, JDBC and SQL. Quite frequently, users of Derby have troubles in comprehending the execution of a query.
+The objective of this project is to provide visual displays to help people understand the way their query is being run.

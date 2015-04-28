@@ -1,0 +1,1 @@
+Network Address Translation node model will be implemented for ns-3. Specifically, Network Address and Port Translation will be implemented for Small Office, Home Office (SOHO) environments. This work will include studying the Linux Kernel NAT implementation, and reusing ideas such as connection tracking and NAT helpers to realize NAT for ns-3.

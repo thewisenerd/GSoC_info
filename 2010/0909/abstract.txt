@@ -1,0 +1,1 @@
+There should be an easy way to import and export all PIM data including the configuration data, to make it easy to exchange data and to move the Kontact data to another installation.

@@ -1,0 +1,1 @@
+Currently, there is a lack for a good presentation editor on the GNOME desktop. This summer project addresses the problem and will try to provide a simple, yet efficient presentation tool. Taking part of the rich Clutter animation library and written with Vala, it shall be fast, pretty and reliable.

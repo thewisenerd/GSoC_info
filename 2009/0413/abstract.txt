@@ -1,0 +1,3 @@
+This project is aimed at extending ASCEND for Renewable Energy Systems(RES) Modeling, by providing reusable modeling blocks of components used in RES and improving its ODE/DAE support.
+The modeling block components shall be compatible so that the user can build a variety of system simulations of RES.
+The improvement of ODE/DAE support focuses on the extension of ASCEND capabilities of solving transient models based in state space equations and other time variant systems.

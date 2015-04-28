@@ -1,0 +1,3 @@
+Wikipedia definition of workflow is "depiction of a sequence of operations, declared as work of a person or a group of persons"
+Workflow systems can become handy to a Joomla! administrator in certain scenarios , specially those that involve online magazines or community websites where content comes from different sources.
+I'm proposing to create a simple extensible workflow extension for Joomla! that will support the core content component and have the capacity to support other components.

@@ -1,0 +1,5 @@
+Automatic sync between Sahana instances has received much attention from Sahana community. It aims to sync resources between multiple Sahana instances. I will work on resolving its current issues and adding new features:
+
+(1) Make sync peer discovery work over WANs & LANs by combining ZeroConf with Beacon Service (an online directory of Sahana instances)
+(2) Modifying sync process to work with S3XRC resources instead of DB tables to maintain full references
+(3) Offline Sync facility (USB)

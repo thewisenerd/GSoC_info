@@ -1,0 +1,3 @@
+This proposal aims to revise, extend and finish the implementation of Service
+Clients in XMMS2 started in 2008 by Dan Chokola, document its functionality,
+and integrate it with the rest of the code base and test framework.

@@ -1,0 +1,1 @@
+An all inclusive project which will touch aspects of a few of LU's proposed projects. The goals of this project are two-fold: to clean up and/or abstracting certain aspects of the website, and to create a usable, ideal interface for programs which are application based (as opposed to lottery or FCFS based).

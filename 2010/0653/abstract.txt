@@ -1,0 +1,2 @@
+Release Mildew (a Perl 6 compiler) and SMOP (a Perl 6 runtime) on CPAN.
+Simplify the installation of Mildew and SMOP by making it use the standard toolchain and droping the dependency on scons and ghc.

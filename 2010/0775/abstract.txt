@@ -1,0 +1,1 @@
+In the current implementation of Freimap all collected data are lost when displayed. The purpose of this project is to create a method  to collect data into a MySql Database that logically will be a pre-requisite for Freimap software.These data can be used for future reference or to have an history of the entire mesh network.

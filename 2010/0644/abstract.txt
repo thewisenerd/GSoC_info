@@ -1,0 +1,3 @@
+This project aims to develop an analytical system for storing, analyzing
+and visualizing test results with advanced web interface that will
+support checking results against the latest state of known problem database.

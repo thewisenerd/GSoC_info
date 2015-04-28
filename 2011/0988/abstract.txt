@@ -1,0 +1,2 @@
+Planeshift GUI system is implemented in the PAWS which is mainly based on Crystal Space’s iGraphics2D/iGraphics3D to draw all kinds of widgets. In PAWS, pawsmanager is a singleton to manage the entire GUI library. With the help of pawsMainWidget, pawsmanager could load configurable GUI interface from xml document of in CS’s virtual file system.
+The main goal of this proposal is to make Planeshift’s current GUI interface more configurable, more powerful, and user friendly.

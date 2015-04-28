@@ -1,0 +1,8 @@
+Scilab's function fsolve computes a root of a system of nonlinear
+equations. Currently, fsolve is a wrapper around the subroutine HYBRD.
+HYBRD is well suited to solving systems with dense derivatives, but
+can not solve large systems with sparse derivatives. I propose to
+improve the current interface to HYBRD, construct a test set of
+nonlinear systems with dense and sparse derivatives, and implement an
+experimental solver for systems of nonlinear equations with sparse
+derivatives.

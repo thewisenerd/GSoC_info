@@ -1,0 +1,2 @@
+Add a network stack to libgit2 and the supporting capabilities like packed object writing.
+Make pushing and fetching accessible through an exposed API in the library.

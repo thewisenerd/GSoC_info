@@ -1,0 +1,2 @@
+Mind mapping tool is a piece of software that allows the user hierarchical diagrams centered around a single word or concept. They can be used for taking notes on a lecture, outlining project ideas or just organizing one's thoughts.
+I propose a simple HTML5-based editor with a minimal interface, focused on speed of creation of useful mind maps. It would more likely be used for a quick brainstorming session than to prepare visuals for company's next big keynote.

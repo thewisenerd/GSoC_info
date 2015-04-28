@@ -1,0 +1,3 @@
+In recent time there has been an increase of malicious Android applications and therefore, there is a need for a tool providing initial perspective on a package's behavior. The sandbox would utilize static pre-check, dynamic taint analysis and API monitoring.
+
+Data leaks can be detected by tainting sensitive data and placing taint sinks throughout the API. Additionally, by logging API function parameters and return values, a potential malware can be discovered and reported for further analysis

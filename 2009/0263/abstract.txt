@@ -1,0 +1,2 @@
+Gajim is an instant messaging client for the xmpp protocol, written in Python and PyGTK.
+I will develop a server-side history and a roster versioning for Gajim so there won't be anymore problems with the logs dispersed over several computers and you won't have to wait long time to be able to talk with your contacts when you have a big roster.

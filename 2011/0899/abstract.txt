@@ -1,0 +1,1 @@
+JtR is great password cracking tool. Making it use GPU can save hours of cracking time and force people to use stronger passwords.

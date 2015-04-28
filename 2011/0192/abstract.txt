@@ -1,0 +1,1 @@
+This document outlines a proposal to implement new features involving interaction of dynamic graphs to the open source application Gephi, in the context of the Google Summer of Code 2011 project. Following this introduction I discuss in detail the proposal, present for the development timeline and conclude with a section about my motivations and strengths for this project.

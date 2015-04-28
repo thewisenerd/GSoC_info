@@ -1,0 +1,1 @@
+It is proposed to create a Win32 front-end for libpurple using the Win32 API directly, without any intermediate framework. This resulting application would feel similar in use to the majority of other Windows applications, overcoming one of the significant problems when using Pidgin on the platform.

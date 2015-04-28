@@ -1,0 +1,3 @@
+Currently the Gallery on OOo isn't in its best shape - besides some minor usability flaws, its major disadvantage is that the content is limited to what's shipped with the product. 
+The major part of this project would be to connect the existing gallery to a website (most probably www.opencliparts.org) providing fresh and interesting content, and displaying it within the client application itself. 
+Another part could include fixing some smaller issues with the gallery UI itself.

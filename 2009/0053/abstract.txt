@@ -1,0 +1,1 @@
+The Static Single Information (SSI) form is an extension of SSA form which has the additional property that each definition of a variable will be used only along one path of the control flow graph of the program. The SSI representation is a central part of many different analysis and optimizations that are used in the back end of compilers.

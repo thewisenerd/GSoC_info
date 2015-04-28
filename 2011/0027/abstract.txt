@@ -1,0 +1,1 @@
+Improvements in the oldhttp interface for additional functionalities in addon applications, native application on Android, Symbian to remote control VLC on the PC over WiFi, lightweight http frontend to remote control VLC for non Android/Symbian phones

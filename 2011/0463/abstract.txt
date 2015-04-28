@@ -1,0 +1,1 @@
+Idea is to create plugin for Marble, that will render OSM data directly, without intermediate rendering server.

@@ -1,0 +1,1 @@
+For my GSoC project, I would like to do one of the proposals in Impress.  The one I'm most interested in is extending the number of templates in Impress and possibly allowing users to create their own templates.

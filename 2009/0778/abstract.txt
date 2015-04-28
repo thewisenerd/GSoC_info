@@ -1,0 +1,3 @@
+It is generally accepted that Plone's support for commenting is not quite as strong as we'd like it to be. There are several add-on products out there to try to rectify this, but they are basically wholesale replacements, with a new API, that do not use the existing services we have in Plone.
+
+The motivation is to provide easy to adjustable comments. Additionally to provide the optional possibility to re-use the existing framework for third party products. A list of features which are needed to make commenting work include moderation, confirmation, captcha support, spam protection, mass editing screens, configurable commenting forms, extensibility, and a local configuration.

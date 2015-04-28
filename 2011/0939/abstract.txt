@@ -1,0 +1,2 @@
+Integrate an existing equation editor like the one in TutorMates or make one out of JLaTeXMath.
+The formulas will be exportable in LaTeX and MathML.

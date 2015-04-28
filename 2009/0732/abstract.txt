@@ -1,0 +1,5 @@
+This application is in relation with the following project idea : 
+     http://www.netbsd.org/contrib/soc-projects.html#xmount.
+
+The aim of this project is to get rid of the opaque data container when calling mount(2). This will allow to mount a file system without knowing the type.
+To do so, it will be necessary to add a new vfs operation which determines whether the parameters can be handled by the file system.

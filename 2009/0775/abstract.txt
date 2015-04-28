@@ -1,0 +1,1 @@
+Goal of this project is to implement a system to detect and read street signs in geotagged pictures. This could lead to less time-consuming and in the optimal case near-automatic mapping based on gathered gps tracks and timestamped pictures of street-signs.

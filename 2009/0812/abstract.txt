@@ -1,0 +1,1 @@
+In order to benefit from recent technologies of GPGPU that allow significant speedup in numerical computation, this proposal aims at porting the main SciLab algorithms (LU decomposition, FFT, eigenvalues computation...) to CUDA architecture, so that the software can use the GPU to do its computation.

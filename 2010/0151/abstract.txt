@@ -1,0 +1,1 @@
+The aim of this project is to develop a shared uniform sandbox for automated malware analysis with data collection and aggregation capabilities.

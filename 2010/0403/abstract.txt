@@ -1,0 +1,7 @@
+Community Core Audio(CCA) is an openframeworks based solution for voice user interface. 
+
+CCA manages voice inputs, converts voice to text, and outputs messages to network.
+
+CCA will use the similar UI and workflow with CCV. They stay seperate but they can work together. People may use them both and experiment with computer vision and audio.
+
+A stand alone openframeworks addon, ofxASR, will be developed as well. ofxASR will be the Automatic Speech Recognition(ASR) engine for CCA.

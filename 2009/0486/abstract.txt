@@ -1,0 +1,4 @@
+I'm making a SSB and an associated creation tool for Sugar. This implies minor enhancements to the Browse activity.
+
+The SSB will be based on the existing Browse activity, with Gears for offline mode.
+Browse will be extended with the ability to create SSBs from the current website.

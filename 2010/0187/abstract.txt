@@ -1,0 +1,5 @@
+I would like to add a simple way of coding AI in python (not just CHR) so future developers could write pure python AI if they choose. This will also enable writing AI that is not just rule based.
+
+In my opinion AI player for MTSec is crucial if TP wants to get more players. I plan on writing an AI with adaptable behaviour.
+
+While working on the AI for MTSec I would try to simplify the process of creation of AI for new rulesets as much as possible.

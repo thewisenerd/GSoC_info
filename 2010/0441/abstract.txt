@@ -1,0 +1,4 @@
+* Select an entry in the directory tree of the LDAP Browser, right click, and generate the domain model and persistent code (DAOs).
+* Generate LDAP schema and persistence code based on a selected Eclipse Java package (Domain model)
+* Special challenge: Support of object relationships, e.g. Departments-Users-Groups-Roles-Permissions.
+* Extendablity and supportability: pluging it to create code for different languages (Scala, C#, etc.), support for different persistence engines.

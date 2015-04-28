@@ -1,0 +1,1 @@
+I would like to introduce some new features and tweaks to an already existing Drupal Quiz Module (http://drupal.org/project/quiz). These features would make it more robust, feature rich and user friendly. This project aims at improving the usability of Drupal in e-Learning domain.

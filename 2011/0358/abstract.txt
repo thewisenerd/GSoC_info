@@ -1,0 +1,1 @@
+Using javascript (jquery) tools and the statistics regularly recorded by the MusicBrainz server (including historical data), I intend to create a flexible visualization system to help users and developers understand and explore the size and the growth of the MusicBrainz database.

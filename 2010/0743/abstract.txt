@@ -1,0 +1,5 @@
+Currently many XMPP clients save the messages locally and it's not convenient or even possible to retrieve the historical messages, especially when one switches the clients a lot.
+
+So it will be much more easier if the XMPP server supports server-side message archiving. In this case, the clients can retrieve archived messages anytime and anywhere.
+
+XMPP Extension Proposal XEP-0136 is defined for this purpose. This project will implement XEP-0136 for Prosody.

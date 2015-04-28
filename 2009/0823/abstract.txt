@@ -1,0 +1,2 @@
+weylan(Wang Lei) From Tsinghua University of China apply for
+Project: Implementing OpenAFS features into RedHat's kafs kernel module. The major work include DNS AFSDB support, pioctls implement, OpenAFS fs commands, standard keyring.

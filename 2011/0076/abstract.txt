@@ -1,0 +1,3 @@
+The goal of the project is to bring iOS port into official build-test system.
+
+The official support of OpenCV on iOS will not only promote the OpenCV library as the standard in the field of Computer Vision, but also will make development of Computer Vision applications faster and easier, contribute to intelligence of other applications and can even facilitate in conducting large-scale research projects.

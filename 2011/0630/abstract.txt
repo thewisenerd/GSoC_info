@@ -1,0 +1,1 @@
+Replace the current graph framework based on PyQwt with a pure Qt implementation. This allows greater flexibility, which would be used to make graphs prettier and more readable. It also removes a dependency on PyQwt, which is not available for Python 3.

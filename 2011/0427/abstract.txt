@@ -1,0 +1,2 @@
+Hello,
+I am Julien Voisin, undergraduate computer science student from France, and I'd like to apply for the "Meta-data anonymizing toolkit for file publication" project!

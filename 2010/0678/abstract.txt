@@ -1,0 +1,1 @@
+The goal of this project would be to extend Jokosher to include a Musical Score Editor that uses the MusicXML2Midi GStreamer element to playback audio. Whilst this would not be an exhaustive implementation of one, it would include the bare minimum required to be usable to create simple sheet music.

@@ -1,0 +1,3 @@
+I started my thesis on the extraction of 3D information from uncalibrated videos (i.e. type of cameras unknown) two years ago and I had not found an efficient API to easily try some classical "structure from motion" methods.
+I propose to build an API with various methods to be used by any new users in the field and expandable enough to allow integration of new methods.
+I will focus my efforts on rigid 3D models but add the possibility to easily add methods for non-rigid models.

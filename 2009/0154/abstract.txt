@@ -1,0 +1,6 @@
+This project opens up possibilities of using different devices that support bluetooth and run on linux to emulate parts of a computer. The idea can be easily ported to other OS's and other output devices.
+The goal of this project is to standardize this feature ,giving it flexibility and the ability to be used by anyone that becomes familiar with the concept.
+
+More details about the implementation can be found on the proposal page :
+
+http://wiki.bluez.org/wiki/GSoC2009/Proposals/Proposal1

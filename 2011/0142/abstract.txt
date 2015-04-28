@@ -1,0 +1,1 @@
+This project will implement the static analysis verifier for .NET 4 Code Contracts, including numerical obligations analysis.

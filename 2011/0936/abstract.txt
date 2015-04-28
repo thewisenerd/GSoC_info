@@ -1,0 +1,1 @@
+Currently Qemu’s PowerPC emulation is only suitable for booting Linux. The goal of this project is to improve Qemu’s PowerPC emulation to the point where all PowerPC versions of Mac OS can be fully emulated. This will be achieved through fixing deficiencies in OpenBIOS/PPC which are preventing Mac OS from booting. As well as adding emulation of any necessary extra hardware.

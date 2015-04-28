@@ -1,0 +1,1 @@
+The QtComponents project is aiming to provide an api and a series of widget sets completely based upon QML. the actual implementation is platform-dependent, so KDE needs its own platform specific set made with the plasma theming mechanism,for both the desktop and the mobile.

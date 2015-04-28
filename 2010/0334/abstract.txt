@@ -1,0 +1,1 @@
+Just-In-Time compilation has been applied in various contexts, one of them being language implementations, in various forms. This project aims to bring a base JIT compiler to the Tcl, translating bytecodes to (x86) machine code on demand in order to improve the language performance.

@@ -1,0 +1,1 @@
+Around the same time the original Linux port of AFS was done, a port to NetBSD was also available. While NetBSD has evolved, the original AFS port did not keep pace. Since then, a port to NetBSD has been highly desired. This project will port the OpenAFS client to run on NetBSD.

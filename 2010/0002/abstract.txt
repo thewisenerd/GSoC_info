@@ -1,0 +1,2 @@
+The idea is to make a new calendar plugin for Geeklog that will replace the old one.
+The new calendar will be easier to maintain, will have a new interface, and will support many features, including recurring events.

@@ -1,0 +1,1 @@
+The primary goal of this proposed project is to improve the UI that Entomologist has and to enhance the users experience of using it. Doing so will hopefully benefit the developer community and improve their interaction with bug trackers.

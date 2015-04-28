@@ -1,0 +1,1 @@
+GNOME is made of people, collaborating from all over the world, on different schedules. My goal is the implementation of the "Locations" concept of GNOME 2 into the Shell, starting with a multi-timezones clock, and eventually weather display.

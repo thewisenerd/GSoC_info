@@ -1,0 +1,4 @@
+The scope of the project is to collect real-time data from the network and show them in the Network Inventory. The objectives I set for this are:
+1. Data should be collected even when a Umit process isn't running. The Umit process should be informed at start-up about all the data collected.
+2. The project should be extensible. If a new way of collecting data must be added, the core shouldn't be changed, but instead it should be implemented as a module.
+3. The collected data should be secured.

@@ -1,0 +1,1 @@
+Plugins for Opticks, implementing algorithms for various image enhancement operations on RAW images like white reduction , noise removal, demosaicing etc.

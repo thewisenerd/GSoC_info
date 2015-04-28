@@ -1,0 +1,1 @@
+Enhancements on parameter handling, solving process and other features in the canvas based modeler for ASCEND.

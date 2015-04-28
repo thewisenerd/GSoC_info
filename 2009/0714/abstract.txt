@@ -1,0 +1,2 @@
+The dialogs developed along this project will allow users to associate any piece of information with its type, like a letter, an article, a radio podcast and so on, and to set some properties, like related people, related projects or any other possible metadata.
+At the same time, he will be able to load a ﬁle, searching through previously deﬁned metadata, restricting the set of possible matches and narrowing the search more and more, until he ﬁnds what he is looking for.

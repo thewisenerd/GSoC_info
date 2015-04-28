@@ -1,0 +1,1 @@
+Create a web.py-based GUI for Switzerland.  This would be a new feature of Switzerland  which could focus renewed attention on the project.  The GUI would be used to launch the various tests in the Switzerland tool and view the results.  It could also be used to view aggregated results over time.

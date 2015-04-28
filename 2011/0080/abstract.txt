@@ -1,0 +1,1 @@
+Apache Xerces2-J is a high performance and fully compliant XML parser written in Java to parse, validate and manipulate XML documents. The goal of this project is to complete the implementation of the DOM Level 3 LSParser. It has to focus on two areas that are still to be implemented according to w3c recommendation. Namely: Asynchronous version of LSParser and parseWithContext().

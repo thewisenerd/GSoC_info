@@ -1,0 +1,3 @@
+The TV output present on several Nvidia graphics cards lacks support from the nv and nouveau open source device drivers. This forces most users wanting to use their TV out to stick with the proprietary Nvidia software.
+
+This project will aim to reverse engineer the operation of the TV encoder integrated on some recent Nvidia chips, and provide a RandR1.3 compliant implementation based on the nouveau driver.

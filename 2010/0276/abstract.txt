@@ -1,0 +1,1 @@
+The goal of this project is generate the polyhedral intermediate representation (Polly IR) from LLVM IR. It is the front-end of a larger project I am working on - The polyhedral optimization framework for LLVM (Polly). Polly will perform auto-parallelization and auto-vectorization of LLVM, which will help LLVM to generate high quality code for parallel computing platforms.

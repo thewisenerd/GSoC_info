@@ -1,0 +1,1 @@
+The Apertium project works on open-source machine translation and language technology. If apertium is to work on platforms such as mobile phones one day, lttoolbox must be ported to java. I have found an XML java library that works similarly as the libxml2 used in lttoolbox C++ version. It will make it easy to use the existing java code.

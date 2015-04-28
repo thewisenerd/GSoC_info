@@ -1,0 +1,2 @@
+The main purpose of this project is to write a curator that will automate many of the tasks that are done manually in the National Data Catalog.Another purpose of this project is to write importer scripts, to gather metadata from sources that have not yet been imported. 
+The scripts for this project will be written using Ruby and the curator interface will be written using Ruby on Rails.

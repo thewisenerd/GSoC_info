@@ -1,0 +1,3 @@
+NSS library in it's current state supports the TLS 1.0 protocol. My summer project
+aims to add support of TLS 1.1 as a transitional step towards implementing of TLS 1.2.
+Thereafter if time permits I will start writing code for TLS 1.2 support.

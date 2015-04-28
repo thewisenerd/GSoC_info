@@ -1,0 +1,7 @@
+How many times during debugging do you want to make a step back and examine changes again?
+
+Error trace analysis is an evil, isn't it? What about a nice GUI, where you can single-step error trace and observe program state and variables?
+
+Does your environment test all possible branches? Are you interested in the code coverage of tested system?
+
+My Inspector tool will solve your problems.

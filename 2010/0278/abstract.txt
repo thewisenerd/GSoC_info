@@ -1,0 +1,1 @@
+The goal of this project is to add support for annotations to the API Sanity Autotest. The automated test generator should take such annotations into account and add appropriate runtime checks wherever possible. This should allow to significantly improve quality of the generated tests.

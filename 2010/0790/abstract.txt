@@ -1,0 +1,2 @@
+This is my application of GSoC 2010. My name is Yestin. My Chinese name is Yi Du.In this application, I describe Gephi, FDEB algorithm, Preview module in Gephi and plans if I deal with this problem. Then self introduction and some additional materials are shown. Besides these, I also add some ideas and my plan about “Direct Social Networks Import”. 
+There are serval links and images in this application, If you cann't open those links or can't see images, please feel free to let me know.

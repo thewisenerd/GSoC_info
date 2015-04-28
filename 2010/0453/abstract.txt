@@ -1,0 +1,1 @@
+The goal of this project is to provide an easy way of registration of optional kernel components under the kern.features sysctl tree, and spoofing of these values. This will help porters to improve automatic build configuration of ported software. Also writing system administration tools would become easier.

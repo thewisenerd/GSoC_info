@@ -1,0 +1,1 @@
+"Collaborative Translation System" module provides a community localization editor, which allows people to collaborate on translating projects to different languages.

@@ -1,0 +1,3 @@
+Python is well known for being a highly readable, robust language. It would make a great interface to public key infrastructure services.
+   If I am accepted at this project, by the end of the summer all of the PKIF's services will be accessed from the pleasant python environment .
+   Hence the existing Java JPKIF and PKIF.Net were successfully implemented through the swig interface, I will do the same thing for python, choosing swig as a path to a PyPKIF framework.

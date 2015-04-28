@@ -1,0 +1,3 @@
+LProf was at one point using Qt3 . It has recently been ported to Qt4 from Qt3. But at this time it is still using the Qt3 compatibility libraries.
+Basically what is needed is to  replace the calls to these compatibility libraries with native Qt4 code.
+Mostly,I have to find the location of the Qt3 code and then finding what the replacement Qt4 calls would look like.Then I have to modify and test the code.

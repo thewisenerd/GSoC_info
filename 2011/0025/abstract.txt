@@ -1,0 +1,1 @@
+This project aims to investigate the feasability of providing DemoGrid and its encompassing Globus services as part of the FutureGrid project and facilitate its deployment and use on FutureGrid IaaS clouds for the broader scientific community.

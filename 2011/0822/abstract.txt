@@ -1,0 +1,3 @@
+This would open up whole new way of using StatusNet – not only as a federated microblogging but also as a social collaboration platform.
+
+Recently launched Freelish.us further proves potential of StatusNet as a springboard for social federated applications. Suggested integration enable authorization and use of Google Apps data such as Google documents and calendar inside StatusNet. This project would lead to more efficient collaboration among Google Apps users without flooding others' inboxes.

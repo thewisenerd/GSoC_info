@@ -1,0 +1,1 @@
+The aim of this project is to make a Xapian's spelling correction system faster and much more better. Currenly, this system has simple correction rules but this project will make it significantly better. This project includes performance improvements, new fuzzy search algorithms, phonetic algorithms, more adjusting abilities, and some ranking improvements.

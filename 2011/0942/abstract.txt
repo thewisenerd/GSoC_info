@@ -1,0 +1,1 @@
+Rockbox includes highly optimized fixed-point implementations of many common and uncommon audio codecs. This project will extract the codecs, metadata parsing, and DSP code into a separate library that can be used by other embedded software. An automated test suite will be written for the new library, making codec development easier.

@@ -1,0 +1,1 @@
+The present system has no utility statistic errors for disk devices that is not convenient for analyzing faults disk as a result unstable operation of programs. I propose to develop  the command iostat -e or-E (depending of the desired information) for these statistic, also using existing and available information in the utility.

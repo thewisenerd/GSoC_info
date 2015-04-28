@@ -1,0 +1,1 @@
+The aim of this project is to provide a generic way to easily take advantage of GPGPU via OpenCL in order to speed up expensive operations such as offline lighting computation which will be used as prototype problem to demonstrate the performance gains that can be achieved.

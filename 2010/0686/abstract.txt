@@ -1,0 +1,3 @@
+Using shared libraries from Perl should be as easy as stating the library and function you want, and letting 'something' take care of the rest. That something is a simple but powerful foreign function interface module, akin to Python's ctypes.
+
+Like the Inline:: family, a ctypes-style module would save perl authors from having to write and compile, but going further, would enable the wrapping of external libraries using Pure Perl instead of C.

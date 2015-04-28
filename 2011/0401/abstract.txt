@@ -1,0 +1,1 @@
+This proposal involves improving performance of GCC, in both CPU and memory utilisation.

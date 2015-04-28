@@ -1,0 +1,6 @@
+Currently, the documentation work is synchronized by cvs. But still, there are potential conflicts due to redundant work. Besides, it's not that easy to share the works or even pipelining the works in a distributed environment. Therefore, a centralized environment is introduced.
+
+The editor is still under development and the source can be found by http://cvs.php.net/viewvc.cgi/doc-editor/
+
+To checkout:
+cvs -d :pserver:cvsread@cvs.php.net:/repository checkout doc-editor

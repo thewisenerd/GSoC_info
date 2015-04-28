@@ -1,0 +1,1 @@
+ARM processors are planed to be used in netbooks very widely and both Ubuntu and Xandros announced they are going to work on an ARM port of their distributions. ARM processors are also used in a wide range of mobile devices which now gain popularity. openSUSE should not miss this opportunity.

@@ -1,0 +1,2 @@
+In the context of VoIP communication, a codec is a device capable of processing data beforehand so that it will be in a form suitable for transmission through the Internet.  As available bandwidth around increases, the major concern of VoIP developers has shifted from using less bandwidth to supporting better quality.
+This project is about to implement in Jitsi support for wideband audio codecs. Two wideband codecs, SILK and Opus, will be implemented in this project.

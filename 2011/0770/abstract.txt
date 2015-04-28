@@ -1,0 +1,4 @@
+This project aims to parallelize some of the algorithms in the 2D Arrangement package and related packages which use a divide-and-conquer approach. The following components are candidates for such an enhancement: (as mentioned in the project description)
+•	Boolean set-operations
+•	Envelope algorithms.
+•	Minkowski sum using convex decomposition.

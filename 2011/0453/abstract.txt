@@ -1,0 +1,1 @@
+Teodor Sigaev and Oleg Bartunov have implemented ltree module for supporting tree structures and indexes in PostgreSQL. My work will add support for indexing XML data based on theirs code. This should be base module for SQL/XML related ISO norms. It might be used for Xquery or Xpath 2.0 support without LibXML.

@@ -1,0 +1,2 @@
+The project consists in building a set of themeable interactive widgets for PySoy. The main goal is to build some widget like containers, collapsible branches, text input/display and scrollable panels to make possible to build a buddy list and chat widgets in PySoy, which users will use to comunicate in and out PySoy's based games.
+An example using these themeable widgets will be produced as well as several unit tests.

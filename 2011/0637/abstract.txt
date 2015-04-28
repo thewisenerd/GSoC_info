@@ -1,0 +1,5 @@
+Make use of NumPy function when applicable inside the ccc-gistmp code.
+
+Create Unittest for all NumPy and non-NumPy computations to guarantee a safe programming environment and testing for installation on other platforms.
+
+Write automatic documentation for sphinx with and some examples on how to use the code.

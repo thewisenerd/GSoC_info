@@ -1,0 +1,10 @@
+In TCL there is a noticable lack of complete and unified printing support,
+which is a very desirable feature.
+
+Last year I did one step to improve this situation. This year I would
+like to continue my work, and make many improvements in my application
+from last year:
+
+* Add better font support for Tktopdf.
+* Improve the text widget Tktopdf PDF export function.
+* Add Tile widget support to Tktopdf PDF export functions.

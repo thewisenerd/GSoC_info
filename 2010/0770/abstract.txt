@@ -1,0 +1,1 @@
+I will create an alternative frontend to KDM (the KDE login manager) using the framework that KDE's Plasma provides. It provides many features to us out of the box. For example, animations, multiscreen, any Plasma(or supported non-Plasma) widgets. Also grants us unified themes, all for FREE!!

@@ -1,0 +1,2 @@
+KEGG is the most comprehensive pathway database and these maps are used extensively in biological research. However, in Cytoscape the support for KEGG is very primitive.
+KEGG have released global metabolic map (Atlas), which is useful to consider experimental result. However, Atlas's mapping speed is slow, and the function is less flexible than Cytoscape. The goal of my project is to implement data I/O for KEGG, construct global metabolic map, and present navigation UI and new visualization.

@@ -1,0 +1,2 @@
+Since there are many features planned for GNOME 3.2 to improve on GNOME 3.0, the next step would be to come up with the designs for relatively important feature implementations and getting ready for the next release.
+This project aims at implementing features as per the priorities set for GNOME 3.2 staying tuned with the GNOME Shell Team’s design and development efforts.

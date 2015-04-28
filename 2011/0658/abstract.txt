@@ -1,0 +1,2 @@
+Slides management is a central part of the Stage work flow. Currently stage has three slides management tools: slides sorter view, document structure docker and custom slides show.
+Each of the above tools, despite having different goals, share much of the functionality and user interface. The aim of this proposal is to improve the usability of Stage slides management, adding greater functionality and consistency while handling slides in each of these tools.

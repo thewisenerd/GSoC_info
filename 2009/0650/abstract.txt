@@ -1,0 +1,1 @@
+Create a cross-platform frontend for the audio extraction and decompression tools used by ScummVM, and improvement the command line interface. If time allows and if it's possible, also improve the tools themselves to provide extended functionality.

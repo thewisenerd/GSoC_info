@@ -1,0 +1,3 @@
+This project strives to provide a D implementation of the Apache Thrift framework. Thrift, originally developed for use at Facebook, is both a data serialization/RPC protocol and its reference implementation for a number of popular languages.
+
+Having such functionality readily available would be a first (and large) step towards making the compelling language that D is attractive to adopt for development in service-based architectures, and would also be usable as simple RPC/serialization scheme.

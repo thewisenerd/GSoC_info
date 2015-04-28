@@ -1,0 +1,1 @@
+Nirav Patel has recently implemented camera support into pygame as a way to interact with a game. However, this camera module is limited to the Linux platform. The goal of my project is to extend this camera module to the Mac OSX platform, and thus extending the portability of games written in pygame that use a webcam as mean to interact with the player.

@@ -1,0 +1,1 @@
+The goal of this proposal is to add Getting Things GNOME! (GTG) web service and API similar to Snowy for Tomboy. This enables synchronization between GTG installations and provides access to GTG data on mobile and other desktop platforms.

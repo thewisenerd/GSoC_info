@@ -1,0 +1,1 @@
+This project is on accessibility improvements for Tux Paint. In this more keyboard access to tools, special mouse modes, joystick support and on-screen keyboard have to be implemented. The motto is to make the input methods more user friendly and children which constitutes the major part of users of Tux Paint finds it more fun.

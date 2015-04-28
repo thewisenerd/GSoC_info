@@ -1,0 +1,1 @@
+SharpDevelop has good support for C#. Since introduction of VB9 (2008) SharpDevelop’s support for VB is lacking most new features. Supporting Visual Basic properly is important because VB is still more widely used than C#. I want to implement lexer and parser features, improve code completion, code generation, code snippets and much more.

@@ -1,0 +1,1 @@
+This project is to add support for the numpy module in Boost.python, which is currently in the sandbox. Numpy is a very useful tool for the scientific and engineering community and users of the C++ - Python SIG have expressed desirability along with specific requirements out of this project.

@@ -1,0 +1,1 @@
+Support of the INSPIRE View Service would be a major asset for MapServer and is required by European governmental institutions. The idea of the project is to implement missing features to enhance the support of this extension to WMS.

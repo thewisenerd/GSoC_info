@@ -1,0 +1,2 @@
+Currently I am a fourth year Ph.D. student in the department of Computer Science, University of Georgia, USA. 
+After reading through the descriptions of proposed projects, XEclipse "RESTification" is of great interest to me. This project involves communication via SOAP and REST-ful Web services and is developed in Eclipse SWT platform, therefore, I might be a potential match for this project based on my skill set.

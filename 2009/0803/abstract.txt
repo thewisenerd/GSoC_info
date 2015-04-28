@@ -1,0 +1,1 @@
+Jato currently depends heavily on the Jam VM source code for class-file loading by including parts of the Jam VM source code in Jato. That was initially just a way to speed up Jato development; now it seems prudent to replace Jam VM with something else, before the dependencies are made too strong, which will only make it harder to replace in the future.

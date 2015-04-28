@@ -1,0 +1,5 @@
+This proposal outlines and expands upon the Network Algorithms and Statistics project idea.  
+
+This proposal calls for the implementation of 9 network algorithms and metrics which will enhance Gephi's user experience by providing information about the network which is not usually apparent from mere visual introspection.  The proposed network metrics are: HITS, PageRank, clustering coefficient, network diameter, mean shortest path, betweenness centrality, modularity, degree-distribution and closeness centrality.
+
+Within this document I discuss the proposed network metrics and the approaches I intend to take to implement them.  I propose a tentative time-line, outline appropriate milestones and discuss anticipated development hurdles and how I intend to avoid them.

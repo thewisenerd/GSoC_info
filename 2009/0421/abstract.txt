@@ -1,0 +1,7 @@
+The project consists in the creation of a fully usable GUI to install, uninstall and upgrade ports as 
+well as sync and self upgrade MacPorts. Also I'd like it to have some features to ease the collaboration to MacPorts
+(modify Portfiles, create patches and new ports).
+
+ I coded a simple GUI that can handle the installation and uninstallation of ports using the MacPorts.framework. Dowload it here:
+
+http://juanger.googlepages.com/Porton-app.zip

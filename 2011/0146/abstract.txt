@@ -1,0 +1,1 @@
+Integration of EMF and Google Protocol Buffers for efficient serialization of EMF models and exchange of EMF models in heterogenous programming environments (all languages support by  Protocol Buffers).

@@ -1,0 +1,1 @@
+GStreamer is an element based multimedia framework very similar to the framework provided by DirectShow.  GStreamer could be used to provide support for more media types to Wine's DirectShow without requiring Wine to include support for all that GStreamer supports.

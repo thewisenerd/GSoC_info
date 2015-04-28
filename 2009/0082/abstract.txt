@@ -1,0 +1,1 @@
+The goal of this project is to create a localized version of the Freifunk OpenWrt Firmware for Vietnamese users. Features of this firmware are customized and plugins are added to the version to suit local use cases. Work includes development of language files and translation, customization of firmware, adaption of suitable plugins and compilation of firmware.

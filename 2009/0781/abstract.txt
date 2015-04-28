@@ -1,0 +1,1 @@
+This document proposes an integration solution of Magento eCommerce Platform into Joomla. The motivation, academic background and working experience of the applicant developer are also included.

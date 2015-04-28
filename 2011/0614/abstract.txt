@@ -1,0 +1,3 @@
+If a library upgrade changes the library API dynamic linkage of software depending on it will usually break. In order to fix these problems, the broken binaries need to be identified, matched to ports and these ports need to be recompiled. This corresponds to reversing the dependency direction, which is why this action is called rev(erse dependency)-upgrade.
+
+This step should be done automatically right after the library upgrade instead of manually by the user as soon as the problem is noticed.

@@ -1,0 +1,1 @@
+The MPEG-4 ALS codec exists quite a while. As FFmpeg lacks support for that, this proposal aims to include basic decoding functionality to the FFmpeg libraries.

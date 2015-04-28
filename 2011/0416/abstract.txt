@@ -1,0 +1,2 @@
+Off-the-Record is a cryptographic protocol designed for instant-messaging which tries to mimic real-world conversations warranties, providing secure end-to-end
+communication through encryption, peer authentication, perfect forward secrecy, and deniability. This is not only import for people living in places were their basic privacy and freedom of speech is threatened by governments, but also for common people looking for a way to guarantee privacy on their conversations.

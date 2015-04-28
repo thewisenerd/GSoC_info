@@ -1,0 +1,1 @@
+We propose to implement more algorithms in algorithms.flow. The following will be integrated, tested and documented: variants of the maximum flow, such as the push-relabel and the pseudoflow, variants of single-commodity max-flow min-cost algorithms and an approximation algorithm for the d-furcated minimum congestion flow.

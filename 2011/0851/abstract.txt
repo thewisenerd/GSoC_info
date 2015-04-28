@@ -1,0 +1,2 @@
+Write a Perl 6 Pod parser for Rakudo, being capable of generating the documentation from the Perl 6 code as well as accesing the documentation from the
+Perl 6 code itself.

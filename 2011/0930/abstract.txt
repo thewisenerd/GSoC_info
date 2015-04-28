@@ -1,0 +1,1 @@
+The main goal of Multi-label classification is to extend the Orange to support multi-label, including dataset support, two basic multi-label classifications-problem-transformation methods & algorithm adaptation methods, evaluation measures, GUI support, documentation, testing, and so on.

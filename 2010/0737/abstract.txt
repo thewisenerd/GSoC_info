@@ -1,0 +1,1 @@
+In the coming days, Mifos code base is going to evolve in many ways - increasing modularity and layering, new UI design etc. Overall the goal is to improve Mifos scalability and usability. To pave the way to address the scalability concerns, the first important thing is to do the basic refactoring of Business objects out of Mifos UI layer.

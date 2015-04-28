@@ -1,0 +1,5 @@
+Audio support on the x264 frontend.
+
+The plan is to, at the end of the project, have x264 capable of transcoding or copying audio as simply and correctly as possible.
+Usage should be as simple as 'x264 input -o output', with eventual support for {down,up}mixing and resampling.
+The used library for decoding and encoding will initially be libavcodec, but more libraries can be used in the future.

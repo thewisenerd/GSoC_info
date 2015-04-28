@@ -1,0 +1,2 @@
+To integrate and enable the WS-Security features of Apache Axis2 and
+Apache CXF in Apache Geronimo.

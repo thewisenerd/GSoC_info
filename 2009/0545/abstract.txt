@@ -1,0 +1,5 @@
+IEC 68831-6 (AMDTP) is the standard  for most (semi-) professional FireWire audio interfaces. Currently, support in Linux for such devices is provided by the FFADO daemon, which relies on libraw1394 library. 
+
+This project sets the goal of partly moving into the kernel (as a FireWire driver with an ALSA interface) what FFADO currently implements in userspace.
+
+THe impact: huge! It will push Linux even further in becoming a top choice as a music recording and production platform!

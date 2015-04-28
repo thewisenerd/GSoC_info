@@ -1,0 +1,6 @@
+My name is Denis Kurov (aka makkalot). I'm last year BS major student in Yildiz Technical University from Turkey. Last year i participated to GSOC2008 and
+completed the program succesfully. I'm still contributing to my last year GSOC project Func. That year i want to add more featured to Func like :
+-Fanc ORM querying called 'Facts'
+-Pluggable connection choices
+-More structured results that come from minions
+-New additions to FuncWeb

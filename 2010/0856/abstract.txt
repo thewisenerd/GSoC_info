@@ -1,0 +1,7 @@
+Project Description
+
+I would like to work on a proposal by Vadim Pisarevsky available on OpenCV website.
+
+This project aims at improving HighGUI, the graphical interface for OpenCV. HighGUI is the component of OpenCV implementing very simple a cross-platform framework for displaying images, simple controls, as well as image and video input/output. 
+
+This project aims at implementing existing GUI functions in QT as well as adding new functionalities.

@@ -1,0 +1,5 @@
+This project will work on the AutoDJ part of Mixxx and provide these improvements:
+1.) Add the ability for the DJ to specify Fade In/Fade Out points that hold over after the session ends
+2.) Provide a simplistic way of adjusting the time it takes Mixxx to complete the automatic crossfade between tracks
+3.) Add the option for certain decks to be specified as the AutoDJ decks
+4.) Refactor the existing AutoDJ code, adding a SongTransition class to handle song synchronization

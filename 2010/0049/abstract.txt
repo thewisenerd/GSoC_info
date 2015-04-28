@@ -1,0 +1,1 @@
+I would start by forking the Django Dashboard created by Patrick Hunt, improve the UI and add more features. I want to capture much more information from ZooKeeper by adding hooks, if necessary. As Patrick suggested I will also focus my attention on providing ready to be used scripts for monitoring (for Ganglia, Cacti, Nagios etc.) and historical/real-time data collection.

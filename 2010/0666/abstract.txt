@@ -1,0 +1,1 @@
+Implicit polynomial functions in two variables of degree greater than two cannot be displayed with the current version of GeoGebra. I will find existing algorithms concerning this problem rework and implement them.

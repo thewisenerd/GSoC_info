@@ -1,0 +1,3 @@
+The goal will be to develop a web interface with a geographical representation of the GridWay resources using a GoogleMaps mashup, including useful information such as statistics of usage, workload, pending jobs, queue size, etc.
+
+It will also contain options so the user can filter and select which information is relevant (where are the user's active jobs, or what is the situation of the submitted jobs...). This map could be also used as an interface to submit new jobs to certain hosts.

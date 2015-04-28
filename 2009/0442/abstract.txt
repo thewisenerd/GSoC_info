@@ -1,0 +1,4 @@
+As shown in some helpwant bugs the community is missing a few additional chart or diagram types in BIRT. The goal of the project is to add three further types.
+Most wanted chart type is the VENN-type. 
+A second interesting chart type is the RADAR-type. 
+In addition there is another one. The DONUT-type.

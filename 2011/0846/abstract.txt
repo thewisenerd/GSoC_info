@@ -1,0 +1,6 @@
+The goal of the project is to test distributions from PyPI repository to assess
+quality  and also to check if a distribution is  malicious or not . In order to
+achieve that we create a testing infrastructure for PyPI repository. There will
+be a mechanism to get  newly uploaded distributions from PyPI , install them in
+an isolated VM environment , run tests on them (quality check , unittests) and
+also determine tests they have harmful components(malicious) or not.

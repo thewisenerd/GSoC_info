@@ -1,0 +1,1 @@
+Since Bluetooth bandwidth is comparatively lower a low bitrate encoding should be used. Ideally MPEG-4 Part 2 (H263) or MPEG-4 Part 10 (H264) with low bitrate should work without delays. To support these formats existing GStreamer plug-ins can be used and few can be developed to support them.

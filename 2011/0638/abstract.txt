@@ -1,0 +1,1 @@
+GStreamer is a cross-platform pipeline-based multimedia framework extensible using plugins. It currently lacks plugins for performing automatic video and audio correction, such as noise reduction, colour correction, or camera shake correction. This project aims to create these plugins using already available open source code.

@@ -1,0 +1,3 @@
+This plug-in can be used by scientists, researchers and students to quickly find out which biological processes (pathways) are related to each other with respect to gene products /
+metabolites / continuity and to what extent. Help them find out the common properties between
+various processes. They can also find out pathways of their field of interest by starting from one pathway and gradually exploring the pathways mapped to that!

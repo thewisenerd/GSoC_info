@@ -1,0 +1,1 @@
+The goal of this project is to reimplement in Clojure the query compiler and query optimisers of the OGSA-DAI Distributed Query Processor while ensuring interoperability with the broader Java framework the query processor is a part of.

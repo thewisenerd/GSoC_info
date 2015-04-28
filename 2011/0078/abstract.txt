@@ -1,0 +1,2 @@
+Currently Open311 is implemented in cities like San Francisco and is being accepted widely as a standard due to the benefits it provides. However, there are cities which do not have existing resources such as call center, CRMs and hence are unable to make use of the advantages Open311 offers.
+This project aims to create a cost-effective system (using Joget and communication system like Twilio) for such cities which would provide contact-center interface for allowing Open311 to integrate with it.

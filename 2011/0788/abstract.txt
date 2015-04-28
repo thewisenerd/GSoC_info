@@ -1,0 +1,1 @@
+I'm 21 years old student from Russia.  I'd like to participate in GSoC for Openwall's security task, primarily in the kernel hardening.  I'm already contributing to the Linux kernel and I'd want to continue the contribution as a part of purposeful kernel enhancement.

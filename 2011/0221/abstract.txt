@@ -1,0 +1,1 @@
+The idea is to create Tcl language support for Netbeans. Including creation of Tcl projects and files, syntax highlighting, running scripts and full debug support.

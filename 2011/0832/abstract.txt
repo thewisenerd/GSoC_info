@@ -1,0 +1,1 @@
+To implement Resource management, where we can add new resources, delete old ones, and made changes to existing ones. To implement tagging functionality, which is compatible with GIMP. Using Tagging, we can add new tags to resources, search and filter resources.To implement sketchbook Tagging, where we can change the profiles suitable for ongoing work in Krita.

@@ -1,0 +1,7 @@
+The Regexp engine of the tcl language should be improved in following ways:
+* Improve performance and/or memory usage.
+* Implement regexp reversion.
+* Fixed character width is assumed, this should be changed.
+* Rewrite the code to use tcl's coding style.
+* Implement stream interface. 
+* Implement lookbehind constraints.

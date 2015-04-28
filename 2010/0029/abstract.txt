@@ -1,0 +1,5 @@
+The idea is to develop a GUI tool to manage Apertium Monolingual and Bilingual XML files with the follow objectives:
+• Create a alternative form to edit dix files with GUI resources. 
+• Develop, initially, monolingual dictionaries but keeping the particular format of each file.
+• Minimize the direct manipulation of XML files, providing features that reduce this need.  
+• Making use of DixTools to keep code reuse.

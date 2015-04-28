@@ -1,0 +1,1 @@
+New Apertium Maltese-Hebrew language pair, providing unidirectional translation of Maltese to Hebrew.

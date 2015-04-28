@@ -1,0 +1,5 @@
+Bespin for Drupal (B4D) introduces Mozilla's web-based, collaborative code editor, Bespin, with Drupal 7. This proposal delivers two Drupal Modules:
+1) B4D Server implements Bespin Server's API using Drupal Services Module and perhaps WYSIWYG API.
+2) B4D Client provides Drupal configuration and integration of the Bespin Client.
+
+Depending on progress the proposal may also provide a Bespin PHP syntax highlighting library.

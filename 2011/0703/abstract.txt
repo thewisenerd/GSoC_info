@@ -1,0 +1,7 @@
+TYPO3 is right in a big rebuilding phase and will make a huge
+technical step from version 4 to version 5. Basis of the
+new version will be the FLOW3 Framework which is just maturing into its beta phase. One of the new concepts is the 
+implementation of a Content Repository (CR) which transparently
+persists data in form of Nodes in a hierarchical Node-Tree.
+For making the transition as smooth as possible, there is a need of
+functionalities to transform TYPO3v4 contents into CR-compatible data.

@@ -1,0 +1,1 @@
+In the OpenPrinting project the goal is to complete the previous implementation of the common printing dialog in at least one toolkit. This involves continuing the effort to be compliance with the dialog specification written by OpenUsability.

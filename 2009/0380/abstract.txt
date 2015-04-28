@@ -1,0 +1,10 @@
+Setting up a build environment for OOo on Windows is a pain, requires expensive tools (at least when needing all features), and the IO performance of the used cygwin/msvs mix is rather disappointing. This task includes setting up, (if necessary) provide missing headers and tools, and actually performing a full cross build of OOo under Linux.
+
+Fortunately most libraries should compile out of the box, but there are some tricky parts with very specific windows code. For example, if there's code that uses ATL it will have to be rewritten because there's no way to compile that with a gcc compiler. It can be very time consuming project, because you'll have to change all the makefiles with the new crosscompile configuration with a mix of linux and windows settings. And, of course, compiling is one thing but then it has to work well. Basically:
+
+1. Creating the new configuration in the OOo build system.
+2. Making changes to the makefiles to target the Win32 platform.
+3. Provide missing headers / tools.
+4. Decide solutions for non-compilable code.
+4. Check the things compiled work as expected.
+5. Creating the installer.

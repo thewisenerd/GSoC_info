@@ -1,0 +1,1 @@
+This project aims to apply DragonFly BSD design ideals to several related key kernel subsystems in an attempt to improve kernel performance, scalability and maintainability.

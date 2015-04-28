@@ -1,0 +1,1 @@
+The wxWidgets library is currently lacking a ribbon bar component. The ribbon bar has been popularised by programs like Microsoft Office 2007, and there are recurring requests for a wxWidgets implementation. I propose to implement a collection of classes which make it easier for application programmers to implement a ribbon bar in their programs.

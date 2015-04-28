@@ -1,0 +1,1 @@
+This project aims to build an offline mode for the calendar application (Sunbird and Lightning) of the Mozilla Open Source suite. The details of the enhancement can be found at Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=380060

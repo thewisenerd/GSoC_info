@@ -1,0 +1,1 @@
+Mapbender-Catalog Service for Web Client (Mapbender-CSWC) is a client application to simplify the access and retrieval of metadata from Catalog servers on the web. It provides the user with interfaces for querying CSW servers via a set of fields to effectively and easily filter, select, retrieve and view various catalogs, whilst also allowing for advanced querying.

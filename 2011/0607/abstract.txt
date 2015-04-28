@@ -1,0 +1,1 @@
+Make match moving workflow (point tracking, masking, camera tracking and so on) be available in Blender. libmv library would be used for tracking calculation. My main area would be Blender-side interface/operators.

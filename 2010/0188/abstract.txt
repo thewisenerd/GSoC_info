@@ -1,0 +1,1 @@
+Add support for Git/Mercurial style unidiff format extensions 'svn diff' and 'svn patch' should be able to produce and apply unidiff files containing git-style extensions to the unidiff format. See http://svn.apache.org/repos/asf/subversion/trunk/notes/svnpatch/svnpatch-git.txt That would allow us to use patches for tree and mode changes.

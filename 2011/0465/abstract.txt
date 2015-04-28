@@ -1,0 +1,1 @@
+The aim of this project it to boost the overall performance of the FIFE engine by using hardware accelerated methods from OpenGL and utilizing different forms of caching: Batching and Atlases to name a few.

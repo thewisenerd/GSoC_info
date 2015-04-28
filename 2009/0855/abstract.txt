@@ -1,0 +1,6 @@
+The Freifunk mesh network today does not support multicast. OBAMP is an overlay protocol: it runs only in the end-systems belonging to the multicast group. User data are distrubuted over a distribution tree formed bu a set of non-cyclic UDP tunnels.
+With respect to OBAMP, there is a version based on proactive routing protocol (e.g. OLSR) called OBAMPxP.
+OBAMPxP has been in implemented in Java to prove his feasibility, but still some critical functions (as the discovery of other nodes running the OBAMPxP protocol) have not yet been implemented.
+
+My proposed project is to implement the OBAMPxP protocol as a OLSR plugin. The OBAMPxP protocol is cross layer, exploits information from the routing protocol to create the multicast tree. Developing it as an OLSR plugin makes it easier to access the network topology information. Moreover OBAMPxP can also use the default MPR flooding functionality to advertise OBAMPxP capable nodes.
+Users running olsrd with the OBAMPxP plugin on their mesh nodes will be able to send and receive multimedia streams over the mesh network, optimizing bandwidth usage exploiting overlay multicast.

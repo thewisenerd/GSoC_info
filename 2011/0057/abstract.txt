@@ -1,0 +1,4 @@
+Improve border corner rendering and interaction of dashed /dotted styles with other styles.
+
+Currently the -moz-border-radius doesnt work well with a few styles. The project would aim to better implement the same.
+The css styles dotted and dashed dont interact well with double / solid. The implemenation of these needs to be improved.

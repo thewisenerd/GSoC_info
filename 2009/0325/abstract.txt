@@ -1,0 +1,3 @@
+I propose to take on the role of a maintainer for both the idlelib package as well Tkinter (the later includes Tkinter.py and _tkinter).
+
+With this project I expect to put IDLE, in special, in a better state. This means the user would be more confident in IDLE, and developers would have an easier time maintaining it. I also intend to study and incorporate, as appropriate, the bug fixes applied in a temporary IDLE fork called VIDLE.

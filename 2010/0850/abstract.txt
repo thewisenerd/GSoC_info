@@ -1,0 +1,2 @@
+The Shallow Cloning proposal is regarding adding support for shallow cloning in Mercurial. This
+feature will allow cloning most recent parts of [large] repositories in situations constrained by limits on resources such as storage space and network bandwidth and reliability, preventing creation of a full clone.

@@ -1,0 +1,1 @@
+In this proposal, I describe a project where I enhance Harvest's user interface to be friendlier and more flexible. The three main features are a filtering interface, sprinkles of AJAX and simpler individual pages. Time permitting, I would also work on on a new landing page to make the service more inviting.

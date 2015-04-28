@@ -1,0 +1,3 @@
+services-admin, currently included in the GNOME system tools, is a great utility to easily enable and disable services. However, it lacks the ability to manage Upstart jobs, making it less useful on some systems.
+The goal of this project is to provide a unified interface, in services-admin and backends, for managing both older scripts and Upstart jobs.
+Additionally, an interface will be provided that allows users to easily change service-specific configuration without editing files by hand.

@@ -1,0 +1,3 @@
+Mobility is a major issue nowadays, and android is a great platform to bring sakai 3 to mobile. Android is an open source operating system for mobile device which has the support of Google, and every day the is more mobile phones and more students using it.
+
+This is just an idea, but I think that would be nice to be able to sync all our events from sakai (like: new assignments, new tests, dead lines...) alert us and let check them.

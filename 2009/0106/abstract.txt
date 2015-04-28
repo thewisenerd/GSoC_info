@@ -1,0 +1,13 @@
+PROJECT TITLE
+=============
+
+Finish amd64 port of DragonFly.
+
+
+DELIVERABLES
+============
+
+1. functional amd64 port - UP kernel (mostly functional by midterm)
+2. functional amd64 port - SMP kernel (mostly functional by midterm)
+3. working 64-bit vkernels (after midterm)
+4. working 32-bit apps on 64-bit kernel (after midterm)

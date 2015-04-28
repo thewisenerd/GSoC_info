@@ -1,0 +1,1 @@
+Ballooning does not give possibility to extend memory over boundary declared at the start of system. Additionally, two mechanisms may confuse the user/administrator. Those limitations could be removed by migration from memory ballooning to memory hotplug in Xen.

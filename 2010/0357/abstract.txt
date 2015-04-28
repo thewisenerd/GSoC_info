@@ -1,0 +1,1 @@
+Hey! It will be great to see how the Earth used to look like million years ago. Implementing time support to Marble will allow user to browse through time. User will be able to see month-wise maps of the Earth. This will require implementation of central internal clock. The project will also provide time support for on-line services. KML time elements will be implemented too.

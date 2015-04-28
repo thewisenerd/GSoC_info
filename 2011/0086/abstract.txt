@@ -1,0 +1,8 @@
+Syntactic sugar features to simplify the use of Pig.
+
+-- Variable argument for SAMPLE and LIMIT.
+Currently, SAMPLE and LIMIT only take a constant argument. It would be better to be able to use a variable (scalar) in the place of a constant.
+
+-- Default SPLIT destination.
+SPLIT partitions a relation into two or more relations.
+It would be useful to have a default destination for tuples that are not assigned to any other relation, in a fashion similar to a switch/case/default statement.

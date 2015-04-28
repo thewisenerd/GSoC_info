@@ -1,0 +1,2 @@
+Currently the basic infrastructure of the FLOW3 Security Framework is implemented. To make the framework usable in real life a lot functionality is needed. E.g. we will have to provide many authentication mechanisms to integrate FLOW3 applications flawlessly in existing infrastructures.
+With the proposed features we will also proceed in our mission to provide a transparent security framework, which supports the developer as much as possible to write secure web applications without the need of being a security specialist.

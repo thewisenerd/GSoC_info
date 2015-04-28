@@ -1,0 +1,2 @@
+Provide a better way to handle documents, document revisions and document editing in Melange.
+The main tasks are: embedding full-featured WYSIWYM editor with markdown support, custom tags, code highlighting, anchors and control over appearance; support for document autosaving; document version control and ACLs.

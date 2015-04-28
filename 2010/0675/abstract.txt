@@ -1,0 +1,1 @@
+The goal of this project is the integration of Vamolà new checks and functionalities into AChecker, so that AChecker will provide more complete Web page evaluations, including new functionalities: (i) CSS validation and (ii) CSS accessibility evaluation (parsing and checking errors and warnings).

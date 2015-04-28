@@ -1,0 +1,1 @@
+We propose a technique for creating a network summary for Cytoscape that implements a variety of Natural Language Processing (NLP) techniques including stop word removal, stemming and Latent Semantic Indexing (LSI).

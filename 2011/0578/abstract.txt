@@ -1,0 +1,1 @@
+The goal of this GSoC project is to implement some of the missing mesh functions in Wine's DirectX extension library(D3DX9) implementation. Implementing the missing functions will allow more 3D programs and games to run using Wine.

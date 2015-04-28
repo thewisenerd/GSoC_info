@@ -1,0 +1,1 @@
+Implement polynomial interpolation in JACAL - a method that allows you to get an expression of a polynomial of the least degree that goes through a given set of data points (an interpolating polynomial).

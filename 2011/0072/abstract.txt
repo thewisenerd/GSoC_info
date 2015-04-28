@@ -1,0 +1,2 @@
+In this project, the specific hardware architecture of the Graphic Processing Unit (GPU) is exploited as a new hardware co-processor to tackle the computational time challenge in the nonlinear algebraic (NLA) solver. 
+The proposed novel approach can become an important winning feature for the ASCEND project over other competitor Equation Oriented tools (open source/proprietary).

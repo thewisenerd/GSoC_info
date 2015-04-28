@@ -1,0 +1,1 @@
+Haiku is an operating system concentrating on user experiences. But at this time Haiku doesn't have a ZeroConf system, which simplifies the use of the computer networks. I want to port an existing ZeroConf implementation to haiku. And related applications like configuration tools and so forth will also be implemented.

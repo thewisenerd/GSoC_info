@@ -1,0 +1,7 @@
+The address bar in Camino is beginning to show its age. I propose to update it this summer with the following changes:
+• Inline autocomplete
+• Autocomplete from local bookmarks
+• Tweak layout of autocomplete list (see screenshots)
+• Implement a sorting algorithm for autocomplete results similar to Firefox's frecency algorithm
+• Integrate with online bookmarking sites
+• Tag search

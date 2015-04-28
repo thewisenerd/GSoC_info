@@ -1,0 +1,2 @@
+Today, Phd is centric in php.net projects and needs some improvements to be useful to others projects. In Google Summer of Code 2008 was added output formats/themes and other things, however these formats/themes are very attached to the main code of the PhD and is impossible to develop a new theme without changing the main code.
+The aim of my proposal is develop a Plugin System to manage Themes and Formats, to enable other projects writing their own themes without modify the main code of PhD.

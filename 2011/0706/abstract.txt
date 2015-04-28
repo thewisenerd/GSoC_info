@@ -1,0 +1,3 @@
+Biopython is a very popular library in Bioinformatics and Computational Biology. Mocapy++ is a machine learning toolkit for training and using Bayesian networks.
+
+However, Mocapy++ is implemented in C++ and does not provide any Python bindings. The goal of this proposal is to develop an easy-to-use Python interface to Mocapy++, and to integrate this interface with the Biopython project.

@@ -1,0 +1,1 @@
+KDE on Windows is not a stable product and crashes are often. Currently, the developers can't receive backtraces from users - the crash handler is ported to Windows, but it cannot generate a valid backtrace. This project aims to improve KDE's crash handler, and also to modify the kdewin-installer so that it is able to install debug packages.

@@ -1,0 +1,9 @@
+Currently FreeBSD has limited support for userlevel file systems with
+GPL licensed fuse port (fusefs-libs) and kernel module
+(fusefs-kmod). There are some known design drawbacks in
+this implementation which can't be easily fixed.
+
+I'd like to port puffs (Pass-to-Userspace Framework File system) from
+NetBSD. I'd suggest not to preserve compatibility with NetBSD, but to
+develop a port preserving FreeBSD native VFS interface and fix
+librefuse and ported userlevel file systems (psshfs).

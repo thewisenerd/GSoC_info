@@ -1,0 +1,1 @@
+Create a node rendering library to make interactive nodes from a file. This will be use in a plugin for Gluon Creator for the code editor and material/shader editor.

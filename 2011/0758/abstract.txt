@@ -1,0 +1,1 @@
+This project seeks to implement parsers for Carto and Cascadenik map stylesheets within Mapnik allowing for native handling of these formats. Additionally, format generators will be created for Mapnik XML, Carto, Cascadenik, and SLD enabling translation between these map styling specifications.

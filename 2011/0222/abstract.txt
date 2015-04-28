@@ -1,0 +1,1 @@
+Convert the legacy World Editor to Qt as an Object Viewer Qt plugin. This tools will receive an improved interface, additional features and cross-platforming.

@@ -1,0 +1,1 @@
+Development of a data collection tool and information gathering service which will allow participating users to contribute data regarding the way they use MacPorts. This data will include information on the user's system configuration as well as the ports they use. In addition, a visualization tool for this data will also be developed.

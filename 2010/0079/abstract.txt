@@ -1,0 +1,2 @@
+OpenGraphRouter already implemented graph building and shortest path generating. This project supports shape file for graph building. It generates the shortest path using dijkstra's algorithm which support multiple optimization parameter for minimizing the cost. In this GSoC I am going to add the support for turn restrictions, multi modal routing support,escape road support,hierarchical routing algorithm.
+BackGround

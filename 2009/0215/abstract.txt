@@ -1,0 +1,2 @@
+For a DE like KDE, it's important to release software which can be used by  developers to create custom plasmoids, data engines and themes. This app must be simple and easy to use, and must let the developer focus on the software, not on building the right directory hierarchy, and update it every time new modifications are introduce.
+This is PlasMate: a simple, easy to use editor for desktop customization.

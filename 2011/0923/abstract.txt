@@ -1,0 +1,7 @@
+For the ooxml Word import filter, a new filter framework is developed
+that has better import quality as the old separate filters, and also
+shares quite some code. Having the RTF import use that framework would
+be hugely useful; both binary doc and rtf are very similar in structure,
+and could have tokenizers plugged into the filter framework. The doc tokenizer is
+already worked on, so a RTF tokenizer would be a an awesome feature -
+and this summer I would like to work on this.

@@ -1,0 +1,5 @@
+I propose to add several new features that would enhance Blender's 3D sculpting tools.
+* Partial Mesh Hiding
+* Projection Brush
+* Miscellaneous Brush Enhancements
+* Layers

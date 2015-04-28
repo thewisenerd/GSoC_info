@@ -1,0 +1,5 @@
+We currently still lack the ability to really see what’s really going on with a project.
+
+An activity stream is an overview of all actions in a system that are interesting to a user from his or her perspective.
+
+This project introduces Activity Stream to a set of social Development-oriented Drupal modules.

@@ -1,0 +1,3 @@
+My first priority would be to implement the most basic parts of the user interface, such as address bar, status bar and the main toolbar. This would allow the browser to be used for casual testing, even by people who are completely new to Wine. 
+
+If time allows it I would also like to focus on features such as history of visited URLs and the favourites menu. Moreover, if it does collide with another student's GSoC project, I would like to add an Internet control panel applet

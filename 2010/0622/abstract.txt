@@ -1,0 +1,1 @@
+Extend the capabilities of boot.kernel.org (BKO) by providing a web application that allows for customization of Linux installations performed through BKO.

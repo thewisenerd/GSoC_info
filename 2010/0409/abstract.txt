@@ -1,0 +1,4 @@
+The purpose of this project is to add complete package support in the pkg_tools and in the ports tree. A complete package is a package which includes all the required dependencies in its tarball.
+Unlike the PBI package format of PC-BSD, once a complete package is installed, it appears as every package contained in the complete package was installed separately.
+
+To achieve this goal, use of libarchive in the pkg_tools is planned. Refactoring will also be done to improve code reusability.

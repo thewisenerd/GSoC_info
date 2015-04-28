@@ -1,0 +1,1 @@
+The goal of this project is to improve some of Cuckoobox features. The main proposal is to create a new component that will hide Cuckoo's components and avoid simple detection techniques employed by malware. It will be implemented as a Windows Kernel Driver.

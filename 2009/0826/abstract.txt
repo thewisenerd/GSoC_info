@@ -1,0 +1,1 @@
+My proposal is to make Rockbox a musical instrument. To do that, the sound processing framework Pure Data will be integrated into Rockbox in the likeness of PdPod -- http://www.ipodlinux.org/wiki/PdPod .

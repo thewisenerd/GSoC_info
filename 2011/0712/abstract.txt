@@ -1,0 +1,1 @@
+The proposed project aims at adding support for memory access transformations in Polly(Polyhedral optimization in LLVM). In many cases it would be great to change the pattern of memory access to obtain better data locality. This can remove dependences that would otherwise block transformations and it can allow LLVM to use registers to store such values.

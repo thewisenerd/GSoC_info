@@ -1,0 +1,2 @@
+My proposal is to implement the "Web pages over rsync" idea. This idea has great potential to revolutionize the way the Web is used in large organizations and ISP's, especially for networks where bandwidth is severely limited. Basically when a Webpage changes, the proxy / client would receive the delta instead of the complete page, saving precious bandwidth.
+A proof of concept proxy already exists, and my proposal is to extend and improve that proxy and write a Firefox extension to use with it.

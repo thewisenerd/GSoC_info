@@ -1,0 +1,1 @@
+Implement a Gtk+ Input Method plugin for the Harmattan Input Method UI Framework for use by the future community-maintained Maemo Gtk+.

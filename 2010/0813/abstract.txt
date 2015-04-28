@@ -1,0 +1,3 @@
+As Sahana is serving the community with a great disaster management system,It is trustworthy arm in point of disaster management system to have a logistic management system.As defined by the community this should be a collaborative effort composing from several sub modules. 
+
+Hence the intention of this project is to facilitate Sahana logistic management system with a better logistic shipment functionality to handle items around locations as efficiently as possible.

@@ -1,0 +1,1 @@
+The goal of this project is to enable videos to be edited within a TikiWiki page, similar to the text, by multiple collaborators. Editors can add voiceovers, insert clips, cut-and-paste and rearrange clips, add subtitles/other effects. This project will make use of Kaltura platform.

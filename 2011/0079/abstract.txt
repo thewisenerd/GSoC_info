@@ -1,0 +1,2 @@
+Implement the pluggable transports spec.
+Implement a couple of transport protocols, if the time allows it.

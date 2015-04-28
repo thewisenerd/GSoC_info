@@ -1,0 +1,1 @@
+NetworkX is a powerful network analysis toolkit for the Python programming language. While NetworkX has a very extensive algorithmic base, it has few community detection algorithms. This project would seek to complete several partially complete algorithms currently on the NetworkX development site and implement several new algorithms.

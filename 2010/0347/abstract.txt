@@ -1,0 +1,1 @@
+'Weave Sync engines for tabs and mailnews status sync' is a GSoC 2010 project proposed by the Mozilla organization under Seamonkey projects.

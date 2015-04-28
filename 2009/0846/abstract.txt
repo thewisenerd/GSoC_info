@@ -1,0 +1,1 @@
+Assist in the development of the liqbase framework, and apply the liqbase framework as a UI for an interactive and visual system/network monitoring application

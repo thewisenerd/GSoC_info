@@ -1,0 +1,1 @@
+Give extension localizers and authors the best web-localization platform around — the Transifex system.

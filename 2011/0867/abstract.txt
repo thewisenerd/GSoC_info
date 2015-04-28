@@ -1,0 +1,2 @@
+during the last few years, i have been working on a library of lockfree data structures. for last year's gsoc, i got the grant to work on a boost.heap library providing priority queue implementations.
+during this year's summer of code, i want to perform the review of these two libraries so that they can be included in future boost releases.

@@ -1,0 +1,1 @@
+Creation of back-end extension to collect and persist Sakai messages in a database, a layer and mechanism for analysis of persisted data, and a front-end UI for accessing and displaying the data from database in a structured manner.

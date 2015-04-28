@@ -1,0 +1,2 @@
+Since online multimedia content providers such as youtube, flickr, last.fm (to name a few) are offering their API to developers, one can take the opportunity to write standalone desktop applications.
+Another aspect to provide access to such services can be made with the Plasma library of the KDE Software Compilation. Therewith, it is possible to realize the project idea to write backend services that allow browsing media content from web services and offer an API for high level applications.

@@ -1,0 +1,3 @@
+The podcast web service gpodder.net is a free, online and open source application that can be used for podcast searching, subscription and status synchronization.
+
+By combining Amarok with gpodder.net capabilities, we can give a whole new user experience in terms of podcast for Amarok users.

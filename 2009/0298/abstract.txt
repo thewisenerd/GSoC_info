@@ -1,0 +1,3 @@
+SymPy is a computer algebra system implemented in Python. It has a rudimentary assumption system, which has many weaknesses. This project aims to implement a new assumption system that does not suffer from these limitations.
+
+By assumption system I mean a framework in which we can specify (mathematical) properties about objects, simplify expressions binded to some properties and infer other properties from the original ones.

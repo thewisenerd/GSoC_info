@@ -1,0 +1,1 @@
+Design auto-completion and auto-suggestion features for xwiki editor and WYSIWYG rich text editor in order to speed up content editing for both editors.

@@ -1,0 +1,4 @@
+The OpenOffice plug-in for Creative Commons was completed in 2007 as a GSoC project. But now it is out dated and the current extension cannot be used properly in OpenOffice 3 versions. So I plan to: 
+(1) update the Creative Commons plug-in for OO.o 3 SDK. 
+(2) Add support for CC0. 
+(3) Improve the UI and add support for OO.o Draw.

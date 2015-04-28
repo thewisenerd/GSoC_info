@@ -1,0 +1,1 @@
+Minstrel is a widely used and tested rate control algorithm in both madwifi driver and linux kernel, but it is yet to be implemented in NS-3. The proposal plans out the technical details for accomplishing such task in the timeline of 10 weeks, including testing and validating results with the testbeds.

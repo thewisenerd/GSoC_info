@@ -1,0 +1,1 @@
+Enabling mobile devices to operate on ad-hoc wireless mesh networks by porting the necessary routing protocols to these devices with a native GUI will enable mobile devices to link into a mesh network and communicate with devices using the OLSR routing protocol.

@@ -1,0 +1,1 @@
+My idea is to implement a lightweight, easy to use,  and well-documented RESTful API for Reactome. It will allow Reactome annotated data to be used programmatically and integrated in other web applications.

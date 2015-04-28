@@ -1,0 +1,1 @@
+implementation of freifunk and free network mesh add ons (data) for LXNM, and also integration in LXNM tools.

@@ -1,0 +1,8 @@
+Currently, calling a Fortran routine from Cython is difficult and error-prone
+if one desires: 1) speed, 2) portable wrapping, 3) seamless passing of
+numpy array objects, and 4) Fortran 90 code that uses assumed-shape arrays.
+
+Our project will address the above shortcomings by improving f2py-Cython
+integration. There are 2 aspects to the project: enhancing f2py to generate
+updated Fortran wrappers callable from C, and enhancing Cython to enable
+passing python buffers to external code.

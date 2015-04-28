@@ -1,0 +1,1 @@
+Automation of configuration needed for projects using pkg-config, such as GTK+ and gtkmm. Currently the configuration process is quite long for Windows OS as Judson Wilson demonstrates on his blog http://irkedrants.blogspot.com/2011/02/configuring-eclipse-to-compile-gtk.html. This process could be automated by creating a new plug-in.

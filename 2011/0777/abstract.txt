@@ -1,0 +1,1 @@
+My proposal is to create a GUI editor for visualizing a PySoy project. Projects made with the editor will be displayed as a collection of scene nodes, usually connected to each other through some mechanism, e.g. a portal. The connections between scene nodes will be displayed as lines, using collision to determine where the scene nodes are placed relative to each other.

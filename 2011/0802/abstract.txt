@@ -1,0 +1,1 @@
+Contribute to the reorganization of the BioPerl project, by breaking it up into smaller distributions and publishing them to CPAN.

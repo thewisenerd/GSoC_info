@@ -1,0 +1,1 @@
+This project aims to enhance the existing SoC framework with two main social features. The Calendar feature (with GeoModel integration) and the inclusion of MelBlog! (Customized User pages) for each user. These are proposed to be integrated into the existing architecture of SoC.

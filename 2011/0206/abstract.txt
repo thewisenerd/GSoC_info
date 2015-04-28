@@ -1,0 +1,1 @@
+This project proposes to extend Mahout's sequential implementation of the Baum-Welch algorithm to a parallel, distributed version using the Map-Reduce programming framework to allow Hidden Markov Model training at a large scale for enhanced model fitting.

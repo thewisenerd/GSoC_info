@@ -1,0 +1,1 @@
+Port the histogram diff algorithm from JGit, as well as implement a more reliable (ie. low collision rate) hashing algorithm.

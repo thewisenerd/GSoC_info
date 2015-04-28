@@ -1,0 +1,1 @@
+The goal is to aid the Japanese Free Software Community by providing the many hobbyists and engineers with appropriate free tools for the popular Akizuki 32x16 LED matrix display controled by an AVR based device connected to a PC via USB.

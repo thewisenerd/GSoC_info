@@ -1,0 +1,1 @@
+New COPY/PASTE detector algorithm with main objective to reduce memory usage (comparing to CPD) and to create incremental codebase index.

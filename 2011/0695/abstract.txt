@@ -1,0 +1,1 @@
+In the current implementation of JPF all java.io.* peers operations with filesystem aren't backtrackable. This proposal describes an idea to implement file operations in backtrackable way, so that SUT that performs operation with file system could be correctly tested under JPF.

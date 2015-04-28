@@ -1,0 +1,5 @@
+OSGi has a lot of advantages due to its ability to manage modules' dependences and the service it provided.
+
+Apache Harmony JRE implementation has already been designed to be modularized and least coupled amongest the module .
+
+If we could integrate the two together , we will bring great  flexibility to the development and update of Harmony.And more importantly this will be more attractive to users for it is more easy to use .

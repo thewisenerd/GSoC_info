@@ -1,0 +1,3 @@
+Hugin uses GNU Make to drive the actual panorama creation process, it creates a makefile from the project settings to invoke the several tools that create the panorama.
+
+The current makefile output code is not satisfactory. It will be replaced by a reliable library that encapsulates the output of makefiles and handles all makefile-specific issues, especially quoting.

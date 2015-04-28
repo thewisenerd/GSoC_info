@@ -1,0 +1,6 @@
+Implementing a speciation vs. duplication inference algorithm as an extension to BioRuby would make use of existing code infrastructure and also make the tool readily available to a community of phylogenetics researchers.
+
+Project Goals:
+
+1) Implement Zmasek and Eddy's speciation/duplication inference algorithm for binary trees as an extension to BioRuby.
+2) Extend the above speciation/duplication inference algorithm to support non-binary species trees as in Vernot et al.

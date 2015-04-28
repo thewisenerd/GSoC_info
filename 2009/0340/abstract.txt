@@ -1,0 +1,4 @@
+Build a preprocessor, that takes an OSM file, downloads the required SRTM data or uses a cached version and then outputs a modified OSM file which has tags for each way, that give the height distance of this way.
+
+Rationale
+OSM provides fantastic data for routing all kinds of vehicles. However for optimal bicycle and pedestrian routing one also needs altitude information to avoid unnecessarily going up and down hills. On the other hand there are cyclists who prefer really steep routes.

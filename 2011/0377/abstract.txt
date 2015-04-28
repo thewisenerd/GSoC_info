@@ -1,0 +1,3 @@
+The submodule system of git is very powerful, yet not that easy to work
+with. This proposed work will strengthen the submodule system even more and
+improve the user experience when working with submodules.

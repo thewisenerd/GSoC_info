@@ -1,0 +1,1 @@
+Better Print Support is a project idea for Mapnik whose goal is the implementation of support for printing maps at different resolutions in order for users to print them and preserve the quality displayed onscreen. Additionally, the project has the purpose of improving the characteristics of the output image for better post-processing support.

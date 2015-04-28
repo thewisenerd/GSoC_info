@@ -1,0 +1,3 @@
+I am very impressed by the speed and simplicity to integrate "khtml.maplib” into a website.
+I have already made contact to the developer of this JavaScript library and he says that there is still a lot of work to do, to integrate for example a marker system, overlay POIs and GPX-tracks and do some debugging for the existing components.
+One possible idea you can see on the page linked below.

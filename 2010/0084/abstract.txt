@@ -1,0 +1,1 @@
+The Digital Living Network Alliance (DLNA) offers a standard that many manufacturers use as a way to keep compatibility across different products that use UPnP.  As of 2008, over 5,500 different devices and over 200 million sold products use the DLNA standard.  This project will improve the current UPNP model, and apply the DLNA standard as Client/Server modules.

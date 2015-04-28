@@ -1,0 +1,5 @@
+Apache Derby’s unit tests are being ported over to the new JUnit standard. My goal is to help with this task so that in the future, there is only one framework for tests comprising the whole set. I have previously worked with Apache Derby from a developer’s perspective and I believe this will provide me with great leverage to help this project.
+
+My main focus will be the network tests, as these are a showstopper for concurrent testing. When these are converted, a lot of time can be saved with the test runs. Once this is done, I will also be looking at helping with the undergoing bug fixing.
+
+I am well acquainted with Derby from my previous experience, and I am also at ease with JUnit. I believe that this, combined with my extensive experience with Java, is the perfect combination to help Derby’s community of developers and users.

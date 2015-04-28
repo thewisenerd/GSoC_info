@@ -1,0 +1,1 @@
+This project aims at implementing virtio drivers to DragonFly BSD (block, network and ballooning device drivers), porting them from NetBSD, and at doing benchmarks running DragonFly BSD on KVM to prove that virtio does improve performances. The drivers will have to respect specifications as described in Rusty Russell’s draft about Virtio PCI Card Specification.

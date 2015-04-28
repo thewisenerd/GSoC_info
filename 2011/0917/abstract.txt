@@ -1,0 +1,3 @@
+MINIX 3 is a relatively new operating system, designed to be flexible, reliable and secure. However, the userland in MINIX is limited in terms of scope and functionalities.
+
+In this project, i will expand the MINIX userland by porting the userland utilities from NetBSD and replace the old and obsolete userland part of MINIX with that of NetBSD’s, while minimizing the changes in the NetBSD sources and conforming to newer POSIX revisions.

@@ -1,0 +1,2 @@
+TraceExploit use a heuristics method to extract a template from single or multiple samples of exploit network flow, and then perform exploit to another host machine (maybe with different os or software version). The shellcode of exploit can be customized by users.
+The replay of exploit is based on binary network data analysis, without any application layer knowing.

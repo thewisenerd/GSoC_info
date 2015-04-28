@@ -1,0 +1,1 @@
+ASCEND has native models to support thermodynamic correlations. Using ASCEND syntax makes it difficult to maintain and browse the list of available chemical species. An alternative is sought such that the chemical property data be moved to separate data file.

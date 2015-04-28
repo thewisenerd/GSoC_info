@@ -1,0 +1,4 @@
+Implement BPSW algorithm as a Perl 5 CPAN module, Math::Primality with extensive test-suite
+Bob Kuo: bobjkuo@gmail.com
+
+I intend to implement the BPSW primality test as a Perl 5 CPAN module, Math::Primality, which will include documentation and an extensive test suite.  I will use arbitrary precision arithmetic that is provided through the Math::BigInt::GMP bindings to implement the is_prime() and next_prime() functions to replace the current Math::Pari implementation.

@@ -1,0 +1,3 @@
+XMPP is communication protocol that is based on XML.
+
+This project will provide a Wireshark's dissector that will support XMPP.

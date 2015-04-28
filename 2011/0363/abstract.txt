@@ -1,0 +1,3 @@
+The mailbox subproject (http://james.apache.org/mailbox/) supports maildir, SQL database (via JPA) and Java Content Repository (JCR) as technology for 
+mail storage. The goal for this project is to implement 
+mailbox storage as a distributed system on top of Hadoop HDFS using James mailbox API.

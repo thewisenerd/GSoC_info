@@ -1,0 +1,6 @@
+This project will have two major goals.
+First, I will improve libmv API so that Blender can easily leverage all features provided by libmv. 
+This will ease the task of the developer tasked with Blender UI implementation.
+Then, My focus will be on completing the 2D tracker algorithms.
+Currently, libmv can only work as a completely automatic detector and tracker.
+However, real use cases will need to allow the user to provide additional inputs and tweak the results.

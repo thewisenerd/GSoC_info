@@ -1,0 +1,4 @@
+The project goal is to support multiqueue network interface on BPF, and provide interfaces for multithreaded packet processing using BPF.
+BPF is raw interface of network devices, which allows to receive / send Data Link Layer frame directly.
+Modern high performance NICs have multiple receive/send queues and RSS feature, this allows to process packet concurrently on multiple processors.
+Main purpose of the project is to support these hardware and get benefit of parallelism.

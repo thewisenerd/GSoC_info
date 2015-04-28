@@ -1,0 +1,2 @@
+In the aim to increase the information we can get from a pdb file, I would like to develop a module to produce significant and useful physico-chemical information on protein-protein interfaces.
+Complementary to parsing module already existing, it would be an easy-to-use way for a scientist to have basic information before launching more complex calculations.

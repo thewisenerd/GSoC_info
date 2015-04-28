@@ -1,0 +1,1 @@
+The main goal of the project will be to investigate and implement methods of calculating and displaying inteesections of various geometrical objects in three dimensions. This will be accomplished through general methods for polygonal meshes, as well as specialized methods where deemed necessary.

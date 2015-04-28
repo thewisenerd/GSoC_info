@@ -1,0 +1,1 @@
+The idea of this proposal is to make a major rewrite of the internals to provide a way to split up documents, see different documents at the same time and to provide several views for the same document (i.e: html or latex preview)

@@ -1,0 +1,3 @@
+Project: Skin and template support for XOffice
+Why this project: I use XWord. I would like to extend it. It will raise the standars for both collaborative platforms and editors.
+Tentative project architecture: 4 components; dealing with CSS optimization, style extraction, VSTO, content controls, XML-RPC.

@@ -1,0 +1,1 @@
+I will be working over the summer to write a proper wrapper around either ffmpeg or sdl_ffmpeg for use as a python module, to replace a currently unstable movie playing module. This would allow for tasks like a media player, a movie editor, or to show cutscenes in Pygame to be written.

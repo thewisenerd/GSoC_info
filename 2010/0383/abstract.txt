@@ -1,0 +1,1 @@
+This task entails fixing problems with the current mkv demux functionality (lavf wrapper/native code) and adding some enhancements.

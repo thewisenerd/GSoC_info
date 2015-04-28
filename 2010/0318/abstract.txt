@@ -1,0 +1,3 @@
+The main goal of the project is to rewrite ctypes in RPython with JIT support in mind.
+
+This should give another boost for PyPy performance.

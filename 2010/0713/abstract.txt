@@ -1,0 +1,7 @@
+Rework and extend the import/export functionality of Semantic MediaWiki (SMW) to allow also full, general RDF import.
+
+One motivation and use case is to use SMW as a collaborative RDF editor integrated with workflow / workbench software like Bioclipse, for workflows of the type:
+
+Import RDF --> Collaboratively edit --> Export in same format
+
+The project will include general reworkings of the import/export functionality though, which that specific use case can take advantage of.

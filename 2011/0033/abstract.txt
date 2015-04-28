@@ -1,0 +1,1 @@
+This project involves developing a system that will map the phenotypic data from an OBD database to the EOL transfer schema. This implies determining what phenotypic information can be used and creating human-readable segments of text that can be integrated in a Encyclopedia of Life page.

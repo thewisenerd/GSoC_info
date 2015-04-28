@@ -1,0 +1,1 @@
+Apertium-fin-sme is project that uses already existing morphological analysis tools and constraint grammars in Finnish and Northern Sámi to produce a language pair within Apertium to translate from Finnish to Northern Sámi.

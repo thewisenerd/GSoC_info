@@ -1,0 +1,1 @@
+The Wesnoth whiteboard system is the mechanism by which players can plan their strategies in-game. The whiteboard is currently unfinished and requires both debugging and additional features. The proposed project will address these, with the focus on allowing allied players to view each others' plans over the network.

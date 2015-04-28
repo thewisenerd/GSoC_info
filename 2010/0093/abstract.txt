@@ -1,0 +1,2 @@
+When Hadoop sorts the keys in the shuffle phase, it will use a binary (raw) comparator, if available. The binary comparator does not deserialize the key into an object and compares directly the byte encoding for better performance.
+Pig uses the binary comparator when the key is of simple type, but not for tuples. This is important when doing secondary sort, because Pig relies on Hadoop to sort both main and secondary key. Using a binary comparator for tuples will produce a significant speedup.

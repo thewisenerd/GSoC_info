@@ -1,0 +1,1 @@
+The aim of this project is to provide complete networking support for games in pysoy.  The end product will be as friendly as possibly to game developers.  This includes packaging the current game state, but only sending what is needed, and sending this to a "server", whether another player (p2p) or to a central server.  To send this data PySoy will use XMPP and Jingle ICE-UDP.

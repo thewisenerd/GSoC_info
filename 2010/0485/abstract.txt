@@ -1,0 +1,3 @@
+Internationalization and Localization are key in order to reach a broad user base. Python's documentation has historically been maintained in English only. There have been several translation attempts which slowly become obsolete as keeping track of checkins to the reference documentation is a boring and laborious task.
+
+Developing a native language support toolchain would make Sphinx a compelling documentation system for open source projects.

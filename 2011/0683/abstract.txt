@@ -1,0 +1,1 @@
+CGAL has accumulated a number of geometry-independent tools which these days offer duplicate functionality with what is (a) in TR1, (b) planned for the next C++ standard C++0x, and/or (c) are in Boost. Doing the replacement would help in the long-term by easing maintenance: (a) less code to maintain, and (b) new people are more likely to know about a standard tool.

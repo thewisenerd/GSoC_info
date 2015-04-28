@@ -1,0 +1,4 @@
+Hello Moinmoin.
+
+I've chose your project for my proposal, because i'm interested in python expirience. I love python, but at my university i have only C/C++ tasks because of my specialization(parallel computing). I'm also have some thought about other your tasks, but i think i'll do my best with wiki-like formats support. 
+Sorry for my english.

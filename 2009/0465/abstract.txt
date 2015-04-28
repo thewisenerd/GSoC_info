@@ -1,0 +1,9 @@
+Though XML is becoming an universal standard in protocols and
+formats, the Unix world has yet to embrace it fully. A major
+obstacle to its integration is the lack of efficient command-line
+tools for users and administrators.
+
+This project aims at providing NetBSD with a lightweight,
+consistent, set of stream-oriented XML utilities, inspired by
+traditional Unix programs such as grep, join and sed, hopefully
+opening the way for similar support in other mainstream systems.

@@ -1,0 +1,4 @@
+In order to have better performance on JMicron Ethernet Card. Instead of
+using the UNDI driver, I would implement a better performance native driver
+for gPXE. The tg3 driver of gPXE project still using old etherboot API, I
+would buy a Broadcom NIC and try to port it into new gPXE API.

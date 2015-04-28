@@ -1,0 +1,1 @@
+LimeSurvey is currently written in procedural code. When a project like this grows, the code tends to become repetitive and difficult to maintain. My proposal to solve this problem is to port it to CodeIgniter, specifically the back-end.

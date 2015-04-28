@@ -1,0 +1,8 @@
+GNU Guile includes a new VM and compiler infrastructure
+for performance improvements in the current development tree.  Additionally,
+it is designed in such a way as to allow easy extension with new languages.
+
+I would like to implement support for Emacs Lisp on top of this
+framework to allow Guile to run elisp code in addition to the Scheme
+language it is based on originally; this will allow Guile to be used for
+an even broader context and work with a large base of existing scripts.

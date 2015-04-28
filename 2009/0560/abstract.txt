@@ -1,0 +1,1 @@
+The goal is to create a new user interface for the integrated development environmnent with the GTK+ Gnu Smalltalk binding. The student should create basic tools like an inspector, a class browser, ... Once this is done the student should create a framework for git/svn versioning support and also a graphical user interface for their.

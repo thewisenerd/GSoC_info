@@ -1,0 +1,1 @@
+Microsoft Media Server (MMS) is the name of Microsoft's proprietary network streaming protocol used to transfer unicast data in Windows Media Services. MMS protocol is used widely in Internet. However, FFmpeg doesn’t support MMS protocol by now. I’ll add MMS protocol supported feature for FFmpeg in this summer in order to make FFmpeg more perfect.

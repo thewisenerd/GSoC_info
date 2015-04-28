@@ -1,0 +1,3 @@
+At the moment a lot of developers use a staging server (e.g. blog.localhost) and then migrate their changes onto a "live" site. The current problem is that WordPress is very hard to migrate to a new host (e.g. blog.brianmckenna.org to briansblog.com).
+
+This solution would create a simple and effective user interface for migrating a WordPress installation to a new host.

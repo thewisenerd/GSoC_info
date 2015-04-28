@@ -1,0 +1,1 @@
+Currently, Melange lacks a more advanced system for seeding data. This projects aims to create a new data seeder module that will be flexible and extensible enough for most needs. A web interface will be provided which will allow seeding both locally and remotely.

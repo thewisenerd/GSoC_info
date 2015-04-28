@@ -1,0 +1,1 @@
+For the summer I want to help create useful developer tools to open government and institutional data. Specifically I want to achieve this through creating Ruby gems that wrap important APIs.

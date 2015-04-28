@@ -1,0 +1,2 @@
+Since Krita is to be used also for shading and texturing, it needs to offer some image transformations. The current transformation tool lacks crucial features such a shearing image, changing perspective, warping, and some pre-written transformations. It also deteriorates the image unreasonably by performing too many transformations. 
+The aim is to develop from scratch a new transformation tool for Krita, which will implement those features and be at the same time fast and comfortable to use.

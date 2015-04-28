@@ -1,0 +1,3 @@
+Currently XOrg supports a minimalistic implementation of an X Server - called "KDrive" internally. This provides a set of basic features, and is configured at compile time, resulting in a single binary that doesn't require any config or driver files.
+
+This could be highly useful in an embedded environment where an X server is wanted, but space requirements prohibit using a fully featured X server. Currently kdrive only supports Linux, this project is to create a NetBSD port.

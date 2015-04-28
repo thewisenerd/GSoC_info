@@ -1,0 +1,1 @@
+Orion is a new project with aim to become the full-featured open source tool integration framework for web-based software development. To achieve this goal, Orion needs to be designed and developed with great flexibility in mind. The real test for platform's extensibility is to develop support for more programming languages. I propose to implement PHP editor features for Orion.

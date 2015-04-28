@@ -1,0 +1,1 @@
+Currently hyperSpec provides a limited GUI interface via the `locator()` function for basic graphics.  This proposal will develop a Graphical User Interface for the hyperSpec package.  This GUI will be made up of smaller widgets that can be chained, synchronised, and included in batch scripts.

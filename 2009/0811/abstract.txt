@@ -1,0 +1,9 @@
+The first part of this project deals with HTTP/1.1 support in Tcl:
+* Chunking: needs compatibility with the -channel and -handler options
+* Support for pipelined requests in keepalive connections
+* Support for SOCKS and authenticating HTTP proxies with SSL connections
+* Support for SSPI authentication
+
+The second part is about the Chameleon plugin, which gives native or pixmapped look to Tk widgets:
+* Tcl/tk 8.5 and 8.6 compatibility
+* Adaptation to use snit

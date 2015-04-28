@@ -1,0 +1,3 @@
+As the Python desktop applications grew very fast, the need for a general, platform independent keyring API ,becomes important for development. Many services require authentication before they can be used. Application always needs to store these authentications safely.
+
+This lib is aimed to address this problem. By making a single call to this library, an application can store login information on a keyring where the application can retrieve the information—also with a single call—when needed.

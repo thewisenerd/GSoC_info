@@ -1,0 +1,1 @@
+Currently, Scilab does have the functions to create and manage GUIs from the console itself. However, the Scilab UI libraries can definitely be improved upon by adding more UI features and tools.

@@ -1,0 +1,1 @@
+Integrate Ember into the web browsers with creating our own native plug-in using FireBreath on Windows, Linux, and Mac OS X.

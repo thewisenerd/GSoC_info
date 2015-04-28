@@ -1,0 +1,7 @@
+The rationale behind the Coreboot Spice Payload is a software component 
+to provide a virtualized desktop to small devices with minimal hardware 
+and software resources.
+
+Once the most of the intensive CPU and GPU tasks are moved to the spice 
+server it is possible to set poor devices with a full functional desktop 
+and minimal software requirements in the client side.

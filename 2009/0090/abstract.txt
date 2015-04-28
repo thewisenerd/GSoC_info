@@ -1,0 +1,1 @@
+This project deals with the creation of a GUI that enables Workspaces to the front user. Create more Profiles and Data Channels, or improve the current ones, will be a part of this proposal too.

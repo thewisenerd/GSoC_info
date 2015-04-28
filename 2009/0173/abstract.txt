@@ -1,0 +1,7 @@
+Krita is application with aim at creating images from scratch.
+And important part of Krita are the various painting systems called brush
+engines from standard potato stamping brush engine through a hairy brush simulation brush,a color mixing brush to a programable dynamic brush.
+
+I would like to work on real-time 3D brush engine, which would nicely
+supplement current brush engines. My aim is to to create a brush model
+that would behave in a more physically correct manner, following a 3D model of a brush.

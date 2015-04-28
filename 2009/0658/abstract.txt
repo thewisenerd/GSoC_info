@@ -1,0 +1,1 @@
+This project will focus on developing tools for reporting purposes. It will allow implementers of OpenMRS to generate reports from data collected from sources other than OpenMRS.

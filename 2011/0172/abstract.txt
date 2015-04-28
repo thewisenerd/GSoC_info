@@ -1,0 +1,6 @@
+Commercial packages like REFPROP act as a
+databases of fluid properties, in fact they are actually programs which use thermodynamic equations of state to calculate these properties on the fly.
+The purpose of this project is to develop
+the open source FPROPS platform which seeks to emulate and expand upon these programs.
+Specifically FPROPS will be restructured for extensibility, existing discrepancies will be
+investigated and new features such as support for new equations of state will be added.

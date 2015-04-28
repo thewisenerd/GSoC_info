@@ -1,0 +1,1 @@
+To use the EOL database to provide the public with a means of quickly identifying any species present in images they have taken.

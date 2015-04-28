@@ -1,0 +1,1 @@
+A Dolphin plugin which provides GUI to provide integration with Mercurial Version Control System. The plugin would enable user to push, pull, commit, view diffs etc.. through a nice intuitive GUI interface and manage repositories.

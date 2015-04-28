@@ -1,0 +1,3 @@
+This project purpose is to bring Moodle different flavours, allowing administrators to choose and load a flavour from a public repository. Every flavour could contain administration settings, Moodle plugins, sub-plugins, language packs and local language strings.
+
+The repository management could be done with a database module instance, that's not the project, the development to do is the flavour packaging and deployment system.

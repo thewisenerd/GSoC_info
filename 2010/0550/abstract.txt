@@ -1,0 +1,5 @@
+Green Coordinates is a method allowing deformation of an image, by deforming the inside of a polyhedral cage. The technique was exposed in Siggraph 2008. Unlike the other classical method (mean value coordinates, harmonic coordinates, ..), it allows high quality deformation by preserving the shape.
+
+Basic behavior of the tool:
+    * you "put" a closed polygon on the image (not limited to 4 handles)
+    * you deform the cage, the image is deformed accordingly

@@ -1,0 +1,8 @@
+If a NetBSD system using a software RAID device loses power
+or crashes, a lengthy (many hours, for today's disk sizes) and
+I/O-intensive parity rewrite is required afterwards.  I propose to
+modify the raid(4) driver to remove this deficiency — which may be
+discouraging the use of NetBSD in server applications — by more
+closely tracking which parity information actually needs to be
+recomputed.  In addition, some less major shortcomings of raid(4)
+could be addressed at the same time.

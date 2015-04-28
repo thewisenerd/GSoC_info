@@ -1,0 +1,1 @@
+My proposal will enable Freeseer to download lists of talks from an RSS feed. This is essentially an XML file served by a web server. Freeseer will download the talks listed in the RSS feed and add them to a local XML file which will serve as the cache. This cache enables Freeseer to record talks while completely offline. Drupal will be used as a reference RSS feed.

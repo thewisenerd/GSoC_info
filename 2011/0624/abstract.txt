@@ -1,0 +1,1 @@
+Create a new improved user friendly UI for GnuCash using Qt, which would increase the productivity of using GnuCash by many folds and provide an easy and fun way to use it. A new unified data entry system to speed up the data entry process and a First Person Overview (FPO) feature to interact, edit, visualise and view reports from a single integrated view.

@@ -1,0 +1,1 @@
+Implementing the Atom Publishing Protocol for use in maintaining content involves defining web page material in a way that Atom can understand (defining workspaces, collections, and child content) and parsing an Atom xml request in order to modify and change content.

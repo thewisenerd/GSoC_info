@@ -1,0 +1,1 @@
+To implement Unix domain sockets as an XIO transport driver, which will be used to coordinate the submission of jobs via a single job manager process in GRAM5. It will also include data descriptor code to send access rights to file descriptors between processes.

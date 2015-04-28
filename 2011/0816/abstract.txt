@@ -1,0 +1,1 @@
+The goal of this project is to implement Derivates API for Media Library (Media, Styles, ...) ecosystem in Drupal 7. This API will provide a flexible, extensible and abstract API to implement derivation engines for different types of files.

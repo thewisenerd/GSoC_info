@@ -1,0 +1,3 @@
+The primary goal of the project is to bring the file system monitoring support to GIO port on NetBSD using kqueue.
+
+The second goal is to implement a compatibility library that exposes an inotify interface on top of kqueue.

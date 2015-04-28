@@ -1,0 +1,1 @@
+The Tablet of Adventure is a tool for generating and sharing location-based adventures with Maemo devices. The adventures may be manually created or follow the Geohashing "automatic adventure generator" concept as popularised by the xkcd comic (#426)

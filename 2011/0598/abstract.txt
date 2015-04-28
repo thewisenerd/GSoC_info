@@ -1,0 +1,2 @@
+Project c from https://www.torproject.org/getinvolved/volunteer.html.en#Projects
+Implement alteration of login prompter for GDM 3 in order to gather user's input needed for various parts of Tails.

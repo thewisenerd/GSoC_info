@@ -1,0 +1,1 @@
+Handle correctly configuration files (/etc) when upgrading a port.

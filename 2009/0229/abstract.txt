@@ -1,0 +1,1 @@
+I aim to implement modified preorder tree traversal for quicker sorting and display of hierarchical data in WordPress.  Specifically this would help scale WordPress for sites with large numbers of deeply nested pages, categories, and comments.

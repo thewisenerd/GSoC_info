@@ -1,0 +1,9 @@
+Implement VFS-style union mounts in the Hurd. The idea is to provide a
+possibility to use VFS-style union mounts under the GNU/Hurd system
+via a special translator. This would allow for flexible usage of the
+main filesystem and a uniform access to different types of filesystems
+(which could be normal filesystem and virtual, ``hurdish''
+filesystems).
+
+Also, implement some ``magic'' rules which would allow *controlled*
+union mounts; this could include translator manipulations.

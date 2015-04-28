@@ -1,0 +1,11 @@
+This project is about further improving the "Search API" module I created in last year's GSoC and consists of the following smaller tasks:
+
+Add autocompletion feature;
+Provide ways to index other data than entities;
+Add a "More like this" feature;
+Add hierarchical facets for taxonomy terms;
+Add additional little multi-language features;
+Extend test coverage;
+Extend documentation.
+
+The last two are inherently open-ended to use up any time I have left over after the other tasks.

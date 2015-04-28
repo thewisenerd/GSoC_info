@@ -1,0 +1,3 @@
+Hi, I want to apply for the project making Minix Multiboot compliant.
+The idea is challenging, but I took effort to investigate the possibilities and required skills, plus my experience in C and kernel programming, I'm in confidence that I can finish the job as required.
+Looking forward to the position to help Minix in SoC.

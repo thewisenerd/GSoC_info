@@ -1,0 +1,8 @@
+FreeBSD supports only whole filesystem encryption at device level (with
+GELI or GBDE), but lacks in kernel cryptographic filesystem that can be
+used transparently atop of other filesystem. Some progress has been seen
+here recently with userlevel cryptographic filesystems, but userlevel
+implementations are slow and relay and 3rd party software not included
+in base system (namely fuse kmod and library). I propose to implement in
+kernel cryptographic filesystem utilizing stackable VFS layers (like
+nullfs+crypto).

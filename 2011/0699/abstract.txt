@@ -1,0 +1,1 @@
+This project involves creating a Spell Checker plugin for Jitsi which would alert the user in case a spelling error is detected and give the option to correct the error.

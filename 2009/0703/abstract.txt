@@ -1,0 +1,3 @@
+The Project Idea is to allow users to upload display pictures/avatars for all protocols from either their computer or from webcam.
+
+We can easily extend the project to include feature to be able to set custom status messages for all the account simultaneously.

@@ -1,0 +1,1 @@
+I propose the setup of a server machine, placed at the Institute for Theoretical Biophysics at the Humboldt Universität zu Berlin, running Debian/GNU or Ubuntu Linux, and the development of the server software further described in the proposal, based upon the python web framework web2py, in order to create a web framework for the Visualization of Biological Reaction Networks.

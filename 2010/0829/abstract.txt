@@ -1,0 +1,3 @@
+XBMC, an award winning media center software, have recently been ported to ARM by mcgeagh, however its still very unusable due to slow rendering of the GUI.
+I would like to get a chance and really refactor parts of the GUI framework and optimize and alter alot of the rendering done in XBMC core to lighten the GPU / CPU load.
+If succeded this would make XBMC useable on slower hardware (beagleboard).

@@ -1,0 +1,2 @@
+In this project,I will implement a new serialization that using XStream to do the function of serialize/deserialize all the domain objects.
+    In the previous code of OpenMRS,it serialize/deserialize the domain objects by Simple Framework.Now throuth my implemenation,we don't need put annotations in each domain object.We can put all config information in a seperate XML file.Just define a method to read config information and use the API of XStream will instead of the Simple Framework.

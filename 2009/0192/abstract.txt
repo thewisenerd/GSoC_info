@@ -1,0 +1,10 @@
+Synopsis
+
+The main goal of my project will be to develop a powerful, very well documentated, enhanced library for working with images that would include:
+- thumbnails generating;
+- watermarks;
+- rotate and flip;
+- effects like sepia, negative, grayscale, blur, invert;
+- brightness and contrast fixes.
+
+There were previous attempts to do such a thing but they had the disadvantage that they could not be used in external components.

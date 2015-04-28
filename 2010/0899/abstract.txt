@@ -1,0 +1,5 @@
+EFI (Extensible Firmware Interface) is a trend of BIOS(Basic Input/Output System). This future BIOS provides a processor-independent device driver environment (like a virtual machine), called EBC VM, whose instruction set is called EFI Byte Code, or EBC.
+In this project, I’d like to implement the following:
+A. Assembler for EFI Byte Code implement using gas .
+B. Disassembler for EFI Byte Code Binary using objdump. 
+C. Linker for EFI Byte Code Binary using ld.

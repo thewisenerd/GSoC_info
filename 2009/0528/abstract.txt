@@ -1,0 +1,1 @@
+Banshee should take advantage of web services (preferably AGPL'd) wherever it makes sense to do so.  Given the web oriented nature of podcasting, podcasting as a service, and deep client integration make sense.

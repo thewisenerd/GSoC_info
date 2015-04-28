@@ -1,0 +1,1 @@
+Implement segmented stacks inside LLVM. Once this is implemented, instead of having to allocate a worst-case (large) amount of contiguous stack space to each thread, we'll be able to get each thread to allocate stack space in small atomic blocks, as and when more space is required.

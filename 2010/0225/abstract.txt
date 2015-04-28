@@ -1,0 +1,1 @@
+Create a CSS editor that will be easily integrated to existing themes and provide users with a better alternative to theme options.

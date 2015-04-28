@@ -1,0 +1,3 @@
+This proposal aims to augment the features of the C++ editor to enhance coding ergonomy, effectiveness and navigation features by automating repeatable C++ tasks and reusing features present in the Java editor (including Quick Fixes, Annotations).
+
+The goal is to let C++ coding in CDT be closer to the ergonomy of JDT and Java: less distracting and repetitive, more supported by smart code generation, and thus faster and more effective.

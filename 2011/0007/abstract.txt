@@ -1,0 +1,7 @@
+The best thing about NetBSD is that it ships with a lot of useful and helpful documentation which should obviate the need for looking for any outside help. 
+
+However, there has been a lack of good search utility that would make this documentation easily available to the users. 
+
+In the age of Google, it seems necessary to rethink this.
+
+This project aims to develop a replacement for apropos that provides full text search capabilities using the FTS engine of sqlite3.

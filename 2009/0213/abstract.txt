@@ -1,0 +1,3 @@
+The idea is to embed OpenEJB container in Jetty Web Server in order to provide supports to deploy and run EJB modules using J2EE Preview Adapter, since J2EE Preview Adapter uses the Jetty to deploy and run web applications.
+
+I had taken this idea from the ideas of Kaloyan Raev in the Eclipse Foundation Ideas List for GSoC. It is under the Web Tool Platform Project (WTP).

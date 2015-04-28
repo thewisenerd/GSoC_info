@@ -1,0 +1,1 @@
+Create an application to showcase all KDE technologies as Qt Demo does with Qt.

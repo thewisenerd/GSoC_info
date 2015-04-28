@@ -1,0 +1,1 @@
+My task is to improve the LiveTest function of Openswan to help users test their configuration for problems with ISP filters, MTU issues, NAT-T, ipv6, etc.

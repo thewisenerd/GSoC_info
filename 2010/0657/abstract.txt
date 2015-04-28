@@ -1,0 +1,3 @@
+phpMyAdmin has many preferences that affect only it's interface, without any impact on security, but they can be only changed by editing the config file.
+
+It would be beneficial for a user to set his own preferences, overriding the default ones. It would make using phpMyAdmin more user friendly, especially if a user could export settings to a text file and import it in other installations.

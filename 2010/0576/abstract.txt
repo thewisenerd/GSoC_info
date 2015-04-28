@@ -1,0 +1,2 @@
+This is an application concerning the project idea stated at http://docs.limesurvey.org/LimeSurvey+2+Project+Ideas+for+GSOC+2010&structure=LimeSurvey+Development#LimeSurvey_2:_Db_Storage_Engine
+This application was built in cooperation with Maarten Tielemans since the project is quite big.

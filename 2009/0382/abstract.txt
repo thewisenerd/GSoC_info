@@ -1,0 +1,1 @@
+Create a new command named such as MYSQL_SET_VARIABLE to allow temporary modification to a session variable to be adjusted in the SQL query itself. This will eliminate the need for multiple other steps that would be required otherwise. The command after execution will return the session settings back to the specified settings.

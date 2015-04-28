@@ -1,0 +1,1 @@
+The goal of this project is to integrate WebKit into the Haiku native browser. This will be done using WebKit as HTML render and BeOS Interface classes. Then we will provide a BHTMLView library based on the work done on the native browser which can be use in any parts of Haiku. There will also have some documentation on it.

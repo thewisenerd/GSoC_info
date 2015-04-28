@@ -1,0 +1,1 @@
+My proposal is to extend GDB’s capabilities of debugging operating systems by adding x86 architecture specific commands, robust support for transitioning between operating modes, and modifying the remote protocol to allow virtualization software such as QEMU use GDB more effectively in debugging operating systems.

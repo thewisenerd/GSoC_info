@@ -1,0 +1,4 @@
+#1 - Hooks / stubs mechanisms for Mozilla Lightning
+The goal behind this project is to add extension points to Lightning to facilitate extension developers that would like to provide tight integration between Lightning and their groupware of choice.
+#2- Improve event/tasks alarms support
+The goal behind this is to make sure that reminders perform well in case of past alarm,recurring events/tasks and shared alarms.

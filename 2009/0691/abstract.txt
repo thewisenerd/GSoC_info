@@ -1,0 +1,1 @@
+I wanna participate this project and help to develop this Join algorithm with my multi-thread coding experience.(use my multi-thread scheduling interface, a new parallel model, if possible)

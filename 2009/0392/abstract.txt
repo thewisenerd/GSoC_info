@@ -1,0 +1,1 @@
+Implementation of a context sensitive informational pane in Rhythmbox. This context pane will allow users to view information related to the currently playing song such as artist information, artist's top tracks, discography listing, related artists, etc.

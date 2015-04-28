@@ -1,0 +1,1 @@
+In this project, three BioJava packages will be developed in order to identify PTMs in 3D protein structures, to generate sequence diagrams with PTM annotations, and to generate 2D tree images of carbohydrate (glycan) structures, respectively. These packages will allow for better annotations of PTMs on 3D structures and hence facilitate structural studies of PTMs.

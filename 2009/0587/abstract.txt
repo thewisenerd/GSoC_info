@@ -1,0 +1,3 @@
+Google Talk provides more features than standard XMPP, and hence ECF currently cannot utilize all the features provided by Google Talk through the available XMPP provider.
+
+The objective of this project is to create a specific Google services provider for the ECF, thus enabling the utilization all the functionalities provided by Google Talk.

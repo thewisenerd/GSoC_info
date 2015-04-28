@@ -1,0 +1,10 @@
+Copy, close source, paste fails in Ubuntu for more apps than not. It's a long standing problem that affects every Ubuntu user, and one that deserves a fix.
+
+I hope to:
+
+Create a webpage detailing how to fix the bug
+Fix this bug in >8 Ubuntu apps
+Implement a less piecemeal change with mentor help
+ Change GTK+ to store clipboard contents on exit by default
+ Ready parcellite for inclusion with Ubuntu
+ Modify gnome-settings-daemon to store clipboard contents before they're requested

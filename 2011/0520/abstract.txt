@@ -1,0 +1,1 @@
+Okular is a universal document viewer which supports a wide variety of document formats. It has some excellent tools to work with. The selection tool of okular is very nice except that it cannot recognize a layout with columns. This project implements this feature to make okular a more powerful tool and ensure a better text selection experience for the users.

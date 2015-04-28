@@ -1,0 +1,1 @@
+Plasma is the desktop environment used by KDE 4. KDE Plasma Educational Desktop will be an enhanced version of the standard KDE Plasma Desktop for use in educational environments by primary school children of 4th grade and lower. KDE Plasma Educational Desktop aims at making learning fun and intuitive for children in a controlled environment provided by their class teacher.

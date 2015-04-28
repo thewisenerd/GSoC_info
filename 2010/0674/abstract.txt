@@ -1,0 +1,6 @@
+Sharing metadata would greatly reduce the work required from users to setup and maintain instances of OpenMRS.
+My goals would be:
+1. Find a common way to export metadata to an xml file
+2. Publish exported xml files using REST/WebServices and let them being downloaded manually from website
+3. Create a possibility to import xmls and a subscription mechanism (querying publishers in a timely manner with Spring scheduling)
+4. If time allows, resolve collisions instead of overriding

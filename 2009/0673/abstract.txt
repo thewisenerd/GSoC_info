@@ -1,0 +1,3 @@
+The OGSA-DAI DQP product, currently in development, is a distributed query processor based on the OGSA-DAI technology. It is going to extend the functionality of the existing OGSA-DQP system and aims to provide a flexible framework for data integration and research in distributed query processing.
+
+Implementation of methods that would allow monitoring of query execution and adaptive cost estimation is the focus of this project.

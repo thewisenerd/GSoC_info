@@ -1,0 +1,1 @@
+This project aims at developing Metadata syncing, backup and sharing in the KDE Nepomuk Framework. Additionally it also consists of creating user interfaces for performing these three tasks. backups, synchronizing metadata, and, if time permits, metadata sharing.

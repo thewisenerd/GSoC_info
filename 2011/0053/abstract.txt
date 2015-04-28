@@ -1,0 +1,1 @@
+This project involves developing a plugin for the Savant Genome Browser that can be used to visualize and annotate WikiPathways data.

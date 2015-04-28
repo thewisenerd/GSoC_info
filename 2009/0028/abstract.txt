@@ -1,0 +1,1 @@
+In this Google Summer of Code project, I plan to complete the MTSec ruleset, ultimately delivering a working and enjoyable ruleset to tpserver-cpp.  This second milestone game is meant to be a fun game and to exercise the object design capabilities of the Thousand Parsec framework.

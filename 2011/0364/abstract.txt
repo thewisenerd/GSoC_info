@@ -1,0 +1,3 @@
+Colladoc - web application allowing to edit Scala symbols documentation. For creation a strong community of Collasoc commentators, need to improve the system’s collaborative features and main usability issues.
+
+After the resolution of technical issues need Colladoc advertising among the scala developers by posting mail to the mailing lists, writing blog posts, etc.

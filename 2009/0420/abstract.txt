@@ -1,0 +1,1 @@
+In this project, run-time dynamically loading relocatable object files or libraries into RTEMS will be implemented. It will be implemented based on the IEEE Std 1003.1-2004 API <dlfcn.h>(http://www.opengroup.org/onlinepubs/000095399/basedefs/dlfcn.h.html)   interface. The work by Till Straumann and the Cexp package will provide an important base for this project.

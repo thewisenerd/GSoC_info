@@ -1,0 +1,1 @@
+MINIX 3 is a small, modular, multiserver operating system aimed at being highly reliable, fault tolerant and self healing. Virtual memory has been implemented recently, but it isn't used for much yet. In this project I could build on it, for example, providing support for the POSIX model of shared memory.

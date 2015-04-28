@@ -1,0 +1,3 @@
+A demuxer, or demultiplexer, is an essential part of the audio/video decoding process. Its role is to work with the container format, to identify the types and properties of the streams (video, audio, subtitles), control seeking and synch within the container, and to feed stream packets into the appropriate decoders.
+
+My project would be to rewrite the ogg and matroska demuxers in VLC so that they work correctly and allow rapid, frame accurate seeking within files with these container types.

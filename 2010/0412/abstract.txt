@@ -1,0 +1,1 @@
+The project aims at creating a two-way shallow transfer machine translation system between Polish and Czech build on Apertium platform.

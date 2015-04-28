@@ -1,0 +1,5 @@
+CRIMP, the C Raster Image Manipulation Package, is a new package for image manipulation and processing in Tcl .It has limited functionality available due to its very young age, and most of what is present is very basic. The project aims at adding further functionality to CRIMP which includes:-
+
+Implementing Different Image analyzing and enhancing techniques.
+
+Implementing Different Filters and Operators for Image processing.

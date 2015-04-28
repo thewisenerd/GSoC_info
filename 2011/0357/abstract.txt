@@ -1,0 +1,2 @@
+This project aims at developing an R package that offers multiple latest acceleration schemes under a single call and can be used to accelerate any EM algorithm. In the proposal, I will show how flexible and convenient it will be for any R user to use this package and a reasonable timeline, which is the result of prior learning, is also included.
+In addition, I’d like to mention that I want R project as the mentoring organization and Professor Ravi Varadhan as my mentor.

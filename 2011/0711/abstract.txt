@@ -1,0 +1,4 @@
+This project focuses on implementing superoptimization algorithms targeted at
+the LLVM IR. The project uses arbitrary LLVM bitcode as a training set to
+discover new peephole optimizations that can be later integrated into LLVM
+instruction simplify phase or as a separate peephole optimization pass.

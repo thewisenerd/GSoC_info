@@ -1,0 +1,1 @@
+Aim of the project is to create a widget-based customisable dashboard for LimeSurvey2 administrators, allowing them to get an overview of any information inside LimeSurvey2. The widgets, from which the dashboard is constructed from, will be customizable, interactive, reusable and have a consistent design (see mockup: http://www.flickr.com/photos/macduy/3401513176/)

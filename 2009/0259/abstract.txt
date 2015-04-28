@@ -1,0 +1,1 @@
+The project aims at connecting defuddle into the Tupelo, to let Tupelo support a wider range of data and semantic metadata management, which requires embedding the DFDL data translation/extraction function of defuddle into Tupelo and establishing the storage mechanism for the RDF document version of blob data, the semantic metadata, and/or DFDL description.

@@ -1,0 +1,1 @@
+InstantMirror combines the best features of all existing repository replication with reverse proxy cache and cache expiry algorithm, rsync-like local directory trees, Torrent style efficient swarming many-to-many data replication. This project after implementation can be useful for mirror networks like kernel.org, Fedora, Debian, CPAN, etc.

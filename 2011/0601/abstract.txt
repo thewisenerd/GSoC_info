@@ -1,0 +1,1 @@
+The ultimate goal of this proposal is to make Nmap more complete on IPv6 network and satisfy the increasing needs for IPv6 network exploration and security auditing. I plan to add several IPv6 features on Nmap. These include not only conventional ones, such as raw packet scan, traceroute, but also special features of host discovery on IPv6.

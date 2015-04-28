@@ -1,0 +1,2 @@
+Since the c++0x puzzle begins to take shape and a lot of developers use compiler that support at least a subset of the c++0x language, new demands are made on boost.fusion.
+The main goal of this project is to follow these demands and update boost.fusion so c++0x developers can use this library intuitively without ugly workarounds or potentially wasted compile time.

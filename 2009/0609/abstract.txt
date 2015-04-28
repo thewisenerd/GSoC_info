@@ -1,0 +1,2 @@
+Know a days mobility is very important and it's part of our lives as well as being organized and knowing what our agenda is.
+One is always forgetting to do something or not prioritizing the tasks that have to be done. To have a component/module for Getting Things Gnome to make it possible to have geolocalized tasks would be fantastic in order to let people organize or view the tasks that are specific to their current location in order to be more focused on what needs to be done there.

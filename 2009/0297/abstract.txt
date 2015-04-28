@@ -1,0 +1,9 @@
+As of 2009 LaTeX is the de facto standard for equation output, 
+with nearly all computer algebra systems being able to output 
+expressions in the form of a LaTeX equation.
+
+However, currently the only way to transform a LaTeX equation 
+into a format that is suitable for general consumption is to 
+invoke `latex`. This process is both slow and requires a 
+full-blow latex install. This proposal makes the case for 
+externalising the LaTeX parser that exists within Matplotlib.

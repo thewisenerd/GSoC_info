@@ -1,0 +1,1 @@
+We use maps to find the location of places which we need to visit (like shops, banks, cashpoints etc.). These points are called Points of interest (POI) and there are essential for map usability. My proposal is about creating easy-to-use POI collector for android platform.

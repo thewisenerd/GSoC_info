@@ -1,0 +1,2 @@
+The project involves developing interactive time series and longitudinal data plots, in association with a new interactive graphics package for R called cranvas, which is based on Qt, and has the capability to handle large amounts of data.
+The purpose is to improve R’s capabilities for exploring temporal data. The time series plot will enable exploring slightly irregular seasonality, and associations between multiple series.The longitudinal plot will enable the study of the individual variation.

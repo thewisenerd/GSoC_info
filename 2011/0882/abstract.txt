@@ -1,0 +1,2 @@
+The collection of check and hash functions are a suite of template files whose aim to facilitate the validation of codes and numbers following the international standard. 
+The hash functions are an easy way to compute a fingerprint of a stream of data.

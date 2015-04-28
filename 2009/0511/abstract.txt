@@ -1,0 +1,12 @@
+The microinstruction-based architecture of ipfw stimulated the addition of many new operations and features over the last few years. Individually, each of these additions is a small piece of code, but the overall result is that ipfw source code (both kernel and userland) has grown significantly, leading to very large source files and functions that are not in line with good engineering practices.
+
+In this project I plan to revise the ipfw and dummynet code with following goals:
+  + split the kernel source in more manageable parts, similarly to what was done recently for the userland part;
+  + clearly separate userland-visible headers from private kernel parts;
+  + split a very large function, ipfw_chk(), using a dispatch table for microinstructions;
+  + profile the execution time of ipfw_chk, figuring out how the dispatch table affects performance, and whether some performance can be gained by reenginering the code;
+  + make the userland-kernel interface more efficient;
+  + identify the locking issues (specifically, identify any races or performance problems when adding/removing rules, when updating
+  counters, when reading the ipfw state from userland);
+  + build the microinstruction compiler as a library so other programs can use it as well;
+  + verify the behavior of the userland program /sbin/ipfw, trying to make it more robust and predictable in presence of malformed input.

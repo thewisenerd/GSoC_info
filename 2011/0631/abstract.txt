@@ -1,0 +1,6 @@
+We’re building templates and tools to help developers find, understand, leverage and use government apis.  By the end of 2011, we want to have 25ish sets of tools for developers to consume government apis in three languages (Ruby, Php, Python).  
+
+This will help us build: 
+1. developer infrastructure, leading to more applications using government data, 
+2. pool of developers who use our tools and get interested in coding for america, 
+3. relationships with federal and state government entities w

@@ -1,0 +1,1 @@
+The goal of this project is to enable SCA components to expose services that will allow browser clients to communicate with them as well as to enable inter-component communication via the websocket protocol. The nature of the protocol will offer new potential in the asynchronous communication offered by  Apache Tuscany and will align the framework with the HTML5 technologies.

@@ -1,0 +1,1 @@
+This project is about implementing file transfer related protocol extensions in Swift and Swiften. This includes, but isn't limited to, XEP-0166, XEP-234, XEP-260, XEP-261, ICE and STUN. The aim is to have easily usable working file-transfers.

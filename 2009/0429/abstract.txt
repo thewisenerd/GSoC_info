@@ -1,0 +1,1 @@
+The Network Time Protocol (NTP) is widely used to synchronize a computer to Internet time servers or other sources. NTP currently use AutoGen for option processing and producing help pages for their distributions.NTP currently support no manual pages for their distributions.This project is aimed at incorporating manual pages for NTP distributions

@@ -1,0 +1,1 @@
+The Fifty State Project aims to collect and make available legislative data for all fifty state legislatures. As my project I will be continuing my work in implementing parsers for individual state legislative data as well as designing both a backend to store the data we collect as well as a developer-friendly API and data format.

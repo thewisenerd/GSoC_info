@@ -1,0 +1,1 @@
+There is no user level file systems support in DragonFlyBSD. But several implementations exist for other operating systems: de-facto standard FUSE (with ports to FreeBSD, Solaris and MacOS X) and PUFFS from NetBSD, witch contains user space library for FUSE API. On top of PUFFS there is rump which makes possible using file systems as user space servers.

@@ -1,0 +1,4 @@
+The implementation of non-recursive engine in the Tcl interpreter has significantly improved its
+performance, however also has caused difficulty in examining internal Tcl call stack, which Gdb is not aware of.
+This problem needs to be promptly addressed to ease the interpreter debugging. In this project I would
+like to extend Gdb functionality to ease the internal structures investigation.

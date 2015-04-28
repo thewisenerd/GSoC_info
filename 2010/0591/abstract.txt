@@ -1,0 +1,5 @@
+Open Smalltalk implementations don't have a decent profiling tool, and none of them have any user interface...
+
+My goal in the project is to develop that interface, to make it intuitive, easy to use, fast and dynamic.
+
+I have experience in making user interfaces with Smalltalk, and I'm confident that I have the necessary skills to complete the project in time without sacrificing the quality of the code.

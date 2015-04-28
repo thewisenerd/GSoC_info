@@ -1,0 +1,1 @@
+The project idea suggests a new Processing Development Environment(PDE) based on Eclipse and Xtext to handle the syntaxes which will help to make the life of the users easy. This also talks about how Internationalization and Localization can be added to the PDE to give a better experience to the Processing users.

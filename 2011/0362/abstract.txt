@@ -1,0 +1,3 @@
+Btrfs currently has no support for changing between different raid levels, i.e.  there is no way to change filesystem raid level (neither online nor offline) other than to re-create the entire filesystem.
+
+This project aims at implementing a generic restriper for Btrfs, which would allow online raid level changing for all types of block groups.

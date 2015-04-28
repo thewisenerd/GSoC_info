@@ -1,0 +1,1 @@
+SDL still uses the Core X11 protocol for rendering which is slow and cumbersome. The Ideas page suggests that XRender support is required. I plan to implement this support along with the current method as a fallback.

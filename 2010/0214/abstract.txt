@@ -1,0 +1,3 @@
+Interactive XMF (iXMF) is the world's first open interactive audio container format. Designed by the gaming industry, it intends to standardize interoperable interactive audio content. GStreamer currently doesn't support iXMF and having iXMF/XMF support would be a great leap for GStreamer into the gaming market, since it would pioneer a new important standard.
+
+This project's main goal is to add iXMF support to GStreamer and making a foundation for XMF-derived format types.

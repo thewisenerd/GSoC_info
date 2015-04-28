@@ -1,0 +1,8 @@
+Abstract:
+
+I wish to take up Coverage Analysis of RTEMS as a project for the Google Summer of Code initiative, 2009. The aims of the project are as follows:
+
+1. To perform automated coverage testing and analyse the object level coverage provided by the RTEMS test suite
+2. Identify and report parts of code that are not being exercised under the test suites
+3. Analyse each case separately and classify into categories previously identified.
+4. Address each of these cases and eliminate them.

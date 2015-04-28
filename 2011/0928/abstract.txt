@@ -1,0 +1,1 @@
+Implement XMPP protocol in Javascript as an Instantbird extension. This will let other extensions extend upon the XMPP protocol, which is not quite possible with the libpurple xmpp. This will let developers easily create extensions such as collaborative editors and drawing boards.

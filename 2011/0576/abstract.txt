@@ -1,0 +1,3 @@
+Optimalisation of SphinxTrain by the utilization of massively parallel hardware - NVIDIA CUDA framework:
+
+Enable the acoustic model training on long audio files by the utilization of NVIDIA CUDA architecture. Incorporate the technique to reduce the memory requirements of Baum-Welch algorithm. Modify SphinxTrain to be able to process long input audio files.

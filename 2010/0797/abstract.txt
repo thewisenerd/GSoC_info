@@ -1,0 +1,3 @@
+Private files are a known problem in web applications. There are a bunch of extensions for TYPO3 available that handle this issue in the one or the other fashion. For TYPO3 5.0 we aim for a solution that is really secure and still does not need to pass the files through the PHP process. Besides that different deployment strategies like local or a CDN should be taken into account.
+
+If time permits we can also go for channel security features like encrypted transfer or signing the data.

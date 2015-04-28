@@ -1,0 +1,2 @@
+I want to apply the TCP/IP porject. If I fail to apply the TCP/IP project and if there are kernel or driver related work in esos,please tell me.
+  I want to take part in  'Simplify the excessive four layers of Muxes for TCP and UDP to a single Mux'  or  'Refine and test locking mechanisms around conduits'  and the former will be better.

@@ -1,0 +1,2 @@
+The current scheduler of OAR/CiGri present two strong limitations: it is FIFO-based and does not support parallel tasks. When grids run at high loads, users might be blocked for days, even if they need very few resources. Besides, the lack of support to parallel tasks prevent the execution of traditional HPC applications.
+The goal of this project is to develop a new configurable and extensible scheduler supporting parallel tasks, fairsharing, several queues with priorities and job interlacing.

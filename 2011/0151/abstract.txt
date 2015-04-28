@@ -1,0 +1,1 @@
+lwIP is a compact and highly stand-alone library implementing various network protocols. Due to its portability, it can be easily integrated into third party products such as a driver without complicating future updates. This will provide ReactOS with a flexible and improved driver on top of wich future versions can be built.

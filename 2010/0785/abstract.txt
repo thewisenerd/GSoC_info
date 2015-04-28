@@ -1,0 +1,2 @@
+Apache PhotArk is a photo gallery application. It currently contains a display piece, a Feed Reader, a Content Repository and a web based Admin Panel. 
+For PhotArk to become a complete product, it needs authentication and authorization. Since OpenID provides easier and faster way to login web pages, it was selected as the authentication mechanism. An Access Control Layer will be implemented for authorization which will protect the repository and manage user access to view and modify albums.

@@ -1,0 +1,7 @@
+My name is Miquel Àngel Farre, a very hard worker Master Bachelor Student of Telecom engineering.
+
+I have experience on DVB systems and I would like to participate in
+the Gstreamer SoC program writing a MHEG plugin.
+
+Please, read the content of my proposal, i am very excited with the
+idea of contribute with Gstreamer project.

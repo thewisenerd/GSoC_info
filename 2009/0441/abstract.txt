@@ -1,0 +1,6 @@
+My goal is to create an intuitive Python interface to the OpenCog framework via 
+the creation of Python language bindings and interactive shell.  The purpose of 
+such interfaces is to ease programming for the OpenCog framework, accelerating  
+the development A.I. .  Once such interfaces are complete, they will allow one 
+to easily write programs/applications that make use of the OpenCog framework 
+using only the Python programming language, with no knowledge of C++ required.

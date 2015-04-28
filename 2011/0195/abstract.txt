@@ -1,0 +1,2 @@
+It is always desirable to present complex data in an amiable format to the human brain. Visual presentation of data is always the preferred choice as the human brain is most receptive to such a format.
+The PhyloGeoRef library is an attempt in the same direction. It enables representation of phylogenetic data in a geospatial format.

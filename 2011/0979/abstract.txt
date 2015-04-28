@@ -1,0 +1,1 @@
+The aim of the project is to create UserStatus feature for SocialProfile Extension. It will allow users to post short "status updates" on user profile page.

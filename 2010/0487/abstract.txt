@@ -1,0 +1,3 @@
+Reactome is a curated pathway database while WikiPathways lives on the "wiki spirit" allowing anyone to edit and annotate pathways. Collaboration between the websites is highly desired but has stalled due to difference in data formats used internally.
+
+WikiPathways uses GPML, a vector graphics format, for its data. Reactome has recently introduced a new proprietary graphical XML format.  This project will provide the means to convert to and from GPML and the new Reactome XML format.

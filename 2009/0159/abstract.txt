@@ -1,0 +1,1 @@
+Get an AMR-NB floating point decoder and encoder into ffmpeg, starting by polishing off the decoder written for SoC 2006.

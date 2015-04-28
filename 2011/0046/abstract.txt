@@ -1,0 +1,3 @@
+In this project, I would like to implement an approximate nearest neighbor search for point clouds on the GPU. 
+
+The goal is to achieve a performance that surpasses the performance on CPUs of similar cost. For this purpose, the use of the KDTree data structure on a GPU would be evaluated. Should the performance prove to be not satisfactory, other data structures for nearest neighbor search would be evaluated.

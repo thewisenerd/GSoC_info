@@ -1,0 +1,2 @@
+The aim of this project is to implement a device file system in the DragonFly BSD Kernel to replace the current way device nodes are handled. The new approach will allow for device nodes to be dynamically created every time a driver requests it instead of having to create all device nodes beforehand on a regular file system.
+This approach will also allow for further improvements as allowing access to different device nodes depending on a chroot/jail environment and device cloning if a device supports it.

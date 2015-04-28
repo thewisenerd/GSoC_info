@@ -1,0 +1,6 @@
+Last summer I worked on implementing a high precision (Complementary) Naïve Bayes classifier for text data. The model building used Hadoop and scaled well for large dataset like Wikipedia. 
+
+My proposal has two broad objectives.
+
+ 1.  Create an an online + batch classification system for the current NB/CNB Classifier using HBase
+ 2.  Implement Parallel FP Growth algorithm and create a tag-tag relationship from the wikipedia dataset using the same.

@@ -1,0 +1,1 @@
+Extend the Switzerland GUI written during GSoC 2009.  Add more detail to the GUI, hooks to manage and monitor the server, and an API to run automated tests.

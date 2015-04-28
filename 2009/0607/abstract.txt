@@ -1,0 +1,5 @@
+Goal
+ - Revamp the Rhythmbox iPod/MTP interface, so that it is easier and more intuitive to use.
+ - It should be able to recognize "identical" songs, and track new/removed songs.
+ - It should be able to 'sync' your device, automatically (or on command).
+ - Sync-ing backend should be as unified as possible between MTP and iPod players.

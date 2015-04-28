@@ -1,0 +1,2 @@
+There are situations in which the user has to worry about media formats, e.g. when acquiring new music, or copying existing music from one collection to another or from the collection to a portable music player.
+Whenever a copy happens, a dialog should show up, with the following choices: do not convert, convert with previously configured settings, convert with manual configuration (the wording could be better but that's the idea).

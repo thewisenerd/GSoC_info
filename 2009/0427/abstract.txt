@@ -1,0 +1,3 @@
+Filter graph is used in multimedia processing. Filters take input process it and then output processed data. Filters can be either codecs or multiplexers/demultiplexers or other. The filter graph is directed graph that represents data flow between filters. 
+
+Currently the filter graph builder in FMJ needs improvements because it sometimes produces not optimal graph (either it takes too long or contains unnecessary nodes). The aim of this project would be to improve filter graph builder.

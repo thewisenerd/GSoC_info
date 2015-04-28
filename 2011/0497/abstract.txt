@@ -1,0 +1,1 @@
+I am planning to add video support to CrystalSpace by creating two new plugins. One of them is a link to Theora, a free and open-source codec, which can later be replaced with another plugin, according to what the developer wants, and the other one is an abstract video player that gets video and audio data from the codec link via an abstract interface.

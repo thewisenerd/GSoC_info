@@ -1,0 +1,1 @@
+I plan to make Ember more approachable to newcomers by making it's UI more powerful and intuitive. The changes include entity to entity dialogs allowing players to talk directly to other NPCs/players, in-game settings screen and various smaller usability and look improvements.

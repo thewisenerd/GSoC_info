@@ -1,0 +1,1 @@
+A proposal to expand Mono's interop support to enable the creation of managed wrappers directly around native C++ objects. This would make C++ libraries callable directly from managed code without the need for wrapping them in a flat C API, COM interface, or requiring the use of mixed binaries (C++/CLI).

@@ -1,0 +1,1 @@
+In the project, I will mainly design and implement some new algorithm plugins for Opticks. These new algorithm include anomaly detection, target detection. Apart from this, I will also implement a plugin to merge image data and enable user to load image files from different band files for Opticks.

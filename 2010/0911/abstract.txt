@@ -1,0 +1,1 @@
+The project is to select an API for the citation database(like the webAPI for connotea etc.,)with the help of my mentor to be integrated into Sakai3 and to integrate it and to develop a Citation Manager widget for Sakai3.
