@@ -37,7 +37,7 @@ get_info() {
 		jq -M '.data.""['${COUNTER}'].columns' ../../info.json > info.json
 		touch ${LINK_FILE}
 
-		jq -M '.data.""[0].operations.row.link' ../../info.json > ${LINK_FILE}
+		jq -M '.data.""['${COUNTER}'].operations.row.link' ../../info.json > ${LINK_FILE}
 
 		cd ..
 
