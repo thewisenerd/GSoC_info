@@ -1,0 +1,3 @@
+#!/bin/bash
+
+BASE_URL="https://www.google-melange.com/gsoc/projects/list/google/gsoc";
